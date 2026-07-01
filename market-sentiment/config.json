@@ -1,0 +1,24 @@
+{
+  "watchlist": ["AVGO", "WDC", "NVDA", "MRVL", "MU", "QCOM", "AMD", "TXN", "ASML", "LRCX", "KLAC", "SNDK", "MSFT"],
+  "market_wide_top_n": 15,
+  "market_min_mentions": 10,
+  "stocktwits_per_ticker": 30,
+  "sources": {
+    "apewisdom": true,
+    "stocktwits": true,
+    "reddit": false,
+    "rss": false
+  },
+  "reddit": {
+    "subreddits": ["stocks", "investing", "wallstreetbets", "SecurityAnalysis"],
+    "_comment": "Set sources.reddit=true and export REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET to enable. See README."
+  },
+  "rss_feeds": [
+    {"name": "Reddit r/stocks (new)", "url": "https://www.reddit.com/r/stocks/.rss"}
+  ],
+  "llm": {
+    "enabled": false,
+    "model": "claude-opus-4-8",
+    "_comment": "Set enabled=true and export ANTHROPIC_API_KEY to add a Claude narrative summary. Falls back to a rule-based digest if off."
+  }
+}

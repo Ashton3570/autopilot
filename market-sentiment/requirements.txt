@@ -1,0 +1,5 @@
+# Core pipeline uses only the Python standard library -- nothing required to run.
+#
+# Optional, only if you enable that feature in config.json:
+#   anthropic      # llm.enabled=true  -> Claude narrative summary
+anthropic>=0.40.0 ; python_version >= "3.8"
