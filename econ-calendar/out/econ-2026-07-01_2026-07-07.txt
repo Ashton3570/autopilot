@@ -81,8 +81,8 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-07-01	10:30	United States	Texas Services Sector Outlook	2.9		-7.7	
 2026-07-01	13:10	Brazil	CAGED Net Payroll Jobs	72.96K	115.00K	85.89K	
 2026-07-01	16:30	United States	API Weekly Crude Oil Stock	-6.072M	-4.100M	-0.765M	
-2026-07-01	19:00	Australia	AIG Construction Index	-38.1		-9.9	
-2026-07-01	19:00	Australia	AIG Manufacturing Index	-16.8		-22.4	
+2026-07-01	19:00	Australia	AIG Construction Index	-38.1		-11.2	
+2026-07-01	19:00	Australia	AIG Manufacturing Index	-16.8		-21.3	
 2026-07-01	19:00	Australia	S&P Global Manufacturing PMI	51.5	51.2	50.7	Y
 2026-07-01	19:50	Japan	Tankan All Big Industry CAPEX	11.5%		3.3%	
 2026-07-01	19:50	Japan	Tankan All Small Industry CAPEX	-8.3%		-8.1%	
@@ -99,18 +99,18 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-07-01	20:00	South Korea	Trade Balance	36.15B		27.04B	
 2026-07-01	20:30	South Korea	S&P Global South Korea Manufacturing PMI	52.1		54.8	Y
 2026-07-01	20:30	Japan	S&P Global Manufacturing PMI	54.8	54.9	54.5	Y
-2026-07-01	20:30	Singapore	URA Property Index			0.90%	
-2026-07-01	21:30	Australia	Building Approvals			23.10%	
-2026-07-01	21:30	Australia	Building Approvals		0.5%	-3.4%	
-2026-07-01	21:30	Australia	Private House Approvals			-1.0%	
-2026-07-01	21:45	China	RatingDog Manufacturing PMI		51.9	51.8	Y
-2026-07-01	22:00	Singapore	Bank Lending			908.4B	
+2026-07-01	20:30	Singapore	URA Property Index	0.50%		0.90%	
+2026-07-01	21:30	Australia	Building Approvals	5.30%		10.90%	
+2026-07-01	21:30	Australia	Building Approvals	-1.1%	0.5%	-0.2%	
+2026-07-01	21:30	Australia	Private House Approvals	2.8%		-1.0%	
+2026-07-01	21:45	China	RatingDog Manufacturing PMI	51.7	51.9	51.8	Y
+2026-07-01	22:00	Singapore	Bank Lending	917.7B		908.4B	
 2026-07-02	01:00	Canada	Budget Balance			-29.73B	
 2026-07-02	01:00	Canada	Budget Balance			-55.28B	
 2026-07-02	01:00	India	HSBC India Manufacturing PMI		54.5	55.0	Y
 2026-07-02	01:00	Japan	Household Confidence		34.1	33.6	
-2026-07-02	02:00	United Kingdom	Nationwide HPI		0.0%	-0.6%	
-2026-07-02	02:00	United Kingdom	Nationwide HPI		2.4%	1.7%	
+2026-07-02	02:00	United Kingdom	Nationwide HPI		0.1%	-0.6%	
+2026-07-02	02:00	United Kingdom	Nationwide HPI			1.7%	
 2026-07-02	02:00	Russia	S&P Global Manufacturing PMI			48.8	Y
 2026-07-02	02:30	Switzerland	Retail Sales		1.8%	1.6%	Y
 2026-07-02	02:30	Australia	Commodity Prices			16.8%	
