@@ -1,0 +1,41 @@
+name: pages
+
+# Rebuilds and deploys the phone dashboard whenever any tool commits new output.
+# The dashboard (index.html) is built as a Pages artifact and NEVER committed to
+# git, so it can never cause a merge conflict between tool runs.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages                 # correct use: cancel a superseded deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build dashboard from current tree
+        run: python3 tools/build_index.py
+      - uses: actions/configure-pages@v5
+      - name: Upload site (repo root, so report HTML files are reachable)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -9,10 +9,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: autopilot-push
-  cancel-in-progress: false
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -24,13 +20,11 @@ jobs:
       - name: Run economic calendar (next 7 days)
         working-directory: econ-calendar
         run: python3 econ_calendar.py --days 7
-      - name: Rebuild dashboard
-        run: python3 tools/build_index.py
       - name: Commit outputs
         run: |
           git config user.name "autopilot-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
+          git add econ-calendar             # folder-scoped: never conflicts with other tools
           git diff --cached --quiet && { echo "nothing to commit"; exit 0; }
           git commit -m "econ-calendar: run $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3; do
