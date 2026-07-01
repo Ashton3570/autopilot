@@ -1,39 +1,5 @@
 {
   "date": "2026-07-05",
-  "asOf": "Tue, Jun 30, 2026",
-  "events": [
-    {
-      "date": "2026-07-05",
-      "time_gmt": "20:30",
-      "country": "Hong Kong",
-      "event": "S&P Global Manufacturing PMI",
-      "actual": "",
-      "consensus": "",
-      "previous": "50.4",
-      "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the HKD while a lower than expected reading should be taken as negative/bearish for the HKD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-07-05",
-      "time_gmt": "21:00",
-      "country": "Australia",
-      "event": "MI Inflation Gauge",
-      "actual": "",
-      "consensus": "",
-      "previous": "-0.3%",
-      "description": "The Melbourne Institute (MI) Inflation Gauge measures the change in the price of goods and services purchased by consumers. The data is designed to mimic the quarterly government-released CPI data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-05",
-      "time_gmt": "21:30",
-      "country": "Australia",
-      "event": "ANZ Job Advertisements",
-      "actual": "",
-      "consensus": "",
-      "previous": "1.8%",
-      "description": "The Australia and New Zealand Banking Group (ANZ) Job Advertisements report measures the change in the number of jobs advertised in the major daily newspapers and websites covering the capital cities. This report tends to have a greater impact when it is released ahead of government employment data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
-      "high_impact": false
-    }
-  ]
+  "asOf": null,
+  "events": []
 }
