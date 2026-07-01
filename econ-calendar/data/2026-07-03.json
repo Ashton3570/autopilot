@@ -8,7 +8,7 @@
       "country": "Switzerland",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -41,7 +41,7 @@
       "country": "Spain",
       "event": "Spanish Unemployment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "-40.8K",
       "previous": "-36.3K",
       "description": "Spanish Unemployment Change measures the change in the number of unemployed people during the previous month.\r\n\r\nA higher than expected reading should be taken as negative/bearish for the EUR, while lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": false
@@ -184,7 +184,7 @@
       "country": "United States",
       "event": "Average Hourly Earnings (YoY)",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.5%",
       "previous": "3.4%",
       "description": "",
       "high_impact": false
@@ -195,7 +195,7 @@
       "country": "United States",
       "event": "Average Weekly Hours",
       "actual": "",
-      "consensus": "",
+      "consensus": "34.3",
       "previous": "34.3",
       "description": "Average Weekly Hours (also known as Average Workweek) measures the average number of hours worked by employees on non-farm payrolls.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "220K",
+      "consensus": "219K",
       "previous": "215K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -250,7 +250,7 @@
       "country": "United States",
       "event": "Manufacturing Payrolls",
       "actual": "",
-      "consensus": "",
+      "consensus": "3K",
       "previous": "7K",
       "description": "Employment data, except those for the Federal Government, refer to persons on establishment payrolls who received pay for any part of the pay period which includes the 12th of the month. For Federal Government establishments, employment figures represent the number of persons who occupied positions on the last day of the calendar month. Intermittent workers are counted if they performed any service during the month.The data exclude proprietors, the self-employed, unpaid volunteer or family workers, farm workers, and domestic workers. Salaried officers of \r\ncorporations are included. Government employment covers only civilian employees; military personnel are excluded. Employees of the Central Intelligence Agency and the National Security Agency also are excluded.Persons on establishment payrolls who are on paid sick leave (when pay is received directly from the firm), on paid holiday, on paid vacation, or work during a part of the pay period even though they are unemployed or on strike during the rest of the period are counted as employed. Not counted as employed are persons who are on layoff, on leave without pay, on strike for the entire period, or who were hired but have not yet reported during\r\nthe period.",
       "high_impact": true
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "Private Nonfarm Payrolls",
       "actual": "",
-      "consensus": "",
+      "consensus": "115K",
       "previous": "120K",
       "description": "Private Nonfarm Payrolls measures the change in the number of total number of paid U.S. workers of any business, excluding general government employees, private household employees, employees of nonprofit organizations that provide assistance to individuals and farm employees.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -371,7 +371,7 @@
       "country": "United States",
       "event": "Factory Orders",
       "actual": "",
-      "consensus": "2.1%",
+      "consensus": "-1.7%",
       "previous": "4.8%",
       "description": "Factory Orders measures the change in the total value of new purchase orders placed with manufacturers. The report also includes a revision of the Durable Goods Orders data released about a week earlier as well as data new data on non-durable goods orders.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -393,7 +393,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "81B",
       "previous": "76B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -460,7 +460,7 @@
       "event": "U.S. Baker Hughes Oil Rig Count",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "440",
       "description": "The Baker Hughes rig count is an important business barometer for the oil drilling industry. When drilling rigs are active they consume products and services produced by the oil service industry.\r\nThe active rig count acts as a leading indicator of demand for oil products.",
       "high_impact": false
     },
@@ -471,7 +471,7 @@
       "event": "U.S. Baker Hughes Total Rig Count",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "573",
       "description": "",
       "high_impact": false
     },
