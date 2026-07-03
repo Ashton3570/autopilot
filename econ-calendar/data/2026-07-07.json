@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "asOf": "Thu, Jul 2, 2026",
+  "asOf": "Fri, Jul 3, 2026",
   "events": [
     {
       "date": "2026-07-07",
@@ -345,6 +345,17 @@
     },
     {
       "date": "2026-07-07",
+      "time_gmt": "11:00",
+      "country": "United States",
+      "event": "Fed Waller Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-07",
       "time_gmt": "11:30",
       "country": "United States",
       "event": "3-Month Bill Auction",
@@ -382,7 +393,7 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "9.90B",
       "previous": "7.82B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
@@ -625,7 +636,7 @@
       "event": "Overall wage income of employees",
       "actual": "",
       "consensus": "",
-      "previous": "3.6%",
+      "previous": "3.5%",
       "description": "One of the statistical figures used by the Cabinet Office in monthly economic reports. It is announced by the Cabinet Office, and represents the total amount of wages received by all Japanese workers.\r\nA higher than expected result would be positive news for the yen, whilst a lower than expected result would be negative news for the yen.",
       "high_impact": false
     },
