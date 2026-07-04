@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "asOf": "Fri, Jul 3, 2026",
+  "asOf": "Sat, Jul 4, 2026",
   "events": [
     {
       "date": "2026-07-04",
@@ -338,7 +338,7 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "9.76B",
-      "consensus": "",
+      "consensus": "9.90B",
       "previous": "7.82B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false

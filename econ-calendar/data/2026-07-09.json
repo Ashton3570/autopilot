@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "asOf": "Fri, Jul 3, 2026",
+  "asOf": "Sat, Jul 4, 2026",
   "events": [
     {
       "date": "2026-07-09",
@@ -8,7 +8,7 @@
       "country": "Japan",
       "event": "Economy Watchers Current Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "44.6",
       "previous": "43.6",
       "description": "The Economy Watchers Current Index measures the current mood of businesses that directly service consumers, such as barbers, taxi drivers, and waiters. The data is compiled from a survey of about 2,000 workers. A reading above 50.0 indicates optimism; below indicates pessimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -338,7 +338,7 @@
       "country": "United States",
       "event": "Consumer Credit",
       "actual": "",
-      "consensus": "",
+      "consensus": "17.60B",
       "previous": "20.73B",
       "description": "Consumer Credit measures the change in the total value of outstanding consumer credit that requires installment payments.\r\nIt is closely correlated with consumer spending and confidence. The figure can be volatile as it often subject to sizable revisions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -353,17 +353,6 @@
       "previous": "49.9",
       "description": "The Business NZ Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion; a reading below 50 indicates contraction. It gives an indication about the health of the manufacturing section and production growth in New Zealand.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
-    },
-    {
-      "date": "2026-07-09",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "RICS House Price Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "-35%",
-      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
     },
     {
       "date": "2026-07-09",
@@ -393,7 +382,7 @@
       "country": "Japan",
       "event": "M2 Money Stock",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.4%",
       "previous": "2.5%",
       "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -415,7 +404,7 @@
       "country": "China",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.1%",
       "previous": "1.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
@@ -437,7 +426,7 @@
       "country": "China",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.2%",
       "previous": "3.9%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true

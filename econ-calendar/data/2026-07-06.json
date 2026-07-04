@@ -1,7 +1,18 @@
 {
   "date": "2026-07-06",
-  "asOf": "Fri, Jul 3, 2026",
+  "asOf": "Sat, Jul 4, 2026",
   "events": [
+    {
+      "date": "2026-07-06",
+      "time_gmt": "06:00",
+      "country": "United States",
+      "event": "OPEC Meeting",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "OPEC meetings are attended by representatives from 13 oil-rich nations. They discuss a range of topics regarding energy markets and agree on how much oil they will produce. OPEC is responsible for nearly 40% of the world's oil supply.",
+      "high_impact": false
+    },
     {
       "date": "2026-07-06",
       "time_gmt": "20:30",

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "asOf": "Fri, Jul 3, 2026",
+  "asOf": "Sat, Jul 4, 2026",
   "events": [
     {
       "date": "2026-07-08",
@@ -19,8 +19,8 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "",
-      "previous": "0.7%",
+      "consensus": "116.9",
+      "previous": "116.1",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -31,7 +31,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "116.1",
+      "previous": "0.7%",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Halifax House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "-0.1%",
       "description": "The Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -63,7 +63,7 @@
       "country": "Germany",
       "event": "German Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.4%",
       "description": "German Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -140,7 +140,7 @@
       "country": "France",
       "event": "French Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-5.2B",
       "previous": "-5.6B",
       "description": "The Trade Balance index measures the difference in worth between exported and imported goods over the reported month.\r\nExport demand is directly linked to currency demand, while export demand also has an impact on production levels.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -152,7 +152,7 @@
       "event": "Foreign Reserves (USD)",
       "actual": "",
       "consensus": "",
-      "previous": "710.8B",
+      "previous": "710,818.0B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -280,6 +280,28 @@
     {
       "date": "2026-07-08",
       "time_gmt": "08:00",
+      "country": "Brazil",
+      "event": "Auto Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "6.3%",
+      "description": "Industry is a basic category of business activity. Firms in the same industry are on the same side of the market, produce goods which are close substitutes and compete for the same customers. For statistical purposes, industries are categorized following a uniform classification code such as Standard Industrial \r\nClassification (SIC). Changes in the volume of the physical output of the nation's factories, mines and utilities are measured by the index of industrial production. The figure is calculated as a weighted aggregate of goods and reported in headlines as a percent change from previous months. It is often adjusted by season or weather conditions and thus volatile. However, it is used as a leading indicator and helps in forecasting GDP changes. Rising industrial production figures signify increasing economic growth and can positively influence the sentiment towards local currency.Total vehicles is comprised of cars, light commercials, trucks, buses and tractors.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-08",
+      "time_gmt": "08:00",
+      "country": "Brazil",
+      "event": "Auto Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "10.6%",
+      "description": "Auto Sales measures the change in the number of new cars and trucks sold domestically. It is an important indicator of consumer spending is closely correlated to consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-08",
+      "time_gmt": "08:00",
       "country": "New Zealand",
       "event": "GlobalDairyTrade Price Index",
       "actual": "",
@@ -338,7 +360,7 @@
       "country": "United States",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "-78.80B",
+      "consensus": "-78.50B",
       "previous": "-55.90B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -371,7 +393,7 @@
       "country": "Canada",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.40B",
       "previous": "2.72B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -404,7 +426,7 @@
       "country": "United States",
       "event": "IBD/TIPP Economic Optimism",
       "actual": "",
-      "consensus": "",
+      "consensus": "45.0",
       "previous": "42.5",
       "description": "The Investor's Business Daily (IBD), TechnoMetrica Institute of Policy and Politics (TIPP) Economic Optimism Index rates the relative level of economic conditions, including six-month economic outlook, personal financial outlook and confidence in federal economic policies. A level above 50.0 indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -426,32 +448,10 @@
       "country": "Canada",
       "event": "Ivey PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "59.1",
       "previous": "58.2",
       "description": "The Ivey Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in Canada. A reading above 50 indicates expansion; a reading below 50 indicates contraction. The index is a joint project of the Purchasing Management Association of Canada and the Richard Ivey School of Business. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
-    },
-    {
-      "date": "2026-07-08",
-      "time_gmt": "10:00",
-      "country": "Brazil",
-      "event": "Auto Production",
-      "actual": "",
-      "consensus": "",
-      "previous": "6.3%",
-      "description": "Industry is a basic category of business activity. Firms in the same industry are on the same side of the market, produce goods which are close substitutes and compete for the same customers. For statistical purposes, industries are categorized following a uniform classification code such as Standard Industrial \r\nClassification (SIC). Changes in the volume of the physical output of the nation's factories, mines and utilities are measured by the index of industrial production. The figure is calculated as a weighted aggregate of goods and reported in headlines as a percent change from previous months. It is often adjusted by season or weather conditions and thus volatile. However, it is used as a leading indicator and helps in forecasting GDP changes. Rising industrial production figures signify increasing economic growth and can positively influence the sentiment towards local currency.Total vehicles is comprised of cars, light commercials, trucks, buses and tractors.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-08",
-      "time_gmt": "10:00",
-      "country": "Brazil",
-      "event": "Auto Sales",
-      "actual": "",
-      "consensus": "",
-      "previous": "10.6%",
-      "description": "Auto Sales measures the change in the number of new cars and trucks sold domestically. It is an important indicator of consumer spending is closely correlated to consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
-      "high_impact": false
     },
     {
       "date": "2026-07-08",
@@ -547,7 +547,7 @@
       "country": "Japan",
       "event": "Adjusted Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.19T",
       "previous": "4.21T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -558,7 +558,7 @@
       "country": "Japan",
       "event": "Bank Lending",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.8%",
       "previous": "5.7%",
       "description": "Bank Lending measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -569,7 +569,7 @@
       "country": "Japan",
       "event": "Current Account n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.121T",
       "previous": "3.908T",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY",
       "high_impact": false
@@ -613,7 +613,7 @@
       "country": "New Zealand",
       "event": "RBNZ Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.50%",
       "previous": "2.25%",
       "description": "The Reserve Bank of New Zealand (RBNZ) governor decides where to set the rate after consulting senior bank staff and external advisers. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the NZD,\r\nwhile a lower than expected rate is negative/bearish for the NZD.",
       "high_impact": true
