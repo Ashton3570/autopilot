@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "asOf": "Sat, Jul 4, 2026",
+  "asOf": "Sun, Jul 5, 2026",
   "events": [
     {
       "date": "2026-07-09",
@@ -130,7 +130,7 @@
       "event": "Wholesale Inventories",
       "actual": "",
       "consensus": "0.3%",
-      "previous": "0.6%",
+      "previous": "0.3%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
     },
@@ -353,6 +353,17 @@
       "previous": "49.9",
       "description": "The Business NZ Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion; a reading below 50 indicates contraction. It gives an indication about the health of the manufacturing section and production growth in New Zealand.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-07-09",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "RICS House Price Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-35%",
+      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
     },
     {
       "date": "2026-07-09",
