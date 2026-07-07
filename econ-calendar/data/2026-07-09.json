@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "asOf": "Mon, Jul 6, 2026",
+  "asOf": "Tue, Jul 7, 2026",
   "events": [
     {
       "date": "2026-07-09",
@@ -8,7 +8,7 @@
       "country": "Japan",
       "event": "Economy Watchers Current Index",
       "actual": "",
-      "consensus": "44.6",
+      "consensus": "44.3",
       "previous": "43.6",
       "description": "The Economy Watchers Current Index measures the current mood of businesses that directly service consumers, such as barbers, taxi drivers, and waiters. The data is compiled from a survey of about 2,000 workers. A reading above 50.0 indicates optimism; below indicates pessimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -22,6 +22,17 @@
       "consensus": "",
       "previous": "-0.20B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure.</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-09",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French Reserve Assets Total",
+      "actual": "",
+      "consensus": "",
+      "previous": "381,300.0M",
+      "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
       "high_impact": false
     },
     {
@@ -108,8 +119,8 @@
       "event": "Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "-1.5%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<br/>A higher than expected reading should be taken as positive/bullish for the BRL while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "previous": "1.0%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
     },
     {
@@ -119,8 +130,8 @@
       "event": "Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "1.0%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "previous": "-1.5%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<br/>A higher than expected reading should be taken as positive/bullish for the BRL while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
     },
     {
@@ -338,7 +349,7 @@
       "country": "United States",
       "event": "Consumer Credit",
       "actual": "",
-      "consensus": "17.60B",
+      "consensus": "16.90B",
       "previous": "20.73B",
       "description": "Consumer Credit measures the change in the total value of outstanding consumer credit that requires installment payments.\r\nIt is closely correlated with consumer spending and confidence. The figure can be volatile as it often subject to sizable revisions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -353,17 +364,6 @@
       "previous": "49.9",
       "description": "The Business NZ Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion; a reading below 50 indicates contraction. It gives an indication about the health of the manufacturing section and production growth in New Zealand.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
-    },
-    {
-      "date": "2026-07-09",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "RICS House Price Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "-35%",
-      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
     },
     {
       "date": "2026-07-09",

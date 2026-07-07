@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-13",
+  "asOf": "Tue, Jul 7, 2026",
+  "events": [
+    {
+      "date": "2026-07-13",
+      "time_gmt": "18:30",
+      "country": "New Zealand",
+      "event": "Performance of Services Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "47.5",
+      "description": "BNZ-BusinessNZ PSI is a monthly survey of the services sector providing \r\nan early indicator of activity levels. A PSI reading above 50 points indicates \r\nservices activity is expanding; below 50 indicates it is contracting. \r\nThe main PMI and sub-index results are seasonally adjusted. \r\n<br/>A higher than expected reading should be taken as positive/bullish for the NZD , while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    }
+  ]
+}

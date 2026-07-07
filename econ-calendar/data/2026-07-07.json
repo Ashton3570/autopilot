@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "asOf": "Mon, Jul 6, 2026",
+  "asOf": "Tue, Jul 7, 2026",
   "events": [
     {
       "date": "2026-07-07",
@@ -150,17 +150,6 @@
       "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "PPI",
-      "actual": "5.9%",
-      "consensus": "5.7%",
-      "previous": "5.0%",
-      "description": "The Producer Price Index (PPI) measures average changes in prices received by domestic producers for their output. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation. Usually a rise in PPI will lead in a short time to a rise in CPI and therefore to a rising interest rates and rising currency. during recession, the producers are not able to roll over the rising cost of material to the consumer, so a rise in PPI will not be rolled over to the consumer but will lower the profitablility of the producer and will deepen the recession, that will lead to a fall in local currency.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-07-07",
-      "time_gmt": "05:00",
-      "country": "Euro Zone",
-      "event": "PPI",
       "actual": "0.2%",
       "consensus": "0.2%",
       "previous": "0.7%",
@@ -171,11 +160,11 @@
       "date": "2026-07-07",
       "time_gmt": "05:00",
       "country": "Euro Zone",
-      "event": "Retail Sales",
-      "actual": "1.6%",
-      "consensus": "1.5%",
-      "previous": "0.9%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "event": "PPI",
+      "actual": "5.9%",
+      "consensus": "5.7%",
+      "previous": "5.0%",
+      "description": "The Producer Price Index (PPI) measures average changes in prices received by domestic producers for their output. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation. Usually a rise in PPI will lead in a short time to a rise in CPI and therefore to a rising interest rates and rising currency. during recession, the producers are not able to roll over the rising cost of material to the consumer, so a rise in PPI will not be rolled over to the consumer but will lower the profitablility of the producer and will deepen the recession, that will lead to a fall in local currency.",
       "high_impact": true
     },
     {
@@ -187,6 +176,17 @@
       "consensus": "0.2%",
       "previous": "-0.3%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-07-07",
+      "time_gmt": "05:00",
+      "country": "Euro Zone",
+      "event": "Retail Sales",
+      "actual": "1.6%",
+      "consensus": "1.5%",
+      "previous": "0.9%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -243,6 +243,17 @@
       "previous": "2.483%",
       "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
+    },
+    {
+      "date": "2026-07-07",
+      "time_gmt": "09:30",
+      "country": "Canada",
+      "event": "S&P Global Services PMI",
+      "actual": "47.10",
+      "consensus": "",
+      "previous": "50.60",
+      "description": "The Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": true
     },
     {
       "date": "2026-07-07",
@@ -634,8 +645,8 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
-      "consensus": "-2.2%",
+      "actual": "-0.4%",
+      "consensus": "-2.3%",
       "previous": "-0.5%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -645,7 +656,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
+      "actual": "3.7%",
       "consensus": "1.4%",
       "previous": "1.6%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
@@ -656,7 +667,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Overall wage income of employees",
-      "actual": "",
+      "actual": "3.2%",
       "consensus": "3.4%",
       "previous": "3.6%",
       "description": "One of the statistical figures used by the Cabinet Office in monthly economic reports. It is announced by the Cabinet Office, and represents the total amount of wages received by all Japanese workers.\r\nA higher than expected result would be positive news for the yen, whilst a lower than expected result would be negative news for the yen.",
@@ -667,7 +678,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Overtime Pay",
-      "actual": "",
+      "actual": "2.90%",
       "consensus": "",
       "previous": "4.80%",
       "description": "Wages and salaries are defined as \"the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in returnfor work done during the accounting period\" regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not.Non-scheduled cash earnings are the wages paid for work performed outsidescheduled working hours, and on days off or night work, that is allowances for working outside work hours, night work, early morning work, and overnight duty.",
@@ -678,7 +689,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Foreign Reserves (USD)",
-      "actual": "",
+      "actual": "1,287.5B",
       "consensus": "",
       "previous": "1,305.9B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
@@ -689,7 +700,7 @@
       "time_gmt": "23:35",
       "country": "Japan",
       "event": "30-Year JGB Auction",
-      "actual": "",
+      "actual": "3.993%",
       "consensus": "",
       "previous": "3.860%",
       "description": "The figures displayed in the calendar represent the yield on the JGB auctioned.<BR/><BR/> JGB's have maturities of up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a JGB represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
