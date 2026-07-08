@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "asOf": "Tue, Jul 7, 2026",
+  "asOf": "Wed, Jul 8, 2026",
   "events": [
     {
       "date": "2026-07-10",
@@ -8,7 +8,7 @@
       "country": "Germany",
       "event": "German Exports",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.3%",
       "previous": "0.9%",
       "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents.Exports free onboard (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.",
       "high_impact": false
@@ -19,7 +19,7 @@
       "country": "Germany",
       "event": "German Imports",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "1.2%",
       "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect ofreducing the value of Imports by the amount of the cost of insurance and freight.",
       "high_impact": false
@@ -30,7 +30,7 @@
       "country": "Germany",
       "event": "German Trade Balance",
       "actual": "",
-      "consensus": "14.0B",
+      "consensus": "14.9B",
       "previous": "14.5B",
       "description": "The Trade Balance measures the difference in worth between exported and imported goods over the month. A positive number indicates that more goods were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "1,820K",
       "previous": "1,814K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "4.20M",
+      "consensus": "4.19M",
       "previous": "4.17M",
       "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -250,7 +250,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "60B",
       "previous": "87B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
