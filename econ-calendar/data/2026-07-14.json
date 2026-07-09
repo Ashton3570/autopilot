@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "asOf": "Wed, Jul 8, 2026",
+  "asOf": "Thu, Jul 9, 2026",
   "events": [
     {
       "date": "2026-07-14",
@@ -33,6 +33,17 @@
       "consensus": "",
       "previous": "",
       "description": "OPEC meetings are attended by representatives from 13 oil-rich nations. They discuss a range of topics regarding energy markets and agree on how much oil they will produce. OPEC is responsible for nearly 40% of the world's oil supply.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-14",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
       "high_impact": false
     },
     {

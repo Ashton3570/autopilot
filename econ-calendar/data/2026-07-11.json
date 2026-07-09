@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "asOf": "Wed, Jul 8, 2026",
+  "asOf": "Thu, Jul 9, 2026",
   "events": [
     {
       "date": "2026-07-11",
@@ -9,7 +9,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "2.3%",
-      "previous": "2.3%",
+      "previous": "2.6%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -20,7 +20,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "-0.3%",
-      "previous": "-0.3%",
+      "previous": "-0.2%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -31,7 +31,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "2.4%",
-      "previous": "2.4%",
+      "previous": "2.7%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -42,7 +42,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "-0.2%",
-      "previous": "-0.2%",
+      "previous": "-0.1%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -74,7 +74,7 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "-0.2%",
       "previous": "0.1%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -97,7 +97,7 @@
       "event": "French HICP",
       "actual": "",
       "consensus": "-0.3%",
-      "previous": "-0.3%",
+      "previous": "0.1%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -108,7 +108,7 @@
       "event": "French HICP",
       "actual": "",
       "consensus": "2.0%",
-      "previous": "2.0%",
+      "previous": "2.8%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -140,7 +140,7 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "-0.2%",
+      "consensus": "-0.1%",
       "previous": "0.5%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -151,7 +151,7 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.3%",
       "previous": "1.3%",
       "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
       "high_impact": false
@@ -217,7 +217,7 @@
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.80%",
       "previous": "4.72%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.31%",
       "previous": "0.58%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -261,7 +261,7 @@
       "country": "Canada",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "0.5%",
+      "consensus": "1.0%",
       "previous": "-7.6%",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "Canada",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "10.0K",
+      "consensus": "11.2K",
       "previous": "87.8K",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
