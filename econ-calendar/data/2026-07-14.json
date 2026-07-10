@@ -1,7 +1,18 @@
 {
   "date": "2026-07-14",
-  "asOf": "Thu, Jul 9, 2026",
+  "asOf": "Fri, Jul 10, 2026",
   "events": [
+    {
+      "date": "2026-07-14",
+      "time_gmt": "05:25",
+      "country": "United States",
+      "event": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Michelle W. Bowman took office as a member of the Board of Governors of the Federal Reserve System on November 26, 2018, to fill an unexpired term ending January 31, 2020. Her public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
+    },
     {
       "date": "2026-07-14",
       "time_gmt": "05:30",
@@ -52,7 +63,7 @@
       "country": "India",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.30%",
       "previous": "3.93%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -147,6 +158,28 @@
     },
     {
       "date": "2026-07-14",
+      "time_gmt": "12:30",
+      "country": "United States",
+      "event": "Fed Waller Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-14",
+      "time_gmt": "14:00",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Pill Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-14",
       "time_gmt": "14:00",
       "country": "United States",
       "event": "Federal Budget Balance",
@@ -217,7 +250,7 @@
       "country": "Singapore",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.3%",
       "previous": "6.0%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
@@ -281,55 +314,11 @@
       "date": "2026-07-14",
       "time_gmt": "23:00",
       "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "21.50M",
-      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Trade Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "723.98B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
       "event": "Exports",
       "actual": "",
       "consensus": "",
       "previous": "19.4%",
       "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "27.4%",
-      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Trade Balance (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "105.43B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "asOf": "Thu, Jul 9, 2026",
+  "asOf": "Fri, Jul 10, 2026",
   "events": [
     {
       "date": "2026-07-15",
@@ -96,7 +96,7 @@
       "country": "India",
       "event": "WPI Inflation",
       "actual": "",
-      "consensus": "",
+      "consensus": "9.15%",
       "previous": "9.68%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers.\r\n<BR/>The higher this number is the stronger the affect on consumer inflation.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the INR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods\nand services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "United States",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.9%",
       "previous": "2.9%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods\nand services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -261,7 +261,7 @@
       "country": "United States",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.5%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -345,6 +345,61 @@
     },
     {
       "date": "2026-07-15",
+      "time_gmt": "11:36",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "27.4%",
+      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "11:36",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "21.50M",
+      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "11:36",
+      "country": "China",
+      "event": "Trade Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "723.98B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "11:36",
+      "country": "China",
+      "event": "Trade Balance (USD)",
+      "actual": "",
+      "consensus": "",
+      "previous": "105.43B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "12:40",
+      "country": "United States",
+      "event": "Fed Vice Chair for Supervision Barr Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
       "time_gmt": "13:00",
       "country": "United States",
       "event": "Fed Goolsbee Speaks",
@@ -353,6 +408,28 @@
       "previous": "",
       "description": "",
       "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "13:30",
+      "country": "United States",
+      "event": "Fed Governor Cook Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "14:55",
+      "country": "United States",
+      "event": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Michelle W. Bowman took office as a member of the Board of Governors of the Federal Reserve System on November 26, 2018, to fill an unexpired term ending January 31, 2020. Her public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
     },
     {
       "date": "2026-07-15",
@@ -493,8 +570,8 @@
       "event": "Core Machinery Orders",
       "actual": "",
       "consensus": "",
-      "previous": "8.7%",
-      "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "previous": "15.6%",
+      "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -504,8 +581,8 @@
       "event": "Core Machinery Orders",
       "actual": "",
       "consensus": "",
-      "previous": "15.6%",
-      "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "previous": "8.7%",
+      "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -558,7 +635,7 @@
       "country": "China",
       "event": "Fixed Asset Investment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-5.0%",
       "previous": "-4.1%",
       "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -580,7 +657,7 @@
       "country": "China",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.9%",
       "previous": "1.3%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A stronger than expected number should be taken as positive for the CNY and a lower than expected number as negative to the CNY.",
       "high_impact": true
@@ -591,7 +668,7 @@
       "country": "China",
       "event": "Chinese GDP YTD",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.4%",
       "previous": "5.0%",
       "description": "",
       "high_impact": true
@@ -602,7 +679,7 @@
       "country": "China",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.7%",
       "previous": "4.5%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -624,7 +701,7 @@
       "country": "China",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "-0.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
