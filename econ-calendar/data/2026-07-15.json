@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "asOf": "Fri, Jul 10, 2026",
+  "asOf": "Sat, Jul 11, 2026",
   "events": [
     {
       "date": "2026-07-15",
@@ -41,7 +41,7 @@
       "country": "Germany",
       "event": "German WPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "-0.6%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -75,7 +75,7 @@
       "event": "WPI Food",
       "actual": "",
       "consensus": "",
-      "previous": "4.49%",
+      "previous": "3.60%",
       "description": "The WPI index that measures and tracks the changes in price of all food related goods in the stages before the retail level.",
       "high_impact": false
     },
@@ -114,6 +114,72 @@
     },
     {
       "date": "2026-07-15",
+      "time_gmt": "03:28",
+      "country": "China",
+      "event": "Exports",
+      "actual": "",
+      "consensus": "18.2%",
+      "previous": "19.4%",
+      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "03:28",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "24.0%",
+      "previous": "27.4%",
+      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "03:29",
+      "country": "China",
+      "event": "Trade Balance (USD)",
+      "actual": "",
+      "consensus": "121.40B",
+      "previous": "105.43B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "03:29",
+      "country": "China",
+      "event": "Exports",
+      "actual": "",
+      "consensus": "",
+      "previous": "13.80M",
+      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "03:29",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "21.50M",
+      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "03:29",
+      "country": "China",
+      "event": "Trade Balance",
+      "actual": "",
+      "consensus": "820.00B",
+      "previous": "723.98B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
       "time_gmt": "04:00",
       "country": "China",
       "event": "M2 Money Stock",
@@ -129,7 +195,7 @@
       "country": "China",
       "event": "New Loans",
       "actual": "",
-      "consensus": "2,000.0B",
+      "consensus": "1,950.0B",
       "previous": "520.0B",
       "description": "This release measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -165,6 +231,17 @@
       "consensus": "",
       "previous": "2.239%",
       "description": "The figures displayed in the calendar represent the average yield on the Letras del Tesoro auctioned. <BR/><BR/>Spanish Bills have maturities of less then two years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the Letras del Tesoro represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
+      "time_gmt": "04:45",
+      "country": "United Kingdom",
+      "event": "BoE Gov Bailey Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of England (BOE) Governor Andrew Bailey (Mar 2020 - Mar 2028) is to speak. As head of the BOE's Monetary Policy Committee (MPC) which controls short term interest rates, Bailey has more influence over sterling's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\n\nHis comments may spark a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -206,7 +283,7 @@
       "country": "United States",
       "event": "NFIB Small Business Optimism",
       "actual": "",
-      "consensus": "",
+      "consensus": "95.6",
       "previous": "95.3",
       "description": "The National Federation of Independent Business (NFIB) Small Business Optimism Index is a composite of ten seasonally adjusted components. It provides a indication of the health of small businesses in the U.S., which account of roughly 50% of the nation's private workforce.",
       "high_impact": false
@@ -334,6 +411,17 @@
     },
     {
       "date": "2026-07-15",
+      "time_gmt": "09:00",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-15",
       "time_gmt": "11:00",
       "country": "United States",
       "event": "Cleveland CPI",
@@ -342,50 +430,6 @@
       "previous": "0.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> in the metropolitan area of Cleaveland. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
-    },
-    {
-      "date": "2026-07-15",
-      "time_gmt": "11:36",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "27.4%",
-      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-15",
-      "time_gmt": "11:36",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "21.50M",
-      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-15",
-      "time_gmt": "11:36",
-      "country": "China",
-      "event": "Trade Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "723.98B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-15",
-      "time_gmt": "11:36",
-      "country": "China",
-      "event": "Trade Balance (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "105.43B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
     },
     {
       "date": "2026-07-15",
@@ -470,7 +514,7 @@
       "country": "United States",
       "event": "TIC Net Long-Term Transactions",
       "actual": "",
-      "consensus": "",
+      "consensus": "128.5B",
       "previous": "103.1B",
       "description": "Treasury International Capital (TIC) Net Long-Term Transactions measures the difference in value between foreign long-term securities purchased by U.S. citizens and U.S. long-term securities purchased by foreign investors. Demand for domestic securities and currency demand are directly linked because foreigners must buy the domestic currency to purchase the nation's securities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -569,9 +613,9 @@
       "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
-      "previous": "15.6%",
-      "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "consensus": "-4.2%",
+      "previous": "8.7%",
+      "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -580,9 +624,9 @@
       "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
-      "previous": "8.7%",
-      "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "consensus": "12.9%",
+      "previous": "15.6%",
+      "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -592,7 +636,7 @@
       "event": "Exports",
       "actual": "",
       "consensus": "70.9%",
-      "previous": "53.4%",
+      "previous": "70.9%",
       "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. \r\n<BR/>\r\nA higher than expected number should be taken as positive to the KRW, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -603,7 +647,7 @@
       "event": "Imports",
       "actual": "",
       "consensus": "30.1%",
-      "previous": "20.7%",
+      "previous": "30.1%",
       "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\n<BR/>\r\nA higher than expected number should be taken as positive to the KRW, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -614,7 +658,7 @@
       "event": "Trade Balance",
       "actual": "",
       "consensus": "36.15B",
-      "previous": "27.04B",
+      "previous": "36.15B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": false
     },
@@ -668,7 +712,7 @@
       "country": "China",
       "event": "Chinese GDP YTD",
       "actual": "",
-      "consensus": "4.4%",
+      "consensus": "4.5%",
       "previous": "5.0%",
       "description": "",
       "high_impact": true
@@ -679,7 +723,7 @@
       "country": "China",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "4.7%",
+      "consensus": "4.6%",
       "previous": "4.5%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -723,7 +767,7 @@
       "country": "China",
       "event": "Chinese Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.1%",
       "previous": "5.1%",
       "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
       "high_impact": true

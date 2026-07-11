@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "asOf": "Fri, Jul 10, 2026",
+  "asOf": "Sat, Jul 11, 2026",
   "events": [
     {
       "date": "2026-07-11",
@@ -353,6 +353,17 @@
       "previous": "6.6%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.\r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the CAD, while a lower than expected reading should be taken as positive/bullish for the CAD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-07-11",
+      "time_gmt": "11:00",
+      "country": "United States",
+      "event": "Fed Monetary Policy Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Federal Reserve Act requires the Federal Reserve Board to submit written reports to Congress containing discussions of \"the conduct of monetary policy and economic developments and prospects for the future.\" This report--called the Monetary Policy Report--is submitted semiannually to the Senate Committee on Banking, Housing, and Urban Affairs and to the House Committee on Financial Services, along with testimony from the Federal Reserve Board Chair.",
+      "high_impact": false
     },
     {
       "date": "2026-07-11",

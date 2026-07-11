@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "asOf": "Fri, Jul 10, 2026",
+  "asOf": "Sat, Jul 11, 2026",
   "events": [
     {
       "date": "2026-07-16",
@@ -31,7 +31,7 @@
       "event": "Spanish CPI",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.1%",
+      "previous": "0.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -53,7 +53,7 @@
       "event": "Spanish HICP",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.1%",
+      "previous": "0.6%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -119,8 +119,8 @@
       "event": "Industrial Production",
       "actual": "",
       "consensus": "",
-      "previous": "0.1%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "previous": "0.3%",
+      "description": "Industrial production is a measure of output of the industrial sector of the economy. The industrial sector includes manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP (Gross Domestic Product), they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance.. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -129,9 +129,9 @@
       "country": "Euro Zone",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
-      "previous": "0.3%",
-      "description": "Industrial production is a measure of output of the industrial sector of the economy. The industrial sector includes manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP (Gross Domestic Product), they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance.. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
+      "consensus": "0.3%",
+      "previous": "0.1%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
     {
@@ -154,6 +154,17 @@
       "consensus": "",
       "previous": "1,872.82B",
       "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "06:30",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Pill Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -250,7 +261,7 @@
       "country": "United States",
       "event": "Core PPI",
       "actual": "",
-      "consensus": "0.4%",
+      "consensus": "0.3%",
       "previous": "0.4%",
       "description": "The Core Producer Price Index (PPI) measures the change in the selling price of goods and services sold by producers, excluding food and energy. The PPI measures price change from the perspective of the seller. When producers pay more for goods and services, they are more likely to pass the higher costs to the consumer, so PPI is thought to be a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -272,10 +283,21 @@
       "country": "United States",
       "event": "NY Empire State Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "8.70",
       "previous": "5.70",
       "description": "The Empire State Manufacturing Index rates the relative level of general business conditions New York state. A level above 0.0 indicates improving conditions, below indicates worsening conditions. The reading is compiled from a survey of about 200 manufacturers in New York state.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "08:30",
+      "country": "United States",
+      "event": "PPI",
+      "actual": "",
+      "consensus": "0.0%",
+      "previous": "1.1%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": true
     },
     {
       "date": "2026-07-16",
@@ -292,21 +314,10 @@
       "date": "2026-07-16",
       "time_gmt": "08:30",
       "country": "United States",
-      "event": "PPI",
-      "actual": "",
-      "consensus": "0.2%",
-      "previous": "1.1%",
-      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-07-16",
-      "time_gmt": "08:30",
-      "country": "United States",
       "event": "PPI ex. Food/Energy/Transport",
       "actual": "",
       "consensus": "",
-      "previous": "5.1%",
+      "previous": "0.8%",
       "description": "",
       "high_impact": true
     },
@@ -317,7 +328,7 @@
       "event": "PPI ex. Food/Energy/Transport",
       "actual": "",
       "consensus": "",
-      "previous": "0.8%",
+      "previous": "5.1%",
       "description": "",
       "high_impact": true
     },
@@ -404,7 +415,7 @@
       "country": "Canada",
       "event": "BoC Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.25%",
       "previous": "2.25%",
       "description": "Bank of Canada (BOC) governing council members come to a consensus on where to set the rate.Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.\r\n<BR/><BR/>A higher than expected rate is positive/bullish for the CAD, while a lower than expected rate is negative/bearish for the CAD.",
       "high_impact": true
@@ -636,7 +647,7 @@
       "event": "Reserve Assets Total",
       "actual": "",
       "consensus": "",
-      "previous": "115.8B",
+      "previous": "115,830.0B",
       "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
       "high_impact": false
     }

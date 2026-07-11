@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "asOf": "Fri, Jul 10, 2026",
+  "asOf": "Sat, Jul 11, 2026",
   "events": [
     {
       "date": "2026-07-14",
@@ -169,6 +169,17 @@
     },
     {
       "date": "2026-07-14",
+      "time_gmt": "12:45",
+      "country": "Euro Zone",
+      "event": "ECB's Schnabel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Isabel Schnabel, member of the Executive Board of the European Central Bank, is set to speak. Her speeches often contain indications on the future possible direction of monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-14",
       "time_gmt": "14:00",
       "country": "United Kingdom",
       "event": "BoE MPC Member Pill Speaks",
@@ -184,9 +195,20 @@
       "country": "United States",
       "event": "Federal Budget Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-132.8B",
       "previous": "-293.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-14",
+      "time_gmt": "17:00",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -239,7 +261,7 @@
       "country": "United Kingdom",
       "event": "BRC Retail Sales Monitor",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.9%",
       "previous": "3.4%",
       "description": "The British Retail Consortium (BRC) Retail Sales Monitor measures the change in the value of same-store sales in BRC-member retail outlets in the U.K.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -262,7 +284,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "1.0%",
+      "previous": "3.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
     },
@@ -297,28 +319,6 @@
       "consensus": "",
       "previous": "3",
       "description": "Business confidence is a measure of respondents expectations of business conditions in their industry for the upcoming period. Business conditions is a simple average of trading, profitability and employment indices, reported by respondents for their company. A higher than expected number should be taken as positive to the AUD, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Exports",
-      "actual": "",
-      "consensus": "",
-      "previous": "13.80M",
-      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-07-14",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Exports",
-      "actual": "",
-      "consensus": "",
-      "previous": "19.4%",
-      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     }
   ]
