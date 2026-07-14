@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "asOf": "Mon, Jul 13, 2026",
+  "asOf": "Tue, Jul 14, 2026",
   "events": [
     {
       "date": "2026-07-16",
@@ -31,7 +31,7 @@
       "event": "Spanish CPI",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.6%",
+      "previous": "0.1%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -53,7 +53,7 @@
       "event": "Spanish HICP",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.6%",
+      "previous": "0.1%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -118,7 +118,7 @@
       "country": "Euro Zone",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.5%",
       "previous": "0.3%",
       "description": "Industrial production is a measure of output of the industrial sector of the economy. The industrial sector includes manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP (Gross Domestic Product), they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance.. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
       "high_impact": false
@@ -143,6 +143,50 @@
       "consensus": "",
       "previous": "2.960%",
       "description": "The figures displayed in the calendar represent the average yield on the Buxl bond auctioned.<BR/>Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the 30 year Bund represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "M2 Money Stock",
+      "actual": "",
+      "consensus": "8.5%",
+      "previous": "8.6%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "New Loans",
+      "actual": "",
+      "consensus": "1,950.0B",
+      "previous": "520.0B",
+      "description": "This release measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "Outstanding Loan Growth",
+      "actual": "",
+      "consensus": "5.4%",
+      "previous": "5.5%",
+      "description": "Outstanding Loan Growth measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-16",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "Chinese Total Social Financing",
+      "actual": "",
+      "consensus": "3,770.0B",
+      "previous": "2,030.0B",
+      "description": "",
       "high_impact": false
     },
     {
@@ -261,7 +305,7 @@
       "country": "United States",
       "event": "Core PPI",
       "actual": "",
-      "consensus": "0.3%",
+      "consensus": "0.4%",
       "previous": "0.4%",
       "description": "The Core Producer Price Index (PPI) measures the change in the selling price of goods and services sold by producers, excluding food and energy. The PPI measures price change from the perspective of the seller. When producers pay more for goods and services, they are more likely to pass the higher costs to the consumer, so PPI is thought to be a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -272,7 +316,7 @@
       "country": "United States",
       "event": "Core PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.2%",
       "previous": "4.9%",
       "description": "The Core Producer Price Index (PPI) measures the change in the selling price of goods and services sold by producers, excluding food and energy. The PPI measures price change from the perspective of the seller. When producers pay more for goods and services, they are more likely to pass the higher costs to the consumer, so PPI is thought to be a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -283,7 +327,7 @@
       "country": "United States",
       "event": "NY Empire State Manufacturing Index",
       "actual": "",
-      "consensus": "8.70",
+      "consensus": "9.40",
       "previous": "5.70",
       "description": "The Empire State Manufacturing Index rates the relative level of general business conditions New York state. A level above 0.0 indicates improving conditions, below indicates worsening conditions. The reading is compiled from a survey of about 200 manufacturers in New York state.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -305,7 +349,7 @@
       "country": "United States",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.2%",
       "previous": "6.5%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
