@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "asOf": "Wed, Jul 15, 2026",
+  "asOf": "Thu, Jul 16, 2026",
   "events": [
     {
       "date": "2026-07-16",
@@ -579,9 +579,9 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Foreign Bonds Buying",
-      "actual": "",
+      "actual": "1,090.1B",
       "consensus": "",
-      "previous": "-218.1B",
+      "previous": "-217.5B",
       "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -590,9 +590,9 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Foreign Investments in Japanese Stocks",
-      "actual": "",
+      "actual": "745.6B",
       "consensus": "",
-      "previous": "-22.2B",
+      "previous": "-21.3B",
       "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
       "high_impact": false
     },
@@ -612,7 +612,7 @@
       "time_gmt": "21:00",
       "country": "South Korea",
       "event": "Interest Rate Decision",
-      "actual": "",
+      "actual": "2.75%",
       "consensus": "2.75%",
       "previous": "2.50%",
       "description": "The Bank of Korea (BOK) Monetary Policy Committee's decision on where to set the benchmark interest rate. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the KRW, while a lower than expected rate is negative/bearish for the KRW.",
@@ -623,7 +623,7 @@
       "time_gmt": "21:00",
       "country": "Australia",
       "event": "MI Inflation Expectations",
-      "actual": "",
+      "actual": "4.7%",
       "consensus": "",
       "previous": "5.5%",
       "description": "Melbourne Institute (MI) Inflation Expectations measures the percentage that consumers expect the price of goods and services to change during the next 12 months.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
@@ -634,9 +634,9 @@
       "time_gmt": "21:30",
       "country": "Australia",
       "event": "Reserve Assets Total",
-      "actual": "",
+      "actual": "118.8B",
       "consensus": "",
-      "previous": "115,830.0B",
+      "previous": "115.8B",
       "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
       "high_impact": false
     }
