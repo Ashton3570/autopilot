@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "asOf": "Fri, Jul 17, 2026",
+  "asOf": "Sat, Jul 18, 2026",
   "events": [
     {
       "date": "2026-07-22",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings ex Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.4%",
       "previous": "3.4%",
       "description": "The Average Earnings Index is an indicator of inflationary pressures emanating from the labour market. The effect of a higher or lower figure than expected can be both bullish or bearish.",
       "high_impact": false
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings Index +Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.5%",
       "previous": "4.4%",
       "description": "The Average Earnings Index measures change in the price businesses and the government pay for labor, including bonuses. The Average Earnings figure gives us a good indication of personal income growth during the given month.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -30,7 +30,7 @@
       "country": "United Kingdom",
       "event": "Claimant Count Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "28.3K",
       "previous": "31.2K",
       "description": "Claimant Count Change measures the change in the number of unemployed people in the U.K. during the reported month. A rising trend indicates weakness in the labor market, which has a trickle-down effect on consumer spending and economic growth.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": false
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.9%",
       "previous": "4.9%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous three months.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while a lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "Germany",
       "event": "German ZEW Current Conditions",
       "actual": "",
-      "consensus": "",
+      "consensus": "-77.8",
       "previous": "-81.0",
       "description": "This survey summarizes the net percentage of positive and negative responses regarding the expectations for economic growth in the next 6 months, as given by financial analysts from banks, insurance companies and large industrial enterprises. For example, if 50% believe that the economic situation will improve and 20% believe it will get worse, the result will be +30.   <BR/>\r\nThe survey deals with the markets of Germany, the USA, Japan, Great Britain, France, Italy and other EU countries. <BR/>\r\nA reading that is stronger than forecast is generally supportive (bullish) for the Euro, while a weaker than forecast reading is generally negative (bearish) for the Euro.",
       "high_impact": false
@@ -151,7 +151,7 @@
       "country": "Germany",
       "event": "German ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "15.7",
       "previous": "10.5",
       "description": "The German Zentrum für Europäische Wirtschaftsforschung (ZEW) Economic Sentiment Index gauges the six-month economic outlook. A level above zero indicates optimism; below indicates pessimism. The reading is compiled from a survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "Euro Zone",
       "event": "ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "11.5",
       "previous": "9.5",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Sentiment Index rates the relative six-month economic outlook for the euro zone. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health. The reading is compiled from survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "Japan",
       "event": "Adjusted Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.54T",
       "previous": "-0.09T",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -283,7 +283,7 @@
       "country": "Japan",
       "event": "Exports",
       "actual": "",
-      "consensus": "",
+      "consensus": "18.6%",
       "previous": "16.8%",
       "description": "This Exports number provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "Japan",
       "event": "Imports",
       "actual": "",
-      "consensus": "",
+      "consensus": "21.0%",
       "previous": "12.5%",
       "description": "An import is any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the JPY while a higher than expected number as negative",
       "high_impact": false
@@ -305,7 +305,7 @@
       "country": "Japan",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-120.0B",
       "previous": "-391.8B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
       "high_impact": false

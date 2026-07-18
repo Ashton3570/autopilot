@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "asOf": "Fri, Jul 17, 2026",
+  "asOf": "Sat, Jul 18, 2026",
   "events": [
     {
       "date": "2026-07-21",
@@ -19,7 +19,7 @@
       "country": "Germany",
       "event": "German PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.2%",
       "previous": "0.3%",
       "description": "The German Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Canada",
       "event": "Common CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.7%",
       "description": "Change in the price of goods and services, purchased by consumers, which have similar price variations over time.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "Canada",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.2%",
       "previous": "1.0%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "Canada",
       "event": "Median CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.1%",
       "previous": "2.1%",
       "description": "Change in the median price of goods and services purchased by consumers.",
       "high_impact": true
@@ -129,7 +129,7 @@
       "country": "Canada",
       "event": "Trimmed CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.0%",
       "previous": "2.0%",
       "description": "Change in the price of goods and services purchased by consumers, excluding the most volatile 40% of items.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "United States",
       "event": "US Leading Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.1%",
       "description": "The composite economic indexes are the key elements in an analytic system designed to signal peaks and troughs in the business cycle. The leading, coincident, and lagging economic indexes are essentially composite averages of several individual leading, coincident, or lagging indicators. They are constructed to summarize and reveal common turning point patterns in economic data in a clearer and more convincing manner than any individual component – primarily because they smooth out some of the volatility of individual components.",
       "high_impact": false
@@ -206,7 +206,7 @@
       "country": "New Zealand",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.5%",
       "previous": "0.9%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
@@ -217,7 +217,7 @@
       "country": "New Zealand",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.0%",
       "previous": "3.1%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/>\nA higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true

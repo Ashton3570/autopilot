@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "asOf": "Fri, Jul 17, 2026",
+  "asOf": "Sat, Jul 18, 2026",
   "events": [
     {
       "date": "2026-07-18",
@@ -617,17 +617,6 @@
       "previous": "-16.2K",
       "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
       "high_impact": false
-    },
-    {
-      "date": "2026-07-18",
-      "time_gmt": "19:00",
-      "country": "Russia",
-      "event": "PPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "9.4%",
-      "description": "The Producer Price Index (PPI) measures average changes in prices received by domestic producers for their output. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation. Usually a rise in PPI will lead in a short time to a rise in CPI and therefore to a rising interest rates and rising currency. during recession, the producers are not able to roll over the rising cost of material to the consumer, so a rise in PPI will not be rolled over to the consumer but will lower the profitablility of the producer and will deepen the recession, that will lead to a fall in local currency.",
-      "high_impact": true
     },
     {
       "date": "2026-07-18",
