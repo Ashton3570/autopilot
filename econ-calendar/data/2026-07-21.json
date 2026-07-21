@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "asOf": "Mon, Jul 20, 2026",
+  "asOf": "Tue, Jul 21, 2026",
   "events": [
     {
       "date": "2026-07-21",
@@ -205,8 +205,8 @@
       "time_gmt": "18:45",
       "country": "New Zealand",
       "event": "CPI",
-      "actual": "",
-      "consensus": "1.5%",
+      "actual": "1.5%",
+      "consensus": "1.4%",
       "previous": "0.9%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
@@ -216,7 +216,7 @@
       "time_gmt": "18:45",
       "country": "New Zealand",
       "event": "CPI",
-      "actual": "",
+      "actual": "4.1%",
       "consensus": "4.0%",
       "previous": "3.1%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/>\nA higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",

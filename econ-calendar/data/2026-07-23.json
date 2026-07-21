@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "asOf": "Mon, Jul 20, 2026",
+  "asOf": "Tue, Jul 21, 2026",
   "events": [
     {
       "date": "2026-07-23",
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "United Kingdom",
       "event": "PPI Input",
       "actual": "",
-      "consensus": "-0.6%",
+      "consensus": "-0.7%",
       "previous": "0.2%",
       "description": "Producer Price Index (PPI) Input measures the change in the price of goods and raw materials purchased by manufacturers. The index is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "United Kingdom",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "-0.3%",
+      "consensus": "-0.1%",
       "previous": "0.5%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "United Kingdom",
       "event": "RPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "The Retail Price Index was first calculated for June 1947 and was the principal official measure of inflation in the UK before the start of the CPI figure. The main difference is that RPI includes mortgage interest payments as opposed to CPI which doesn't. . The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -217,7 +217,7 @@
       "country": "United Kingdom",
       "event": "House Price Index",
       "actual": "",
-      "consensus": "3.9%",
+      "consensus": "3.2%",
       "previous": "3.8%",
       "description": "The Office for National Statistics House Price Index measures the change in the selling price of homes. This data tends to have a relatively mild impact because there are several earlier indicators related to house prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "Crude Oil Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1.500M",
       "previous": "-1.692M",
       "description": "The Energy Information Administration's (EIA) Crude Oil Inventories measures the weekly change in the number of barrels of commercial crude oil held by US firms. The level of inventories influences the price of petroleum products, which can have an impact on inflation.\r\n<BR/><BR/>\r\nIf the increase in crude inventories is more than expected, it implies weaker demand and is bearish for crude prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in crude is less than expected, it implies greater demand and is bullish for crude prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -470,7 +470,7 @@
       "country": "South Korea",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "1.8%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
@@ -481,7 +481,7 @@
       "country": "South Korea",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "3.8%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
