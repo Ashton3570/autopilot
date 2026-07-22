@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "asOf": "Tue, Jul 21, 2026",
+  "asOf": "Wed, Jul 22, 2026",
   "events": [
     {
       "date": "2026-07-22",
@@ -262,7 +262,7 @@
       "event": "PPI",
       "actual": "0.0%",
       "consensus": "",
-      "previous": "0.8%",
+      "previous": "1.0%",
       "description": "The Producer Price Index (PPI) is designed to monitor changes in prices of items at the first important commercial transactions. The PPI shows the same general pattern of inflation as does Consumer price index, but is more volatile. This is because it is weighted more heavily towards goods that are traded in highly competitive markets and somewhat less sensitive to changes in the cost of labour. In principle, the PPI should include service industries. But in practice it is limited to the domestic agricultural and industrial sector. The prices should be farm-gate prices for the agricultural sector and ex-factory prices for the industrial sector. The PPI is worth watching as a leading indicator of inflation at the consumer level. Price changes at the wholesale level take time to work their way through to the retail store.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -273,7 +273,7 @@
       "event": "PPI",
       "actual": "8.6%",
       "consensus": "",
-      "previous": "8.5%",
+      "previous": "8.6%",
       "description": "The Producer Price Index (PPI) is designed to monitor changes in prices of items at the first important commercial transactions. The PPI shows the same general pattern of inflation as does Consumer price index, but is more volatile. This is because it is weighted more heavily towards goods that are traded in highly competitive markets and somewhat less sensitive to changes in the cost of labour. In principle, the PPI should include service industries. But in practice it is limited to the domestic agricultural and industrial sector. The prices should be farm-gate prices for the agricultural sector and ex-factory prices for the industrial sector. The PPI is worth watching as a leading indicator of inflation at the consumer level. Price changes at the wholesale level take time to work their way through to the retail store.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -282,9 +282,9 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Adjusted Trade Balance",
-      "actual": "",
+      "actual": "-0.88T",
       "consensus": "-0.56T",
-      "previous": "-0.09T",
+      "previous": "-0.22T",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -293,7 +293,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Exports",
-      "actual": "",
+      "actual": "19.3%",
       "consensus": "18.6%",
       "previous": "16.8%",
       "description": "This Exports number provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
@@ -304,7 +304,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Imports",
-      "actual": "",
+      "actual": "25.4%",
       "consensus": "21.0%",
       "previous": "12.5%",
       "description": "An import is any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the JPY while a higher than expected number as negative",
@@ -315,7 +315,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Trade Balance",
-      "actual": "",
+      "actual": "-406.9B",
       "consensus": "-120.0B",
       "previous": "-391.8B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
@@ -326,9 +326,9 @@
       "time_gmt": "21:00",
       "country": "Australia",
       "event": "MI Leading Index",
-      "actual": "",
+      "actual": "0.0%",
       "consensus": "",
-      "previous": "-0.0%",
+      "previous": "-0.1%",
       "description": "The Westpac/Melbourne Institute (MI) Leading Index is a composite index based on nine economic indicators, which is designed to predict the direction of the economy.The data is compiled from economic indicators related to consumer confidence, housing, stock market prices, money supply, and interest rate spreads. The report tends to have a muted impact because most of the indicators used in the calculation are released previously. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
     },
@@ -337,9 +337,9 @@
       "time_gmt": "23:00",
       "country": "New Zealand",
       "event": "Credit Card Spending",
-      "actual": "",
+      "actual": "3.1%",
       "consensus": "",
-      "previous": "5.1%",
+      "previous": "4.2%",
       "description": "Credit Card Spending measures the change in the credit card spending by individuals.\r\nIt is closely correlated with consumer spending and confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     }
