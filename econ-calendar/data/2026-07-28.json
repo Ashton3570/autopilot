@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "asOf": "Wed, Jul 22, 2026",
+  "asOf": "Thu, Jul 23, 2026",
   "events": [
     {
       "date": "2026-07-28",
@@ -154,6 +154,17 @@
       "consensus": "",
       "previous": "-54",
       "description": "The Confederation of British Industry (CBI) Distributive Trades Survey (DTS) measures \r\nthe health of the retail sector. The reading is compiled from a survey of about 150 retail and wholesale companies. It includes measures of sales activity across the distributive trades. It is a leading indicator of consumer spending. The figure is the difference between the percentage of retailers reporting an increase in sales and those reporting a decrease.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-28",
+      "time_gmt": "06:00",
+      "country": "Euro Zone",
+      "event": "ECOFIN Meetings",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {

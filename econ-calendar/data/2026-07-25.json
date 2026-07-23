@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "asOf": "Wed, Jul 22, 2026",
+  "asOf": "Thu, Jul 23, 2026",
   "events": [
     {
       "date": "2026-07-25",
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.4%",
       "previous": "1.2%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile. <br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "4.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile.<br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -85,7 +85,7 @@
       "country": "United Kingdom",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "-0.1%",
+      "consensus": "-0.3%",
       "previous": "1.2%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "United Kingdom",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.3%",
       "previous": "3.2%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -107,7 +107,7 @@
       "country": "Germany",
       "event": "GfK German Consumer Climate",
       "actual": "",
-      "consensus": "-28.5",
+      "consensus": "-28.7",
       "previous": "-29.2",
       "description": "The Gfk German Consumer Climate Index measures the level of consumer confidence in economic activity. The data is compiled from a survey of about 2,000 consumers which asks respondents to rate the relative level of past and future economic conditions.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -129,7 +129,7 @@
       "country": "France",
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
-      "consensus": "51.2",
+      "consensus": "51.0",
       "previous": "51.2",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "France",
       "event": "HCOB France Services PMI",
       "actual": "",
-      "consensus": "47.7",
+      "consensus": "47.5",
       "previous": "46.8",
       "description": "The French Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -162,7 +162,7 @@
       "country": "Germany",
       "event": "HCOB Germany Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.8",
       "previous": "49.5",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
-      "consensus": "50.5",
+      "consensus": "50.4",
       "previous": "50.3",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
-      "consensus": "51.6",
+      "consensus": "51.5",
       "previous": "51.4",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -206,7 +206,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "50.3",
       "previous": "50.0",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.7",
       "previous": "49.3",
       "description": "The Composite PMI Index measures the activity level of purchasing managers in the both sectors. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "52.1",
+      "consensus": "52.0",
       "previous": "52.5",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -393,7 +393,7 @@
       "country": "Canada",
       "event": "RMPI",
       "actual": "",
-      "consensus": "-2.7%",
+      "consensus": "-1.5%",
       "previous": "0.7%",
       "description": "The Raw Materials Price Index (RMPI) measures the change in the price of raw materials purchased by manufacturers. It is a leading indicator of consumer inflation, which accounts for a majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -404,7 +404,7 @@
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "54.5",
+      "consensus": "54.4",
       "previous": "53.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -426,7 +426,7 @@
       "country": "United States",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "51.4",
+      "consensus": "51.3",
       "previous": "51.2",
       "description": "The Service PMI release is published monthly by Markit Economics. The data are based on surveys of over 400 executives in private sector service companies. The surveys cover transport and communication, financial intermediaries, business and personal services, computing & IT, hotels and restaurants. <BR/>\r\nAn index level of 50 denotes no change since the previous month, while a level above 50 signals an improvement, and below 50 indicates a deterioration.\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": true
@@ -437,7 +437,7 @@
       "country": "United States",
       "event": "New Home Sales",
       "actual": "",
-      "consensus": "604K",
+      "consensus": "609K",
       "previous": "580K",
       "description": "New Home Sales measures the annualized number of new single-family homes that were sold during the previous month. This report tends to have more impact when it's released ahead of Existing Home Sales because the reports are tightly correlated.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
