@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "asOf": "Thu, Jul 23, 2026",
+  "asOf": "Fri, Jul 24, 2026",
   "events": [
     {
       "date": "2026-07-28",
@@ -37,6 +37,28 @@
     },
     {
       "date": "2026-07-28",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "13.0%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-28",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.7%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-28",
       "time_gmt": "04:00",
       "country": "Germany",
       "event": "German Business Expectations",
@@ -63,7 +85,7 @@
       "country": "Germany",
       "event": "German Ifo Business Climate Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "86.1",
       "previous": "85.6",
       "description": "The German Ifo Business Climate Index rates the current German business climate and measures expectations for the next six months. It is a composite index based on a survey of manufacturers, builders, wholesalers and retailers. The index is compiled by the Ifo Institute for Economic Research.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -74,7 +96,7 @@
       "country": "Euro Zone",
       "event": "M3 Money Supply",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "3.2%",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
@@ -159,6 +181,17 @@
     {
       "date": "2026-07-28",
       "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-28",
+      "time_gmt": "06:00",
       "country": "Euro Zone",
       "event": "ECOFIN Meetings",
       "actual": "",
@@ -195,7 +228,7 @@
       "country": "United States",
       "event": "Core Durable Goods Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.9%",
       "previous": "1.4%",
       "description": "Core Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, excluding transportation items. Because aircraft orders are very volatile, the core number gives a better gauge of ordering trends. A higher reading indicates increased manufacturing activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -206,7 +239,7 @@
       "country": "United States",
       "event": "Durable Goods Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.6%",
       "previous": "-4.5%",
       "description": "Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, including transportation items.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
