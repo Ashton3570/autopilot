@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "asOf": "Fri, Jul 24, 2026",
+  "asOf": "Sat, Jul 25, 2026",
   "events": [
     {
       "date": "2026-07-29",
@@ -41,7 +41,7 @@
       "country": "Spain",
       "event": "Spanish Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "10.70%",
       "previous": "10.83%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR, while a lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": true
@@ -217,7 +217,7 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "0.1%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -239,7 +239,7 @@
       "country": "United States",
       "event": "House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "-0.1%",
       "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "S&P/CS HPI Composite - 20 n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "1.1%",
       "description": "The S&P/Case-Shiller House Price Index measures the change in the selling price of single-family homes in 20 metropolitan areas.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false

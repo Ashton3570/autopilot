@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "asOf": "Fri, Jul 24, 2026",
+  "asOf": "Sat, Jul 25, 2026",
   "events": [
     {
       "date": "2026-07-28",
@@ -129,7 +129,7 @@
       "country": "Euro Zone",
       "event": "Private Sector Loans",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.1%",
       "previous": "3.1%",
       "description": "Private Loans measures the change in the total value of new loans issued to consumers and businesses in the private sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "United Kingdom",
       "event": "CBI Distributive Trades Survey",
       "actual": "",
-      "consensus": "",
+      "consensus": "-45",
       "previous": "-54",
       "description": "The Confederation of British Industry (CBI) Distributive Trades Survey (DTS) measures \r\nthe health of the retail sector. The reading is compiled from a survey of about 150 retail and wholesale companies. It includes measures of sales activity across the distributive trades. It is a leading indicator of consumer spending. The figure is the difference between the percentage of retailers reporting an increase in sales and those reporting a decrease.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -382,7 +382,7 @@
       "country": "United Kingdom",
       "event": "BRC Shop Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.2%",
       "previous": "1.2%",
       "description": "The British Retail Consortium (BRC) Shop Price Index measures price changes in BRC-member retail outlets in the U.K.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
