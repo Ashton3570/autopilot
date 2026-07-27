@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "asOf": "Sun, Jul 26, 2026",
+  "asOf": "Mon, Jul 27, 2026",
   "events": [
     {
       "date": "2026-07-30",
@@ -56,6 +56,17 @@
       "previous": "-25.0",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Expectations Index rates the relative six-month economic outlook for Switzerland. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": false
+    },
+    {
+      "date": "2026-07-30",
+      "time_gmt": "04:20",
+      "country": "Russia",
+      "event": "GDP Monthly",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.3%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
+      "high_impact": true
     },
     {
       "date": "2026-07-30",

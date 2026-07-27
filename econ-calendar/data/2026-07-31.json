@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "asOf": "Sun, Jul 26, 2026",
+  "asOf": "Mon, Jul 27, 2026",
   "events": [
     {
       "date": "2026-07-31",
@@ -319,6 +319,17 @@
       "consensus": "",
       "previous": "-0.3%",
       "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "04:18",
+      "country": "Russia",
+      "event": "GDP Monthly",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.3%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
     },
     {
@@ -907,17 +918,6 @@
     {
       "date": "2026-07-31",
       "time_gmt": "13:04",
-      "country": "Russia",
-      "event": "GDP Monthly",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.3%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-07-31",
-      "time_gmt": "13:04",
       "country": "South Africa",
       "event": "Budget Balance",
       "actual": "",
@@ -935,6 +935,28 @@
       "consensus": "",
       "previous": "72.96K",
       "description": "Employment is the total number of persons above a specified age, who in a short reference period (e.g. a week or a day), were in paid employment or self-employment. Paid employment includes persons who worked in the reference period or who had a job but were temporarily absent from work. Self-employment \r\nincludes persons who either worked in the reference period or were temporarily absent from work.Series data show evolution of formal employment in Brazil. It is measured by the movements declared in CAGED - Cadastro Geral de Empregados e Desempregados (General Register of Employment and Unemployment) of the Ministry of Labour. There are separate series for thousands of admitted and dismissed employees per month (registered in CAGED), as well as for net, i.e. admitted less dismissed. Totals of admitted, dismissed and net are also broken down to eight main sectors of economic activity according to the IBGE.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Fed's Balance Sheet",
+      "actual": "",
+      "consensus": "",
+      "previous": "6,747B",
+      "description": "The Fed balance sheet is a statement listing the assets and liabilities of the Federal Reserve System. Details of the Fed's balance sheet are disclosed by the Fed in a weekly report called \"Factors Affecting Reserve Balances.\"",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Reserve Balances with Federal Reserve Banks",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.064T",
+      "description": "Reserve Balances with Federal Reserve Banks is the amount of money that depository institutions maintain in their accounts at their regional Federal Reserve Banks.",
       "high_impact": false
     },
     {

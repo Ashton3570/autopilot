@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "asOf": "Sun, Jul 26, 2026",
+  "asOf": "Mon, Jul 27, 2026",
   "events": [
     {
       "date": "2026-08-01",
@@ -129,9 +129,9 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "1.8%",
-      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.3%",
+      "previous": "-0.3%",
+      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -140,9 +140,9 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "0.3%",
-      "previous": "-0.3%",
-      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "1.8%",
+      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -171,22 +171,22 @@
       "date": "2026-08-01",
       "time_gmt": "02:45",
       "country": "France",
-      "event": "French PPI",
+      "event": "PPI",
       "actual": "",
       "consensus": "",
-      "previous": "-0.3%",
-      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "previous": "3.00%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
       "date": "2026-08-01",
       "time_gmt": "02:45",
       "country": "France",
-      "event": "PPI",
+      "event": "French PPI",
       "actual": "",
       "consensus": "",
-      "previous": "3.00%",
-      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "-0.3%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -350,7 +350,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "",
-      "previous": "3.0%",
+      "previous": "0.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -361,7 +361,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "",
-      "previous": "0.0%",
+      "previous": "3.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -393,9 +393,9 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "-0.1%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "consensus": "2.9%",
+      "previous": "2.8%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -404,9 +404,9 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "2.9%",
-      "previous": "2.8%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "-0.1%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -462,6 +462,17 @@
       "consensus": "",
       "previous": "",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-01",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "676.24B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
     {
