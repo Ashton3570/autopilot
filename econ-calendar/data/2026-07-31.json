@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "asOf": "Tue, Jul 28, 2026",
+  "asOf": "Wed, Jul 29, 2026",
   "events": [
     {
       "date": "2026-07-31",
@@ -41,7 +41,7 @@
       "country": "France",
       "event": "French GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "0.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Switzerland",
       "event": "KOF Leading Indicators",
       "actual": "",
-      "consensus": "100.7",
+      "consensus": "100.9",
       "previous": "101.2",
       "description": "The KOF Leading Indicators Index is designed to predict the direction of the economy over the following six months. The index is a composite reading of 12 economic indicators related to banking confidence, production, new orders, consumer confidence and housing.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": false
@@ -85,7 +85,7 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "0.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "3.1%",
+      "consensus": "3.2%",
       "previous": "3.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "Spain",
       "event": "Spanish GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.7%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR. This is the final reading",
       "high_impact": true
@@ -129,7 +129,7 @@
       "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.2%",
       "previous": "0.6%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -140,7 +140,7 @@
       "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.7%",
       "previous": "3.6%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "Italy",
       "event": "Italian GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.7%",
       "previous": "0.8%",
       "description": "Gross Domestic Product (GDP) is the broadest measure of economic activity and is a key indicator of economic health. The quarterly percent changes in GDP show the growth rate of the economy as a whole. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -250,7 +250,7 @@
       "country": "Germany",
       "event": "German GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.6%",
       "previous": "0.4%",
       "description": "Gross Domestic Product (GDP)  is the broadest measure of economic activity and is a key indicator of economic health. \r\nThe quarterly percent changes in GDP show the growth rate of the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -338,7 +338,7 @@
       "country": "Italy",
       "event": "Italian Monthly Unemployment Rate",
       "actual": "",
-      "consensus": "5.1%",
+      "consensus": "5.0%",
       "previous": "5.0%",
       "description": "The Italian unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.This data tends to have a muted impact since there are several earlier indicators related to the euro zone labor market.",
       "high_impact": true
@@ -349,7 +349,7 @@
       "country": "Euro Zone",
       "event": "Business and Consumer Survey",
       "actual": "",
-      "consensus": "",
+      "consensus": "96.0",
       "previous": "95.0",
       "description": "The Business and Consumer Survey is a composite index which measures the level of confidence in the euro zone. The index is compiled from five different indicator surveys which are taken on a monthly basis, including: industrial, services, consumer, retail, and construction. The survey can indicate potential in both consumer and business spending in the euro zone.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -404,7 +404,7 @@
       "country": "Euro Zone",
       "event": "Services Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.8",
       "previous": "3.2",
       "description": "Balances: i.e. Differences between the percentages of respondents giving positive and negative replies.The indicator is an average of the responses (seasonally adjusted balances) to the questions on business climate and evolution of demand.",
       "high_impact": false
@@ -426,7 +426,7 @@
       "country": "Euro Zone",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.3%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR.",
       "high_impact": true
@@ -437,7 +437,7 @@
       "country": "Euro Zone",
       "event": "Industrial Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-7.0",
       "previous": "-7.7",
       "description": "Industrial Sentiment is an indicator that measures the mood of consumers or businesses. based on a survey during which respondents rate their opinion on different issues concerning current and future conditions. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
       "high_impact": false
@@ -452,6 +452,39 @@
       "previous": "6.2%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month. The data tends to have a muted impact as there are several earlier indicators related to  labor conditions in the euro zone.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR, while a lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": true
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 10-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.63%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. \r\n<BR/><BR/>Italian BTP bonds have maturities of five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 15-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.23%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 5-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.03%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
     },
     {
       "date": "2026-07-31",
@@ -569,9 +602,20 @@
       "country": "Brazil",
       "event": "IGP-M Inflation Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1.07%",
       "previous": "-0.50%",
       "description": "An index that measures and tracks the changes in price of goods in the stages before the retail level. Wholesale price indexes (WPIs) report monthly to show the average price changes of goods sold in bulk, and they are a group of the indicators that follow growth in the economy. \r\nAlthough some countries still use the WPIs as a measure of inflation, many countries, including the United States, use the producer price index (PPI) instead.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-07-31",
+      "time_gmt": "07:30",
+      "country": "United Kingdom",
+      "event": "BoE Gov Bailey Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of England (BOE) Governor Andrew Bailey (Mar 2020 - Mar 2028) is to speak. As head of the BOE's Monetary Policy Committee (MPC) which controls short term interest rates, Bailey has more influence over sterling's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\n\nHis comments may spark a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -602,7 +646,7 @@
       "country": "Germany",
       "event": "German CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.7%",
       "previous": "2.3%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -613,7 +657,7 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "-0.2%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
@@ -624,7 +668,7 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.8%",
       "previous": "2.4%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
@@ -646,7 +690,7 @@
       "country": "Brazil",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.5%",
       "previous": "5.6%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": true
@@ -657,7 +701,7 @@
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "1,800K",
       "previous": "1,796K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -668,7 +712,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.2%",
       "previous": "0.3%",
       "description": "The Core Personal Consumption Expenditure (PCE) Price Index measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -679,7 +723,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "3.4%",
       "description": "The Core PCE price Index is the less volatile measure of the PCE price index which excludes the more volatile and seasonal food and energy prices. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -690,7 +734,7 @@
       "country": "United States",
       "event": "Core PCE Prices",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.50%",
       "previous": "4.40%",
       "description": "The Core Personal Consumption Expenditure (PCE) Prices release measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -712,7 +756,7 @@
       "country": "United States",
       "event": "GDP Price Index",
       "actual": "",
-      "consensus": "3.7%",
+      "consensus": "4.1%",
       "previous": "3.6%",
       "description": "The GDP Price Index measures the annualized change in the price of all goods and services included in gross domestic product.It is the broadest inflationary indicator.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -734,7 +778,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "206K",
+      "consensus": "201K",
       "previous": "187K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -756,7 +800,7 @@
       "country": "United States",
       "event": "PCE price index",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.4%",
       "description": "The PCE price index, also referred to as the PCE deflator, is a United States-wide indicator of the average increase in prices for all domestic personal consumption. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -767,7 +811,7 @@
       "country": "United States",
       "event": "PCE Price index",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.7%",
       "previous": "4.1%",
       "description": "The PCE price index, also referred to as the PCE deflator, is a United States-wide indicator of the average increase in prices for all domestic personal consumption. The impact on the currency may go both ways: a rise in CPI may lead to a rise in interest rates and a rise in local currency; on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -888,7 +932,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "37B",
       "previous": "32B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -965,7 +1009,7 @@
       "country": "South Korea",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.5%",
       "previous": "-0.9%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": false
@@ -976,7 +1020,7 @@
       "country": "South Korea",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.9%",
       "previous": "-3.0%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": false
@@ -1020,7 +1064,7 @@
       "country": "Japan",
       "event": "Jobs/applications ratio",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.17",
       "previous": "1.17",
       "description": "The jobs/applications ratio measures the ratio between job applications and actual jobs. This is an indicator of the health of employment in the economy. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
@@ -1130,8 +1174,8 @@
       "country": "Japan",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "2.8%",
-      "previous": "5.0%",
+      "consensus": "3.1%",
+      "previous": "5.3%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },
