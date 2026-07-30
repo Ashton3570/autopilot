@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "asOf": "Wed, Jul 29, 2026",
+  "asOf": "Thu, Jul 30, 2026",
   "events": [
     {
       "date": "2026-08-01",
@@ -19,7 +19,7 @@
       "country": "Japan",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "13.2%",
+      "consensus": "12.7%",
       "previous": "33.9%",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -41,9 +41,9 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "",
-      "previous": "2.2%",
-      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
+      "consensus": "0.1%",
+      "previous": "0.0%",
+      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
@@ -52,9 +52,31 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
-      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "consensus": "1.9%",
+      "previous": "2.2%",
+      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-01",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German Import Price Index",
+      "actual": "",
+      "consensus": "-0.7%",
+      "previous": "0.7%",
+      "description": "The German Import Price Index measures the change in the price of imported goods purchased domestically.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-01",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German Import Price Index",
+      "actual": "",
+      "consensus": "6.0%",
+      "previous": "6.8%",
+      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect ofreducing the value of Imports by the amount of the cost of insurance and freight.",
       "high_impact": false
     },
     {
@@ -63,7 +85,7 @@
       "country": "Switzerland",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "3.2%",
+      "consensus": "3.1%",
       "previous": "3.5%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -85,8 +107,8 @@
       "country": "France",
       "event": "French CPI NSA",
       "actual": "",
-      "consensus": "",
-      "previous": "-0.30%",
+      "consensus": "1.80%",
+      "previous": "1.80%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -96,8 +118,8 @@
       "country": "France",
       "event": "French CPI NSA",
       "actual": "",
-      "consensus": "",
-      "previous": "1.80%",
+      "consensus": "0.30%",
+      "previous": "-0.30%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -129,8 +151,8 @@
       "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "",
-      "previous": "-0.3%",
+      "consensus": "2.1%",
+      "previous": "2.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -140,21 +162,10 @@
       "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "",
-      "previous": "2.0%",
+      "consensus": "0.3%",
+      "previous": "-0.3%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
-    },
-    {
-      "date": "2026-08-01",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French PPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "-0.3%",
-      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
     },
     {
       "date": "2026-08-01",
@@ -165,6 +176,17 @@
       "consensus": "",
       "previous": "3.00%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-01",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French PPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.3%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -206,7 +228,7 @@
       "country": "Germany",
       "event": "German Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.3%",
       "previous": "6.3%",
       "description": "The German unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the reported month. \r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR,\r\nwhile a lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": true
@@ -239,7 +261,7 @@
       "country": "Italy",
       "event": "Italian Business Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "88.9",
       "previous": "88.4",
       "description": "Business Confidence rates the current level of business conditions. It helps to analyze the economic situation in the short term. A rising trend indicates an increase in business investment which may lead to higher levels of output.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -250,7 +272,7 @@
       "country": "Italy",
       "event": "Italian Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "92.5",
       "previous": "92.4",
       "description": "Italian Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -272,7 +294,7 @@
       "country": "Hong Kong",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.3%",
       "previous": "2.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the HKD, while a lower than expected reading should be taken as negative/bearish for the HKD.",
       "high_impact": true
@@ -283,7 +305,7 @@
       "country": "Hong Kong",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.8%",
       "previous": "5.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.\r\nA higher than expected reading should be taken as positive/bullish for the HKD, while a lower than expected reading should be taken as negative/bearish for the HKD.",
       "high_impact": true
@@ -305,7 +327,7 @@
       "country": "Italy",
       "event": "Italian CPI",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.3%",
       "previous": "0.0%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -316,7 +338,7 @@
       "country": "Italy",
       "event": "Italian CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.8%",
       "previous": "3.0%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -327,7 +349,7 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1.0%",
       "previous": "0.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -338,7 +360,7 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.8%",
       "previous": "3.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -492,7 +514,7 @@
       "country": "Brazil",
       "event": "Budget Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-133.200B",
       "previous": "-163.679B",
       "description": "Brazil's consolidated public sector comprises the Central Government, regional governments and public enterprises. The nominal (fiscal) budget balance includesdebt servicing costs. For calculation of the nominal result, nominal interest ofthe federal government is included on an accrual basis. Fiscal statistics presented according to the \"above the line\" criterion applied by the National Treasury Secretariat to consolidate, compile and produce the data.",
       "high_impact": false
@@ -514,7 +536,7 @@
       "country": "Brazil",
       "event": "Gross Debt-to-GDP ratio",
       "actual": "",
-      "consensus": "",
+      "consensus": "81.5%",
       "previous": "81.1%",
       "description": "Gross Debt-to-GDP ratio is one of the indicators of the health of an economy. It is the amount of national debt of a country as a percentage of its Gross Domestic Product (GDP). A low Gross Debt-to-GDP ratio indicates an economy that produces a large number of goods and services and probably profits that are high enough to pay back debts. A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": true
@@ -580,19 +602,19 @@
       "country": "Canada",
       "event": "GDP",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.2%",
       "previous": "0.5%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
       "date": "2026-08-01",
-      "time_gmt": "08:30",
+      "time_gmt": "08:31",
       "country": "Canada",
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "0.5%",
+      "previous": "",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
@@ -614,7 +636,7 @@
       "event": "Michigan 1-Year Inflation Expectations",
       "actual": "",
       "consensus": "4.2%",
-      "previous": "4.2%",
+      "previous": "4.6%",
       "description": "University of Michigan (UoM) Inflation Expectations measures the percentage that consumers expect the price of goods and services to change during the next 12 months. There are two versions of this data released two weeks apart,Preliminary and Revised. The preliminary release is the earliest so tends to have more impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
@@ -636,7 +658,7 @@
       "event": "Michigan Consumer Expectations",
       "actual": "",
       "consensus": "54.0",
-      "previous": "54.0",
+      "previous": "50.7",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. This number is the expectations part of the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number.",
       "high_impact": false
     },
@@ -647,7 +669,7 @@
       "event": "Michigan Consumer Sentiment",
       "actual": "",
       "consensus": "54.4",
-      "previous": "54.4",
+      "previous": "49.5",
       "description": "The University of Michigan Consumer Sentiment Index rates the relative level of current and future economic conditions. There are two versions of this data released two weeks apart, preliminary and revised. The preliminary data tends to have a greater impact. The reading is compiled from a survey of around 500 consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -658,7 +680,7 @@
       "event": "Michigan Current Conditions",
       "actual": "",
       "consensus": "54.9",
-      "previous": "54.9",
+      "previous": "47.7",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. All five questions have equal weight in determining the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number. This is the preliminary number.",
       "high_impact": false
     },

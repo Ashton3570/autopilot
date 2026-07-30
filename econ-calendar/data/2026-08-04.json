@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "asOf": "Wed, Jul 29, 2026",
+  "asOf": "Thu, Jul 30, 2026",
   "events": [
     {
       "date": "2026-08-04",
@@ -356,6 +356,17 @@
     },
     {
       "date": "2026-08-04",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "Atlanta Fed GDPNow",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-04",
       "time_gmt": "12:30",
       "country": "Italy",
       "event": "Italian Car Registration",
@@ -363,6 +374,17 @@
       "consensus": "",
       "previous": "10.6%",
       "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-04",
+      "time_gmt": "14:00",
+      "country": "United States",
+      "event": "Loan Officer Survey",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Survey of up to eighty large domestic banks and twenty-four U.S. branches and agencies of foreign banks. The Federal Reserve occasionally conducts one or two additional surveys during the year. Questions cover changes in the standards and terms of the banks' lending and the state of business and household demand for loans. The survey often includes questions on one or two other topics of current interest.",
       "high_impact": false
     },
     {
