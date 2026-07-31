@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "asOf": "Thu, Jul 30, 2026",
+  "asOf": "Fri, Jul 31, 2026",
   "events": [
     {
       "date": "2026-08-05",
@@ -540,6 +540,17 @@
       "previous": "52.0",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the HKD while a lower than expected reading should be taken as negative/bearish for the HKD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-05",
+      "time_gmt": "21:00",
+      "country": "New Zealand",
+      "event": "ANZ Commodity Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-1.0%",
+      "description": "The ANZ Commodity Price Index measures the change in the selling price of exported commodities. Commodities exports comprise a major part of New Zealand's economy. The data also has an effect on the country's trade balance. The report is released monthly by ANZ, one of New Zealand's leading banking and financial services firms.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
     },
     {
       "date": "2026-08-05",

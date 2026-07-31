@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "asOf": "Thu, Jul 30, 2026",
+  "asOf": "Fri, Jul 31, 2026",
   "events": [
     {
       "date": "2026-08-03",
@@ -30,8 +30,8 @@
       "country": "Australia",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "51.7",
+      "consensus": "51.7",
+      "previous": "51.5",
       "description": "The Australian Manufacturing Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
     },
@@ -74,7 +74,7 @@
       "country": "China",
       "event": "RatingDog Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.5",
       "previous": "51.7",
       "description": "The Chinese RatingDog Manufacturing PMI is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. When the PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy.<br/><br/>\r\nFlash figures are released approximately 6 business days prior to the end of the month. Final figures overwrite the flash figures upon release and are in turn overwritten as the next Flash is available. <br/><br/>\r\nThe Chinese RatingDog Manufacturing PMI is concluded from a monthly survey of about 430 purchasing managers which asks respondents to rate the relative level of business conditions including employment, production, new orders, prices, supplier deliveries, and inventories.<br/><br/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
