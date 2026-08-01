@@ -1,17 +1,5 @@
 {
   "date": "2026-08-02",
-  "asOf": "Fri, Jul 31, 2026",
-  "events": [
-    {
-      "date": "2026-08-02",
-      "time_gmt": "All Day",
-      "country": "Russia",
-      "event": "Russia - Non Trading Day",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "",
-      "high_impact": false
-    }
-  ]
+  "asOf": null,
+  "events": []
 }
