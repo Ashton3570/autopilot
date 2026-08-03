@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "asOf": "Sun, Aug 2, 2026",
+  "asOf": "Mon, Aug 3, 2026",
   "events": [
     {
       "date": "2026-08-05",
@@ -118,8 +118,8 @@
       "country": "Brazil",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
-      "previous": "0.2%",
+      "consensus": "-0.7%",
+      "previous": "-0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
     },
@@ -129,31 +129,9 @@
       "country": "Brazil",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
-      "previous": "-0.2%",
+      "consensus": "3.0%",
+      "previous": "0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-05",
-      "time_gmt": "08:00",
-      "country": "New Zealand",
-      "event": "GlobalDairyTrade Price Index",
-      "actual": "",
-      "consensus": "",
-      "previous": "1.5%",
-      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-05",
-      "time_gmt": "08:00",
-      "country": "New Zealand",
-      "event": "Milk Auctions",
-      "actual": "",
-      "consensus": "",
-      "previous": "3,815.0",
-      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
       "high_impact": false
     },
     {
@@ -312,6 +290,28 @@
     },
     {
       "date": "2026-08-05",
+      "time_gmt": "11:00",
+      "country": "New Zealand",
+      "event": "GlobalDairyTrade Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.5%",
+      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-05",
+      "time_gmt": "11:00",
+      "country": "New Zealand",
+      "event": "Milk Auctions",
+      "actual": "",
+      "consensus": "",
+      "previous": "3,815.0",
+      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-05",
       "time_gmt": "11:30",
       "country": "United States",
       "event": "52-Week Bill Auction",
@@ -341,17 +341,6 @@
       "consensus": "",
       "previous": "11.4%",
       "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-05",
-      "time_gmt": "14:00",
-      "country": "United States",
-      "event": "Total Vehicle Sales",
-      "actual": "",
-      "consensus": "",
-      "previous": "16.50M",
-      "description": "Total Vehicle Sales measures the annualized number of new vehicles sold domestically in the reported month. It is an important indicator of consumer spending and is also correlated to consumer confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -393,8 +382,8 @@
       "country": "New Zealand",
       "event": "Labor Cost Index",
       "actual": "",
-      "consensus": "0.6%",
-      "previous": "0.5%",
+      "consensus": "",
+      "previous": "2.0%",
       "description": "The Labor Cost Index measures the change in the price businesses pay for labor, excluding overtime. It is a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
@@ -404,8 +393,8 @@
       "country": "New Zealand",
       "event": "Labor Cost Index",
       "actual": "",
-      "consensus": "",
-      "previous": "2.0%",
+      "consensus": "0.6%",
+      "previous": "0.5%",
       "description": "The Labor Cost Index measures the change in the price businesses pay for labor, excluding overtime. It is a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
@@ -460,7 +449,7 @@
       "event": "S&P Global Manufacturing & Services PMI",
       "actual": "",
       "consensus": "52.60",
-      "previous": "52.60",
+      "previous": "50.40",
       "description": "",
       "high_impact": true
     },
@@ -471,7 +460,7 @@
       "event": "S&P Global Services PMI",
       "actual": "",
       "consensus": "53.0",
-      "previous": "53.0",
+      "previous": "50.5",
       "description": "The Australian Services Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the services sector. The report is based on surveys of over 300 business executives in private sector services companies. Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD , while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
     },
@@ -482,7 +471,7 @@
       "event": "Overall wage income of employees",
       "actual": "",
       "consensus": "3.4%",
-      "previous": "3.3%",
+      "previous": "3.2%",
       "description": "One of the statistical figures used by the Cabinet Office in monthly economic reports. It is announced by the Cabinet Office, and represents the total amount of wages received by all Japanese workers.\r\nA higher than expected result would be positive news for the yen, whilst a lower than expected result would be negative news for the yen.",
       "high_impact": false
     },
@@ -493,7 +482,7 @@
       "event": "Overtime Pay",
       "actual": "",
       "consensus": "",
-      "previous": "2.80%",
+      "previous": "2.90%",
       "description": "Wages and salaries are defined as \"the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in returnfor work done during the accounting period\" regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not.Non-scheduled cash earnings are the wages paid for work performed outsidescheduled working hours, and on days off or night work, that is allowances for working outside work hours, night work, early morning work, and overnight duty.",
       "high_impact": false
     },

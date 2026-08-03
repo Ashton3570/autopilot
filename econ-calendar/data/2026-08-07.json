@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "asOf": "Sun, Aug 2, 2026",
+  "asOf": "Mon, Aug 3, 2026",
   "events": [
     {
       "date": "2026-08-07",
@@ -341,6 +341,28 @@
       "consensus": "",
       "previous": "9.76B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Fed's Balance Sheet",
+      "actual": "",
+      "consensus": "",
+      "previous": "6,738B",
+      "description": "The Fed balance sheet is a statement listing the assets and liabilities of the Federal Reserve System. Details of the Fed's balance sheet are disclosed by the Fed in a weekly report called \"Factors Affecting Reserve Balances.\"",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Reserve Balances with Federal Reserve Banks",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.944T",
+      "description": "Reserve Balances with Federal Reserve Banks is the amount of money that depository institutions maintain in their accounts at their regional Federal Reserve Banks.",
       "high_impact": false
     },
     {

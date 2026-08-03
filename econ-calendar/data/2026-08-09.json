@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-09",
+  "asOf": "Mon, Aug 3, 2026",
+  "events": [
+    {
+      "date": "2026-08-09",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French Reserve Assets Total",
+      "actual": "",
+      "consensus": "",
+      "previous": "355,389.0M",
+      "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-09",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.0%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-09",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.3%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-09",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "PPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.1%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    }
+  ]
+}
