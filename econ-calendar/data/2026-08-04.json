@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "asOf": "Mon, Aug 3, 2026",
+  "asOf": "Tue, Aug 4, 2026",
   "events": [
     {
       "date": "2026-08-04",
@@ -403,7 +403,7 @@
       "time_gmt": "19:00",
       "country": "South Korea",
       "event": "CPI",
-      "actual": "",
+      "actual": "2.8%",
       "consensus": "3.0%",
       "previous": "3.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
@@ -414,7 +414,7 @@
       "time_gmt": "19:00",
       "country": "South Korea",
       "event": "CPI",
-      "actual": "",
+      "actual": "-0.2%",
       "consensus": "0.1%",
       "previous": "0.1%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
@@ -425,7 +425,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Monetary Base",
-      "actual": "",
+      "actual": "-13.8%",
       "consensus": "-13.0%",
       "previous": "-13.7%",
       "description": "Monetary Base measures the change in the total amount of domestic currency in circulation and current account deposits held at the Bank of Japan. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
@@ -433,21 +433,10 @@
     },
     {
       "date": "2026-08-04",
-      "time_gmt": "21:30",
-      "country": "Australia",
-      "event": "ANZ Job Advertisements",
-      "actual": "",
-      "consensus": "",
-      "previous": "-0.2%",
-      "description": "The Australia and New Zealand Banking Group (ANZ) Job Advertisements report measures the change in the number of jobs advertised in the major daily newspapers and websites covering the capital cities. This report tends to have a greater impact when it is released ahead of government employment data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-04",
       "time_gmt": "23:35",
       "country": "Japan",
       "event": "10-Year JGB Auction",
-      "actual": "",
+      "actual": "2.840%",
       "consensus": "",
       "previous": "2.730%",
       "description": "The figures displayed in the calendar represent the yield on the JGB auctioned.<BR/><BR/> JGB's have maturities of up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a JGB represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
