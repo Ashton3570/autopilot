@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "asOf": "Tue, Aug 4, 2026",
+  "asOf": "Wed, Aug 5, 2026",
   "events": [
     {
       "date": "2026-08-07",
@@ -118,7 +118,7 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "1.1%",
       "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
       "high_impact": false
@@ -147,6 +147,39 @@
     },
     {
       "date": "2026-08-07",
+      "time_gmt": "04:40",
+      "country": "Spain",
+      "event": "Spanish 10-Year Obligacion Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.395%",
+      "description": "The figures displayed in the calendar represent the average yield on the Obligaciones del Estado or ODE auctioned.<BR/><BR/> Spanish ODE bonds have maturities of above then five years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the ODE represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "04:40",
+      "country": "Spain",
+      "event": "Spanish 5-Year Bonos Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.835%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bonos del Estado or BDE auctioned.<BR/><BR/> Spanish BDE bonds have maturities of between two to five years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BDE represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "04:40",
+      "country": "Spain",
+      "event": "Spanish 7-Year Obligacion Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.297%",
+      "description": "The figures displayed in the calendar represent the average yield on the Obligaciones del Estado or ODE auctioned.<BR/><BR/> Spanish ODE bonds have maturities of above then five years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the ODE represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
       "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "Retail Sales",
@@ -162,7 +195,7 @@
       "country": "Euro Zone",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "1.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -195,7 +228,7 @@
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "1,790K",
       "previous": "1,782K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -206,7 +239,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "205K",
+      "consensus": "203K",
       "previous": "197K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -228,7 +261,7 @@
       "country": "United States",
       "event": "Nonfarm Productivity",
       "actual": "",
-      "consensus": "0.7%",
+      "consensus": "0.6%",
       "previous": "0.3%",
       "description": "Nonfarm Productivity measures the annualized change in labor efficiency when producing goods and services, excluding the farming industry. Productivity and labor-related inflation are directly linked-a drop in a worker's productivity is equivalent to a rise in their wage.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -239,7 +272,7 @@
       "country": "United States",
       "event": "Unit Labor Costs",
       "actual": "",
-      "consensus": "2.1%",
+      "consensus": "2.2%",
       "previous": "1.8%",
       "description": "Unit Labor Costs measure the annualized change in the price businesses pay for labor, excluding the farming industry. It is a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -294,7 +327,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "30B",
       "previous": "28B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -338,9 +371,20 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "8.40B",
       "previous": "9.76B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "14:30",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
       "high_impact": false
     },
     {
@@ -371,7 +415,7 @@
       "country": "Japan",
       "event": "Household Spending",
       "actual": "",
-      "consensus": "0.9%",
+      "consensus": "0.8%",
       "previous": "-0.4%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -382,7 +426,7 @@
       "country": "Japan",
       "event": "Household Spending",
       "actual": "",
-      "consensus": "",
+      "consensus": "-3.1%",
       "previous": "3.7%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false

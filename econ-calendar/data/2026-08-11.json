@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-11",
+  "asOf": "Wed, Aug 5, 2026",
+  "events": [
+    {
+      "date": "2026-08-11",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "Economy Watchers Current Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "44.0",
+      "description": "The Economy Watchers Current Index measures the current mood of businesses that directly service consumers, such as barbers, taxi drivers, and waiters. The data is compiled from a survey of about 2,000 workers. A reading above 50.0 indicates optimism; below indicates pessimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "04:30",
+      "country": "Euro Zone",
+      "event": "Sentix Investor Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "-3.1",
+      "description": "The Sentix Investor Confidence Index rates the relative six-month economic outlook for the euro zone. The data is compiled from a survey of about 2,800 investors and analysts. A reading above zero indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "07:25",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 12-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.738%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 3-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.448%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 6-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.585%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "CB Employment Trends Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "106.69",
+      "description": "The eight labor-market indicators listed below aggregated into the Employment Trends Index. </BR>Percentage of respondents who say they find \"\"Jobs Hard to Get\"\" (The Conference Board Consumer Confidence Survey).Initial Claims for Unemployment Insurance (U.S. Department of Labor). Percentage of Firms With Positions Not Able to Fill Right Now (National Federation of Independent Business).Number of employees hired by the temporary-help industry (U.S. Bureau of Labor Statistics).Part-time Workers for Economic Reasons (BLS).Job Openings (BLS). Industrial Production (Federal Reserve Board).Real Manufacturing and Trade Sales (U.S. Bureau of Economic Analysis).</BR>A higher than expected reading should be taken as positive/bullish for the USD , while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "3-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.750%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "6-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.855%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "BRC Retail Sales Monitor",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.7%",
+      "description": "The British Retail Consortium (BRC) Retail Sales Monitor measures the change in the value of same-store sales in BRC-member retail outlets in the U.K.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "NAB Business Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "-5",
+      "description": "The National Australia Bank (NAB) Business Confidence Index rates the current level of business conditions in Australia. Changes in business sentiment can be an early signal of future economic activity such as spending, hiring, and investment. The index is based on data collected from a survey of around 350 companies. A level above zero indicates improving conditions; below indicates worsening conditions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "NAB Business Survey",
+      "actual": "",
+      "consensus": "",
+      "previous": "3",
+      "description": "Business confidence is a measure of respondents expectations of business conditions in their industry for the upcoming period. Business conditions is a simple average of trading, profitability and employment indices, reported by respondents for their company. A higher than expected number should be taken as positive to the AUD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "All Day",
+      "country": "South Africa",
+      "event": "South Africa - Women's Day",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "All Day",
+      "country": "Singapore",
+      "event": "Singapore - National Day",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    }
+  ]
+}
