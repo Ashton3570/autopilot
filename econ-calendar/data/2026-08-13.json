@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "asOf": "Thu, Aug 6, 2026",
+  "asOf": "Fri, Aug 7, 2026",
   "events": [
     {
       "date": "2026-08-13",
@@ -250,7 +250,7 @@
       "country": "United States",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "0.0%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods\nand services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -261,7 +261,7 @@
       "country": "United States",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.6%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods\nand services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "-0.4%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.4%",
       "previous": "3.5%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a title=\"\" href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -591,7 +591,7 @@
       "country": "Japan",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.4%",
       "previous": "7.1%",
       "description": "The Corporate Goods Price Index (CGPI) measures the change in the selling prices of goods purchased by Japanese corporations. The CGPI measures the change in the rate of inflation in Japan from the perspective of the manufacturer and is correlated with consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true

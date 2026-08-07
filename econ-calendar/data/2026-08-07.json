@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "asOf": "Thu, Aug 6, 2026",
+  "asOf": "Fri, Aug 7, 2026",
   "events": [
     {
       "date": "2026-08-07",
@@ -106,10 +106,10 @@
       "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Industrial Production",
-      "actual": "-0.6%",
-      "consensus": "1.0%",
-      "previous": "1.2%",
-      "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
+      "actual": "-1.0%",
+      "consensus": "0.3%",
+      "previous": "-0.3%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
     {
@@ -117,10 +117,10 @@
       "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Industrial Production",
-      "actual": "-1.0%",
-      "consensus": "0.3%",
-      "previous": "-0.3%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "actual": "-0.6%",
+      "consensus": "1.0%",
+      "previous": "1.2%",
+      "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -144,6 +144,17 @@
       "previous": "38.4",
       "description": "The Chartered Institute of Purchasing and Supply (CIPS) Construction Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the construction industry. A reading above 50 indicates expansion in the construction industry; a reading below indicates contraction. It gives an indication about the health of the construction section in the UK.\r\nTraders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "04:30",
+      "country": "Germany",
+      "event": "German Car Registration",
+      "actual": "1.2%",
+      "consensus": "",
+      "previous": "15.7%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
     },
     {
       "date": "2026-08-07",
@@ -414,7 +425,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
+      "actual": "-3.3%",
       "consensus": "0.8%",
       "previous": "-0.4%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
@@ -425,7 +436,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
+      "actual": "-6.4%",
       "consensus": "-3.1%",
       "previous": "3.7%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
@@ -436,10 +447,76 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Foreign Reserves (USD)",
-      "actual": "",
+      "actual": "1,287.1B",
       "consensus": "",
       "previous": "1,287.5B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Exports",
+      "actual": "17.80M",
+      "consensus": "",
+      "previous": "20.80M",
+      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Imports",
+      "actual": "21.20M",
+      "consensus": "",
+      "previous": "29.40M",
+      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Trade Balance",
+      "actual": "767.07B",
+      "consensus": "735.00B",
+      "previous": "859.05B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Exports",
+      "actual": "23.9%",
+      "consensus": "22.2%",
+      "previous": "27.0%",
+      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Imports",
+      "actual": "27.5%",
+      "consensus": "27.9%",
+      "previous": "36.0%",
+      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-07",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Trade Balance (USD)",
+      "actual": "112.50B",
+      "consensus": "108.60B",
+      "previous": "125.62B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     }
   ]

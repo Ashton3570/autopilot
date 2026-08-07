@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "asOf": "Thu, Aug 6, 2026",
+  "asOf": "Fri, Aug 7, 2026",
   "events": [
     {
       "date": "2026-08-12",
@@ -8,7 +8,7 @@
       "country": "Australia",
       "event": "RBA Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.35%",
       "previous": "4.35%",
       "description": "Reserve Bank of Australia (RBA)  board members come to a consensus on where to set the rate. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the AUD, while a lower than expected rate is negative/bearish for the AUD.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "United States",
       "event": "NFIB Small Business Optimism",
       "actual": "",
-      "consensus": "",
+      "consensus": "97.1",
       "previous": "97.4",
       "description": "The National Federation of Independent Business (NFIB) Small Business Optimism Index is a composite of ten seasonally adjusted components. It provides a indication of the health of small businesses in the U.S., which account of roughly 50% of the nation's private workforce.",
       "high_impact": false
@@ -163,7 +163,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.16%",
+      "previous": "4.64%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
     },
@@ -174,7 +174,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "4.64%",
+      "previous": "0.16%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
     },
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.06M",
       "previous": "4.09M",
       "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -297,6 +297,17 @@
       "consensus": "",
       "previous": "13",
       "description": "The Reuters Tankan is a monthly survey of leading Japanese companies, and it wasformally known as Telerate Tankan until it was renamed after the acquisition of Quick Moneyline Telerate Corp. by Reuters Group. It covers a panel of 200 manufacturers and 200 non-manufacturers. The monthly figures are designed to provide early indications of the BOJ's quarterly tankan. The indexes are derivedby subtracting the percentage of respondents who say business conditions are poor from the percentage of those who say they are good.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-12",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "M2 Money Stock",
+      "actual": "",
+      "consensus": "2.1%",
+      "previous": "2.2%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
