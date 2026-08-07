@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "asOf": "Wed, Aug 5, 2026",
+  "asOf": "Thu, Aug 6, 2026",
   "events": [
     {
       "date": "2026-08-08",
@@ -52,8 +52,8 @@
       "country": "United Kingdom",
       "event": "Lloyds House Price Index",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "0.2%",
+      "consensus": "",
+      "previous": "0.6%",
       "description": "The Lloyds House Price Index, Formerly the Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
@@ -63,8 +63,8 @@
       "country": "United Kingdom",
       "event": "Lloyds House Price Index",
       "actual": "",
-      "consensus": "",
-      "previous": "0.6%",
+      "consensus": "0.2%",
+      "previous": "0.2%",
       "description": "The Lloyds House Price Index, Formerly the Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
@@ -312,6 +312,17 @@
     },
     {
       "date": "2026-08-08",
+      "time_gmt": "08:00",
+      "country": "Germany",
+      "event": "German Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "15.7%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-08",
       "time_gmt": "08:30",
       "country": "United States",
       "event": "Average Hourly Earnings",
@@ -528,6 +539,17 @@
       "consensus": "",
       "previous": "3.7%",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-08",
+      "time_gmt": "12:00",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
       "high_impact": false
     },
     {

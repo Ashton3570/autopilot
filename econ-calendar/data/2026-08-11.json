@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "asOf": "Wed, Aug 5, 2026",
+  "asOf": "Thu, Aug 6, 2026",
   "events": [
     {
       "date": "2026-08-11",
@@ -22,6 +22,17 @@
       "consensus": "",
       "previous": "-3.1",
       "description": "The Sentix Investor Confidence Index rates the relative six-month economic outlook for the euro zone. The data is compiled from a survey of about 2,800 investors and analysts. A reading above zero indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-11",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
       "high_impact": false
     },
     {
