@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "asOf": "Fri, Aug 7, 2026",
+  "asOf": "Sat, Aug 8, 2026",
   "events": [
     {
       "date": "2026-08-11",
@@ -8,7 +8,7 @@
       "country": "Japan",
       "event": "Economy Watchers Current Index",
       "actual": "",
-      "consensus": "44.0",
+      "consensus": "44.6",
       "previous": "44.0",
       "description": "The Economy Watchers Current Index measures the current mood of businesses that directly service consumers, such as barbers, taxi drivers, and waiters. The data is compiled from a survey of about 2,000 workers. A reading above 50.0 indicates optimism; below indicates pessimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -19,7 +19,7 @@
       "country": "Euro Zone",
       "event": "Sentix Investor Confidence",
       "actual": "",
-      "consensus": "-3.2",
+      "consensus": "-0.7",
       "previous": "-3.1",
       "description": "The Sentix Investor Confidence Index rates the relative six-month economic outlook for the euro zone. The data is compiled from a survey of about 2,800 investors and analysts. A reading above zero indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -141,7 +141,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "6.3%",
+      "previous": "5.7%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
     },

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "asOf": "Fri, Aug 7, 2026",
+  "asOf": "Sat, Aug 8, 2026",
   "events": [
     {
       "date": "2026-08-10",
@@ -8,8 +8,8 @@
       "country": "Japan",
       "event": "Adjusted Current Account",
       "actual": "",
-      "consensus": "2.51T",
-      "previous": "3.06T",
+      "consensus": "2.50T",
+      "previous": "306.45T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -41,7 +41,7 @@
       "country": "Japan",
       "event": "Current Account n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.512T",
       "previous": "3.968T",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY",
       "high_impact": false

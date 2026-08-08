@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "asOf": "Fri, Aug 7, 2026",
+  "asOf": "Sat, Aug 8, 2026",
   "events": [
     {
       "date": "2026-08-13",
@@ -53,7 +53,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "0.2%",
-      "previous": "0.0%",
+      "previous": "0.2%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -75,7 +75,7 @@
       "event": "Italian CPI Ex Tobacco",
       "actual": "",
       "consensus": "2.9%",
-      "previous": "3.0%",
+      "previous": "2.9%",
       "description": "",
       "high_impact": true
     },
@@ -86,7 +86,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "-1.0%",
-      "previous": "0.0%",
+      "previous": "-1.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -151,7 +151,7 @@
       "country": "India",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.54%",
       "previous": "4.38%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -349,7 +349,7 @@
       "country": "Canada",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "-1.7%",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -565,18 +565,7 @@
     },
     {
       "date": "2026-08-13",
-      "time_gmt": "14:00",
-      "country": "United States",
-      "event": "Federal Budget Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "-120.0B",
-      "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-13",
-      "time_gmt": "14:52",
+      "time_gmt": "13:43",
       "country": "Russia",
       "event": "GDP Quarterly",
       "actual": "",
@@ -584,6 +573,17 @@
       "previous": "-0.2%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the RUB and a lower than expected number as negative to the RUB. This is the preliminary reading",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "14:00",
+      "country": "United States",
+      "event": "Federal Budget Balance",
+      "actual": "",
+      "consensus": "-294.6B",
+      "previous": "-120.0B",
+      "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
     },
     {
       "date": "2026-08-13",
@@ -602,7 +602,7 @@
       "country": "Japan",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.6%",
       "previous": "0.4%",
       "description": "The Corporate Goods Price Index measures the price movement of domestically-produced and domestically-used goods with sample prices, collected either from the producer or wholesaler of these goods. (was WPI before).",
       "high_impact": true
