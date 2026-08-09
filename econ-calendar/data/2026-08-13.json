@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "asOf": "Sat, Aug 8, 2026",
+  "asOf": "Sun, Aug 9, 2026",
   "events": [
     {
       "date": "2026-08-13",
@@ -583,6 +583,17 @@
       "consensus": "-294.6B",
       "previous": "-120.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "RICS House Price Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-33%",
+      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {

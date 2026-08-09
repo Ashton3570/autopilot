@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "asOf": "Sat, Aug 8, 2026",
+  "asOf": "Sun, Aug 9, 2026",
   "events": [
     {
       "date": "2026-08-09",
@@ -29,7 +29,7 @@
       "time_gmt": "21:30",
       "country": "China",
       "event": "CPI",
-      "actual": "",
+      "actual": "0.5%",
       "consensus": "0.8%",
       "previous": "1.0%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
@@ -40,7 +40,7 @@
       "time_gmt": "21:30",
       "country": "China",
       "event": "CPI",
-      "actual": "",
+      "actual": "-0.1%",
       "consensus": "0.2%",
       "previous": "-0.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
@@ -51,8 +51,8 @@
       "time_gmt": "21:30",
       "country": "China",
       "event": "PPI",
-      "actual": "",
-      "consensus": "3.9%",
+      "actual": "3.5%",
+      "consensus": "3.8%",
       "previous": "4.1%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true

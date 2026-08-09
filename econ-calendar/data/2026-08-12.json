@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "asOf": "Sat, Aug 8, 2026",
+  "asOf": "Sun, Aug 9, 2026",
   "events": [
     {
       "date": "2026-08-12",
@@ -41,7 +41,7 @@
       "country": "Italy",
       "event": "Italian Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.740B",
       "previous": "4.793B",
       "description": "The Italian Trade Balance measures the difference in value between imported and exported goods during the reported month.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -118,7 +118,7 @@
       "country": "United States",
       "event": "NFIB Small Business Optimism",
       "actual": "",
-      "consensus": "97.1",
+      "consensus": "97.8",
       "previous": "97.4",
       "description": "The National Federation of Independent Business (NFIB) Small Business Optimism Index is a composite of ten seasonally adjusted components. It provides a indication of the health of small businesses in the U.S., which account of roughly 50% of the nation's private workforce.",
       "high_impact": false
