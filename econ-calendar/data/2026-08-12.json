@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "asOf": "Sun, Aug 9, 2026",
+  "asOf": "Mon, Aug 10, 2026",
   "events": [
     {
       "date": "2026-08-12",
@@ -162,7 +162,7 @@
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.40%",
       "previous": "4.64%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.03%",
       "previous": "0.16%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -257,6 +257,17 @@
     },
     {
       "date": "2026-08-12",
+      "time_gmt": "12:00",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-12",
       "time_gmt": "13:00",
       "country": "United States",
       "event": "3-Year Note Auction",
@@ -323,28 +334,6 @@
     },
     {
       "date": "2026-08-12",
-      "time_gmt": "20:00",
-      "country": "Singapore",
-      "event": "GDP",
-      "actual": "",
-      "consensus": "5.7%",
-      "previous": "6.0%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-12",
-      "time_gmt": "20:00",
-      "country": "Singapore",
-      "event": "GDP",
-      "actual": "",
-      "consensus": "1.1%",
-      "previous": "1.0%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-12",
       "time_gmt": "21:30",
       "country": "Australia",
       "event": "RBA Chart Pack Release",
@@ -352,6 +341,28 @@
       "consensus": "",
       "previous": "",
       "description": "The Chart Pack summarises macroeconomic and financial market trends in Australia and provides some information about developments for Australia's main trading partners.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-12",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "Wage Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.8%",
+      "description": "The Wage Price Index measures the change in the price businesses and the government pay for labor, excluding bonuses. It is a leading indicator of consumer price inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-12",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "Wage Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.3%",
+      "description": "Wage Price Index measures the rate of increase in wages and salaries as measured by the Average Earnings Index. A higher than expected number should be taken as positive to the AUD, while a lower than expected number as negative.",
       "high_impact": false
     },
     {

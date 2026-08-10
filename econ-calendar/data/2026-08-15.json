@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "asOf": "Sun, Aug 9, 2026",
+  "asOf": "Mon, Aug 10, 2026",
   "events": [
     {
       "date": "2026-08-15",
@@ -96,17 +96,6 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "2.1%",
-      "previous": "1.8%",
-      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-15",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French CPI",
-      "actual": "",
       "consensus": "0.6%",
       "previous": "-0.3%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
@@ -116,12 +105,12 @@
       "date": "2026-08-15",
       "time_gmt": "02:45",
       "country": "France",
-      "event": "French HICP",
+      "event": "French CPI",
       "actual": "",
-      "consensus": "2.4%",
-      "previous": "2.4%",
-      "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
-      "high_impact": false
+      "consensus": "2.1%",
+      "previous": "1.8%",
+      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
     },
     {
       "date": "2026-08-15",
@@ -131,6 +120,17 @@
       "actual": "",
       "consensus": "0.6%",
       "previous": "0.6%",
+      "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French HICP",
+      "actual": "",
+      "consensus": "2.4%",
+      "previous": "2.4%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -257,6 +257,17 @@
     },
     {
       "date": "2026-08-15",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "692.87B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
       "time_gmt": "08:30",
       "country": "United States",
       "event": "Core Retail Sales",
@@ -283,9 +294,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "0.1%",
-      "previous": "0.2%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "6.72%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -294,9 +305,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "6.72%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "0.1%",
+      "previous": "0.2%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
