@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "asOf": "Mon, Aug 10, 2026",
+  "asOf": "Tue, Aug 11, 2026",
   "events": [
     {
       "date": "2026-08-13",
@@ -9,7 +9,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "2.8%",
-      "previous": "2.8%",
+      "previous": "2.3%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -20,7 +20,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "0.8%",
-      "previous": "0.8%",
+      "previous": "-0.3%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -31,7 +31,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "0.9%",
-      "previous": "0.9%",
+      "previous": "-0.2%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -42,7 +42,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "2.8%",
-      "previous": "2.8%",
+      "previous": "2.4%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -53,7 +53,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "0.2%",
-      "previous": "0.2%",
+      "previous": "0.0%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -63,8 +63,8 @@
       "country": "Italy",
       "event": "Italian CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "2.8%",
+      "consensus": "2.8%",
+      "previous": "3.0%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -74,7 +74,7 @@
       "country": "Italy",
       "event": "Italian CPI Ex Tobacco",
       "actual": "",
-      "consensus": "2.9%",
+      "consensus": "",
       "previous": "2.9%",
       "description": "",
       "high_impact": true
@@ -86,7 +86,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "-1.0%",
-      "previous": "-1.0%",
+      "previous": "0.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -96,8 +96,8 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "",
-      "previous": "2.9%",
+      "consensus": "2.9%",
+      "previous": "3.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -147,11 +147,22 @@
     },
     {
       "date": "2026-08-13",
+      "time_gmt": "06:00",
+      "country": "South Africa",
+      "event": "Business Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "124.1",
+      "description": "Confidence indicator is a measure of the mood of consumers or businesses. It is usually based on a survey during which respondents rate their opinion on different isues concerning current and future conditons. Consumers opinion are typically expressed with answers like: better, same, worse or positive, negative and unchanged. Results of such surveys are calculated by subtracting the negative replies from the positive ones. \r\nBusiness confidence indicator is closely linked to corporate spending and correlated with employment, consumption and investment. Therefore it is carefully watched as an indication of possible changes in the overall economic growth.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
       "time_gmt": "06:30",
       "country": "India",
       "event": "CPI",
       "actual": "",
-      "consensus": "4.54%",
+      "consensus": "4.50%",
       "previous": "4.38%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -213,13 +224,13 @@
     },
     {
       "date": "2026-08-13",
-      "time_gmt": "08:00",
-      "country": "Germany",
-      "event": "German Current Account Balance n.s.a",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "10.4B",
-      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: \r\n- current account \r\n- capital account \r\n- financial account \r\nEither a surplus or a deficit can be shown in any of these components. \r\nCurrent account records the values of the following: - trade balance exports and imports of goods and services - income payments and expenditure interest, dividends, salaries - unilateral transfers aid, taxes, one-way gifts It shows how a country deals with the global economy on a non-investment basis. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports. Positive current account balance is when inflows from its components into the country exceed outflows of the capital leaving the country. Current account surplus may strengthen the demand for local currency. Persistent deficit may lead to a depreciation of a currency.",
+      "previous": "14.7%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. M3 is a broad monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits, certificates of deposit, all other deposits and repurchase agreements. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
     {
@@ -349,9 +360,20 @@
       "country": "Canada",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "1.0%",
+      "consensus": "0.8%",
       "previous": "-1.7%",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "08:30",
+      "country": "Germany",
+      "event": "German Current Account Balance n.s.a",
+      "actual": "",
+      "consensus": "",
+      "previous": "10.4B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: \r\n- current account \r\n- capital account \r\n- financial account \r\nEither a surplus or a deficit can be shown in any of these components. \r\nCurrent account records the values of the following: - trade balance exports and imports of goods and services - income payments and expenditure interest, dividends, salaries - unilateral transfers aid, taxes, one-way gifts It shows how a country deals with the global economy on a non-investment basis. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports. Positive current account balance is when inflows from its components into the country exceed outflows of the capital leaving the country. Current account surplus may strengthen the demand for local currency. Persistent deficit may lead to a depreciation of a currency.",
       "high_impact": false
     },
     {
@@ -360,7 +382,7 @@
       "country": "United States",
       "event": "Crude Oil Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1.300M",
       "previous": "2.479M",
       "description": "The Energy Information Administration's (EIA) Crude Oil Inventories measures the weekly change in the number of barrels of commercial crude oil held by US firms. The level of inventories influences the price of petroleum products, which can have an impact on inflation.\r\n<BR/><BR/>\r\nIf the increase in crude inventories is more than expected, it implies weaker demand and is bearish for crude prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in crude is less than expected, it implies greater demand and is bullish for crude prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -522,6 +544,17 @@
     {
       "date": "2026-08-13",
       "time_gmt": "12:00",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "12:00",
       "country": "Russia",
       "event": "CPI",
       "actual": "",
@@ -580,20 +613,9 @@
       "country": "United States",
       "event": "Federal Budget Balance",
       "actual": "",
-      "consensus": "-294.6B",
+      "consensus": "-361.2B",
       "previous": "-120.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-13",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "RICS House Price Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "-33%",
-      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
