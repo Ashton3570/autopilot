@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "asOf": "Tue, Aug 11, 2026",
+  "asOf": "Wed, Aug 12, 2026",
   "events": [
     {
       "date": "2026-08-15",
@@ -253,6 +253,17 @@
       "consensus": "",
       "previous": "1,755.45B",
       "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "07:00",
+      "country": "South Africa",
+      "event": "Business Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "124.1",
+      "description": "Confidence indicator is a measure of the mood of consumers or businesses. It is usually based on a survey during which respondents rate their opinion on different isues concerning current and future conditons. Consumers opinion are typically expressed with answers like: better, same, worse or positive, negative and unchanged. Results of such surveys are calculated by subtracting the negative replies from the positive ones. \r\nBusiness confidence indicator is closely linked to corporate spending and correlated with employment, consumption and investment. Therefore it is carefully watched as an indication of possible changes in the overall economic growth.",
       "high_impact": false
     },
     {

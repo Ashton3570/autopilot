@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "asOf": "Tue, Aug 11, 2026",
+  "asOf": "Wed, Aug 12, 2026",
   "events": [
     {
       "date": "2026-08-12",
@@ -147,6 +147,17 @@
     },
     {
       "date": "2026-08-12",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "M3 Money Supply",
+      "actual": "14.7%",
+      "consensus": "",
+      "previous": "12.5%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. M3 is a broad monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits, certificates of deposit, all other deposits and repurchase agreements. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-12",
       "time_gmt": "08:00",
       "country": "Brazil",
       "event": "CPI",
@@ -229,7 +240,7 @@
       "event": "Trade Balance",
       "actual": "12.46B",
       "consensus": "",
-      "previous": "14.15B",
+      "previous": "14.31B",
       "description": "The Trade Balance index measures the difference in worth between exported and imported goods (exports minus imports).\r\nThis is the largest component of a country's balance of payments.\r\n<BR/>Export data can give reflection on Russia's growth.\r\nImports provide an indication of domestic demand.\r\nBecause foreigners must buy the domestic currency to pay for the nation's exports,\r\nit may have sizable affect on the RUB.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": false
     },
@@ -293,7 +304,7 @@
       "time_gmt": "19:00",
       "country": "South Korea",
       "event": "Unemployment Rate",
-      "actual": "",
+      "actual": "2.8%",
       "consensus": "",
       "previous": "2.7%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the KRW, while a lower than expected reading should be taken as positive/bullish for the KRW.",
@@ -304,7 +315,7 @@
       "time_gmt": "19:00",
       "country": "Japan",
       "event": "Reuters Tankan Index",
-      "actual": "",
+      "actual": "18",
       "consensus": "",
       "previous": "13",
       "description": "The Reuters Tankan is a monthly survey of leading Japanese companies, and it wasformally known as Telerate Tankan until it was renamed after the acquisition of Quick Moneyline Telerate Corp. by Reuters Group. It covers a panel of 200 manufacturers and 200 non-manufacturers. The monthly figures are designed to provide early indications of the BOJ's quarterly tankan. The indexes are derivedby subtracting the percentage of respondents who say business conditions are poor from the percentage of those who say they are good.",
@@ -315,7 +326,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "M2 Money Stock",
-      "actual": "",
+      "actual": "2.2%",
       "consensus": "2.1%",
       "previous": "2.2%",
       "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
@@ -326,9 +337,9 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "M3 Money Supply",
-      "actual": "",
+      "actual": "2,330.6B",
       "consensus": "",
-      "previous": "2,327.9B",
+      "previous": "2,328.2B",
       "description": "M3 Money Supply measures the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
     },
@@ -341,28 +352,6 @@
       "consensus": "",
       "previous": "",
       "description": "The Chart Pack summarises macroeconomic and financial market trends in Australia and provides some information about developments for Australia's main trading partners.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-12",
-      "time_gmt": "21:30",
-      "country": "Australia",
-      "event": "Wage Price Index",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.8%",
-      "description": "The Wage Price Index measures the change in the price businesses and the government pay for labor, excluding bonuses. It is a leading indicator of consumer price inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-12",
-      "time_gmt": "21:30",
-      "country": "Australia",
-      "event": "Wage Price Index",
-      "actual": "",
-      "consensus": "",
-      "previous": "3.3%",
-      "description": "Wage Price Index measures the rate of increase in wages and salaries as measured by the Average Earnings Index. A higher than expected number should be taken as positive to the AUD, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
