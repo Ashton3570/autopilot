@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "asOf": "Wed, Aug 12, 2026",
+  "asOf": "Thu, Aug 13, 2026",
   "events": [
     {
       "date": "2026-08-18",
@@ -33,39 +33,6 @@
       "consensus": "",
       "previous": "-1.40",
       "description": "The Tertiary Industry Index measures the change in the total value of services purchased by businesses. It is a leading indicator of economic health.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-18",
-      "time_gmt": "05:00",
-      "country": "India",
-      "event": "Exports (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "40.41B",
-      "description": "The exports figure provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the INR, while a lower than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-18",
-      "time_gmt": "05:00",
-      "country": "India",
-      "event": "Imports (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "70.84B",
-      "description": "The Imports number measures any good or service brought into India from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the INR, while a higher than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-18",
-      "time_gmt": "05:00",
-      "country": "India",
-      "event": "Trade Balance",
-      "actual": "",
-      "consensus": "-30.10B",
-      "previous": "-30.43B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the INR, while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
     {
@@ -185,8 +152,8 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.8%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "-0.4%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -196,8 +163,8 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "-0.4%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "2.8%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {

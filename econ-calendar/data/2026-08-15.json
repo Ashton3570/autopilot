@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "asOf": "Wed, Aug 12, 2026",
+  "asOf": "Thu, Aug 13, 2026",
   "events": [
     {
       "date": "2026-08-15",
@@ -86,7 +86,7 @@
       "event": "French CPI NSA",
       "actual": "",
       "consensus": "",
-      "previous": "1.80%",
+      "previous": "2.10%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -247,6 +247,50 @@
     {
       "date": "2026-08-15",
       "time_gmt": "06:00",
+      "country": "China",
+      "event": "M2 Money Stock",
+      "actual": "",
+      "consensus": "7.9%",
+      "previous": "8.0%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "New Loans",
+      "actual": "",
+      "consensus": "-50.0B",
+      "previous": "1,610.0B",
+      "description": "This release measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "Outstanding Loan Growth",
+      "actual": "",
+      "consensus": "5.3%",
+      "previous": "5.3%",
+      "description": "Outstanding Loan Growth measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "06:00",
+      "country": "China",
+      "event": "Chinese Total Social Financing",
+      "actual": "",
+      "consensus": "1,220.0B",
+      "previous": "3,360.0B",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "06:00",
       "country": "Euro Zone",
       "event": "Reserve Assets Total",
       "actual": "",
@@ -305,9 +349,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "6.72%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "0.1%",
+      "previous": "0.2%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -316,9 +360,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "0.1%",
-      "previous": "0.2%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "6.72%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -462,6 +506,17 @@
       "consensus": "5.8%",
       "previous": "5.8%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-15",
+      "time_gmt": "12:00",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
       "high_impact": false
     },
     {

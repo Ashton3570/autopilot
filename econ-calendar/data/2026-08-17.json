@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "asOf": "Wed, Aug 12, 2026",
+  "asOf": "Thu, Aug 13, 2026",
   "events": [
     {
       "date": "2026-08-17",
@@ -243,6 +243,17 @@
       "previous": "5.0%",
       "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-17",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "NBS Press Conference",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The National Bureau of Statistics of China (NBS) press conference publishes statistics related to the economy, population and society of the People's Republic of China at the national and local levels.",
+      "high_impact": false
     },
     {
       "date": "2026-08-17",

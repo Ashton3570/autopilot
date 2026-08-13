@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "asOf": "Wed, Aug 12, 2026",
+  "asOf": "Thu, Aug 13, 2026",
   "events": [
     {
       "date": "2026-08-13",
@@ -44,6 +44,17 @@
       "consensus": "2.8%",
       "previous": "2.4%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "02:00",
+      "country": "Japan",
+      "event": "Machine Tool Orders",
+      "actual": "50.4%",
+      "consensus": "",
+      "previous": "52.8%",
+      "description": "Machine Tool Orders measures the change in the total value of new orders placed with machine tool manufacturers. Two versions of this report are released, preliminary and final. The preliminary report had the biggest impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -587,23 +598,12 @@
     },
     {
       "date": "2026-08-13",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "RICS House Price Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "-33%",
-      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-13",
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "PPI",
-      "actual": "",
+      "actual": "7.2%",
       "consensus": "7.4%",
-      "previous": "7.1%",
+      "previous": "7.3%",
       "description": "The Corporate Goods Price Index (CGPI) measures the change in the selling prices of goods purchased by Japanese corporations. The CGPI measures the change in the rate of inflation in Japan from the perspective of the manufacturer and is correlated with consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },
@@ -612,9 +612,9 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "PPI",
-      "actual": "",
+      "actual": "0.1%",
       "consensus": "0.6%",
-      "previous": "0.4%",
+      "previous": "0.5%",
       "description": "The Corporate Goods Price Index measures the price movement of domestically-produced and domestically-used goods with sample prices, collected either from the producer or wholesaler of these goods. (was WPI before).",
       "high_impact": true
     },
@@ -627,6 +627,17 @@
       "consensus": "",
       "previous": "",
       "description": "Reserve Bank of Australia (RBA) Assistant Governor Christopher Kent (since February 2012) is to speak. As a key adviser to RBA board members, who decide short term interest rates, Kent has considerable influence over the value of the Australian dollar. Traders scrutinize his public engagements for clues regarding future monetary policy.<BR/><BR/>His comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-13",
+      "time_gmt": "23:00",
+      "country": "New Zealand",
+      "event": "Inflation Expectations",
+      "actual": "2.3%",
+      "consensus": "",
+      "previous": "2.5%",
+      "description": "Inflation Expectations measures the percentage that business managers expect the price of goods and services to change annually during the next two years. The data is released quarterly.<BR/><BR/>\r\nA higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     }
   ]
