@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "asOf": "Thu, Aug 13, 2026",
+  "asOf": "Fri, Aug 14, 2026",
   "events": [
     {
       "date": "2026-08-19",
@@ -75,7 +75,7 @@
       "event": "Labour Productivity",
       "actual": "",
       "consensus": "-0.5%",
-      "previous": "-0.6%",
+      "previous": "-0.5%",
       "description": "Labor Productivity measures the change in labor efficiency of the United Kingdom workers when producing goods and services. Productivity and labor-related inflation are directly linked, a drop in a worker's productivity is equivalent to a rise in their wage. When businesses pay more for labor the higher costs are usually passed on to the consumer.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
@@ -110,6 +110,17 @@
       "consensus": "",
       "previous": "23.4",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Sentiment Index rates the relative six-month economic outlook for the euro zone. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health. The reading is compiled from survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-19",
+      "time_gmt": "07:45",
+      "country": "Euro Zone",
+      "event": "ECB's Lane Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Philip R. Lane, member of the Executive Board of the European Central Bank, is set to speak. His speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -174,7 +185,7 @@
       "event": "Export Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "10.2%",
+      "previous": "-0.6%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -185,7 +196,7 @@
       "event": "Export Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "-0.6%",
+      "previous": "10.2%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -206,7 +217,7 @@
       "country": "United States",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.340M",
       "previous": "1.427M",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -250,7 +261,7 @@
       "country": "United States",
       "event": "Capacity Utilization Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "76.3%",
       "previous": "76.1%",
       "description": "The Capacity Utilization Rate is the percentage of production capacity being utilized in the U.S.(available resources includes factories, mines and utilities).\r\nCapacity Utilization reflects overall growth and demand in the economy. It can also act as a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -261,7 +272,7 @@
       "country": "United States",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.1%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false

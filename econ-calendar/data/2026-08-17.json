@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "asOf": "Thu, Aug 13, 2026",
+  "asOf": "Fri, Aug 14, 2026",
   "events": [
     {
       "date": "2026-08-17",
@@ -184,7 +184,7 @@
       "country": "China",
       "event": "Fixed Asset Investment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-6.0%",
       "previous": "-5.7%",
       "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -195,7 +195,7 @@
       "country": "China",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.8%",
       "previous": "5.3%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -217,7 +217,7 @@
       "country": "China",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.6%",
       "previous": "1.0%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
