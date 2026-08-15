@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "asOf": "Fri, Aug 14, 2026",
+  "asOf": "Sat, Aug 15, 2026",
   "events": [
     {
       "date": "2026-08-18",
@@ -129,7 +129,7 @@
       "country": "United States",
       "event": "NY Empire State Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "10.60",
       "previous": "15.60",
       "description": "The Empire State Manufacturing Index rates the relative level of general business conditions New York state. A level above 0.0 indicates improving conditions, below indicates worsening conditions. The reading is compiled from a survey of about 200 manufacturers in New York state.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -140,7 +140,7 @@
       "country": "Canada",
       "event": "Common CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.6%",
       "description": "Change in the price of goods and services, purchased by consumers, which have similar price variations over time.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "Canada",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "-0.4%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "Canada",
       "event": "Foreign Securities Purchases",
       "actual": "",
-      "consensus": "",
+      "consensus": "15.00B",
       "previous": "7.90B",
       "description": "Foreign Securities Purchases measures the overall value of domestic stocks, bonds, and money-market assets purchased by foreign investors.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -217,7 +217,7 @@
       "country": "Canada",
       "event": "Median CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.0%",
       "previous": "1.9%",
       "description": "Change in the median price of goods and services purchased by consumers.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "Canada",
       "event": "Trimmed CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.8%",
       "previous": "1.8%",
       "description": "Change in the price of goods and services purchased by consumers, excluding the most volatile 40% of items.",
       "high_impact": true
@@ -272,7 +272,7 @@
       "country": "United States",
       "event": "NAHB Housing Market Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "33",
       "previous": "34",
       "description": "The National Association of Home Builders (NAHB) Housing Market Index (HMI) rates the relative level of current and future single-family home sales. The data is compiled from a survey of around 900 home builders. A reading above 50 indicates a favorable outlook on home sales; below indicates a negative outlook.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -297,6 +297,17 @@
       "consensus": "",
       "previous": "3.830%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-18",
+      "time_gmt": "12:00",
+      "country": "France",
+      "event": "French Car Registration",
+      "actual": "",
+      "consensus": "",
+      "previous": "11.4%",
+      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
       "high_impact": false
     },
     {
@@ -338,7 +349,7 @@
       "country": "United States",
       "event": "TIC Net Long-Term Transactions including Swaps",
       "actual": "",
-      "consensus": "",
+      "consensus": "151.40B",
       "previous": "232.70B",
       "description": "TIC Net Long-Term Transactions number is the sum of gross purchases by foreigners from US residents minus gross sales by foreigners to US residents. The components used to calculate long term flows are US Treasury bonds and notes, US government agency bonds, US corporate bonds, US corporate stocks, foreign bonds and foreign stocks. (TIC signifies: Treasury International Capital Flows). A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false

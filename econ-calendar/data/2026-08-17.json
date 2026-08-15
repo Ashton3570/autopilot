@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "asOf": "Fri, Aug 14, 2026",
+  "asOf": "Sat, Aug 15, 2026",
   "events": [
     {
       "date": "2026-08-17",
@@ -33,6 +33,17 @@
       "consensus": "",
       "previous": "0.6%",
       "description": "The Food Price Index (FPI) measures the change in the cost of food and food services purchased by households. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-17",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-1.0%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
@@ -118,7 +129,7 @@
       "country": "Japan",
       "event": "GDP Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.3%",
       "previous": "3.2%",
       "description": "The Gross Domestic Product (GDP) Price Index measures the change in the price of all goods and services included in GDP. It is the broadest measure of inflation and is the primary indicator the Bank of Japan uses to gauge inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
@@ -184,7 +195,7 @@
       "country": "China",
       "event": "Fixed Asset Investment",
       "actual": "",
-      "consensus": "-6.0%",
+      "consensus": "-6.2%",
       "previous": "-5.7%",
       "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -195,7 +206,7 @@
       "country": "China",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "4.8%",
+      "consensus": "5.0%",
       "previous": "5.3%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -217,7 +228,7 @@
       "country": "China",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "1.6%",
+      "consensus": "1.5%",
       "previous": "1.0%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
@@ -239,7 +250,7 @@
       "country": "China",
       "event": "Chinese Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.1%",
       "previous": "5.0%",
       "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
       "high_impact": true

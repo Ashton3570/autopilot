@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "asOf": "Fri, Aug 14, 2026",
+  "asOf": "Sat, Aug 15, 2026",
   "events": [
     {
       "date": "2026-08-20",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.6%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "United Kingdom",
       "event": "PPI Input",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.5%",
       "previous": "-2.0%",
       "description": "Producer Price Index (PPI) Input measures the change in the price of goods and raw materials purchased by manufacturers. The index is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "United Kingdom",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.0%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -162,7 +162,7 @@
       "country": "United Kingdom",
       "event": "RPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "3.0%",
       "description": "The Retail Price Index (RPI) measures the change in the price of goods and services purchased by consumers for the purpose of consumption. RPI differs from Consumer Price Inflation (CPI) in that it only measures goods and services bought for the purpose of consumption by the vast majority of households and includes housing costs, which are excluded from CPI.<BR/><BR/> \r\nA higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "Switzerland",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-4.70%",
       "previous": "-7.10%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -195,7 +195,7 @@
       "country": "Euro Zone",
       "event": "Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "22.1B",
       "previous": "25.1B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the exports the data can have a sizable affect on the EUR.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -261,7 +261,7 @@
       "country": "United Kingdom",
       "event": "House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.5%",
       "previous": "2.7%",
       "description": "The Office for National Statistics House Price Index measures the change in the selling price of homes. This data tends to have a relatively mild impact because there are several earlier indicators related to house prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -624,7 +624,7 @@
       "country": "Japan",
       "event": "Adjusted Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.44T",
       "previous": "-0.88T",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -635,7 +635,7 @@
       "country": "Japan",
       "event": "Exports",
       "actual": "",
-      "consensus": "",
+      "consensus": "19.9%",
       "previous": "19.3%",
       "description": "This Exports number provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
       "high_impact": false
@@ -668,7 +668,7 @@
       "country": "Japan",
       "event": "Imports",
       "actual": "",
-      "consensus": "",
+      "consensus": "26.5%",
       "previous": "25.4%",
       "description": "An import is any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the JPY while a higher than expected number as negative",
       "high_impact": false
@@ -679,7 +679,7 @@
       "country": "Japan",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-680.0B",
       "previous": "-409.9B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
       "high_impact": false
@@ -701,7 +701,7 @@
       "country": "China",
       "event": "China Loan Prime Rate 5Y",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.50%",
       "previous": "3.50%",
       "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
       "high_impact": false
@@ -712,7 +712,7 @@
       "country": "China",
       "event": "PBoC Loan Prime Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.00%",
       "previous": "3.00%",
       "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
       "high_impact": false
@@ -723,7 +723,7 @@
       "country": "Australia",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "11.4K",
       "previous": "76.3K",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
@@ -767,7 +767,7 @@
       "country": "Australia",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.4%",
       "previous": "4.4%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.\r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the AUD, while a lower than expected reading should be taken as positive/bullish for the AUD.",
       "high_impact": true

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "asOf": "Fri, Aug 14, 2026",
+  "asOf": "Sat, Aug 15, 2026",
   "events": [
     {
       "date": "2026-08-19",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings ex Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "3.4%",
       "description": "The Average Earnings Index is an indicator of inflationary pressures emanating from the labour market. The effect of a higher or lower figure than expected can be both bullish or bearish.",
       "high_impact": false
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings Index +Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.0%",
       "previous": "4.3%",
       "description": "The Average Earnings Index measures change in the price businesses and the government pay for labor, including bonuses. The Average Earnings figure gives us a good indication of personal income growth during the given month.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -30,7 +30,7 @@
       "country": "United Kingdom",
       "event": "Claimant Count Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "11.2K",
       "previous": "6.7K",
       "description": "Claimant Count Change measures the change in the number of unemployed people in the U.K. during the reported month. A rising trend indicates weakness in the labor market, which has a trickle-down effect on consumer spending and economic growth.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": false
@@ -52,7 +52,7 @@
       "country": "United Kingdom",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.8%",
       "previous": "4.9%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous three months.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while a lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": true
@@ -75,7 +75,7 @@
       "event": "Labour Productivity",
       "actual": "",
       "consensus": "-0.5%",
-      "previous": "-0.5%",
+      "previous": "0.9%",
       "description": "Labor Productivity measures the change in labor efficiency of the United Kingdom workers when producing goods and services. Productivity and labor-related inflation are directly linked, a drop in a worker's productivity is equivalent to a rise in their wage. When businesses pay more for labor the higher costs are usually passed on to the consumer.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
@@ -96,7 +96,7 @@
       "country": "Germany",
       "event": "German ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "30.0",
       "previous": "26.3",
       "description": "The German Zentrum für Europäische Wirtschaftsforschung (ZEW) Economic Sentiment Index gauges the six-month economic outlook. A level above zero indicates optimism; below indicates pessimism. The reading is compiled from a survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -107,7 +107,7 @@
       "country": "Euro Zone",
       "event": "ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "25.4",
       "previous": "23.4",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Sentiment Index rates the relative six-month economic outlook for the euro zone. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health. The reading is compiled from survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -151,7 +151,7 @@
       "country": "Canada",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "",
+      "consensus": "249.0K",
       "previous": "239.0K",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "United States",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.370M",
       "previous": "1.374M",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -217,7 +217,7 @@
       "country": "United States",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "1.340M",
+      "consensus": "1.350M",
       "previous": "1.427M",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -239,7 +239,7 @@
       "country": "United States",
       "event": "Import Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.3%",
       "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -305,7 +305,7 @@
       "country": "United States",
       "event": "Pending Home Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "-5.4%",
       "description": "The National Association of Realtors (NAR) Pending Home Sales Report measures the change in the number of homes under contract to be sold but still awaiting the closing transaction, excluding new construction.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -327,8 +327,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "4.3%",
+      "previous": "4.3%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },
@@ -349,7 +349,7 @@
       "country": "New Zealand",
       "event": "PPI Input",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "1.4%",
       "description": "Producer Price Index (PPI) Input measures the change in the price of goods and raw materials purchased by manufacturers. The index is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
@@ -360,7 +360,7 @@
       "country": "New Zealand",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.8%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
@@ -371,7 +371,7 @@
       "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.6%",
       "previous": "-12.4%",
       "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -382,7 +382,7 @@
       "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "10.8%",
       "previous": "-1.9%",
       "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
@@ -393,7 +393,7 @@
       "country": "Australia",
       "event": "Wage Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "0.8%",
       "description": "The Wage Price Index measures the change in the price businesses and the government pay for labor, excluding bonuses. It is a leading indicator of consumer price inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
