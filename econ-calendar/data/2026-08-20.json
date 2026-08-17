@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "asOf": "Sun, Aug 16, 2026",
+  "asOf": "Mon, Aug 17, 2026",
   "events": [
     {
       "date": "2026-08-20",
@@ -129,8 +129,8 @@
       "country": "United Kingdom",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "",
-      "previous": "3.5%",
+      "consensus": "0.3%",
+      "previous": "0.0%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -140,8 +140,8 @@
       "country": "United Kingdom",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "0.3%",
-      "previous": "0.0%",
+      "consensus": "",
+      "previous": "3.5%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -218,7 +218,7 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "4.1%",
+      "previous": "0.6%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the ZAR, while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": true
     },
@@ -229,7 +229,7 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
+      "previous": "4.1%",
       "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the ZAR, while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": true
     },
@@ -435,6 +435,17 @@
       "date": "2026-08-20",
       "time_gmt": "07:00",
       "country": "South Africa",
+      "event": "Business Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "124.1",
+      "description": "Confidence indicator is a measure of the mood of consumers or businesses. It is usually based on a survey during which respondents rate their opinion on different isues concerning current and future conditons. Consumers opinion are typically expressed with answers like: better, same, worse or positive, negative and unchanged. Results of such surveys are calculated by subtracting the negative replies from the positive ones. \r\nBusiness confidence indicator is closely linked to corporate spending and correlated with employment, consumption and investment. Therefore it is carefully watched as an indication of possible changes in the overall economic growth.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-20",
+      "time_gmt": "07:00",
+      "country": "South Africa",
       "event": "Retail Sales",
       "actual": "",
       "consensus": "",
@@ -451,6 +462,17 @@
       "consensus": "",
       "previous": "",
       "description": "The Monetary Policy Meeting Minutes are a detailed record of the Reserve Bank of India's policy setting meeting, containing in-depth insights into the economic conditions that influenced the decision on where to set interest rates. The breakdown of the MPC members, interest rate votes tends to be the most important part of the minutes.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-20",
+      "time_gmt": "08:00",
+      "country": "China",
+      "event": "FDI",
+      "actual": "",
+      "consensus": "",
+      "previous": "-5.00%",
+      "description": "Foreign capital actually utilized refers to the amount which has been actually used according to the agreements and contracts, including cash, materials and invisible capital such as labour service and technology which both parties agree to take as an investment.<BR/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     },
     {
