@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "asOf": "Mon, Aug 17, 2026",
+  "asOf": "Tue, Aug 18, 2026",
   "events": [
     {
       "date": "2026-08-18",
@@ -411,10 +411,21 @@
     },
     {
       "date": "2026-08-18",
+      "time_gmt": "20:00",
+      "country": "South Korea",
+      "event": "Exports",
+      "actual": "63.0%",
+      "consensus": "62.8%",
+      "previous": "70.7%",
+      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. \r\n<BR/>\r\nA higher than expected number should be taken as positive to the KRW, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-18",
       "time_gmt": "20:30",
       "country": "Australia",
       "event": "Westpac Consumer Sentiment",
-      "actual": "",
+      "actual": "6.0%",
       "consensus": "",
       "previous": "4.1%",
       "description": "The Westpac Consumer Sentiment Index measures the change in the level of consumer confidence in economic activity.\r\nOn the index, a level above 100.0 indicates optimism; below indicates pessimism.\r\nThe data is compiled from a survey of about 1,200 consumers which asks respondents to rate the relative level of past and future economic conditions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
@@ -425,7 +436,7 @@
       "time_gmt": "23:00",
       "country": "New Zealand",
       "event": "RBNZ Offshore Holdings",
-      "actual": "",
+      "actual": "56.90%",
       "consensus": "",
       "previous": "55.80%",
       "description": "Data is an estimate of New Zealand Government securities held on behalf of non-residents. Government bonds include the total of all Government bonds and inflation indexed bonds. Treasury bills include the total of all Treasury bills.The proportion held for non-residents is calculated from the amount of bonds in the market. The bonds in the market do not include bonds held by Reserve Bank of New Zealand or by the Earthquake Commission. The survey seeks to identify the nominal amount of New Zealand Government securities held on behalf of non-residents. Since March 1994 this includes any securities held under repurchase agreement (repos). Repurchase agreements (repos): Arrangements under which one institution sells securities at a specified price to another, together with an agreement that they, or similar securities, will be purchased back at a fixed price on a specified future date. When a New Zealand institution acquires securities through repos, or transactions that replicate repos, they should be reported.",
@@ -436,7 +447,7 @@
       "time_gmt": "23:35",
       "country": "Japan",
       "event": "5-Year JGB Auction",
-      "actual": "",
+      "actual": "2.163%",
       "consensus": "",
       "previous": "2.020%",
       "description": "The figures displayed in the calendar represent the yield on the JGB auctioned.<BR/><BR/> JGB's have maturities of up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a JGB represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",

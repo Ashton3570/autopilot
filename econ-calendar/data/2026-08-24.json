@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-24",
+  "asOf": "Tue, Aug 18, 2026",
+  "events": [
+    {
+      "date": "2026-08-24",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.9%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-24",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "Retail Sales Quarterly Vs. Year Ago",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.5%",
+      "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices andfood prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included. Rising retail sales indicate stronger economic growth. However, if theincrease is larger than forecast, it may be inflationary.",
+      "high_impact": true
+    }
+  ]
+}
