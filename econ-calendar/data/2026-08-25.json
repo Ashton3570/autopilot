@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-25",
+  "asOf": "Wed, Aug 19, 2026",
+  "events": [
+    {
+      "date": "2026-08-25",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Core CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.60%",
+      "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.00%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.9%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "08:30",
+      "country": "United States",
+      "event": "Chicago Fed National Activity",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.02",
+      "description": "A monthly report by the Chicago Federal Reserve Bank that tracks economic activity in the 7th district, which is comprised of Indiana, Iowa, Illinois, Michigan and Wisconsin. The index is useful in tracking economic growth and identifying potential inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 12-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.781%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 3-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.484%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 6-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.608%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "3-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.715%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "6-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.780%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "11:30",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "17:00",
+      "country": "South Korea",
+      "event": "Consumer Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "106.8",
+      "description": "The Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict the consumer spending, which is a major part in the total economic activity. Higher readings point to higher consumer optimism. \r\nA higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "20:00",
+      "country": "Singapore",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.9%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "RBA Meeting Minutes",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Reserve Bank of Australia (RBA) Monetary Policy Meeting Minutes are a detailed record of the bank's most recent policy-setting meeting, containing in-depth insights into the economic conditions that influenced the rate decision.<BR/><BR/>More dovish than expected minutes could be taken as negative/bearish for the AUD, while more hawkish than expected minutes could be taken as positive/bullish for the AUD.",
+      "high_impact": false
+    }
+  ]
+}
