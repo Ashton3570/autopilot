@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "asOf": "Wed, Aug 19, 2026",
+  "asOf": "Thu, Aug 20, 2026",
   "events": [
     {
       "date": "2026-08-22",
@@ -8,7 +8,7 @@
       "country": "India",
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.0",
       "previous": "53.5",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -19,7 +19,7 @@
       "country": "India",
       "event": "HSBC India Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "53.8",
       "previous": "53.3",
       "description": "The Indian HSBC Services PMI is compiled by questionnaires sent to purchasing executives in around 350 private service sector companies. The panel has been carefully selected to accurately replicate the true structure of the services economy. Index and the Services Business Activity Index, and is based on original survey data collected from a representative panel of over 800 companies based in the Indian manufacturing and service sectors. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -30,7 +30,7 @@
       "country": "India",
       "event": "HSBC Manufacturing & Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.40",
       "previous": "54.30",
       "description": "",
       "high_impact": true
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.5%",
       "previous": "1.1%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile. <br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -52,7 +52,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "5.4%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile.<br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Public Sector Net Cash Requirement",
       "actual": "",
-      "consensus": "0.400B",
+      "consensus": "0.000B",
       "previous": "15.227B",
       "description": "The public sector consists of central government, local authorities and public corporations. The net cash requirement measures the public sectors need to raisecash trough selling debt or running down its liquid financial assets. The publicsector net cash requirement equals the central government net cash requirement (including borrowing from the market for on-lending to local authorities and public corporations) plus local authorities contributions. I.e. their market andoverseas borrowing, measured net of their purchases of other public sector debt.",
       "high_impact": false
@@ -85,7 +85,7 @@
       "country": "United Kingdom",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.2%",
       "previous": "4.2%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "France",
       "event": "French Business Survey",
       "actual": "",
-      "consensus": "",
+      "consensus": "101",
       "previous": "101",
       "description": "The Business Survey measures industrial activity in France, the world’s fourth largest economy. The data is compiled from a survey of around 4,000 French business leaders from a broad range of sectors.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -108,7 +108,7 @@
       "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "1,227,049.0B",
+      "previous": "1,227.0B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
     },
@@ -129,7 +129,7 @@
       "country": "France",
       "event": "HCOB France Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.5",
       "previous": "49.4",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies.Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies.Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "Germany",
       "event": "HCOB Germany Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.3",
       "previous": "51.3",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease.",
       "high_impact": true
@@ -162,7 +162,7 @@
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
-      "consensus": "52.0",
+      "consensus": "52.1",
       "previous": "52.2",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "Germany",
       "event": "HCOB Germany Services PMI",
       "actual": "",
-      "consensus": "50.2",
+      "consensus": "50.1",
       "previous": "49.8",
       "description": "The German Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.7",
       "previous": "52.0",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
@@ -217,7 +217,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.6",
       "previous": "52.2",
       "description": "The Composite PMI Index measures the activity level of purchasing managers in the both sectors. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "51.9",
+      "consensus": "51.8",
       "previous": "52.1",
       "description": "The Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -283,9 +283,20 @@
       "country": "Canada",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "0.0%",
+      "consensus": "0.2%",
       "previous": "1.2%",
       "description": "Core Retail Sales measures the change in the total value of sales at the retail level in Canada, excluding automobiles. It is an important indicator of consumer spending and is also considered a pace indicator for the Canadian economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-22",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.0%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -301,14 +312,14 @@
     },
     {
       "date": "2026-08-22",
-      "time_gmt": "08:30",
-      "country": "Canada",
-      "event": "Retail Sales",
+      "time_gmt": "09:00",
+      "country": "China",
+      "event": "FDI",
       "actual": "",
       "consensus": "",
-      "previous": "1.0%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
-      "high_impact": true
+      "previous": "-5.00%",
+      "description": "Foreign capital actually utilized refers to the amount which has been actually used according to the agreements and contracts, including cash, materials and invisible capital such as labour service and technology which both parties agree to take as an investment.<BR/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
     },
     {
       "date": "2026-08-22",
@@ -350,7 +361,7 @@
       "event": "Consumer Confidence",
       "actual": "",
       "consensus": "-16.0",
-      "previous": "-20.5",
+      "previous": "-15.9",
       "description": "Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. The reading is compiled from a survey of about 2,300 consumers in the euro zone which asks respondents to evaluate future economic prospects. Higher readings point to higher consumer optimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
