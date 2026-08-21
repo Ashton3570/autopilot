@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "asOf": "Thu, Aug 20, 2026",
+  "asOf": "Fri, Aug 21, 2026",
   "events": [
     {
       "date": "2026-08-25",
@@ -44,6 +44,17 @@
       "consensus": "",
       "previous": "-0.02",
       "description": "A monthly report by the Chicago Federal Reserve Bank that tracks economic activity in the 7th district, which is comprised of Indiana, Iowa, Illinois, Michigan and Wisconsin. The index is useful in tracking economic growth and identifying potential inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "Corporate Profits",
+      "actual": "",
+      "consensus": "",
+      "previous": "-2.0%",
+      "description": "Corporate Profits measures the change in the total value of profits earned by corporations. This data is released quarterly, around 55 days after the quarter ends.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
     },
     {
