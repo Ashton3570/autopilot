@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "asOf": "Fri, Aug 21, 2026",
+  "asOf": "Sat, Aug 22, 2026",
   "events": [
     {
       "date": "2026-08-27",
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "CBI Distributive Trades Survey",
       "actual": "",
-      "consensus": "",
+      "consensus": "-34",
       "previous": "-26",
       "description": "The Confederation of British Industry (CBI) Distributive Trades Survey (DTS) measures \r\nthe health of the retail sector. The reading is compiled from a survey of about 150 retail and wholesale companies. It includes measures of sales activity across the distributive trades. It is a leading indicator of consumer spending. The figure is the difference between the percentage of retailers reporting an increase in sales and those reporting a decrease.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -141,7 +141,7 @@
       "event": "Core Durable Goods Orders",
       "actual": "",
       "consensus": "0.5%",
-      "previous": "0.6%",
+      "previous": "0.7%",
       "description": "Core Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, excluding transportation items. Because aircraft orders are very volatile, the core number gives a better gauge of ordering trends. A higher reading indicates increased manufacturing activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -174,7 +174,7 @@
       "event": "Core PCE Prices",
       "actual": "",
       "consensus": "3.40%",
-      "previous": "4.40%",
+      "previous": "3.40%",
       "description": "The Core Personal Consumption Expenditure (PCE) Prices release measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -195,8 +195,8 @@
       "country": "United States",
       "event": "Durable Goods Orders",
       "actual": "",
-      "consensus": "0.7%",
-      "previous": "0.3%",
+      "consensus": "0.5%",
+      "previous": "0.5%",
       "description": "Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, including transportation items.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -218,7 +218,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "1.5%",
-      "previous": "2.1%",
+      "previous": "1.5%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy&#039;s health.<BR/><B>Usual Effect: </B>Actual > Forecast = Good for currency<BR/>Frequency: Released monthly. There are 3 versions of GDP released a month apart - Advance, second release and Final. Both the advance the second release are tagged as preliminary in the economic calendar.",
       "high_impact": true
     },
@@ -229,7 +229,7 @@
       "event": "GDP Price Index",
       "actual": "",
       "consensus": "6.3%",
-      "previous": "3.6%",
+      "previous": "6.3%",
       "description": "The GDP Price Index measures the annualized change in the price of all goods and services included in gross domestic product.It is the broadest inflationary indicator.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -240,7 +240,7 @@
       "event": "GDP Sales",
       "actual": "",
       "consensus": "2.2%",
-      "previous": "1.9%",
+      "previous": "2.2%",
       "description": "",
       "high_impact": true
     },
@@ -251,7 +251,7 @@
       "event": "Goods Orders Non Defense Ex Air",
       "actual": "",
       "consensus": "",
-      "previous": "0.9%",
+      "previous": "1.2%",
       "description": "Manufacturers new orders for nondefense capital goods excluding aircrafts. Nondefense capital goods include among other things: small arms; farm machinery and equipment; construction machinery;  turbines, generators and other power transmission equipment; electronic computers; communications equipment; heavy duty trucks; office and institutional furniture; and medical materials and supplies. <BR/>\r\nThe Manufacturers Shipments, Inventories, and Orders survey provides broad- based, monthly statistical data on economic conditions in the domestic manufacturing sector. <BR/>\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD, while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": false
     },
@@ -284,7 +284,7 @@
       "event": "PCE Prices",
       "actual": "",
       "consensus": "5.1%",
-      "previous": "4.6%",
+      "previous": "5.1%",
       "description": "The Personal Consumption Expenditure (PCE) Prices release measures the changes in the price of goods and services purchased by consumers for the purpose of consumption. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "Personal Income",
       "actual": "",
-      "consensus": "0.3%",
+      "consensus": "0.2%",
       "previous": "0.2%",
       "description": "Personal Income measures the change in the total value of income received from all sources by consumers. Income is closely correlated with consumer spending, which accounts for a majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -305,7 +305,7 @@
       "country": "United States",
       "event": "Personal Spending",
       "actual": "",
-      "consensus": "0.2%",
+      "consensus": "0.1%",
       "previous": "0.3%",
       "description": "Personal Spending measures the change in the inflation-adjusted value of all spending by consumers. Consumer spending accounts for a majority of overall economic activity. However, this report tends to have a mild impact, as government data on retail sales is released about two weeks earlier.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -317,7 +317,7 @@
       "event": "Real Consumer Spending",
       "actual": "",
       "consensus": "3.2%",
-      "previous": "0.5%",
+      "previous": "3.2%",
       "description": "Real Consumer Spending measures the inflation adjusted amount of money spent by households in the US economy.<br/><br/>The spending includes durables, such as washing machines, and non durables, such as food. It is also known as consumption, and is measured monthly. <br/><br/>John Maynard Keynes, the famous British economist, considered consumer spending to be the most important determinant of short-term demand in an economy. <br/><br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -613,7 +613,7 @@
       "country": "Australia",
       "event": "Private New Capital Expenditure",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "6.5%",
       "description": "Private New Capital Expenditure measures the change in the total inflation-adjusted value of new capital expenditures made by private businesses. It is a leading indicator of economic health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false

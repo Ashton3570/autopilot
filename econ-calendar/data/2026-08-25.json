@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "asOf": "Fri, Aug 21, 2026",
+  "asOf": "Sat, Aug 22, 2026",
   "events": [
     {
       "date": "2026-08-25",
@@ -34,6 +34,17 @@
       "previous": "1.9%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-25",
+      "time_gmt": "07:25",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
     },
     {
       "date": "2026-08-25",
@@ -110,17 +121,6 @@
       "consensus": "",
       "previous": "3.780%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-25",
-      "time_gmt": "11:30",
-      "country": "Brazil",
-      "event": "BCB Focus Market Readout",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
       "high_impact": false
     },
     {

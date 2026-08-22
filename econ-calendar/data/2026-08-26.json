@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "asOf": "Fri, Aug 21, 2026",
+  "asOf": "Sat, Aug 22, 2026",
   "events": [
     {
       "date": "2026-08-26",
@@ -74,7 +74,7 @@
       "country": "France",
       "event": "French Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "87",
       "previous": "86",
       "description": "French Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -107,7 +107,7 @@
       "country": "Germany",
       "event": "German Business Expectations",
       "actual": "",
-      "consensus": "",
+      "consensus": "87.5",
       "previous": "86.7",
       "description": "German Business Expectations rates the expectations of businesses in Germany for the following six months. It is is a sub-index of the German Ifo Business Climate Index.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -118,7 +118,7 @@
       "country": "Germany",
       "event": "German Current Assessment",
       "actual": "",
-      "consensus": "",
+      "consensus": "87.0",
       "previous": "86.5",
       "description": "The German Current Assessment rates current business conditions in Germany, without considering future expectations. It is a sub-index of the German Ifo Business Climate Index.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -129,7 +129,7 @@
       "country": "Germany",
       "event": "German Ifo Business Climate Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "87.3",
       "previous": "86.6",
       "description": "The German Ifo Business Climate Index rates the current German business climate and measures expectations for the next six months. It is a composite index based on a survey of manufacturers, builders, wholesalers and retailers. The index is compiled by the Ifo Institute for Economic Research.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -251,8 +251,8 @@
       "event": "House Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.3%",
-      "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "2.2%",
+      "description": "The HPI is published by OFHEO using data provided by Fannie Mae and Freddie Mac. House price index is a statistic designed to reflect the average change of house prices across the country or a certain area. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -261,9 +261,9 @@
       "country": "United States",
       "event": "House Price Index",
       "actual": "",
-      "consensus": "",
-      "previous": "2.2%",
-      "description": "The HPI is published by OFHEO using data provided by Fannie Mae and Freddie Mac. House price index is a statistic designed to reflect the average change of house prices across the country or a certain area. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "consensus": "0.2%",
+      "previous": "0.3%",
+      "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "S&P/CS HPI Composite - 20 n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.9%",
       "previous": "1.6%",
       "description": "The S&P/Case-Shiller House Price Index measures the change in the selling price of single-family homes in 20 metropolitan areas.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -316,21 +316,10 @@
       "country": "United States",
       "event": "CB Consumer Confidence",
       "actual": "",
-      "consensus": "91.2",
+      "consensus": "90.3",
       "previous": "90.8",
       "description": "Conference Board (CB) Consumer Confidence measures the level of consumer confidence in economic activity.\r\nIt is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
-    },
-    {
-      "date": "2026-08-26",
-      "time_gmt": "10:00",
-      "country": "United States",
-      "event": "New Home Sales",
-      "actual": "",
-      "consensus": "",
-      "previous": "1.6%",
-      "description": "New Home Sales measures the change in percenatge of the new home sales, A new home sale is considered to be any deposit or contract signing either in the year the house was built or the year after it was built. A strong number would indicate a strong housing activity, and therefore a strong economy. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
-      "high_impact": false
     },
     {
       "date": "2026-08-26",
@@ -347,9 +336,20 @@
       "date": "2026-08-26",
       "time_gmt": "10:00",
       "country": "United States",
-      "event": "Richmond Manufacturing Index",
+      "event": "New Home Sales",
       "actual": "",
       "consensus": "",
+      "previous": "1.6%",
+      "description": "New Home Sales measures the change in percenatge of the new home sales, A new home sale is considered to be any deposit or contract signing either in the year the house was built or the year after it was built. A strong number would indicate a strong housing activity, and therefore a strong economy. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-26",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "Richmond Manufacturing Index",
+      "actual": "",
+      "consensus": "7",
       "previous": "5",
       "description": "The Richmond Manufacturing Index rates the relative level of business conditions including shipments, new orders, and employment. A level above zero on the index indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 100 manufacturers in the Richmond area.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -400,6 +400,17 @@
     },
     {
       "date": "2026-08-26",
+      "time_gmt": "16:00",
+      "country": "United States",
+      "event": "FOMC Member Barkin Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Richmond Fed President Thomas Barkin. His public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-26",
       "time_gmt": "16:30",
       "country": "United States",
       "event": "API Weekly Crude Oil Stock",
@@ -415,7 +426,7 @@
       "country": "Japan",
       "event": "Corporate Services Price Index (CSPI)",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "3.2%",
       "description": "The Corporate Services Price Index (CSPI) measures the change in the price of goods sold by corporations. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -437,7 +448,7 @@
       "country": "Australia",
       "event": "Construction Work Done",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "3.4%",
       "description": "Construction Work Done measures the change in the total value of completed construction projects. It provides an early indication of trends in building and engineering construction activity. The data is an estimate, based on a survey of approximately 80% of the value of both building and engineering work done during the quarter.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
@@ -448,7 +459,7 @@
       "country": "Australia",
       "event": "Monthly CPI Indicator",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.30%",
       "previous": "3.80%",
       "description": "Monthly CPI Indicator measures monthly changes in the price of a of goods and services which account for a high proportion of expenditure by the CPI population group (i.e. metropolitan households).",
       "high_impact": true
