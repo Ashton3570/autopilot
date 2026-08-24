@@ -1,29 +1,7 @@
 {
   "date": "2026-08-29",
-  "asOf": "Sun, Aug 23, 2026",
+  "asOf": "Mon, Aug 24, 2026",
   "events": [
-    {
-      "date": "2026-08-29",
-      "time_gmt": "02:00",
-      "country": "United Kingdom",
-      "event": "Nationwide HPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.1%",
-      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "02:00",
-      "country": "United Kingdom",
-      "event": "Nationwide HPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "1.8%",
-      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
-      "high_impact": false
-    },
     {
       "date": "2026-08-29",
       "time_gmt": "02:00",
@@ -63,17 +41,6 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "2.1%",
-      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French CPI",
-      "actual": "",
       "consensus": "0.7%",
       "previous": "0.6%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
@@ -83,11 +50,11 @@
       "date": "2026-08-29",
       "time_gmt": "02:45",
       "country": "France",
-      "event": "French GDP",
+      "event": "French CPI",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "0.2%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "2.1%",
+      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -99,6 +66,17 @@
       "consensus": "0.7%",
       "previous": "0.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French GDP",
+      "actual": "",
+      "consensus": "0.2%",
+      "previous": "0.2%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -162,9 +140,9 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "0.3%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "4.2%",
+      "previous": "3.6%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -173,9 +151,9 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "4.2%",
-      "previous": "3.6%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "consensus": "",
+      "previous": "0.3%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -262,7 +240,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "0.60%",
+      "previous": "5.30%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -273,7 +251,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "5.30%",
+      "previous": "0.60%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -445,6 +423,17 @@
     {
       "date": "2026-08-29",
       "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "716.91B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "07:30",
       "country": "Brazil",
       "event": "Bank lending",
       "actual": "",
@@ -503,6 +492,17 @@
       "country": "Canada",
       "event": "GDP",
       "actual": "",
+      "consensus": "",
+      "previous": "0.3%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "GDP",
+      "actual": "",
       "consensus": "0.2%",
       "previous": "0.3%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
@@ -528,17 +528,6 @@
       "consensus": "",
       "previous": "0.0%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the CAD and a lower than expected number as negative to the CAD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "08:30",
-      "country": "Canada",
-      "event": "GDP",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.3%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
