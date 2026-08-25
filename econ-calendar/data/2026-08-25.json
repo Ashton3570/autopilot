@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "asOf": "Mon, Aug 24, 2026",
+  "asOf": "Tue, Aug 25, 2026",
   "events": [
     {
       "date": "2026-08-25",
@@ -154,17 +154,6 @@
       "consensus": "",
       "previous": "106.8",
       "description": "The Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict the consumer spending, which is a major part in the total economic activity. Higher readings point to higher consumer optimism. \r\nA higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-25",
-      "time_gmt": "20:00",
-      "country": "Singapore",
-      "event": "GDP",
-      "actual": "",
-      "consensus": "",
-      "previous": "5.9%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
     },
     {
