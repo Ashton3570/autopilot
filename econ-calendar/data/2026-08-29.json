@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "asOf": "Tue, Aug 25, 2026",
+  "asOf": "Wed, Aug 26, 2026",
   "events": [
     {
       "date": "2026-08-29",
@@ -441,17 +441,6 @@
       "previous": "0.7%",
       "description": "Bank Lending measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "07:30",
-      "country": "Brazil",
-      "event": "Gross Debt-to-GDP ratio",
-      "actual": "",
-      "consensus": "",
-      "previous": "81.9%",
-      "description": "Gross Debt-to-GDP ratio is one of the indicators of the health of an economy. It is the amount of national debt of a country as a percentage of its Gross Domestic Product (GDP). A low Gross Debt-to-GDP ratio indicates an economy that produces a large number of goods and services and probably profits that are high enough to pay back debts. A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
-      "high_impact": true
     },
     {
       "date": "2026-08-29",
