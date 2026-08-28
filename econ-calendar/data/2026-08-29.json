@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "asOf": "Wed, Aug 26, 2026",
+  "asOf": "Fri, Aug 28, 2026",
   "events": [
     {
       "date": "2026-08-29",
@@ -30,7 +30,7 @@
       "country": "France",
       "event": "French Consumer Spending",
       "actual": "",
-      "consensus": "0.0%",
+      "consensus": "0.1%",
       "previous": "0.4%",
       "description": "French Consumer Spending measures the change in the inflation-adjusted value of all goods expenditures by consumers. Consumer spending accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -63,9 +63,9 @@
       "country": "France",
       "event": "French GDP",
       "actual": "",
-      "consensus": "0.7%",
-      "previous": "0.9%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.2%",
+      "previous": "-0.1%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -74,9 +74,9 @@
       "country": "France",
       "event": "French GDP",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "0.2%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.7%",
+      "previous": "0.9%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -100,17 +100,6 @@
       "previous": "2.4%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French Non-Farm Payrolls",
-      "actual": "",
-      "consensus": "-0.1%",
-      "previous": "-0.1%",
-      "description": "French Non-farm Payrolls measures the change in the number of employed people, excluding the farming industry and government.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
     },
     {
       "date": "2026-08-29",
@@ -140,6 +129,17 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
+      "consensus": "0.6%",
+      "previous": "0.3%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "03:00",
+      "country": "Spain",
+      "event": "Spanish CPI",
+      "actual": "",
       "consensus": "4.2%",
       "previous": "3.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
@@ -149,21 +149,10 @@
       "date": "2026-08-29",
       "time_gmt": "03:00",
       "country": "Spain",
-      "event": "Spanish CPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.3%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "03:00",
-      "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
+      "consensus": "4.6%",
+      "previous": "3.9%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -173,8 +162,8 @@
       "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
-      "previous": "3.9%",
+      "consensus": "0.8%",
+      "previous": "0.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -240,7 +229,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "5.30%",
+      "previous": "0.60%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -251,7 +240,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "0.60%",
+      "previous": "5.30%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -261,7 +250,7 @@
       "country": "Italy",
       "event": "Italian Business Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "90.0",
       "previous": "89.6",
       "description": "Business Confidence rates the current level of business conditions. It helps to analyze the economic situation in the short term. A rising trend indicates an increase in business investment which may lead to higher levels of output.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -272,7 +261,7 @@
       "country": "Italy",
       "event": "Italian Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "95.0",
       "previous": "94.2",
       "description": "Italian Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -305,8 +294,8 @@
       "country": "Euro Zone",
       "event": "Consumer Confidence",
       "actual": "",
-      "consensus": "-16.3",
-      "previous": "-15.5",
+      "consensus": "-15.5",
+      "previous": "-15.9",
       "description": "Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. The reading is compiled from a survey of about 2,300 consumers in the euro zone which asks respondents to evaluate future economic prospects. Higher readings point to higher consumer optimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -338,7 +327,7 @@
       "country": "Euro Zone",
       "event": "Services Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.9",
       "previous": "4.7",
       "description": "Balances: i.e. Differences between the percentages of respondents giving positive and negative replies.The indicator is an average of the responses (seasonally adjusted balances) to the questions on business climate and evolution of demand.",
       "high_impact": false
@@ -349,9 +338,31 @@
       "country": "Euro Zone",
       "event": "Industrial Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-5.2",
       "previous": "-6.1",
       "description": "Industrial Sentiment is an indicator that measures the mood of consumers or businesses. based on a survey during which respondents rate their opinion on different issues concerning current and future conditions. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 10-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.00%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. \r\n<BR/><BR/>Italian BTP bonds have maturities of five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 5-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.39%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
     {
@@ -371,7 +382,7 @@
       "country": "India",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "6.2%",
+      "consensus": "6.0%",
       "previous": "7.3%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the INR, while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
@@ -393,7 +404,7 @@
       "country": "Brazil",
       "event": "IGP-M Inflation Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.25%",
       "previous": "-1.16%",
       "description": "An index that measures and tracks the changes in price of goods in the stages before the retail level. Wholesale price indexes (WPIs) report monthly to show the average price changes of goods sold in bulk, and they are a group of the indicators that follow growth in the economy. \r\nAlthough some countries still use the WPIs as a measure of inflation, many countries, including the United States, use the producer price index (PPI) instead.",
       "high_impact": false
@@ -482,8 +493,8 @@
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "0.3%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "0.0%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the CAD and a lower than expected number as negative to the CAD.",
       "high_impact": true
     },
     {
@@ -512,22 +523,22 @@
       "date": "2026-08-29",
       "time_gmt": "08:30",
       "country": "Canada",
-      "event": "GDP",
+      "event": "GDP Annualized",
       "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
+      "consensus": "3.4%",
+      "previous": "-0.1%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the CAD and a lower than expected number as negative to the CAD.",
       "high_impact": true
     },
     {
       "date": "2026-08-29",
-      "time_gmt": "08:30",
+      "time_gmt": "08:31",
       "country": "Canada",
-      "event": "GDP Annualized",
+      "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "-0.1%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the CAD and a lower than expected number as negative to the CAD.",
+      "previous": "",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -536,7 +547,7 @@
       "country": "United States",
       "event": "Chicago PMI",
       "actual": "",
-      "consensus": "57.8",
+      "consensus": "57.9",
       "previous": "57.6",
       "description": "The Chicago Purchasing Managers' Index (PMI) determines the economic health of the manufacturing sector in Chicago region.\r\nA reading above 50 indicates expansion of the manufacturing sector; a reading below indicates contraction. The Chicago PMI can be of some help in forecasting the ISM manufacturing PMI.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -556,21 +567,10 @@
       "date": "2026-08-29",
       "time_gmt": "10:00",
       "country": "United States",
-      "event": "Fed Governor Warsh Speaks",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "Federal Reserve Governor (February 2006 - March 2011) and Federal Open Market Committee (FOMC) voting member Kevin Warsh is to speak. FOMC members are responsible for setting the benchmark interest rate and their speeches are closely watched for indications on the future possible direction of monetary policy.<BR/><BR/>His comments may determine a short-term positive or negative trend.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-08-29",
-      "time_gmt": "10:00",
-      "country": "United States",
       "event": "Michigan 1-Year Inflation Expectations",
       "actual": "",
       "consensus": "4.3%",
-      "previous": "4.3%",
+      "previous": "4.2%",
       "description": "University of Michigan (UoM) Inflation Expectations measures the percentage that consumers expect the price of goods and services to change during the next 12 months. There are two versions of this data released two weeks apart,Preliminary and Revised. The preliminary release is the earliest so tends to have more impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
@@ -592,7 +592,7 @@
       "event": "Michigan Consumer Expectations",
       "actual": "",
       "consensus": "50.6",
-      "previous": "50.6",
+      "previous": "55.4",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. This number is the expectations part of the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number.",
       "high_impact": false
     },
@@ -603,7 +603,7 @@
       "event": "Michigan Consumer Sentiment",
       "actual": "",
       "consensus": "51.0",
-      "previous": "51.0",
+      "previous": "55.2",
       "description": "The University of Michigan Consumer Sentiment Index rates the relative level of current and future economic conditions. There are two versions of this data released two weeks apart, preliminary and revised. The preliminary data tends to have a greater impact. The reading is compiled from a survey of around 500 consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -614,7 +614,7 @@
       "event": "Michigan Current Conditions",
       "actual": "",
       "consensus": "51.8",
-      "previous": "51.8",
+      "previous": "54.8",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. All five questions have equal weight in determining the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number. This is the preliminary number.",
       "high_impact": false
     },
@@ -628,6 +628,17 @@
       "previous": "-862.00K",
       "description": "A benchmark revision is the difference between the benchmark employment level for a given period and its corresponding sample-based estimate. The overall accuracy of the establishment survey is usually gauged by the size of this difference. The benchmark revision often is regarded as a proxy for total survey error, but this does not take into account error in the universe data. The employment counts obtained from quarterly unemployment insurance tax forms are administrative data that reflect employer record-keeping practices and differing State laws and procedures. The benchmark revision can be more precisely interpreted as the difference between two independently derived employment counts, each subject to its own error sources.",
       "high_impact": true
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "10:30",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Mann Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Dr Catherine L Mann serves as a member of the Monetary Policy Committee (MPC) of the Bank of England. Her public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
     },
     {
       "date": "2026-08-29",
@@ -690,7 +701,7 @@
       "country": "Brazil",
       "event": "CAGED Net Payroll Jobs",
       "actual": "",
-      "consensus": "",
+      "consensus": "112.00K",
       "previous": "145.16K",
       "description": "Employment is the total number of persons above a specified age, who in a short reference period (e.g. a week or a day), were in paid employment or self-employment. Paid employment includes persons who worked in the reference period or who had a job but were temporarily absent from work. Self-employment \r\nincludes persons who either worked in the reference period or were temporarily absent from work.Series data show evolution of formal employment in Brazil. It is measured by the movements declared in CAGED - Cadastro Geral de Empregados e Desempregados (General Register of Employment and Unemployment) of the Ministry of Labour. There are separate series for thousands of admitted and dismissed employees per month (registered in CAGED), as well as for net, i.e. admitted less dismissed. Totals of admitted, dismissed and net are also broken down to eight main sectors of economic activity according to the IBGE.",
       "high_impact": false

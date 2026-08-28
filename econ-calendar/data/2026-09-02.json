@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "asOf": "Wed, Aug 26, 2026",
+  "asOf": "Fri, Aug 28, 2026",
   "events": [
     {
       "date": "2026-09-02",
@@ -9,7 +9,7 @@
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
       "consensus": "52.9",
-      "previous": "53.5",
+      "previous": "52.9",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
     },
@@ -53,7 +53,7 @@
       "event": "German Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "-1.1%",
+      "previous": "0.0%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -64,7 +64,7 @@
       "event": "German Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "-0.2%",
+      "previous": "-0.7%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -141,7 +141,7 @@
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
       "consensus": "51.5",
-      "previous": "49.8",
+      "previous": "51.5",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -152,7 +152,7 @@
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
       "consensus": "54.1",
-      "previous": "52.2",
+      "previous": "54.1",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -163,7 +163,7 @@
       "event": "Italian GDP",
       "actual": "",
       "consensus": "0.2%",
-      "previous": "0.3%",
+      "previous": "0.2%",
       "description": "Gross Domestic Product (GDP) is the broadest measure of economic activity and is a key indicator of economic health. The quarterly percent changes in GDP show the growth rate of the economy as a whole. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -174,7 +174,7 @@
       "event": "Italian GDP",
       "actual": "",
       "consensus": "1.0%",
-      "previous": "0.8%",
+      "previous": "1.0%",
       "description": "Gross Domestic Product (GDP) is the broadest measure of economic activity and is a key indicator of economic health. The quarterly percent changes in GDP show the growth rate of the economy as a whole. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -185,7 +185,7 @@
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
       "consensus": "52.8",
-      "previous": "51.9",
+      "previous": "52.8",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -229,7 +229,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "51.5",
-      "previous": "51.9",
+      "previous": "51.5",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -460,7 +460,7 @@
       "event": "Car Registration",
       "actual": "",
       "consensus": "",
-      "previous": "-20.60%",
+      "previous": "3.70%",
       "description": "The car registrations published by the European Automobile Manufacturers’ Association (ACEA) describe the number of new passenger car registrations in the United Kingdom. If the number increases, this is a sign of increasing consumption. At the same time, British carmakers are earning more money, leading to rising profits. This generally boosts the economy - and vice versa. If car registrations are higher than expected, this usually leads to a rising pound (GBP) exchange rate on the currency markets. Conversely, the pound exchange rate (GBP) falls if new registrations are lower than expected or if expectations are missed.",
       "high_impact": false
     },
@@ -471,7 +471,7 @@
       "event": "Car Registration",
       "actual": "",
       "consensus": "",
-      "previous": "3.70%",
+      "previous": "-20.60%",
       "description": "The car registrations published by the European Automobile Manufacturers’ Association (ACEA) describe the number of new passenger car registrations in the United Kingdom. If the number increases, this is a sign of increasing consumption. At the same time, British carmakers are earning more money, leading to rising profits. This generally boosts the economy - and vice versa. If car registrations are higher than expected, this usually leads to a rising pound (GBP) exchange rate on the currency markets. Conversely, the pound exchange rate (GBP) falls if new registrations are lower than expected or if expectations are missed.",
       "high_impact": false
     },
@@ -482,8 +482,8 @@
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "1.8%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
+      "previous": "1.1%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the BRL and a lower than expected number as negative to the BRL.",
       "high_impact": true
     },
     {
@@ -493,8 +493,8 @@
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "1.1%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the BRL and a lower than expected number as negative to the BRL.",
+      "previous": "1.8%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
     },
     {
@@ -526,7 +526,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "57.71K",
+      "previous": "11.90%",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -537,7 +537,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "11.90%",
+      "previous": "57.71K",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -581,7 +581,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "53.2",
-      "previous": "53.9",
+      "previous": "53.2",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -746,7 +746,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.8%",
+      "previous": "-0.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -757,7 +757,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "-0.2%",
+      "previous": "2.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -848,6 +848,17 @@
       "previous": "0.3%",
       "description": "GDP measures summary value of goods and services generated in a relevant country or region. A region's gross domestic product, or GDP, is one of the ways for measuring the size of its economy. Production approach - The sum of the value added created through the production of goods and services within the economy. \r\nCalculation: GDP using the production approach is derived as the sum of gross value added for each industry plus taxes less subsidies on products. \r\nMarket influence of GDP Unexpectedly high quarterly GDP growth is perceived to be potentially inflationary if the economy is close to full capacity; this, in turn, causes bond prices to drop and yields and interest rates to rise. Where the stock market is concerned on one side higher than expected growth leads to \r\nhigher profits and that's good for the stock market.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-02",
+      "time_gmt": "22:00",
+      "country": "Australia",
+      "event": "RBA Rate Statement",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Reserve Bank of Australia's (RBA) monthly rate statement contains the outcome of bank's interest rate decision and discusses the economic conditions that influenced the decision. It can also give investors clues to the outcome of future decisions.<BR/><BR/>A more dovish than expected statement could be taken as negative/bearish for the AUD, while a more hawkish than expected statement could be taken as positive/bullish for the AUD.",
+      "high_impact": false
     },
     {
       "date": "2026-09-02",

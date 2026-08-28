@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "asOf": "Wed, Aug 26, 2026",
+  "asOf": "Fri, Aug 28, 2026",
   "events": [
     {
       "date": "2026-08-31",
@@ -229,7 +229,7 @@
       "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "454.7B",
+      "previous": "454,697.0B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
     }
