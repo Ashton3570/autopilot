@@ -171,11 +171,11 @@
       "date": "2026-09-03",
       "time_gmt": "09:45",
       "country": "Canada",
-      "event": "BOC Press Conference",
+      "event": "BoC Rate Statement",
       "actual": "",
       "consensus": "",
       "previous": "",
-      "description": "The Bank of Canada (BOC) press conference looks at the factors that affected the most recent interest rate decision, the overall economic outlook, inflation and offers insights into future monetary policy decisions.",
+      "description": "The Bank of Canada Rate Statement is the primary tool the Bank of Canada uses to communicate with investors about monetary policy. It contains the outcome of their decision on interest rates and commentary about the economic conditions that influenced their decision.",
       "high_impact": false
     },
     {
@@ -341,6 +341,17 @@
       "consensus": "",
       "previous": "-2.536M",
       "description": "Gasoline Inventories measures the change in the number of barrels of commercial gasoline held in inventory by commercial firms during the reported week. The data influences the price of gasoline products which affects inflation.<BR/><BR/>The data has no consistent effect, there are both inflationary and growth implications.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-03",
+      "time_gmt": "10:30",
+      "country": "Canada",
+      "event": "BOC Press Conference",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bank of Canada (BOC) press conference looks at the factors that affected the most recent interest rate decision, the overall economic outlook, inflation and offers insights into future monetary policy decisions.",
       "high_impact": false
     },
     {
@@ -551,6 +562,28 @@
       "previous": "51.0",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the HKD while a lower than expected reading should be taken as negative/bearish for the HKD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-03",
+      "time_gmt": "21:00",
+      "country": "New Zealand",
+      "event": "ANZ Commodity Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-3.9%",
+      "description": "The ANZ Commodity Price Index measures the change in the selling price of exported commodities. Commodities exports comprise a major part of New Zealand's economy. The data also has an effect on the country's trade balance. The report is released monthly by ANZ, one of New Zealand's leading banking and financial services firms.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-03",
+      "time_gmt": "21:15",
+      "country": "Australia",
+      "event": "RBA Assistant Governor Jones Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-09-03",

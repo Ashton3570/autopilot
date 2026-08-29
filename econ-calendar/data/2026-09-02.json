@@ -30,7 +30,7 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.1%",
       "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.0%",
       "previous": "1.8%",
       "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
       "high_impact": false
@@ -89,6 +89,17 @@
       "previous": "1.5%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-02",
+      "time_gmt": "02:30",
+      "country": "Germany",
+      "event": "German Buba Mauderer Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-09-02",
@@ -371,7 +382,7 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.3%",
       "previous": "2.9%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -565,6 +576,17 @@
     },
     {
       "date": "2026-09-02",
+      "time_gmt": "09:05",
+      "country": "United States",
+      "event": "Fed Vice Chair for Supervision Barr Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-02",
       "time_gmt": "09:30",
       "country": "Canada",
       "event": "S&P Global Manufacturing PMI",
@@ -635,7 +657,7 @@
       "country": "United States",
       "event": "ISM Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "55.3",
       "previous": "55.6",
       "description": "The Institute of Supply Management (ISM) Manufacturing Purchasing Managers Index (PMI) Report on Business is based on data compiled from monthly replies to questions asked of purchasing and supply executives in over 400 industrial companies. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers Inventories, Employment, and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction and the negative economic direction and the diffusion index. Responses are raw data and are never changed. <br/><br/>The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive). The resulting single index number is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. <BR/><BR/>The PMI is a composite index based on the seasonally adjusted diffusion indices for five of the indicators with varying weights: New Orders --30% Production --25% Employment --20% Supplier Deliveries --15% and Inventories -- 10%. <br/><br/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -746,7 +768,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "-0.2%",
+      "previous": "2.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -757,7 +779,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.8%",
+      "previous": "-0.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -792,6 +814,17 @@
       "consensus": "",
       "previous": "-13.9%",
       "description": "Monetary Base measures the change in the total amount of domestic currency in circulation and current account deposits held at the Bank of Japan. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-02",
+      "time_gmt": "20:30",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {
@@ -866,7 +899,7 @@
       "country": "New Zealand",
       "event": "RBNZ Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.75%",
       "previous": "2.50%",
       "description": "The Reserve Bank of New Zealand (RBNZ) governor decides where to set the rate after consulting senior bank staff and external advisers. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the NZD,\r\nwhile a lower than expected rate is negative/bearish for the NZD.",
       "high_impact": true
