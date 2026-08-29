@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "asOf": "Fri, Aug 28, 2026",
+  "asOf": "Sat, Aug 29, 2026",
   "events": [
     {
       "date": "2026-08-29",
@@ -704,6 +704,17 @@
       "consensus": "",
       "previous": "",
       "description": "Isabel Schnabel, member of the Executive Board of the European Central Bank, is set to speak. Her speeches often contain indications on the future possible direction of monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-08-29",
+      "time_gmt": "12:30",
+      "country": "United States",
+      "event": "Fed Goolsbee Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
