@@ -1,5 +1,17 @@
 {
   "date": "2026-08-30",
-  "asOf": null,
-  "events": []
+  "asOf": "Sun, Aug 30, 2026",
+  "events": [
+    {
+      "date": "2026-08-30",
+      "time_gmt": "08:00",
+      "country": "United States",
+      "event": "Jackson Hole Symposium",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Economic Symposium, held in Jackson Hole, Wyoming, is attended by central bankers, finance ministers, academics, and financial market participants from around the world. Comments and speeches from central bankers and other influential officials can create significant market volatility.",
+      "high_impact": false
+    }
+  ]
 }
