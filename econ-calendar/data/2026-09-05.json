@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "asOf": "Sun, Aug 30, 2026",
+  "asOf": "Mon, Aug 31, 2026",
   "events": [
     {
       "date": "2026-09-05",
@@ -140,9 +140,9 @@
       "country": "Italy",
       "event": "Italian Retail Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "3.1%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.2%",
+      "previous": "-0.1%",
+      "description": "Italian Retail Sales measures the change in the total value of sales at the retail level.\r\nIt is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -151,9 +151,9 @@
       "country": "Italy",
       "event": "Italian Retail Sales",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "-0.1%",
-      "description": "Italian Retail Sales measures the change in the total value of sales at the retail level.\r\nIt is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "3.1%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -206,9 +206,9 @@
       "country": "Euro Zone",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "0.3%",
-      "previous": "-0.3%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "0.7%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -217,10 +217,43 @@
       "country": "Euro Zone",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "0.7%",
-      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.3%",
+      "previous": "-0.3%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-05",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "Bank Loan Growth",
+      "actual": "",
+      "consensus": "",
+      "previous": "18.3%",
+      "description": "Bank Loan Growth measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-05",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "Deposit Growth",
+      "actual": "",
+      "consensus": "",
+      "previous": "14.7%",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-05",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "729.33B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
     },
     {
       "date": "2026-09-05",

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "asOf": "Sun, Aug 30, 2026",
+  "asOf": "Mon, Aug 31, 2026",
   "events": [
     {
       "date": "2026-09-03",
@@ -23,6 +23,17 @@
       "previous": "19.5K",
       "description": "Spanish Unemployment Change measures the change in the number of unemployed people during the previous month.\r\n\r\nA higher than expected reading should be taken as negative/bearish for the EUR, while lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": false
+    },
+    {
+      "date": "2026-09-03",
+      "time_gmt": "03:39",
+      "country": "Russia",
+      "event": "GDP Monthly",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.1%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
+      "high_impact": true
     },
     {
       "date": "2026-09-03",
@@ -375,17 +386,6 @@
       "previous": "-1.2",
       "description": "Business Confidence rates the current level of business conditions. It helps to analyze the economic situation in the short term. A rising trend indicates an increase in business investment which may lead to higher levels of output.<br/><br/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": false
-    },
-    {
-      "date": "2026-09-03",
-      "time_gmt": "12:00",
-      "country": "Russia",
-      "event": "GDP Monthly",
-      "actual": "",
-      "consensus": "",
-      "previous": "1.1%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
-      "high_impact": true
     },
     {
       "date": "2026-09-03",

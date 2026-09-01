@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "asOf": "Sun, Aug 30, 2026",
+  "asOf": "Mon, Aug 31, 2026",
   "events": [
     {
       "date": "2026-09-02",
@@ -9,7 +9,7 @@
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
       "consensus": "52.9",
-      "previous": "52.9",
+      "previous": "53.5",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
     },
@@ -53,7 +53,7 @@
       "event": "German Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "0.0%",
+      "previous": "-0.2%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -64,7 +64,7 @@
       "event": "German Retail Sales",
       "actual": "",
       "consensus": "0.4%",
-      "previous": "-0.7%",
+      "previous": "-1.1%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -152,7 +152,7 @@
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
       "consensus": "51.5",
-      "previous": "51.5",
+      "previous": "49.8",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -163,7 +163,7 @@
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
       "consensus": "54.1",
-      "previous": "54.1",
+      "previous": "52.2",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -185,7 +185,7 @@
       "event": "Italian GDP",
       "actual": "",
       "consensus": "1.0%",
-      "previous": "1.0%",
+      "previous": "0.8%",
       "description": "Gross Domestic Product (GDP) is the broadest measure of economic activity and is a key indicator of economic health. The quarterly percent changes in GDP show the growth rate of the economy as a whole. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -196,7 +196,7 @@
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
       "consensus": "52.8",
-      "previous": "52.8",
+      "previous": "51.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -206,7 +206,7 @@
       "country": "United Kingdom",
       "event": "BoE Consumer Credit",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.800B",
       "previous": "1.807B",
       "description": "Consumer credit is defined as borrowing by the UK personal sector to finance current expenditure on goods and services. For consumer credit, the UK personal sector comprises individuals only, i.e. housing associations, incorporated businesses and other non-profit making bodies serving persons are excluded.</BR>A higher than expected reading should be taken as positive/bullish for the GBP , while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -240,7 +240,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "51.5",
-      "previous": "51.5",
+      "previous": "51.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -338,7 +338,7 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "2.9%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -492,7 +492,7 @@
       "country": "Brazil",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.8%",
       "previous": "1.8%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -503,7 +503,7 @@
       "country": "Brazil",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "1.1%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the BRL and a lower than expected number as negative to the BRL.",
       "high_impact": true
@@ -767,7 +767,7 @@
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "2.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
@@ -778,7 +778,7 @@
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "-0.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
