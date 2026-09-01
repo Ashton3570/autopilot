@@ -39,91 +39,95 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-01	10:30	United States	Dallas Fed Mfg Business Index	11.6		1.3	
 2026-09-01	11:30	United States	3-Month Bill Auction	3.770%		3.715%	
 2026-09-01	11:30	United States	6-Month Bill Auction	3.885%		3.790%	
-2026-09-01	19:00	Australia	S&P Global Manufacturing PMI		52.0	52.0	Y
-2026-09-01	19:01	United Kingdom	BRC Shop Price Index		0.9%	0.9%	
-2026-09-01	19:50	Japan	Capital Spending		-0.2%	0.0%	
-2026-09-01	20:00	South Korea	Exports		62.6%	63.0%	
-2026-09-01	20:00	South Korea	Imports		24.7%	26.5%	
-2026-09-01	20:00	South Korea	Trade Balance		30.70B	30.39B	
-2026-09-01	20:30	South Korea	S&P Global South Korea Manufacturing PMI			53.1	Y
-2026-09-01	20:30	Japan	S&P Global Manufacturing PMI		55.1	55.1	Y
-2026-09-01	21:30	Australia	Building Approvals			28.80%	
-2026-09-01	21:30	Australia	Building Approvals		-4.8%	7.2%	
-2026-09-01	21:30	Australia	Current Account		-29.7B	-27.1B	
-2026-09-01	21:30	Australia	Net Exports Contribution			-0.8%	
-2026-09-01	21:30	Australia	Private House Approvals			0.4%	
-2026-09-01	21:45	China	RatingDog Manufacturing PMI		51.5	50.9	Y
-2026-09-01	23:35	Japan	10-Year JGB Auction			2.840%	
+2026-09-01	19:00	Australia	S&P Global Manufacturing PMI	52.0	52.0	52.0	Y
+2026-09-01	19:01	United Kingdom	BRC Shop Price Index	1.5%	0.9%	0.9%	
+2026-09-01	19:50	Japan	Capital Spending	1.6%	-0.2%	0.0%	
+2026-09-01	20:00	South Korea	Exports	68.7%	62.6%	63.0%	
+2026-09-01	20:00	South Korea	Imports	22.5%	24.7%	26.5%	
+2026-09-01	20:00	South Korea	Trade Balance	34.75B	30.70B	30.39B	
+2026-09-01	20:30	South Korea	S&P Global South Korea Manufacturing PMI	52.3		53.1	Y
+2026-09-01	20:30	Japan	S&P Global Manufacturing PMI	54.9	55.1	54.5	Y
+2026-09-01	21:30	Australia	Building Approvals	9.00%		9.50%	
+2026-09-01	21:30	Australia	Building Approvals	-3.6%	-4.7%	6.9%	
+2026-09-01	21:30	Australia	Current Account	-27.2B	-29.7B	-25.4B	
+2026-09-01	21:30	Australia	Net Exports Contribution	0.1%		-0.8%	
+2026-09-01	21:30	Australia	Private House Approvals	-4.2%		0.4%	
+2026-09-01	21:45	China	RatingDog Manufacturing PMI	51.5	51.0	50.9	Y
+2026-09-01	23:35	Japan	10-Year JGB Auction	2.995%		2.840%	
 2026-09-01	All Day	United Kingdom	United Kingdom - Summer Bank Holiday				
 2026-09-01	All Day	United Kingdom	United Kingdom - Summer Bank Holiday				
-2026-09-02	01:00	India	HSBC India Manufacturing PMI		52.9	53.5	Y
-2026-09-02	01:00	Japan	Household Confidence		35.3	34.9	
-2026-09-02	02:00	United Kingdom	Nationwide HPI		0.1%	0.1%	
-2026-09-02	02:00	United Kingdom	Nationwide HPI		2.0%	1.8%	
-2026-09-02	02:00	Germany	German Retail Sales			-0.2%	Y
-2026-09-02	02:00	Germany	German Retail Sales		0.4%	-1.1%	Y
-2026-09-02	02:00	Russia	S&P Global Manufacturing PMI			50.7	Y
-2026-09-02	02:30	Switzerland	Retail Sales		1.3%	1.5%	Y
+2026-09-02	01:00	India	HSBC India Manufacturing PMI	52.8	52.9	53.5	Y
+2026-09-02	01:00	Japan	Household Confidence	35.5	35.3	34.9	
+2026-09-02	02:00	United Kingdom	Nationwide HPI	0.2%	0.1%	-0.1%	
+2026-09-02	02:00	United Kingdom	Nationwide HPI	1.6%	2.1%	1.4%	
+2026-09-02	02:00	Germany	German Retail Sales	-3.4%	0.4%	0.0%	Y
+2026-09-02	02:00	Germany	German Retail Sales	-2.5%		5.3%	Y
+2026-09-02	02:00	Russia	S&P Global Manufacturing PMI	48.8		50.7	Y
+2026-09-02	02:30	Switzerland	Retail Sales	2.3%	1.6%	1.9%	Y
 2026-09-02	02:30	Germany	German Buba Mauderer Speaks				
-2026-09-02	02:30	Australia	Commodity Prices			15.4%	
-2026-09-02	03:15	Spain	HCOB Spain Manufacturing PMI		50.4	50.2	Y
-2026-09-02	03:30	Switzerland	procure.ch Manufacturing PMI		54.1	53.2	Y
-2026-09-02	03:45	Italy	HCOB Italy Manufacturing PMI		51.6	51.3	Y
-2026-09-02	03:50	France	HCOB France Manufacturing PMI		51.5	49.8	Y
-2026-09-02	03:55	Germany	HCOB Germany Manufacturing PMI		54.1	52.2	Y
-2026-09-02	04:00	Italy	Italian GDP		0.2%	0.2%	Y
-2026-09-02	04:00	Italy	Italian GDP		1.0%	0.8%	Y
-2026-09-02	04:00	Euro Zone	HCOB Eurozone Manufacturing PMI		52.8	51.9	Y
-2026-09-02	04:30	United Kingdom	BoE Consumer Credit		1.800B	1.807B	
-2026-09-02	04:30	United Kingdom	M3 Money Supply			3,308.8B	
-2026-09-02	04:30	United Kingdom	M4 Money Supply		0.9%	0.8%	
-2026-09-02	04:30	United Kingdom	S&P Global Manufacturing PMI		51.5	51.9	Y
-2026-09-02	04:30	United Kingdom	Mortgage Approvals		59.00K	58.20K	
-2026-09-02	04:30	United Kingdom	Mortgage Lending			7.73B	
-2026-09-02	04:30	United Kingdom	Net Lending to Individuals		9.200B	9.500B	
-2026-09-02	04:30	Italy	Italian Monthly Unemployment Rate		5.6%	5.7%	Y
-2026-09-02	04:40	Spain	Spanish 12-Month Letras Auction			2.663%	
-2026-09-02	04:40	Spain	Spanish 6-Month Letras Auction			2.496%	
-2026-09-02	05:00	Italy	Italian CPI		0.4%	0.3%	Y
-2026-09-02	05:00	Italy	Italian CPI			2.9%	Y
-2026-09-02	05:00	Italy	Italian HICP		3.2%	2.9%	
-2026-09-02	05:00	Italy	Italian HICP			-1.0%	
-2026-09-02	05:00	Euro Zone	Core CPI			0.0%	Y
-2026-09-02	05:00	Euro Zone	Core CPI		2.5%	2.5%	Y
-2026-09-02	05:00	Euro Zone	CPI			0.2%	Y
-2026-09-02	05:00	Euro Zone	CPI		3.3%	2.9%	Y
-2026-09-02	05:00	Euro Zone	CPI, n.s.a			103.24	Y
-2026-09-02	05:00	Euro Zone	HICP ex Energy & Food			2.2%	
-2026-09-02	05:00	Euro Zone	HICP ex Energy and Food			0.0%	
-2026-09-02	05:00	Euro Zone	Unemployment Rate		6.3%	6.3%	Y
-2026-09-02	05:00	South Africa	Manufacturing PMI			46.8	Y
-2026-09-02	05:30	Germany	German 5-Year Bobl Auction			2.930%	
-2026-09-02	07:00	Spain	Car Registration			-20.60%	
-2026-09-02	07:00	Spain	Car Registration			3.70%	
-2026-09-02	08:00	Brazil	GDP		1.8%	1.8%	Y
-2026-09-02	08:00	Brazil	GDP		0.4%	1.1%	Y
-2026-09-02	08:00	New Zealand	GlobalDairyTrade Price Index			2.3%	
-2026-09-02	08:00	New Zealand	Milk Auctions			3,873.0	
-2026-09-02	08:15	South Africa	Total Vehicle Sales			11.90%	
-2026-09-02	08:15	South Africa	Total Vehicle Sales			57.71K	
-2026-09-02	08:55	United States	Redbook			9.1%	
-2026-09-02	09:00	Brazil	S&P Global Manufacturing PMI			47.5	Y
+2026-09-02	02:30	Australia	Commodity Prices	15.5%		17.2%	
+2026-09-02	03:15	Spain	HCOB Spain Manufacturing PMI	49.5	50.3	50.2	Y
+2026-09-02	03:30	Switzerland	procure.ch Manufacturing PMI	57.1	54.1	53.2	Y
+2026-09-02	03:45	Italy	HCOB Italy Manufacturing PMI	49.6	51.4	51.3	Y
+2026-09-02	03:50	France	HCOB France Manufacturing PMI	51.1	51.5	49.8	Y
+2026-09-02	03:55	Germany	HCOB Germany Manufacturing PMI	54.3	54.1	52.2	Y
+2026-09-02	04:00	Italy	Italian GDP	0.2%	0.2%	0.3%	Y
+2026-09-02	04:00	Italy	Italian GDP	1.0%	1.0%	0.8%	Y
+2026-09-02	04:00	Euro Zone	HCOB Eurozone Manufacturing PMI	52.7	52.8	51.9	Y
+2026-09-02	04:30	United Kingdom	BoE Consumer Credit	2.006B	1.800B	1.865B	
+2026-09-02	04:30	United Kingdom	M3 Money Supply	3,299.0B		3,308.3B	
+2026-09-02	04:30	United Kingdom	M4 Money Supply	-0.3%	0.9%	0.9%	
+2026-09-02	04:30	United Kingdom	S&P Global Manufacturing PMI	51.7	51.5	51.9	Y
+2026-09-02	04:30	United Kingdom	Mortgage Approvals	56.05K	59.00K	58.22K	
+2026-09-02	04:30	United Kingdom	Mortgage Lending	4.29B		7.68B	
+2026-09-02	04:30	United Kingdom	Net Lending to Individuals	6.300B	7.200B	9.500B	
+2026-09-02	04:30	Italy	Italian Monthly Unemployment Rate	5.8%	5.6%	5.8%	Y
+2026-09-02	04:40	Spain	Spanish 12-Month Letras Auction	2.832%		2.663%	
+2026-09-02	04:40	Spain	Spanish 6-Month Letras Auction	2.623%		2.496%	
+2026-09-02	05:00	Italy	Italian CPI	0.5%	0.5%	0.3%	Y
+2026-09-02	05:00	Italy	Italian CPI	3.3%		2.9%	Y
+2026-09-02	05:00	Italy	Italian HICP	3.2%	3.2%	2.9%	
+2026-09-02	05:00	Italy	Italian HICP	0.1%		-1.0%	
+2026-09-02	05:00	Euro Zone	Core CPI	0.2%		0.0%	Y
+2026-09-02	05:00	Euro Zone	Core CPI	2.4%	2.5%	2.5%	Y
+2026-09-02	05:00	Euro Zone	CPI	2.9%		0.2%	Y
+2026-09-02	05:00	Euro Zone	CPI	3.3%	3.3%	2.9%	Y
+2026-09-02	05:00	Euro Zone	CPI, n.s.a	103.70		103.24	Y
+2026-09-02	05:00	Euro Zone	HICP ex Energy & Food	2.1%		2.2%	
+2026-09-02	05:00	Euro Zone	HICP ex Energy and Food	0.2%		0.0%	
+2026-09-02	05:00	Euro Zone	Unemployment Rate	6.4%	6.3%	6.4%	Y
+2026-09-02	05:00	South Africa	Manufacturing PMI	45.8		46.8	Y
+2026-09-02	05:50	Germany	German 5-Year Bobl Auction	3.090%		2.930%	
+2026-09-02	07:00	Spain	Car Registration	-32.80%		-20.60%	
+2026-09-02	07:00	Spain	Car Registration	11.80%		3.70%	
+2026-09-02	07:30	India	Current Account % of GDP	-0.50%		0.70%	Y
+2026-09-02	07:30	India	Trade Balance (USD)	-86.100B		-83.400B	
+2026-09-02	08:00	India	Balance of Payments (USD)	-8.100B		7.200B	
+2026-09-02	08:00	India	Current Account (USD)	-4.20B		6.50B	
+2026-09-02	08:00	Brazil	GDP	2.0%	1.8%	1.8%	Y
+2026-09-02	08:00	Brazil	GDP	0.5%	0.4%	1.1%	Y
+2026-09-02	08:00	South Africa	Total Vehicle Sales	57.90K		57.73K	
+2026-09-02	08:00	South Africa	Total Vehicle Sales	11.40%		11.90%	
+2026-09-02	08:55	United States	Redbook	9.6%		9.1%	
+2026-09-02	09:00	Brazil	S&P Global Manufacturing PMI	46.3		47.5	Y
 2026-09-02	09:05	United States	Fed Vice Chair for Supervision Barr Speaks				
-2026-09-02	09:30	Canada	S&P Global Manufacturing PMI			53.5	Y
-2026-09-02	09:45	United States	S&P Global Manufacturing PMI		53.2	53.2	Y
-2026-09-02	10:00	United States	Construction Spending		0.0%	-0.1%	
-2026-09-02	10:00	United States	IBD/TIPP Economic Optimism		46.2	45.1	
-2026-09-02	10:00	United States	ISM Manufacturing Employment			52.8	Y
-2026-09-02	10:00	United States	ISM Manufacturing New Orders Index			56.7	Y
-2026-09-02	10:00	United States	ISM Manufacturing PMI		55.2	55.6	Y
-2026-09-02	10:00	United States	ISM Manufacturing Prices		71.2	71.1	Y
-2026-09-02	10:00	United States	JOLTS Job Openings		7.330M	7.359M	
-2026-09-02	10:30	United States	Dallas Fed Services Revenues			9.5	
-2026-09-02	10:30	United States	Texas Services Sector Outlook			6.6	
-2026-09-02	11:30	United States	52-Week Bill Auction			3.880%	
-2026-09-02	11:30	United States	Atlanta Fed GDPNow		4.6%	4.6%	
-2026-09-02	12:00	Italy	Italian Car Registration			3.9%	
-2026-09-02	16:30	United States	API Weekly Crude Oil Stock			4.200M	
+2026-09-02	09:30	Canada	S&P Global Manufacturing PMI	53.0		53.5	Y
+2026-09-02	09:45	United States	S&P Global Manufacturing PMI	53.9	53.2	53.9	Y
+2026-09-02	10:00	United States	Construction Spending	-0.5%	0.0%	0.0%	
+2026-09-02	10:00	United States	IBD/TIPP Economic Optimism	45.6	46.2	45.1	
+2026-09-02	10:00	United States	ISM Manufacturing Employment	51.2	52.5	52.8	Y
+2026-09-02	10:00	United States	ISM Manufacturing New Orders Index	53.7	56.8	56.7	Y
+2026-09-02	10:00	United States	ISM Manufacturing PMI	54.6	55.2	55.6	Y
+2026-09-02	10:00	United States	ISM Manufacturing Prices	71.1	70.5	71.1	Y
+2026-09-02	10:00	United States	JOLTS Job Openings	7.271M	7.330M	7.182M	
+2026-09-02	10:30	United States	Dallas Fed Services Revenues	6.6		9.5	
+2026-09-02	10:30	United States	Texas Services Sector Outlook	4.2		6.6	
+2026-09-02	11:30	United States	52-Week Bill Auction	3.980%		3.880%	
+2026-09-02	11:30	New Zealand	GlobalDairyTrade Price Index	0.9%		2.3%	
+2026-09-02	11:30	New Zealand	Milk Auctions	3,910.0		3,873.0	
+2026-09-02	11:50	United States	Atlanta Fed GDPNow	4.8%	4.6%	4.6%	
+2026-09-02	12:00	Italy	Italian Car Registration	3.2%		3.9%	
+2026-09-02	16:30	United States	API Weekly Crude Oil Stock	-2.600M		4.200M	
 2026-09-02	18:45	New Zealand	Building Consents			-3.6%	
 2026-09-02	19:00	South Korea	CPI		3.2%	2.8%	Y
 2026-09-02	19:00	South Korea	CPI		0.3%	-0.2%	Y
@@ -132,7 +136,7 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-02	19:50	Japan	Monetary Base		-13.5%	-13.9%	
 2026-09-02	20:30	Germany	German Buba President Nagel Speaks				
 2026-09-02	21:30	Australia	GDP		0.3%	0.3%	Y
-2026-09-02	21:30	Australia	GDP			2.5%	Y
+2026-09-02	21:30	Australia	GDP		1.8%	2.5%	Y
 2026-09-02	21:30	Australia	GDP Capital Expenditure			3.0%	Y
 2026-09-02	21:30	Australia	GDP Chain Price Index			0.8%	Y
 2026-09-02	21:30	Australia	GDP Final Consumption			0.3%	Y
@@ -141,7 +145,7 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-02	22:00	New Zealand	RBNZ Monetary Policy Statement				
 2026-09-02	23:00	New Zealand	RBNZ Press Conference				
 2026-09-03	02:45	France	French Government Budget Balance			-106.8B	
-2026-09-03	03:00	Spain	Spanish Unemployment Change		21.5K	19.5K	
+2026-09-03	03:00	Spain	Spanish Unemployment Change		15.4K	19.5K	
 2026-09-03	03:39	Russia	GDP Monthly			1.1%	Y
 2026-09-03	04:00	Italy	Italian PPI			0.0%	Y
 2026-09-03	04:00	Italy	Italian PPI			5.8%	Y
@@ -154,13 +158,13 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-03	07:30	India	M3 Money Supply			14.7%	
 2026-09-03	08:00	Brazil	Industrial Production			1.7%	
 2026-09-03	08:00	Brazil	Industrial Production			-1.8%	
-2026-09-03	08:15	United States	ADP Nonfarm Employment Change		47K	44K	Y
+2026-09-03	08:15	United States	ADP Nonfarm Employment Change		48K	44K	Y
 2026-09-03	09:00	Singapore	S&P Global Manufacturing PMI			51.4	Y
 2026-09-03	09:45	Canada	BoC Rate Statement				
 2026-09-03	09:45	Canada	BoC Interest Rate Decision		2.25%	2.25%	Y
 2026-09-03	10:00	United States	Durables Excluding Defense			1.3%	
 2026-09-03	10:00	United States	Durables Excluding Transport			0.4%	
-2026-09-03	10:00	United States	Factory Orders		0.6%	-0.3%	
+2026-09-03	10:00	United States	Factory Orders		0.7%	-0.3%	
 2026-09-03	10:00	United States	Factory orders ex transportation			-0.4%	
 2026-09-03	10:30	United States	Crude Oil Inventories			0.095M	
 2026-09-03	10:30	United States	EIA Refinery Crude Runs			-0.002M	
@@ -184,7 +188,7 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-03	18:45	New Zealand	Terms of Trade - Exports Volume			2.7%	
 2026-09-03	18:45	New Zealand	Terms of Trade - Imports Prices			-0.7%	
 2026-09-03	18:45	New Zealand	Terms of Trade Index		-2.2%	-2.0%	
-2026-09-03	19:00	Australia	S&P Global Manufacturing & Services PMI		52.50	52.50	Y
+2026-09-03	19:00	Australia	S&P Global Manufacturing & Services PMI		52.50	53.20	Y
 2026-09-03	19:00	Australia	S&P Global Services PMI		52.9	52.9	Y
 2026-09-03	19:50	Japan	Foreign Bonds Buying			-1,978.4B	
 2026-09-03	19:50	Japan	Foreign Investments in Japanese Stocks			-764.1B	
@@ -319,45 +323,6 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-05	15:30	Japan	CFTC JPY speculative net positions			-63.3K	
 2026-09-05	15:30	New Zealand	CFTC NZD speculative net positions			-14.2K	
 2026-09-05	15:30	Euro Zone	CFTC EUR speculative net positions			-36.4K	
-2026-09-07	01:00	Japan	Coincident Indicator			0.6%	
-2026-09-07	01:00	Japan	Leading Index			0.0%	
-2026-09-07	02:00	United Kingdom	Lloyds House Price Index			0.0%	
-2026-09-07	02:00	United Kingdom	Lloyds House Price Index			0.1%	
-2026-09-07	02:00	Germany	German Industrial Production			0.2%	
-2026-09-07	02:00	Germany	German Industrial Production			0.00%	
-2026-09-07	02:00	South Africa	Foreign Reserves (USD)			73.45B	
-2026-09-07	02:00	South Africa	Net FX Reserves  (USD)			71.761B	
-2026-09-07	02:45	France	French Reserve Assets Total			357,050.0M	
-2026-09-07	03:00	Switzerland	Foreign Reserves (USD)			768,260.0B	
-2026-09-07	03:00	Switzerland	Unemployment Rate n.s.a.			3.0%	Y
-2026-09-07	03:00	Switzerland	Unemployment Rate s.a.			3.1%	Y
-2026-09-07	04:00	China	FX Reserves (USD)			3.419T	
-2026-09-07	04:30	Euro Zone	Sentix Investor Confidence			0.9	
-2026-09-07	05:00	Singapore	Foreign Reserves USD			427.9B	
-2026-09-07	05:00	Euro Zone	Employment Change			0.1%	
-2026-09-07	05:00	Euro Zone	Employment Change			0.5%	
-2026-09-07	05:00	Euro Zone	Employment Overall			176,577.2K	
-2026-09-07	05:00	Euro Zone	GDP			0.4%	Y
-2026-09-07	06:00	Canada	Leading Index			0.14%	
-2026-09-07	19:00	South Korea	GDP			0.6%	Y
-2026-09-07	19:00	South Korea	GDP			3.7%	Y
-2026-09-07	19:01	United Kingdom	BRC Retail Sales Monitor			1.0%	Y
-2026-09-07	19:30	Japan	Overall wage income of employees			4.0%	
-2026-09-07	19:30	Japan	Overtime Pay			3.40%	
-2026-09-07	19:50	Japan	Adjusted Current Account			139.69T	
-2026-09-07	19:50	Japan	Bank Lending			5.4%	
-2026-09-07	19:50	Japan	Current Account n.s.a.			-0.092T	
-2026-09-07	19:50	Japan	GDP			0.3%	Y
-2026-09-07	19:50	Japan	GDP Annualized			1.1%	Y
-2026-09-07	19:50	Japan	GDP Capital Expenditure			-1.2%	Y
-2026-09-07	19:50	Japan	GDP External Demand			0.5%	Y
-2026-09-07	19:50	Japan	GDP Price Index			2.6%	Y
-2026-09-07	19:50	Japan	GDP Private Consumption			0.0%	Y
-2026-09-07	20:30	Australia	NAB Business Confidence			-6	
-2026-09-07	20:30	Australia	NAB Business Survey			4	
-2026-09-07	20:30	Australia	Westpac Consumer Sentiment			6.0%	Y
-2026-09-07	All Day	United States	United States - Labor Day				
-2026-09-07	All Day	Canada	Canada - Labor Day				
-2026-09-07	All Day	Canada	Canada - Labor Day				
-2026-09-07	All Day	Canada	Canada - Labor Day				
-2026-09-07	All Day	Brazil	Brazil - Independence Day				
+2026-09-07	06:00	United States	OPEC Meeting				
+2026-09-07	19:50	Japan	Foreign Reserves (USD)			1,287.1B	
+2026-09-07	21:30	Australia	ANZ Job Advertisements			0.8%	

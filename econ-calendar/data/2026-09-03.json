@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "asOf": "Mon, Aug 31, 2026",
+  "asOf": "Tue, Sep 1, 2026",
   "events": [
     {
       "date": "2026-09-03",
@@ -19,7 +19,7 @@
       "country": "Spain",
       "event": "Spanish Unemployment Change",
       "actual": "",
-      "consensus": "21.5K",
+      "consensus": "15.4K",
       "previous": "19.5K",
       "description": "Spanish Unemployment Change measures the change in the number of unemployed people during the previous month.\r\n\r\nA higher than expected reading should be taken as negative/bearish for the EUR, while lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "United States",
       "event": "ADP Nonfarm Employment Change",
       "actual": "",
-      "consensus": "47K",
+      "consensus": "48K",
       "previous": "44K",
       "description": "The ADP National Employment Report is a measure of the monthly change in non-farm, private employment, based on the payroll data of approximately 400,000 U.S. business clients. The release, two days ahead of government data, is a good predictor of the government's non-farm payroll report. The change in this indicator can be very volatile.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Factory Orders",
       "actual": "",
-      "consensus": "0.6%",
+      "consensus": "0.7%",
       "previous": "-0.3%",
       "description": "Factory Orders measures the change in the total value of new purchase orders placed with manufacturers. The report also includes a revision of the Durable Goods Orders data released about a week earlier as well as data new data on non-durable goods orders.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -493,7 +493,7 @@
       "event": "S&P Global Manufacturing & Services PMI",
       "actual": "",
       "consensus": "52.50",
-      "previous": "52.50",
+      "previous": "53.20",
       "description": "",
       "high_impact": true
     },
