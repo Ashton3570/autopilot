@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "asOf": "Tue, Sep 1, 2026",
+  "asOf": "Wed, Sep 2, 2026",
   "events": [
     {
       "date": "2026-09-05",
@@ -20,7 +20,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.0%",
+      "previous": "116.5",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -31,7 +31,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "116.5",
+      "previous": "0.0%",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -166,17 +166,6 @@
       "previous": "44.7",
       "description": "The Chartered Institute of Purchasing and Supply (CIPS) Construction Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the construction industry. A reading above 50 indicates expansion in the construction industry; a reading below indicates contraction. It gives an indication about the health of the construction section in the UK.\r\nTraders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
-    },
-    {
-      "date": "2026-09-05",
-      "time_gmt": "04:30",
-      "country": "Hong Kong",
-      "event": "Foreign Reserves (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "447.80B",
-      "description": "",
-      "high_impact": false
     },
     {
       "date": "2026-09-05",
