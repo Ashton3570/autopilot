@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "asOf": "Wed, Sep 2, 2026",
+  "asOf": "Thu, Sep 3, 2026",
   "events": [
     {
       "date": "2026-09-05",
@@ -63,7 +63,7 @@
       "country": "Germany",
       "event": "German Factory Orders",
       "actual": "",
-      "consensus": "0.4%",
+      "consensus": "0.3%",
       "previous": "3.1%",
       "description": "German Factory Orders measures the change in the total value of new purchase orders placed with manufacturers for both durable and non-durable goods. It is a leading indicator of production.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Construction PMI",
       "actual": "",
-      "consensus": "45.9",
+      "consensus": "45.8",
       "previous": "44.7",
       "description": "The Chartered Institute of Purchasing and Supply (CIPS) Construction Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the construction industry. A reading above 50 indicates expansion in the construction industry; a reading below indicates contraction. It gives an indication about the health of the construction section in the UK.\r\nTraders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -261,7 +261,7 @@
       "country": "United States",
       "event": "Average Hourly Earnings (YoY)",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.0%",
       "previous": "3.2%",
       "description": "",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "Manufacturing Payrolls",
       "actual": "",
-      "consensus": "",
+      "consensus": "5K",
       "previous": "5K",
       "description": "Employment data, except those for the Federal Government, refer to persons on establishment payrolls who received pay for any part of the pay period which includes the 12th of the month. For Federal Government establishments, employment figures represent the number of persons who occupied positions on the last day of the calendar month. Intermittent workers are counted if they performed any service during the month.The data exclude proprietors, the self-employed, unpaid volunteer or family workers, farm workers, and domestic workers. Salaried officers of \r\ncorporations are included. Government employment covers only civilian employees; military personnel are excluded. Employees of the Central Intelligence Agency and the National Security Agency also are excluded.Persons on establishment payrolls who are on paid sick leave (when pay is received directly from the firm), on paid holiday, on paid vacation, or work during a part of the pay period even though they are unemployed or on strike during the rest of the period are counted as employed. Not counted as employed are persons who are on layoff, on leave without pay, on strike for the entire period, or who were hired but have not yet reported during\r\nthe period.",
       "high_impact": true
@@ -305,7 +305,7 @@
       "country": "United States",
       "event": "Nonfarm Payrolls",
       "actual": "",
-      "consensus": "58K",
+      "consensus": "55K",
       "previous": "-23K",
       "description": "Nonfarm Payrolls measures the change in the number of people employed during the previous month, excluding the farming industry. Job creation is the foremost indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -371,7 +371,7 @@
       "country": "Canada",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "15.8K",
+      "consensus": "15.1K",
       "previous": "75.1K",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -470,7 +470,7 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.14B",
       "previous": "7.07B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
