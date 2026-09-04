@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "asOf": "Thu, Sep 3, 2026",
+  "asOf": "Fri, Sep 4, 2026",
   "events": [
     {
       "date": "2026-09-09",
@@ -158,6 +158,17 @@
     },
     {
       "date": "2026-09-09",
+      "time_gmt": "07:25",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-09",
       "time_gmt": "08:15",
       "country": "United States",
       "event": "ADP Employment Change Weekly",
@@ -224,28 +235,6 @@
     },
     {
       "date": "2026-09-09",
-      "time_gmt": "13:49",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "27.5%",
-      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-09",
-      "time_gmt": "13:49",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "21.20M",
-      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-09",
       "time_gmt": "15:00",
       "country": "United States",
       "event": "Consumer Credit",
@@ -253,6 +242,17 @@
       "consensus": "",
       "previous": "14.17B",
       "description": "Consumer Credit measures the change in the total value of outstanding consumer credit that requires installment payments.\r\nIt is closely correlated with consumer spending and confidence. The figure can be volatile as it often subject to sizable revisions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-09",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "Manufacturing Sales Volume",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.6%",
+      "description": "Manufacturing Sales measures the change in the overall value of sales made by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
     {
@@ -275,6 +275,17 @@
       "consensus": "",
       "previous": "18",
       "description": "The Reuters Tankan is a monthly survey of leading Japanese companies, and it wasformally known as Telerate Tankan until it was renamed after the acquisition of Quick Moneyline Telerate Corp. by Reuters Group. It covers a panel of 200 manufacturers and 200 non-manufacturers. The monthly figures are designed to provide early indications of the BOJ's quarterly tankan. The indexes are derivedby subtracting the percentage of respondents who say business conditions are poor from the percentage of those who say they are good.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-09",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "M2 Money Stock",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.2%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {

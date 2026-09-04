@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "asOf": "Thu, Sep 3, 2026",
+  "asOf": "Fri, Sep 4, 2026",
   "events": [
     {
       "date": "2026-09-04",
@@ -675,17 +675,6 @@
     },
     {
       "date": "2026-09-04",
-      "time_gmt": "18:30",
-      "country": "South Korea",
-      "event": "FX Reserves - USD",
-      "actual": "",
-      "consensus": "",
-      "previous": "427.95B",
-      "description": "Foreign exchange reserves are only the foreign currency deposits held by central banks and monetary authorities. The Bank of South Korea operates in the FX markets by buying and selling foreign currency in response to exchange rate movements. The dollars which the Bank is purchasing become part of the Bank's foreign exchange reserves.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-04",
       "time_gmt": "19:00",
       "country": "South Korea",
       "event": "Current Account",
@@ -700,7 +689,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
+      "actual": "-3.6%",
       "consensus": "-1.6%",
       "previous": "-3.3%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
@@ -711,7 +700,7 @@
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
-      "actual": "",
+      "actual": "0.5%",
       "consensus": "2.6%",
       "previous": "-6.4%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",

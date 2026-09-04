@@ -1,7 +1,62 @@
 {
   "date": "2026-09-08",
-  "asOf": "Thu, Sep 3, 2026",
+  "asOf": "Fri, Sep 4, 2026",
   "events": [
+    {
+      "date": "2026-09-08",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "Coincident Indicator",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.6%",
+      "description": "Japan's Composite index of coincident indicators measures current economic \r\nconditions. For the main purpose of measuring the amplitude of the fluctuations \r\nof economic activities, the composite indexes are constructed by aggregating the\r\npercentage changes of the selected series. They are represented with the average\r\nof their 1995 values as 100. \r\n \r\nThe coincident index consists of the following components: \r\n- Index of industrial production (mining and manufacturing); \r\n- Index of consumption of raw materials (manufacturing); \r\n- Large industrial power consumption; \r\n- Index of capacity utilization ratio (manufacturing); \r\n- Index of non-scheduled worked hours; \r\n- Index of producer's shipment (investment goods); \r\n- Sales at department stores (percent change from the previous year); \r\n- Index of sales in wholesale trade (percent change from the previous year); \r\n- Operating profits (all industries); \r\n- Index of sales in small and medium sized enterprises (manufacturing); \r\n- Effective job offer rate (excluding new school graduates).",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "Leading Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "116.5",
+      "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "Leading Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.0%",
+      "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.0%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.0%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
     {
       "date": "2026-09-08",
       "time_gmt": "02:00",
@@ -224,17 +279,6 @@
     },
     {
       "date": "2026-09-08",
-      "time_gmt": "07:25",
-      "country": "Brazil",
-      "event": "BCB Focus Market Readout",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
       "time_gmt": "09:00",
       "country": "France",
       "event": "French 12-Month BTF Auction",
@@ -268,14 +312,14 @@
     },
     {
       "date": "2026-09-08",
-      "time_gmt": "19:00",
-      "country": "South Korea",
-      "event": "GDP",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "Manufacturing Sales Volume",
       "actual": "",
-      "consensus": "0.6%",
-      "previous": "1.7%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
-      "high_impact": true
+      "consensus": "",
+      "previous": "3.6%",
+      "description": "Manufacturing Sales measures the change in the overall value of sales made by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
     },
     {
       "date": "2026-09-08",
@@ -285,6 +329,17 @@
       "actual": "",
       "consensus": "3.7%",
       "previous": "3.6%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "19:00",
+      "country": "South Korea",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "0.6%",
+      "previous": "1.7%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -319,6 +374,17 @@
       "consensus": "",
       "previous": "2.80%",
       "description": "Wages and salaries are defined as \"the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in returnfor work done during the accounting period\" regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not.Non-scheduled cash earnings are the wages paid for work performed outsidescheduled working hours, and on days off or night work, that is allowances for working outside work hours, night work, early morning work, and overnight duty.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Adjusted Current Account",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.40T",
+      "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -477,6 +543,17 @@
     },
     {
       "date": "2026-09-08",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "Private House Approvals",
+      "actual": "",
+      "consensus": "-4.2%",
+      "previous": "0.8%",
+      "description": "Construction industry provides information on construction output and activity. Such information gives an insight into the supply on the housing and construction market. Rising number of new construction starts or value of construction completed reflects higher consumer and business optimism. Expanding\r\nconstruction indicates growth in the housing market and predicts an increase in the overall economy. However, an excessive supply of new buildings may result in a drop in housing prices. The construction industry is one of the first to go into a recession when the economy declines but also to recover as conditions improve.Statistics of building work approved are compiled from: permits issued by local government authorities; contracts let or day labour work authorised by Commonwealth, State, semi-government and local government authorities; major building activity in areas not subject to normal administrative approval e.g. building on remote mine sites.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
       "time_gmt": "23:00",
       "country": "China",
       "event": "Exports",
@@ -484,6 +561,17 @@
       "consensus": "",
       "previous": "17.80M",
       "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "21.20M",
+      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -506,6 +594,17 @@
       "consensus": "",
       "previous": "23.9%",
       "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-08",
+      "time_gmt": "23:00",
+      "country": "China",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "27.5%",
+      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
       "high_impact": false
     },
     {
