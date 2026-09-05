@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "asOf": "Fri, Sep 4, 2026",
+  "asOf": "Sat, Sep 5, 2026",
   "events": [
     {
       "date": "2026-09-08",
@@ -20,7 +20,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "116.5",
+      "previous": "0.0%",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -30,8 +30,8 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
+      "consensus": "117.9",
+      "previous": "116.5",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Lloyds House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "0.0%",
       "description": "The Lloyds House Price Index, Formerly the Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -85,7 +85,7 @@
       "country": "Germany",
       "event": "German Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.2%",
       "description": "German Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -141,7 +141,7 @@
       "event": "Foreign Reserves (USD)",
       "actual": "",
       "consensus": "",
-      "previous": "768.3B",
+      "previous": "768,260.0B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -162,7 +162,7 @@
       "country": "Switzerland",
       "event": "Unemployment Rate s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.1%",
       "previous": "3.1%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the CHF, while a lower than expected reading should be taken as positive/bullish for the CHF.",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "Euro Zone",
       "event": "Sentix Investor Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.1",
       "previous": "0.9",
       "description": "The Sentix Investor Confidence Index rates the relative six-month economic outlook for the euro zone. The data is compiled from a survey of about 2,800 investors and analysts. A reading above zero indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -240,7 +240,7 @@
       "event": "Employment Overall",
       "actual": "",
       "consensus": "176,577.2K",
-      "previous": "176,308.2K",
+      "previous": "176,577.2K",
       "description": "",
       "high_impact": false
     },
@@ -251,7 +251,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "0.4%",
-      "previous": "-0.2%",
+      "previous": "0.4%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -327,8 +327,8 @@
       "country": "South Korea",
       "event": "GDP",
       "actual": "",
-      "consensus": "3.7%",
-      "previous": "3.6%",
+      "consensus": "0.6%",
+      "previous": "0.6%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -338,8 +338,8 @@
       "country": "South Korea",
       "event": "GDP",
       "actual": "",
-      "consensus": "0.6%",
-      "previous": "1.7%",
+      "consensus": "3.7%",
+      "previous": "3.7%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
     },
@@ -349,7 +349,7 @@
       "country": "United Kingdom",
       "event": "BRC Retail Sales Monitor",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.2%",
       "previous": "1.0%",
       "description": "The British Retail Consortium (BRC) Retail Sales Monitor measures the change in the value of same-store sales in BRC-member retail outlets in the U.K.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -361,7 +361,7 @@
       "event": "Overall wage income of employees",
       "actual": "",
       "consensus": "",
-      "previous": "3.4%",
+      "previous": "4.0%",
       "description": "One of the statistical figures used by the Cabinet Office in monthly economic reports. It is announced by the Cabinet Office, and represents the total amount of wages received by all Japanese workers.\r\nA higher than expected result would be positive news for the yen, whilst a lower than expected result would be negative news for the yen.",
       "high_impact": false
     },
@@ -371,8 +371,8 @@
       "country": "Japan",
       "event": "Overtime Pay",
       "actual": "",
-      "consensus": "",
-      "previous": "2.80%",
+      "consensus": "3.90%",
+      "previous": "3.40%",
       "description": "Wages and salaries are defined as \"the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in returnfor work done during the accounting period\" regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not.Non-scheduled cash earnings are the wages paid for work performed outsidescheduled working hours, and on days off or night work, that is allowances for working outside work hours, night work, early morning work, and overnight duty.",
       "high_impact": false
     },
@@ -383,7 +383,7 @@
       "event": "Adjusted Current Account",
       "actual": "",
       "consensus": "",
-      "previous": "1.40T",
+      "previous": "139.69T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -393,7 +393,7 @@
       "country": "Japan",
       "event": "Adjusted Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.46T",
       "previous": "1.40T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -404,7 +404,7 @@
       "country": "Japan",
       "event": "Bank Lending",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.5%",
       "previous": "5.4%",
       "description": "Bank Lending measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -427,7 +427,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "0.3%",
-      "previous": "0.5%",
+      "previous": "0.3%",
       "description": "Gross Domestic Product (GDP) measures the change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },
@@ -438,7 +438,7 @@
       "event": "GDP Annualized",
       "actual": "",
       "consensus": "1.1%",
-      "previous": "1.8%",
+      "previous": "1.1%",
       "description": "",
       "high_impact": true
     },
@@ -449,7 +449,7 @@
       "event": "GDP Capital Expenditure",
       "actual": "",
       "consensus": "-1.2%",
-      "previous": "-0.7%",
+      "previous": "-1.2%",
       "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
       "high_impact": true
     },
@@ -460,7 +460,7 @@
       "event": "GDP External Demand",
       "actual": "",
       "consensus": "0.5%",
-      "previous": "0.3%",
+      "previous": "0.5%",
       "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
       "high_impact": true
     },
@@ -471,7 +471,7 @@
       "event": "GDP Price Index",
       "actual": "",
       "consensus": "2.6%",
-      "previous": "3.2%",
+      "previous": "2.6%",
       "description": "The Gross Domestic Product (GDP) Price Index measures the change in the price of all goods and services included in GDP. It is the broadest measure of inflation and is the primary indicator the Bank of Japan uses to gauge inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },
@@ -482,7 +482,7 @@
       "event": "GDP Private Consumption",
       "actual": "",
       "consensus": "0.0%",
-      "previous": "0.3%",
+      "previous": "0.0%",
       "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
       "high_impact": true
     },
@@ -550,72 +550,6 @@
       "consensus": "-4.2%",
       "previous": "0.8%",
       "description": "Construction industry provides information on construction output and activity. Such information gives an insight into the supply on the housing and construction market. Rising number of new construction starts or value of construction completed reflects higher consumer and business optimism. Expanding\r\nconstruction indicates growth in the housing market and predicts an increase in the overall economy. However, an excessive supply of new buildings may result in a drop in housing prices. The construction industry is one of the first to go into a recession when the economy declines but also to recover as conditions improve.Statistics of building work approved are compiled from: permits issued by local government authorities; contracts let or day labour work authorised by Commonwealth, State, semi-government and local government authorities; major building activity in areas not subject to normal administrative approval e.g. building on remote mine sites.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Exports",
-      "actual": "",
-      "consensus": "",
-      "previous": "17.80M",
-      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. Exports free on board (f.o.b.) and imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "21.20M",
-      "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect of reducing the value of Imports by the amount of the cost of insurance and freight.\r\nA higher than expected number should be taken as positive to the CNY, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Trade Balance",
-      "actual": "",
-      "consensus": "",
-      "previous": "767.07B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Exports",
-      "actual": "",
-      "consensus": "",
-      "previous": "23.9%",
-      "description": "Exports of goods and services consist of transactions in goods and services (sales, barter, gifts or grants) from residents to non-residents. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Imports",
-      "actual": "",
-      "consensus": "",
-      "previous": "27.5%",
-      "description": "Chinese Imports measures all goods and services brought into the country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the CNY while a higher than expected number as negative",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-08",
-      "time_gmt": "23:00",
-      "country": "China",
-      "event": "Trade Balance (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "112.50B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     },
     {
