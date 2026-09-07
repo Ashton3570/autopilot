@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "asOf": "Sun, Sep 6, 2026",
+  "asOf": "Mon, Sep 7, 2026",
   "events": [
     {
       "date": "2026-09-07",
@@ -18,7 +18,7 @@
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Foreign Reserves (USD)",
-      "actual": "",
+      "actual": "1,207.5B",
       "consensus": "",
       "previous": "1,287.1B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
@@ -29,9 +29,9 @@
       "time_gmt": "21:30",
       "country": "Australia",
       "event": "ANZ Job Advertisements",
-      "actual": "",
+      "actual": "2.5%",
       "consensus": "",
-      "previous": "0.8%",
+      "previous": "1.9%",
       "description": "The Australia and New Zealand Banking Group (ANZ) Job Advertisements report measures the change in the number of jobs advertised in the major daily newspapers and websites covering the capital cities. This report tends to have a greater impact when it is released ahead of government employment data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
     }

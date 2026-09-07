@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "asOf": "Sun, Sep 6, 2026",
+  "asOf": "Mon, Sep 7, 2026",
   "events": [
     {
       "date": "2026-09-11",
@@ -30,8 +30,8 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "0.2%",
+      "consensus": "2.9%",
+      "previous": "2.9%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -41,8 +41,8 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "2.9%",
-      "previous": "2.9%",
+      "consensus": "0.2%",
+      "previous": "0.2%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -229,7 +229,7 @@
       "event": "Brazilian Service Sector Growth",
       "actual": "",
       "consensus": "",
-      "previous": "2.0%",
+      "previous": "0.0%",
       "description": "",
       "high_impact": false
     },
@@ -240,7 +240,7 @@
       "event": "Brazilian Service Sector Growth",
       "actual": "",
       "consensus": "",
-      "previous": "0.0%",
+      "previous": "2.0%",
       "description": "",
       "high_impact": false
     },
@@ -616,6 +616,28 @@
       "consensus": "",
       "previous": "5.216%",
       "description": "The figures displayed in the calendar represent the yield on the Treasury Bond auctioned.<BR/><BR/>U.S. Treasury Bonds have maturities from ten up to 30 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bond represents the return an investor will receive by holding the bond for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-11",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Fed's Balance Sheet",
+      "actual": "",
+      "consensus": "",
+      "previous": "6,737B",
+      "description": "The Fed balance sheet is a statement listing the assets and liabilities of the Federal Reserve System. Details of the Fed's balance sheet are disclosed by the Fed in a weekly report called \"Factors Affecting Reserve Balances.\"",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-11",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Reserve Balances with Federal Reserve Banks",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.929T",
+      "description": "Reserve Balances with Federal Reserve Banks is the amount of money that depository institutions maintain in their accounts at their regional Federal Reserve Banks.",
       "high_impact": false
     },
     {
