@@ -1,5 +1,39 @@
 {
   "date": "2026-09-13",
-  "asOf": null,
-  "events": []
+  "asOf": "Wed, Sep 9, 2026",
+  "events": [
+    {
+      "date": "2026-09-13",
+      "time_gmt": "03:30",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-13",
+      "time_gmt": "06:00",
+      "country": "Brazil",
+      "event": "BRICS Summit",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "An international relations conference attended by the heads of state or heads of government of the five member states Brazil, Russia, India, China and South Africa.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-13",
+      "time_gmt": "All Day",
+      "country": "Russia",
+      "event": "Russia - Non Trading Day",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    }
+  ]
 }

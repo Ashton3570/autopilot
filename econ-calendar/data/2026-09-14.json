@@ -1,5 +1,50 @@
 {
   "date": "2026-09-14",
-  "asOf": null,
-  "events": []
+  "asOf": "Wed, Sep 9, 2026",
+  "events": [
+    {
+      "date": "2026-09-14",
+      "time_gmt": "18:30",
+      "country": "New Zealand",
+      "event": "Performance of Services Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "50.6",
+      "description": "BNZ-BusinessNZ PSI is a monthly survey of the services sector providing \r\nan early indicator of activity levels. A PSI reading above 50 points indicates \r\nservices activity is expanding; below 50 indicates it is contracting. \r\nThe main PMI and sub-index results are seasonally adjusted. \r\n<br/>A higher than expected reading should be taken as positive/bullish for the NZD , while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-14",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "External Migration & Visitors",
+      "actual": "",
+      "consensus": "",
+      "previous": "8.10%",
+      "description": "Tourism is a service based industry that applies to people o!G s traveling and staying in a place that is not their usual environment and for the purpose of leisure, not business. It includes such elements as accommodation, food and beverages, souvenirs, tours, transport but also relaxation, adventure, culture. \r\nTourism can substantially impact economic development of both host countries and home countries of tourists. However, consequences can be both positive and negative. Benefits from tourism industry concern: income from tourists expenditures as well as imports and exports of goods and services, contributions to government revenues from taxes put on tourism businesses, stimulation of infrastructure investment and new employment opportunities. However, a country or region should not be dependent only on this one industry. The seasonal character of tourism causes problems such as insecurity of seasonal workers that concern.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-14",
+      "time_gmt": "18:45",
+      "country": "New Zealand",
+      "event": "Permanent/Long-Term Migration",
+      "actual": "",
+      "consensus": "",
+      "previous": "1,610",
+      "description": "Permanent and long-term arrivals include overseas migrants who arrive in New Zealand intending to stay for a period of 12 months or more (or permanently), plus New Zealand residents returning after an absence of 12 months or more.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-14",
+      "time_gmt": "All Day",
+      "country": "Russia",
+      "event": "Russia - Non Trading Day",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    }
+  ]
 }
