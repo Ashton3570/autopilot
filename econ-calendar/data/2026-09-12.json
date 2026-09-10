@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "asOf": "Wed, Sep 9, 2026",
+  "asOf": "Thu, Sep 10, 2026",
   "events": [
     {
       "date": "2026-09-12",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "U.K. Construction Output",
       "actual": "",
-      "consensus": "",
+      "consensus": "-2.3%",
       "previous": "-2.3%",
       "description": "",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.2%",
       "previous": "1.1%",
       "description": "Gross Domestic Product (GDP) measures the change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "-0.2%",
       "previous": "-0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "-0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -107,7 +107,7 @@
       "country": "United Kingdom",
       "event": "Monthly GDP 3M/3M Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.4%",
       "description": "Gross domestic product (GDP) measures the value of goods and services produced in the UK. It estimates the size of and growth in the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.\r\nRolling three-month data are calculated by comparing growth in a three-month period with growth in the previous three-month period, for example, growth in June to August compared with the previous March to May.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "United Kingdom",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "-20.40B",
+      "consensus": "-22.60B",
       "previous": "-23.01B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -140,10 +140,21 @@
       "country": "Switzerland",
       "event": "SECO Consumer Climate",
       "actual": "",
-      "consensus": "-32",
+      "consensus": "-33",
       "previous": "-33",
       "description": "The State Secretariat for Economic Affairs (SECO) Consumer Climate Index measures the level of consumer confidence in economic activity. On the index, a level above zero indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": false
+    },
+    {
+      "date": "2026-09-12",
+      "time_gmt": "04:00",
+      "country": "Italy",
+      "event": "Italian Quarterly Unemployment Rate",
+      "actual": "",
+      "consensus": "5.4%",
+      "previous": "5.3%",
+      "description": "The Italian Quarterly Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous quarter.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR, while a lower than expected reading should be taken as positive/bullish for the EUR.",
+      "high_impact": true
     },
     {
       "date": "2026-09-12",
@@ -225,21 +236,10 @@
     {
       "date": "2026-09-12",
       "time_gmt": "08:00",
-      "country": "Germany",
-      "event": "German Current Account Balance n.s.a",
-      "actual": "",
-      "consensus": "",
-      "previous": "19.0B",
-      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: \r\n- current account \r\n- capital account \r\n- financial account \r\nEither a surplus or a deficit can be shown in any of these components. \r\nCurrent account records the values of the following: - trade balance exports and imports of goods and services - income payments and expenditure interest, dividends, salaries - unilateral transfers aid, taxes, one-way gifts It shows how a country deals with the global economy on a non-investment basis. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports. Positive current account balance is when inflows from its components into the country exceed outflows of the capital leaving the country. Current account surplus may strengthen the demand for local currency. Persistent deficit may lead to a depreciation of a currency.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-12",
-      "time_gmt": "08:00",
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.27%",
       "previous": "4.44%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -250,7 +250,7 @@
       "country": "Brazil",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.29%",
       "previous": "0.07%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": true
@@ -338,7 +338,7 @@
       "country": "United States",
       "event": "CPI Index, n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "334.85",
       "previous": "333.92",
       "description": "The consumer price index (CPI) is a measure of the average change in the prices paid by urban consumers for a fixed market basket of goods and services. The CPIis based on prices of food, clothing, shelter, fuel, drugs, transportation fares, doctors and dentists fees, and other goods and services that people buy for day-to-day living. The quantity and quality of these items are kept essentially unchanged between major revisions so that only price changes will bemeasured. All taxes directly associated with the purchase and use of items are included in the index.\"",
       "high_impact": true
@@ -374,6 +374,17 @@
       "consensus": "",
       "previous": "0.0%",
       "description": "Real Earnings measures Wages, salaries, and other earnings, corrected for inflation over time so as to produce a measure of actual changes in purchasing power. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-12",
+      "time_gmt": "08:30",
+      "country": "Germany",
+      "event": "German Current Account Balance n.s.a",
+      "actual": "",
+      "consensus": "",
+      "previous": "19.0B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: \r\n- current account \r\n- capital account \r\n- financial account \r\nEither a surplus or a deficit can be shown in any of these components. \r\nCurrent account records the values of the following: - trade balance exports and imports of goods and services - income payments and expenditure interest, dividends, salaries - unilateral transfers aid, taxes, one-way gifts It shows how a country deals with the global economy on a non-investment basis. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports. Positive current account balance is when inflows from its components into the country exceed outflows of the capital leaving the country. Current account surplus may strengthen the demand for local currency. Persistent deficit may lead to a depreciation of a currency.",
       "high_impact": false
     },
     {
@@ -415,7 +426,7 @@
       "country": "United States",
       "event": "Michigan Consumer Expectations",
       "actual": "",
-      "consensus": "",
+      "consensus": "50.5",
       "previous": "51.5",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. This number is the expectations part of the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number.",
       "high_impact": false
@@ -426,7 +437,7 @@
       "country": "United States",
       "event": "Michigan Consumer Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.0",
       "previous": "51.7",
       "description": "The University of Michigan Consumer Sentiment Index rates the relative level of current and future economic conditions. There are two versions of this data released two weeks apart, preliminary and revised. The preliminary data tends to have a greater impact. The reading is compiled from a survey of around 500 consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -437,7 +448,7 @@
       "country": "United States",
       "event": "Michigan Current Conditions",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.3",
       "previous": "51.9",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. All five questions have equal weight in determining the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number. This is the preliminary number.",
       "high_impact": false
@@ -547,7 +558,7 @@
       "country": "United States",
       "event": "Federal Budget Balance",
       "actual": "",
-      "consensus": "-202.4B",
+      "consensus": "-221.1B",
       "previous": "-432.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false

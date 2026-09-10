@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "asOf": "Wed, Sep 9, 2026",
+  "asOf": "Thu, Sep 10, 2026",
   "events": [
     {
       "date": "2026-09-15",
@@ -218,8 +218,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.3%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer excluding foos and energy, wom prices tend to be very volatile. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "previous": "0.2%",
+      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -229,19 +229,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.2%",
-      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-09-15",
-      "time_gmt": "08:30",
-      "country": "Canada",
-      "event": "CPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "3.0%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "2.3%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer excluding foos and energy, wom prices tend to be very volatile. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -253,6 +242,17 @@
       "consensus": "",
       "previous": "0.5%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-09-15",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.0%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -496,6 +496,17 @@
       "previous": "5.2%",
       "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-15",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "NBS Press Conference",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The National Bureau of Statistics of China (NBS) press conference publishes statistics related to the economy, population and society of the People's Republic of China at the national and local levels.",
+      "high_impact": false
     },
     {
       "date": "2026-09-15",
