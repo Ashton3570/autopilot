@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "asOf": "Thu, Sep 10, 2026",
+  "asOf": "Fri, Sep 11, 2026",
   "events": [
     {
       "date": "2026-09-16",
@@ -75,7 +75,7 @@
       "event": "German WPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.2%",
+      "previous": "5.3%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
@@ -86,7 +86,7 @@
       "event": "German WPI",
       "actual": "",
       "consensus": "",
-      "previous": "5.3%",
+      "previous": "0.2%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
@@ -97,7 +97,7 @@
       "event": "French CPI NSA",
       "actual": "",
       "consensus": "",
-      "previous": "2.10%",
+      "previous": "0.70%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -108,7 +108,7 @@
       "event": "French CPI NSA",
       "actual": "",
       "consensus": "",
-      "previous": "0.60%",
+      "previous": "2.40%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -140,8 +140,8 @@
       "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "0.8%",
-      "previous": "0.6%",
+      "consensus": "2.7%",
+      "previous": "2.7%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -151,8 +151,8 @@
       "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "2.7%",
-      "previous": "2.7%",
+      "consensus": "0.8%",
+      "previous": "0.8%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -184,9 +184,9 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "4.3%",
-      "previous": "3.6%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "consensus": "0.7%",
+      "previous": "0.7%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -195,9 +195,9 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "0.7%",
-      "previous": "0.3%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "4.3%",
+      "previous": "4.3%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -207,7 +207,7 @@
       "event": "Spanish HICP",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.0%",
+      "previous": "0.6%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -218,7 +218,7 @@
       "event": "Spanish HICP",
       "actual": "",
       "consensus": "4.5%",
-      "previous": "3.9%",
+      "previous": "4.5%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -341,6 +341,17 @@
       "consensus": "",
       "previous": "2.850%",
       "description": "The figures displayed in the calendar represent the average yield on the Schatz note auctioned.<BR/><BR/> German Schatz notes have maturities of two years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the Schatz represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
       "high_impact": false
     },
     {
@@ -474,6 +485,17 @@
       "previous": "-0.300M",
       "description": "The American Petroleum Institute reports inventory levels of US crude oil, gasoline and distillates stocks. The figure shows how much oil and product is available in storage.The indicator gives an overview of US petroleum demand.<BR/><BR/>\r\nIf the increase in crude inventories is more than expected, it implies weaker demand and is bearish for crude prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in crude is less than expected, it implies greater demand and is bullish for crude prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "17:00",
+      "country": "New Zealand",
+      "event": "Westpac Consumer Sentiment",
+      "actual": "",
+      "consensus": "",
+      "previous": "80.4",
+      "description": "The Westpac Consumer Sentiment Index measures the change in the level of consumer confidence in economic activity.\r\nOn the index, a level above 100.0 indicates optimism, below indicates pessimism.\r\nThe data is compiled from a survey of about 1,200 consumers which asks respondents to rate the relative level of past and future economic conditions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": true
     },
     {
       "date": "2026-09-16",
