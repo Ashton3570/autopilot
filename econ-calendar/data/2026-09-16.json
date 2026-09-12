@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "asOf": "Fri, Sep 11, 2026",
+  "asOf": "Sat, Sep 12, 2026",
   "events": [
     {
       "date": "2026-09-16",
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings ex Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.5%",
       "previous": "3.5%",
       "description": "The Average Earnings Index is an indicator of inflationary pressures emanating from the labour market. The effect of a higher or lower figure than expected can be both bullish or bearish.",
       "high_impact": false
@@ -30,7 +30,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings Index +Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.9%",
       "previous": "4.1%",
       "description": "The Average Earnings Index measures change in the price businesses and the government pay for labor, including bonuses. The Average Earnings figure gives us a good indication of personal income growth during the given month.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Claimant Count Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "8.3K",
       "previous": "-11.0K",
       "description": "Claimant Count Change measures the change in the number of unemployed people in the U.K. during the reported month. A rising trend indicates weakness in the labor market, which has a trickle-down effect on consumer spending and economic growth.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": false
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.9%",
       "previous": "4.9%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous three months.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while a lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": true
@@ -74,8 +74,8 @@
       "country": "Germany",
       "event": "German WPI",
       "actual": "",
-      "consensus": "",
-      "previous": "5.3%",
+      "consensus": "0.1%",
+      "previous": "0.2%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
@@ -86,7 +86,7 @@
       "event": "German WPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.2%",
+      "previous": "5.3%",
       "description": "The Wholesale Price Index (WPI) measures the change in the price of goods sold by wholesalers. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
@@ -118,17 +118,6 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "2.4%",
-      "previous": "2.1%",
-      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-09-16",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French CPI",
-      "actual": "",
       "consensus": "0.7%",
       "previous": "0.6%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
@@ -138,12 +127,12 @@
       "date": "2026-09-16",
       "time_gmt": "02:45",
       "country": "France",
-      "event": "French HICP",
+      "event": "French CPI",
       "actual": "",
-      "consensus": "2.7%",
-      "previous": "2.7%",
-      "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
-      "high_impact": false
+      "consensus": "2.4%",
+      "previous": "2.1%",
+      "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
     },
     {
       "date": "2026-09-16",
@@ -153,6 +142,17 @@
       "actual": "",
       "consensus": "0.8%",
       "previous": "0.8%",
+      "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "02:45",
+      "country": "France",
+      "event": "French HICP",
+      "actual": "",
+      "consensus": "2.7%",
+      "previous": "2.7%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -228,7 +228,7 @@
       "country": "Italy",
       "event": "Italian Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.770B",
       "previous": "4.232B",
       "description": "The Italian Trade Balance measures the difference in value between imported and exported goods during the reported month.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -242,6 +242,17 @@
       "consensus": "",
       "previous": "1.58B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods sand services, from and to Eu countries, over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "04:15",
+      "country": "Germany",
+      "event": "German Buba Vice President Buch Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -283,7 +294,7 @@
       "country": "Germany",
       "event": "German ZEW Current Conditions",
       "actual": "",
-      "consensus": "",
+      "consensus": "-53.0",
       "previous": "-61.1",
       "description": "This survey summarizes the net percentage of positive and negative responses regarding the expectations for economic growth in the next 6 months, as given by financial analysts from banks, insurance companies and large industrial enterprises. For example, if 50% believe that the economic situation will improve and 20% believe it will get worse, the result will be +30.   <BR/>\r\nThe survey deals with the markets of Germany, the USA, Japan, Great Britain, France, Italy and other EU countries. <BR/>\r\nA reading that is stronger than forecast is generally supportive (bullish) for the Euro, while a weaker than forecast reading is generally negative (bearish) for the Euro.",
       "high_impact": false
@@ -294,7 +305,7 @@
       "country": "Germany",
       "event": "German ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "42.7",
       "previous": "34.2",
       "description": "The German Zentrum für Europäische Wirtschaftsforschung (ZEW) Economic Sentiment Index gauges the six-month economic outlook. A level above zero indicates optimism; below indicates pessimism. The reading is compiled from a survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -316,7 +327,7 @@
       "country": "Euro Zone",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.7B",
       "previous": "8.6B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -327,7 +338,7 @@
       "country": "Euro Zone",
       "event": "ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "39.9",
       "previous": "31.4",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Sentiment Index rates the relative six-month economic outlook for the euro zone. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health. The reading is compiled from survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -426,7 +437,7 @@
       "country": "United States",
       "event": "NY Empire State Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "14.10",
       "previous": "20.60",
       "description": "The Empire State Manufacturing Index rates the relative level of general business conditions New York state. A level above 0.0 indicates improving conditions, below indicates worsening conditions. The reading is compiled from a survey of about 200 manufacturers in New York state.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -448,7 +459,7 @@
       "country": "Canada",
       "event": "Wholesale Sales",
       "actual": "",
-      "consensus": "-0.6%",
+      "consensus": "-0.5%",
       "previous": "2.8%",
       "description": "Wholesale Sales measures the change in the total value of sales at the wholesale level. It is a leading indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as  positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -473,6 +484,17 @@
       "consensus": "",
       "previous": "5.204%",
       "description": "The figures displayed in the calendar represent the yield on the Treasury Bond auctioned.\n\nU.S. Treasury Bonds have maturities from ten up to 30 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bond represents the return an investor will receive by holding the bond for its entire duration. All bidders receive the same rate at the highest accepted bid.\n\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "13:00",
+      "country": "Euro Zone",
+      "event": "ECB's Schnabel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Isabel Schnabel, member of the Executive Board of the European Central Bank, is set to speak. Her speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -503,7 +525,7 @@
       "country": "New Zealand",
       "event": "Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "-2.37B",
       "previous": "-1.01B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the NZD.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
@@ -534,9 +556,20 @@
       "date": "2026-09-16",
       "time_gmt": "19:50",
       "country": "Japan",
+      "event": "Adjusted Trade Balance",
+      "actual": "",
+      "consensus": "-0.98T",
+      "previous": "-0.69T",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-16",
+      "time_gmt": "19:50",
+      "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1.1%",
       "previous": "9.7%",
       "description": "Core Machinery Orders measures the change in the total value of new orders placed with machine manufacturers, excluding ships and utilities. It is a key indicator of investment and a leading indicator of manufacturing production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -547,7 +580,7 @@
       "country": "Japan",
       "event": "Core Machinery Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "15.3%",
       "previous": "16.9%",
       "description": "New orders measure the value of orders received in a given period of time. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
@@ -558,7 +591,7 @@
       "country": "Japan",
       "event": "Exports",
       "actual": "",
-      "consensus": "",
+      "consensus": "18.2%",
       "previous": "23.2%",
       "description": "This Exports number provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
       "high_impact": false
@@ -569,7 +602,7 @@
       "country": "Japan",
       "event": "Imports",
       "actual": "",
-      "consensus": "",
+      "consensus": "26.3%",
       "previous": "27.9%",
       "description": "An import is any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the JPY while a higher than expected number as negative",
       "high_impact": false
@@ -580,7 +613,7 @@
       "country": "Japan",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-1,052.6B",
       "previous": "-638.3B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
       "high_impact": false
