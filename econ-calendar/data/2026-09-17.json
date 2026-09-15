@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "asOf": "Mon, Sep 14, 2026",
+  "asOf": "Tue, Sep 15, 2026",
   "events": [
     {
       "date": "2026-09-17",
@@ -52,7 +52,7 @@
       "country": "United Kingdom",
       "event": "Core RPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.7%",
       "previous": "0.6%",
       "description": "The Retail Price Index was first calculated for June 1947 and was the principal official measure of inflation in the UK before the start of the CPI figure.The core RPI excludes mortgage payments, therefore its difference from CPI is minor, but exists. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "United Kingdom",
       "event": "PPI Output",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.5%",
       "previous": "0.2%",
       "description": "Producer Price Index (PPI) Output measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -185,7 +185,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "0.5%",
-      "previous": "0.5%",
+      "previous": "0.3%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -196,7 +196,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "3.3%",
-      "previous": "3.3%",
+      "previous": "2.9%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -217,8 +217,8 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "3.2%",
-      "previous": "3.2%",
+      "consensus": "0.1%",
+      "previous": "-1.0%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -228,8 +228,8 @@
       "country": "Italy",
       "event": "Italian HICP",
       "actual": "",
-      "consensus": "0.1%",
-      "previous": "0.1%",
+      "consensus": "3.2%",
+      "previous": "2.9%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -242,6 +242,17 @@
       "consensus": "2.1%",
       "previous": "2.0%",
       "description": "The Office for National Statistics House Price Index measures the change in the selling price of homes. This data tends to have a relatively mild impact because there are several earlier indicators related to house prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-17",
+      "time_gmt": "05:00",
+      "country": "China",
+      "event": "FDI",
+      "actual": "",
+      "consensus": "",
+      "previous": "-6.20%",
+      "description": "Foreign capital actually utilized refers to the amount which has been actually used according to the agreements and contracts, including cash, materials and invisible capital such as labour service and technology which both parties agree to take as an investment.<BR/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     },
     {
@@ -261,9 +272,9 @@
       "country": "Euro Zone",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "-0.5%",
-      "previous": "0.0%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "-0.3%",
+      "previous": "0.1%",
+      "description": "Industrial production is a measure of output of the industrial sector of the economy. The industrial sector includes manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP (Gross Domestic Product), they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance.. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -272,9 +283,9 @@
       "country": "Euro Zone",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "-0.4%",
-      "previous": "0.1%",
-      "description": "Industrial production is a measure of output of the industrial sector of the economy. The industrial sector includes manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP (Gross Domestic Product), they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance.. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
+      "consensus": "-0.2%",
+      "previous": "0.0%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
     {
@@ -371,7 +382,7 @@
       "country": "Brazil",
       "event": "IGP-10 Inflation Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.3%",
       "previous": "-0.5%",
       "description": "The IGP-10 Inflation Rate measures the change in the price of goods and services from last month's 11th day to the current month's 10th. A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": false
@@ -404,7 +415,7 @@
       "country": "Brazil",
       "event": "IBC-Br Economic Activity",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.10%",
       "previous": "-0.60%",
       "description": "The IBC-Br is widely considered to reflect gross domestic product data. It is the Index of Economic Activity of the Central Bank in Brazil</BR>A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
@@ -415,7 +426,7 @@
       "country": "Canada",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "239.0K",
+      "consensus": "243.0K",
       "previous": "229.1K",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -438,7 +449,7 @@
       "event": "Export Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "-1.3%",
+      "previous": "8.2%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -448,8 +459,8 @@
       "country": "United States",
       "event": "Export Price Index",
       "actual": "",
-      "consensus": "",
-      "previous": "8.2%",
+      "consensus": "0.5%",
+      "previous": "-1.3%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -459,7 +470,7 @@
       "country": "United States",
       "event": "Import Price Index",
       "actual": "",
-      "consensus": "0.0%",
+      "consensus": "0.4%",
       "previous": "-0.4%",
       "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -481,7 +492,7 @@
       "country": "United States",
       "event": "Retail Control",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "-0.4%",
       "description": "",
       "high_impact": false
@@ -492,9 +503,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "0.8%",
-      "previous": "-0.6%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "5.01%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -503,9 +514,9 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "5.01%",
-      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "0.8%",
+      "previous": "-0.6%",
+      "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -525,7 +536,7 @@
       "country": "Canada",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "-5.8%",
+      "consensus": "-4.5%",
       "previous": "18.5%",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -547,7 +558,7 @@
       "country": "United States",
       "event": "Business Inventories",
       "actual": "",
-      "consensus": "0.2%",
+      "consensus": "0.6%",
       "previous": "0.0%",
       "description": "Business Inventories measures the change in the worth of unsold goods held by manufacturers, wholesalers, and retailers. A high reading can indicate a lack of consumer demand.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -693,6 +704,17 @@
       "consensus": "4.4%",
       "previous": "4.4%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-17",
+      "time_gmt": "12:00",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {
@@ -899,7 +921,7 @@
       "country": "Brazil",
       "event": "Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "13.75%",
       "previous": "14.00%",
       "description": "The Central Bank of Brazil's (BCB) Monetary Policy Committee votes on where to set the overnight interest rate. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the BRL,\r\nwhile a lower than expected rate is negative/bearish for the BRL.",
       "high_impact": true
