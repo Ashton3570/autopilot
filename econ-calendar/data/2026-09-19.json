@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "asOf": "Tue, Sep 15, 2026",
+  "asOf": "Wed, Sep 16, 2026",
   "events": [
     {
       "date": "2026-09-19",
@@ -176,6 +176,17 @@
       "consensus": "",
       "previous": "785.71B",
       "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-19",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "M3 Money Supply",
+      "actual": "",
+      "consensus": "",
+      "previous": "16.7%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. M3 is a broad monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits, certificates of deposit, all other deposits and repurchase agreements. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
     {
