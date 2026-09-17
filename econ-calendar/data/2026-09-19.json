@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "asOf": "Wed, Sep 16, 2026",
+  "asOf": "Thu, Sep 17, 2026",
   "events": [
     {
       "date": "2026-09-19",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.9%",
       "previous": "2.3%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile.<br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.2%",
       "previous": "-0.9%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile. <br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.9%",
       "previous": "1.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Germany",
       "event": "German PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.1%",
       "previous": "3.0%",
       "description": "The German Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -206,7 +206,7 @@
       "country": "United States",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "Manufacturing Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -250,9 +250,20 @@
       "country": "United States",
       "event": "US Leading Index",
       "actual": "",
-      "consensus": "0.2%",
+      "consensus": "0.1%",
       "previous": "0.2%",
       "description": "The composite economic indexes are the key elements in an analytic system designed to signal peaks and troughs in the business cycle. The leading, coincident, and lagging economic indexes are essentially composite averages of several individual leading, coincident, or lagging indicators. They are constructed to summarize and reveal common turning point patterns in economic data in a clearer and more convincing manner than any individual component – primarily because they smooth out some of the volatility of individual components.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-19",
+      "time_gmt": "11:45",
+      "country": "United States",
+      "event": "Fed Schmid Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Jeff Schmid is president and chief executive officer of the Federal Reserve Bank of Kansas City. Comments by the Federal Reserve policymakers can give clues on FOMC's economic assessment and policy outlook. Factors to watch include growth, inflation, unemployment, expected timing of changes in the fed funds rate, and expected levels of the fed funds rate in the near term.",
       "high_impact": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "asOf": "Wed, Sep 16, 2026",
+  "asOf": "Thu, Sep 17, 2026",
   "events": [
     {
       "date": "2026-09-22",
@@ -11,6 +11,17 @@
       "consensus": "",
       "previous": "1,231.1B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-22",
+      "time_gmt": "06:30",
+      "country": "United States",
+      "event": "Fed Goolsbee Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -110,6 +121,17 @@
       "consensus": "",
       "previous": "4.060%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-22",
+      "time_gmt": "23:10",
+      "country": "Australia",
+      "event": "RBA Gov Bullock Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Ms Bullock commenced as Governor on 18 September 2023. She is Chair of the Reserve Bank Board, Payments System Board and Council of Financial Regulators. Prior to her current role, Ms Bullock was the Deputy Governor of the Reserve Bank of Australia.",
       "high_impact": false
     },
     {
