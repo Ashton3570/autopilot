@@ -1,7 +1,18 @@
 {
   "date": "2026-09-23",
-  "asOf": "Thu, Sep 17, 2026",
+  "asOf": "Fri, Sep 18, 2026",
   "events": [
+    {
+      "date": "2026-09-23",
+      "time_gmt": "02:00",
+      "country": "United Kingdom",
+      "event": "Public Sector Net Borrowing",
+      "actual": "",
+      "consensus": "",
+      "previous": "23.30B",
+      "description": "Public Sector Net Borrowing measures the difference in value between spending and income for public corporations, the central government, and local governments during the previous month. A positive number indicates a budget deficit, while a negative number indicates a surplus.",
+      "high_impact": false
+    },
     {
       "date": "2026-09-23",
       "time_gmt": "02:00",
@@ -33,6 +44,28 @@
       "consensus": "",
       "previous": "-7.69B",
       "description": "The Trade Balance index measures the difference in worth between exported and imported goods (exports minus imports).\r\nThis is the largest component of a country's balance of payments.\r\n<BR/>Export data can give reflection on Spain's growth.\r\nImports provide an indication of domestic demand.\r\nBecause foreigners must buy the domestic currency to pay for the nation's exports,\r\nit may have sizable affect on the EUR.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "04:30",
+      "country": "Germany",
+      "event": "German Buba Balz Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "04:30",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {
@@ -171,11 +204,33 @@
       "date": "2026-09-23",
       "time_gmt": "13:00",
       "country": "United States",
+      "event": "FOMC Member Barkin Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Richmond Fed President Thomas Barkin. His public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "13:00",
+      "country": "United States",
       "event": "M2 Money Supply",
       "actual": "",
       "consensus": "",
       "previous": "23.22T",
       "description": "US M2 Money Stock refers to the measure of money supply that includes financial assets held mainly by households. These include savings deposits, time deposits, and balances in retail money market mutual funds, in addition to more readily-available liquid financial assets as defined by the M1 measure of money, such as currency, traveler's checks, demand deposits, and other checkable deposits. The US M2 Money Stock is critical in understanding and forecasting money supply, inflation, and interest rates in the US. Historically, when the money supply dramatically increased in global economies, there would be a following dramatic increase in prices of goods and services, which would then follow monetary policy with the aim to maintain inflation levels low.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "15:30",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {

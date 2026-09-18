@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "asOf": "Thu, Sep 17, 2026",
+  "asOf": "Fri, Sep 18, 2026",
   "events": [
     {
       "date": "2026-09-22",
@@ -15,13 +15,13 @@
     },
     {
       "date": "2026-09-22",
-      "time_gmt": "06:30",
-      "country": "United States",
-      "event": "Fed Goolsbee Speaks",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
       "actual": "",
       "consensus": "",
       "previous": "",
-      "description": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
       "high_impact": false
     },
     {
@@ -99,6 +99,17 @@
       "consensus": "",
       "previous": "2.868%",
       "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-22",
+      "time_gmt": "11:05",
+      "country": "Canada",
+      "event": "BoC Gov Macklem Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of Canada (BOC) Governor Tiff Macklem (June 2020 - June 2027) will speak. As head of the BOC's Governing Council, which controls key short-term interest rates, Macklem has more influence over the Canadian dollar's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\nHis comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {

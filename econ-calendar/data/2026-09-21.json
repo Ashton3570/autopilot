@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "asOf": "Thu, Sep 17, 2026",
+  "asOf": "Fri, Sep 18, 2026",
   "events": [
     {
       "date": "2026-09-21",
@@ -15,7 +15,18 @@
     },
     {
       "date": "2026-09-21",
-      "time_gmt": "14:40",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-2.0%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-21",
+      "time_gmt": "19:01",
       "country": "United Kingdom",
       "event": "Rightmove House Price Index",
       "actual": "",
