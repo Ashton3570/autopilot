@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "asOf": "Fri, Sep 18, 2026",
+  "asOf": "Sat, Sep 19, 2026",
   "events": [
     {
       "date": "2026-09-21",
@@ -11,6 +11,17 @@
       "consensus": "",
       "previous": "",
       "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-21",
+      "time_gmt": "11:15",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-1.0%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
@@ -26,22 +37,11 @@
     },
     {
       "date": "2026-09-21",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "Rightmove House Price Index",
-      "actual": "",
-      "consensus": "",
-      "previous": "-1.0%",
-      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-21",
       "time_gmt": "21:00",
       "country": "China",
       "event": "China Loan Prime Rate 5Y",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.50%",
       "previous": "3.50%",
       "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
       "high_impact": false
@@ -52,7 +52,7 @@
       "country": "China",
       "event": "PBoC Loan Prime Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.00%",
       "previous": "3.00%",
       "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
       "high_impact": false

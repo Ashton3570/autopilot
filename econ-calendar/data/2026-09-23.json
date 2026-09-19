@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "asOf": "Fri, Sep 18, 2026",
+  "asOf": "Sat, Sep 19, 2026",
   "events": [
     {
       "date": "2026-09-23",
@@ -85,7 +85,7 @@
       "country": "United Kingdom",
       "event": "CBI Industrial Trends Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "-34",
       "previous": "-25",
       "description": "The Confederation of British Industry (CBI) Industrial Trends Orders measures the economic expectations of the manufacturing executives in the U.K. It is a leading indicator of business conditions.\r\nA level above zero indicates order volume is expected to increase; a level below zero indicates expectations are for lower volumes. The reading is compiled from a survey of about 550 manufacturers.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -99,6 +99,17 @@
       "consensus": "",
       "previous": "",
       "description": "Minutes of the Monetary Policy Committee (Copom) meeting of the Central Bank of Brazil",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "07:00",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -129,7 +140,7 @@
       "country": "United States",
       "event": "Richmond Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "5",
       "previous": "4",
       "description": "The Richmond Manufacturing Index rates the relative level of business conditions including shipments, new orders, and employment. A level above zero on the index indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 100 manufacturers in the Richmond area.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -162,7 +173,7 @@
       "country": "Euro Zone",
       "event": "Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "-16.0",
       "previous": "-15.5",
       "description": "Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. The reading is compiled from a survey of about 2,300 consumers in the euro zone which asks respondents to evaluate future economic prospects. Higher readings point to higher consumer optimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -177,6 +188,17 @@
       "previous": "",
       "description": "",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-23",
+      "time_gmt": "10:10",
+      "country": "Germany",
+      "event": "German Buba Vice President Buch Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-09-23",

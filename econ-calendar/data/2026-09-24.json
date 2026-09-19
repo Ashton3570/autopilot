@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "asOf": "Fri, Sep 18, 2026",
+  "asOf": "Sat, Sep 19, 2026",
   "events": [
     {
       "date": "2026-09-24",
@@ -74,7 +74,7 @@
       "country": "France",
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "50.9",
       "previous": "51.1",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "France",
       "event": "HCOB France Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "48.4",
       "previous": "48.0",
       "description": "The French Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.0",
       "previous": "54.3",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -129,7 +129,7 @@
       "country": "Germany",
       "event": "HCOB Germany Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.9",
       "previous": "49.7",
       "description": "The German Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "52.6",
       "previous": "52.7",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -162,7 +162,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.4",
       "previous": "51.6",
       "description": "The Euro-zone Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of about 600 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.4",
       "previous": "51.7",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "52.0",
       "previous": "52.5",
       "description": "The Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -265,6 +265,17 @@
       "previous": "1.70%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.",
       "high_impact": true
+    },
+    {
+      "date": "2026-09-24",
+      "time_gmt": "05:20",
+      "country": "Euro Zone",
+      "event": "ECB Supervisory Board Member Tuominen Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-09-24",
@@ -371,7 +382,7 @@
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "53.4",
       "previous": "53.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -393,7 +404,7 @@
       "country": "United States",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "56.0",
       "previous": "56.5",
       "description": "The Service PMI release is published monthly by Markit Economics. The data are based on surveys of over 400 executives in private sector service companies. The surveys cover transport and communication, financial intermediaries, business and personal services, computing & IT, hotels and restaurants. <BR/>\r\nAn index level of 50 denotes no change since the previous month, while a level above 50 signals an improvement, and below 50 indicates a deterioration.\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": true
@@ -536,9 +547,20 @@
       "country": "Russia",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.4%",
       "description": "The Russian Industrial Production measures the change in the total outputs of the Russian factories, mines, and utilities.\r\nIt gives us a good indicator of strength in the manufacturing sector. It can be a leading indicator of manufacturing employment, average earnings, and personal income.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-24",
+      "time_gmt": "12:30",
+      "country": "Euro Zone",
+      "event": "ECB's Lane Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Philip R. Lane, member of the Executive Board of the European Central Bank, is set to speak. His speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -580,7 +602,7 @@
       "country": "Japan",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "55.0",
       "previous": "54.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector;  below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
@@ -602,7 +624,7 @@
       "country": "Australia",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "20.9K",
       "previous": "-15.8K",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
@@ -635,7 +657,7 @@
       "country": "Australia",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.5%",
       "previous": "4.5%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.\r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the AUD, while a lower than expected reading should be taken as positive/bullish for the AUD.",
       "high_impact": true

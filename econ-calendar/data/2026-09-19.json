@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "asOf": "Fri, Sep 18, 2026",
+  "asOf": "Sat, Sep 19, 2026",
   "events": [
     {
       "date": "2026-09-19",
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "U.S. Baker Hughes Oil Rig Count",
       "actual": "452",
-      "consensus": "",
+      "consensus": "451",
       "previous": "450",
       "description": "The Baker Hughes rig count is an important business barometer for the oil drilling industry. When drilling rigs are active they consume products and services produced by the oil service industry.\r\nThe active rig count acts as a leading indicator of demand for oil products.",
       "high_impact": false

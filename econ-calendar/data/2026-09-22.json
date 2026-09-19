@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "asOf": "Fri, Sep 18, 2026",
+  "asOf": "Sat, Sep 19, 2026",
   "events": [
     {
       "date": "2026-09-22",
@@ -9,7 +9,7 @@
       "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "1,231.1B",
+      "previous": "1,231,109.0B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
     },
@@ -99,6 +99,17 @@
       "consensus": "",
       "previous": "2.868%",
       "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-22",
+      "time_gmt": "11:00",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {
