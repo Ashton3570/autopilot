@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "asOf": "Mon, Sep 21, 2026",
+  "asOf": "Tue, Sep 22, 2026",
   "events": [
     {
       "date": "2026-09-24",
@@ -41,7 +41,7 @@
       "country": "Singapore",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.20%",
       "previous": "2.00%",
       "description": "",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Singapore",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.3%",
       "previous": "2.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "France",
       "event": "HCOB France Services PMI",
       "actual": "",
-      "consensus": "48.4",
+      "consensus": "48.3",
       "previous": "48.0",
       "description": "The French Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -107,7 +107,7 @@
       "country": "Germany",
       "event": "HCOB Germany Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.8",
       "previous": "51.8",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
-      "consensus": "54.0",
+      "consensus": "54.1",
       "previous": "54.3",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.7",
       "previous": "52.0",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "South Africa",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.5%",
       "previous": "4.3%",
       "description": "The Consumers Price Index (CPI) measures the rate of price change of goods and services purchased by households. It measures changes in the average level of prices over a period of time. In other words, prices indicator of what is happening to prices, consumers are paying for items purchased. With a given starting point or base period which is usually taken as 100, the CPI can be used to compare current period consumer prices with those in the base period.Consumer Price index is the most frequently used indicator of <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> and reflect changes in the cost of acquiring a fixed basket of goods and services by the average consumer. The weights are usually derived from household expenditure surveys.</BR>A higher than expected reading should be taken as positive/bullish for the ZAR , while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": true
@@ -217,7 +217,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "52.0",
       "previous": "52.5",
       "description": "The Composite PMI Index measures the activity level of purchasing managers in the both sectors. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -228,7 +228,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "51.4",
+      "consensus": "51.5",
       "previous": "51.7",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -360,7 +360,7 @@
       "country": "South Africa",
       "event": "Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.25%",
       "previous": "7.00%",
       "description": "The interest rate at which the private (sector) banks borrow rands from the SA Reserve Bank </BR>A higher than expected reading should be taken as positive/bullish for the ZAR , while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": true
@@ -382,7 +382,7 @@
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "53.4",
+      "consensus": "53.6",
       "previous": "53.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -404,7 +404,7 @@
       "country": "United States",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "56.0",
+      "consensus": "55.8",
       "previous": "56.5",
       "description": "The Service PMI release is published monthly by Markit Economics. The data are based on surveys of over 400 executives in private sector service companies. The surveys cover transport and communication, financial intermediaries, business and personal services, computing & IT, hotels and restaurants. <BR/>\r\nAn index level of 50 denotes no change since the previous month, while a level above 50 signals an improvement, and below 50 indicates a deterioration.\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": true
@@ -426,7 +426,7 @@
       "country": "United States",
       "event": "Crude Oil Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.600M",
       "previous": "-0.640M",
       "description": "The Energy Information Administration's (EIA) Crude Oil Inventories measures the weekly change in the number of barrels of commercial crude oil held by US firms. The level of inventories influences the price of petroleum products, which can have an impact on inflation.\r\n<BR/><BR/>\r\nIf the increase in crude inventories is more than expected, it implies weaker demand and is bearish for crude prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in crude is less than expected, it implies greater demand and is bullish for crude prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false

@@ -15,30 +15,34 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-22	11:30	United States	6-Month Bill Auction	4.155%		4.060%	
 2026-09-22	23:10	Australia	RBA Gov Bullock Speaks				
 2026-09-22	All Day	Japan	Japan - Respect for the Aged Day				
-2026-09-23	02:00	United Kingdom	Public Sector Net Borrowing			23.30B	
-2026-09-23	02:00	United Kingdom	Public Sector Net Cash Requirement			-29.006B	
-2026-09-23	03:00	South Africa	Leading Indicators			116.60%	
-2026-09-23	04:00	Spain	Spanish Trade Balance			-7.69B	
+2026-09-23	02:00	United Kingdom	Public Sector Net Borrowing	1.80B	0.00B	12.80B	
+2026-09-23	02:00	United Kingdom	Public Sector Net Cash Requirement	10.005B		-26.808B	
+2026-09-23	03:00	South Africa	Leading Indicators	118.20%		119.26%	
+2026-09-23	03:30	Switzerland	SNB Interest Rate Decision	0.00%		0.00%	Y
+2026-09-23	04:00	Spain	Spanish Trade Balance	-5.22B		-7.69B	
 2026-09-23	04:30	Germany	German Buba Balz Speaks				
 2026-09-23	04:30	Germany	German Buba President Nagel Speaks				
-2026-09-23	05:30	Germany	German 5-Year Bobl Auction			3.090%	
-2026-09-23	06:00	United Kingdom	CBI Industrial Trends Orders		-34	-25	
+2026-09-23	05:30	United Kingdom	5-Year Treasury Gilt Auction	4.843%		4.786%	Y
+2026-09-23	05:50	Germany	German 5-Year Bobl Auction	3.280%		3.090%	
+2026-09-23	06:00	United Kingdom	CBI Industrial Trends Orders	-9	-33	-25	
 2026-09-23	07:00	Brazil	BCB Copom Meeting Minutes				
 2026-09-23	07:00	Euro Zone	ECB President Lagarde Speaks				
-2026-09-23	08:15	United States	ADP Employment Change Weekly			16.30K	Y
-2026-09-23	08:55	United States	Redbook			8.5%	
-2026-09-23	10:00	United States	Richmond Manufacturing Index		5	4	
-2026-09-23	10:00	United States	Richmond Manufacturing Shipments			11	
-2026-09-23	10:00	United States	Richmond Services Index			-8	
-2026-09-23	10:00	Euro Zone	Consumer Confidence		-16.0	-15.5	Y
+2026-09-23	08:00	Brazil	Federal Tax Revenue	235.57B		289.35B	
+2026-09-23	08:15	United States	ADP Employment Change Weekly	20.00K		16.30K	Y
+2026-09-23	08:55	United States	Redbook	7.6%		8.5%	
+2026-09-23	09:55	United States	U.S. President Trump Speaks				
+2026-09-23	10:00	United States	Richmond Manufacturing Index	-2	2	4	
+2026-09-23	10:00	United States	Richmond Manufacturing Shipments	-5		11	
+2026-09-23	10:00	United States	Richmond Services Index	0		-8	
+2026-09-23	10:00	Euro Zone	Consumer Confidence	-16.5	-16.0	-15.5	Y
 2026-09-23	10:05	United States	FOMC Member Williams Speaks				Y
 2026-09-23	10:10	Germany	German Buba Vice President Buch Speaks				
 2026-09-23	10:20	United States	Fed Governor Jefferson Speaks				
-2026-09-23	13:00	United States	2-Year Note Auction			4.315%	
+2026-09-23	13:00	United States	2-Year Note Auction	4.787%		4.315%	
 2026-09-23	13:00	United States	FOMC Member Barkin Speaks				Y
-2026-09-23	13:00	United States	M2 Money Supply			23.22T	
+2026-09-23	13:00	United States	M2 Money Supply	23.34T		23.22T	
 2026-09-23	15:30	Germany	German Buba President Nagel Speaks				
-2026-09-23	16:30	United States	API Weekly Crude Oil Stock			7.140M	
+2026-09-23	16:30	United States	API Weekly Crude Oil Stock	1.786M	-0.500M	7.140M	
 2026-09-23	17:00	South Korea	Consumer Confidence			104.5	Y
 2026-09-23	19:00	Australia	S&P Global Manufacturing & Services PMI			52.70	Y
 2026-09-23	19:00	Australia	S&P Global Manufacturing PMI			52.0	Y
@@ -47,24 +51,24 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-24	01:00	India	HSBC India Manufacturing PMI			52.8	Y
 2026-09-24	01:00	India	HSBC India Services PMI			54.1	Y
 2026-09-24	01:00	India	HSBC Manufacturing & Services PMI			54.30	Y
-2026-09-24	01:00	Singapore	Core CPI			2.00%	Y
+2026-09-24	01:00	Singapore	Core CPI		2.20%	2.00%	Y
 2026-09-24	01:00	Singapore	CPI			-0.20%	Y
-2026-09-24	01:00	Singapore	CPI			2.2%	Y
+2026-09-24	01:00	Singapore	CPI		2.3%	2.2%	Y
 2026-09-24	03:15	France	HCOB France Manufacturing PMI		50.9	51.1	Y
 2026-09-24	03:15	France	HCOB France Composite PMI			48.5	Y
-2026-09-24	03:15	France	HCOB France Services PMI		48.4	48.0	Y
-2026-09-24	03:30	Germany	HCOB Germany Composite PMI			51.8	Y
-2026-09-24	03:30	Germany	HCOB Germany Manufacturing PMI		54.0	54.3	Y
+2026-09-24	03:15	France	HCOB France Services PMI		48.3	48.0	Y
+2026-09-24	03:30	Germany	HCOB Germany Composite PMI		51.8	51.8	Y
+2026-09-24	03:30	Germany	HCOB Germany Manufacturing PMI		54.1	54.3	Y
 2026-09-24	03:30	Germany	HCOB Germany Services PMI		49.9	49.7	Y
 2026-09-24	04:00	Euro Zone	HCOB Eurozone Manufacturing PMI		52.6	52.7	Y
-2026-09-24	04:00	Euro Zone	HCOB Eurozone Composite PMI			52.0	Y
+2026-09-24	04:00	Euro Zone	HCOB Eurozone Composite PMI		51.7	52.0	Y
 2026-09-24	04:00	Euro Zone	HCOB Eurozone Services PMI		51.4	51.6	Y
 2026-09-24	04:00	South Africa	Core CPI			0.5%	Y
 2026-09-24	04:00	South Africa	Core CPI			4.2%	Y
-2026-09-24	04:00	South Africa	CPI			4.3%	Y
+2026-09-24	04:00	South Africa	CPI		4.5%	4.3%	Y
 2026-09-24	04:00	South Africa	CPI			0.2%	Y
-2026-09-24	04:30	United Kingdom	S&P Global Composite PMI			52.5	Y
-2026-09-24	04:30	United Kingdom	S&P Global Manufacturing PMI		51.4	51.7	Y
+2026-09-24	04:30	United Kingdom	S&P Global Composite PMI		52.0	52.5	Y
+2026-09-24	04:30	United Kingdom	S&P Global Manufacturing PMI		51.5	51.7	Y
 2026-09-24	04:30	United Kingdom	S&P Global Services PMI		52.0	52.5	Y
 2026-09-24	04:30	Hong Kong	CPI			0.20%	Y
 2026-09-24	04:30	Hong Kong	CPI			1.70%	Y
@@ -76,13 +80,13 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-09-24	07:00	United States	Mortgage Refinance Index			627.1	
 2026-09-24	07:30	India	M3 Money Supply			16.7%	
 2026-09-24	08:30	Canada	New Housing Price Index			-0.1%	
-2026-09-24	09:00	South Africa	Interest Rate Decision			7.00%	Y
+2026-09-24	09:00	South Africa	Interest Rate Decision		7.25%	7.00%	Y
 2026-09-24	09:00	South Africa	Prime Rate			10.50%	
-2026-09-24	09:45	United States	S&P Global Manufacturing PMI		53.4	53.9	Y
+2026-09-24	09:45	United States	S&P Global Manufacturing PMI		53.6	53.9	Y
 2026-09-24	09:45	United States	S&P Global Composite PMI			56.0	Y
-2026-09-24	09:45	United States	S&P Global Services PMI		56.0	56.5	Y
+2026-09-24	09:45	United States	S&P Global Services PMI		55.8	56.5	Y
 2026-09-24	10:05	United States	Fed Vice Chair for Supervision Barr Speaks				
-2026-09-24	10:30	United States	Crude Oil Inventories			-0.640M	
+2026-09-24	10:30	United States	Crude Oil Inventories		-0.600M	-0.640M	
 2026-09-24	10:30	United States	EIA Refinery Crude Runs			-0.256M	
 2026-09-24	10:30	United States	Crude Oil Imports			-1.180M	
 2026-09-24	10:30	United States	Cushing Crude Oil Inventories			-0.342M	
