@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-28",
+  "asOf": "Mon, Sep 21, 2026",
+  "events": [
+    {
+      "date": "2026-09-28",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Monetary Policy Meeting Minutes",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Monetary Policy Meeting Minutes are a detailed record of the Bank of Japan's policy setting meeting, containing in-depth insights into the economic conditions that influenced the decision on where to set interest rates.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-28",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "Chinese Industrial profit YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "17.6%",
+      "description": "",
+      "high_impact": false
+    }
+  ]
+}

@@ -1,29 +1,7 @@
 {
   "date": "2026-09-26",
-  "asOf": "Sun, Sep 20, 2026",
+  "asOf": "Mon, Sep 21, 2026",
   "events": [
-    {
-      "date": "2026-09-26",
-      "time_gmt": "01:00",
-      "country": "Singapore",
-      "event": "Industrial Production",
-      "actual": "",
-      "consensus": "",
-      "previous": "2.3%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-26",
-      "time_gmt": "01:00",
-      "country": "Singapore",
-      "event": "Industrial Production",
-      "actual": "",
-      "consensus": "",
-      "previous": "6.8%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
-      "high_impact": false
-    },
     {
       "date": "2026-09-26",
       "time_gmt": "02:00",
@@ -52,9 +30,9 @@
       "country": "Spain",
       "event": "Spanish GDP",
       "actual": "",
-      "consensus": "0.7%",
-      "previous": "0.7%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "2.7%",
+      "previous": "2.7%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR. This is the final reading",
       "high_impact": true
     },
     {
@@ -63,9 +41,9 @@
       "country": "Spain",
       "event": "Spanish GDP",
       "actual": "",
-      "consensus": "2.7%",
-      "previous": "2.7%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR. This is the final reading",
+      "consensus": "0.7%",
+      "previous": "0.7%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -152,7 +130,7 @@
       "event": "FX Reserves, USD",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "780.78B",
       "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
