@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "asOf": "Tue, Sep 22, 2026",
+  "asOf": "Wed, Sep 23, 2026",
   "events": [
     {
       "date": "2026-09-26",
@@ -217,8 +217,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "5.1%",
+      "previous": "5.1%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },

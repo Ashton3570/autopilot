@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "asOf": "Tue, Sep 22, 2026",
+  "asOf": "Wed, Sep 23, 2026",
   "events": [
     {
       "date": "2026-09-25",
@@ -96,7 +96,7 @@
       "country": "France",
       "event": "French Business Survey",
       "actual": "",
-      "consensus": "101",
+      "consensus": "102",
       "previous": "103",
       "description": "The Business Survey measures industrial activity in France, the world’s fourth largest economy. The data is compiled from a survey of around 4,000 French business leaders from a broad range of sectors.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "Germany",
       "event": "German Business Expectations",
       "actual": "",
-      "consensus": "",
+      "consensus": "89.3",
       "previous": "89.1",
       "description": "German Business Expectations rates the expectations of businesses in Germany for the following six months. It is is a sub-index of the German Ifo Business Climate Index.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "Germany",
       "event": "German Current Assessment",
       "actual": "",
-      "consensus": "",
+      "consensus": "89.0",
       "previous": "88.5",
       "description": "The German Current Assessment rates current business conditions in Germany, without considering future expectations. It is a sub-index of the German Ifo Business Climate Index.<br/><br/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -184,7 +184,7 @@
       "country": "Germany",
       "event": "German Ifo Business Climate Index",
       "actual": "",
-      "consensus": "89.0",
+      "consensus": "89.1",
       "previous": "88.8",
       "description": "The German Ifo Business Climate Index rates the current German business climate and measures expectations for the next six months. It is a composite index based on a survey of manufacturers, builders, wholesalers and retailers. The index is compiled by the Ifo Institute for Economic Research.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "United Kingdom",
       "event": "CBI Distributive Trades Survey",
       "actual": "",
-      "consensus": "-50",
+      "consensus": "-42",
       "previous": "-48",
       "description": "The Confederation of British Industry (CBI) Distributive Trades Survey (DTS) measures \r\nthe health of the retail sector. The reading is compiled from a survey of about 150 retail and wholesale companies. It includes measures of sales activity across the distributive trades. It is a leading indicator of consumer spending. The figure is the difference between the percentage of retailers reporting an increase in sales and those reporting a decrease.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -371,7 +371,7 @@
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "1,750K",
       "previous": "1,730K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -382,7 +382,7 @@
       "country": "United States",
       "event": "Current Account",
       "actual": "",
-      "consensus": "-259.0B",
+      "consensus": "-258.0B",
       "previous": "-226.8B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the USD.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -492,7 +492,7 @@
       "country": "United States",
       "event": "New Home Sales",
       "actual": "",
-      "consensus": "619K",
+      "consensus": "615K",
       "previous": "607K",
       "description": "New Home Sales measures the annualized number of new single-family homes that were sold during the previous month. This report tends to have more impact when it's released ahead of Existing Home Sales because the reports are tightly correlated.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -514,7 +514,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "50B",
       "previous": "44B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
