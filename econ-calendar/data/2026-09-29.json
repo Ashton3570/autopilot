@@ -1,18 +1,7 @@
 {
   "date": "2026-09-29",
-  "asOf": "Wed, Sep 23, 2026",
+  "asOf": "Thu, Sep 24, 2026",
   "events": [
-    {
-      "date": "2026-09-29",
-      "time_gmt": "01:00",
-      "country": "Singapore",
-      "event": "Industrial Production",
-      "actual": "",
-      "consensus": "",
-      "previous": "6.8%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
-      "high_impact": false
-    },
     {
       "date": "2026-09-29",
       "time_gmt": "01:00",
@@ -26,6 +15,17 @@
     },
     {
       "date": "2026-09-29",
+      "time_gmt": "01:00",
+      "country": "Singapore",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "6.8%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-29",
       "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Trade Balance Non-EU",
@@ -33,6 +33,17 @@
       "consensus": "",
       "previous": "2.55B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods sand services, from and to Non-Eu countries, over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-29",
+      "time_gmt": "06:00",
+      "country": "United Kingdom",
+      "event": "MPC Member Ramsden Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "David Ramsden serves as Deputy Governor of the Bank of England. His public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {
@@ -176,6 +187,17 @@
       "consensus": "",
       "previous": "1.5%",
       "description": "The British Retail Consortium (BRC) Shop Price Index measures price changes in BRC-member retail outlets in the U.K.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-29",
+      "time_gmt": "21:30",
+      "country": "Australia",
+      "event": "RBA Rate Statement",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Reserve Bank of Australia's (RBA) monthly rate statement contains the outcome of bank's interest rate decision and discusses the economic conditions that influenced the decision. It can also give investors clues to the outcome of future decisions.<BR/><BR/>A more dovish than expected statement could be taken as negative/bearish for the AUD, while a more hawkish than expected statement could be taken as positive/bullish for the AUD.",
       "high_impact": false
     }
   ]
