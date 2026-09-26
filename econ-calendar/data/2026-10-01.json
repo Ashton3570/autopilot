@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "asOf": "Fri, Sep 25, 2026",
+  "asOf": "Sat, Sep 26, 2026",
   "events": [
     {
       "date": "2026-10-01",
@@ -19,7 +19,7 @@
       "country": "Japan",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.8%",
       "previous": "8.2%",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -31,7 +31,7 @@
       "event": "Business Investment",
       "actual": "",
       "consensus": "1.7%",
-      "previous": "0.9%",
+      "previous": "1.7%",
       "description": "Business Investment measures the change in the total inflation-adjusted value of capital expenditure made by companies in the private sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
@@ -42,7 +42,7 @@
       "event": "Business Investment",
       "actual": "",
       "consensus": "0.8%",
-      "previous": "-1.3%",
+      "previous": "0.8%",
       "description": "",
       "high_impact": false
     },
@@ -52,7 +52,7 @@
       "country": "United Kingdom",
       "event": "Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "-25.6B",
       "previous": "-22.1B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the GBP.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -64,7 +64,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "0.4%",
-      "previous": "0.6%",
+      "previous": "0.4%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -75,7 +75,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "1.2%",
-      "previous": "0.9%",
+      "previous": "1.2%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -85,7 +85,7 @@
       "country": "Germany",
       "event": "German Import Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.2%",
       "description": "The German Import Price Index measures the change in the price of imported goods purchased domestically.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -107,7 +107,7 @@
       "country": "Germany",
       "event": "German Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.4%",
       "previous": "-3.4%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "France",
       "event": "French Consumer Spending",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.5%",
       "description": "French Consumer Spending measures the change in the inflation-adjusted value of all goods expenditures by consumers. Consumer spending accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.5%",
       "previous": "0.7%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -250,7 +250,7 @@
       "country": "Germany",
       "event": "German Unemployment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "2K",
       "previous": "4K",
       "description": "German Unemployment Change measures the change in the number of unemployed people during the previous month.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR, while lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": false
@@ -261,7 +261,7 @@
       "country": "Germany",
       "event": "German Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.4%",
       "previous": "6.4%",
       "description": "The German unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the reported month. \r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR,\r\nwhile a lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": true
@@ -481,7 +481,7 @@
       "country": "Italy",
       "event": "Italian CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.5%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -734,7 +734,7 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.2%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
@@ -789,7 +789,7 @@
       "country": "United States",
       "event": "ADP Nonfarm Employment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "70K",
       "previous": "38K",
       "description": "The ADP National Employment Report is a measure of the monthly change in non-farm, private employment, based on the payroll data of approximately 400,000 U.S. business clients. The release, two days ahead of government data, is a good predictor of the government's non-farm payroll report. The change in this indicator can be very volatile.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -800,7 +800,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "The Core Personal Consumption Expenditure (PCE) Price Index measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -811,7 +811,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.4%",
       "previous": "3.3%",
       "description": "The Core PCE price Index is the less volatile measure of the PCE price index which excludes the more volatile and seasonal food and energy prices. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -823,7 +823,7 @@
       "event": "Core PCE Prices",
       "actual": "",
       "consensus": "3.60%",
-      "previous": "4.40%",
+      "previous": "3.60%",
       "description": "The Core Personal Consumption Expenditure (PCE) Prices release measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -834,7 +834,7 @@
       "event": "Corporate Profits",
       "actual": "",
       "consensus": "8.2%",
-      "previous": "0.5%",
+      "previous": "8.2%",
       "description": "Corporate profits with inventory valuation and capital consumption adjustments is the net current-production income of organizations treated as corporations in the NIPA´s. These organizations consist of all entities required to file Federal corporate tax returns, including mutual financial institutions and cooperatives subject to Federal income tax; private noninsured pension funds; nonprofit institutions that primarily serve business; Federal Reserve banks; and federally sponsored credit agencies. With several differences, this income is measured as receipts less expenses as defined in Federal tax law. Among these differences: Receipts exclude capital gains and dividends received, expenses exclude depletion and capital losses and losses resulting from bad debts, inventory withdrawals are valued at replacement cost, and depreciation is on a consistent accounting basis and is valued at replacement cost using depreciation profiles based on empirical evidence on used-asset prices that generally suggest a geometric pattern of price declines. The taxes are measured on an accrual basis, net of applicable tax credits. Profits after tax is profits before tax less profits tax liability.It consists of dividends and undistributed corporate profits.Dividends is payments in cash or other assets, excluding the corporations´ own stock, that are made by corporations located in the U.S & abroad to stockholders who are U.S. residents.",
       "high_impact": false
     },
@@ -845,7 +845,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "1.5%",
-      "previous": "2.1%",
+      "previous": "1.5%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy&#039;s health.<BR/><B>Usual Effect: </B>Actual > Forecast = Good for currency<BR/>Frequency: Released monthly. There are 3 versions of GDP released a month apart - Advance, second release and Final. Both the advance the second release are tagged as preliminary in the economic calendar.",
       "high_impact": true
     },
@@ -856,7 +856,7 @@
       "event": "GDP Price Index",
       "actual": "",
       "consensus": "6.4%",
-      "previous": "3.6%",
+      "previous": "6.4%",
       "description": "The GDP Price Index measures the annualized change in the price of all goods and services included in gross domestic product.It is the broadest inflationary indicator.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -867,7 +867,7 @@
       "event": "GDP Sales",
       "actual": "",
       "consensus": "2.2%",
-      "previous": "1.9%",
+      "previous": "2.2%",
       "description": "",
       "high_impact": true
     },
@@ -877,7 +877,7 @@
       "country": "United States",
       "event": "Goods Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-113.80B",
       "previous": "-118.94B",
       "description": "The goods trade balance is the difference in value between imported and exported goods during the reported month.",
       "high_impact": false
@@ -888,7 +888,7 @@
       "country": "United States",
       "event": "PCE price index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.2%",
       "description": "The PCE price index, also referred to as the PCE deflator, is a United States-wide indicator of the average increase in prices for all domestic personal consumption. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -911,7 +911,7 @@
       "event": "PCE Prices",
       "actual": "",
       "consensus": "5.3%",
-      "previous": "4.6%",
+      "previous": "5.3%",
       "description": "The Personal Consumption Expenditure (PCE) Prices release measures the changes in the price of goods and services purchased by consumers for the purpose of consumption. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -921,7 +921,7 @@
       "country": "United States",
       "event": "Personal Income",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.4%",
       "description": "Personal Income measures the change in the total value of income received from all sources by consumers. Income is closely correlated with consumer spending, which accounts for a majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -932,7 +932,7 @@
       "country": "United States",
       "event": "Personal Spending",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "0.2%",
       "description": "Personal Spending measures the change in the inflation-adjusted value of all spending by consumers. Consumer spending accounts for a majority of overall economic activity. However, this report tends to have a mild impact, as government data on retail sales is released about two weeks earlier.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -944,7 +944,7 @@
       "event": "Real Consumer Spending",
       "actual": "",
       "consensus": "3.4%",
-      "previous": "0.5%",
+      "previous": "3.4%",
       "description": "Real Consumer Spending measures the inflation adjusted amount of money spent by households in the US economy.<br/><br/>The spending includes durables, such as washing machines, and non durables, such as food. It is also known as consumption, and is measured monthly. <br/><br/>John Maynard Keynes, the famous British economist, considered consumer spending to be the most important determinant of short-term demand in an economy. <br/><br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -976,7 +976,7 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.1%",
       "previous": "1.3%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -998,7 +998,7 @@
       "country": "United States",
       "event": "Chicago PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.3",
       "previous": "47.1",
       "description": "The Chicago Purchasing Managers' Index (PMI) determines the economic health of the manufacturing sector in Chicago region.\r\nA reading above 50 indicates expansion of the manufacturing sector; a reading below indicates contraction. The Chicago PMI can be of some help in forecasting the ISM manufacturing PMI.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -1023,6 +1023,28 @@
       "consensus": "",
       "previous": "2.20%",
       "description": "In any given month, the rate of inflation in a price index like the Consumer Price Index or Personal Consumption Expenditures (PCE) can be thought of as a weighted average, or mean, of the rates of change in the prices of all the goods and services that make up the index. Calculating the trimmed-mean PCE inflation rate for a given month involves looking at the price changes for each of the individual components of personal consumption expenditures. The individual price changes are sorted in ascending order from fell the most to rose the most, and a certain fraction of the most extreme observations at both ends of the spectrum are like a skaters best and worst marks thrown out, or trimmed. The inflation rate is then calculated as a weighted average of the remaining components. For the series presented here, 19.4 percent of the weight from the lower tail and 25.4 percent of the weight in the upper tail are trimmed. Those proportions have been chosen, based on historical data, to give the best fit between the trimmed-mean inflation rate and proxies for the true core PCE inflation rate. The resulting inflation measure has been shown to outperform the more conventional excluding food and energy measure as a gauge of core inflation.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-01",
+      "time_gmt": "10:16",
+      "country": "South Africa",
+      "event": "Budget Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-161.58B",
+      "description": "Government deficit or surplus is the net of operating surplus and public debt charges.The budget of a government is a summary or plan of the intended revenues and expenditures of that government.Surplus in general refers to an excess of income over expenditure.Deficit refers to the negative of the budget surplus, thus the excess of expenditure over income.</BR>A higher than expected reading should be taken as positive/bullish for the CAD , while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-01",
+      "time_gmt": "10:18",
+      "country": "Russia",
+      "event": "GDP Monthly",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.6%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
     },
     {
@@ -1137,25 +1159,14 @@
     },
     {
       "date": "2026-10-01",
-      "time_gmt": "11:15",
-      "country": "South Africa",
-      "event": "Budget Balance",
+      "time_gmt": "11:45",
+      "country": "Euro Zone",
+      "event": "ECB's Schnabel Speaks",
       "actual": "",
       "consensus": "",
-      "previous": "-161.58B",
-      "description": "Government deficit or surplus is the net of operating surplus and public debt charges.The budget of a government is a summary or plan of the intended revenues and expenditures of that government.Surplus in general refers to an excess of income over expenditure.Deficit refers to the negative of the budget surplus, thus the excess of expenditure over income.</BR>A higher than expected reading should be taken as positive/bullish for the CAD , while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "",
+      "description": "Isabel Schnabel, member of the Executive Board of the European Central Bank, is set to speak. Her speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
-    },
-    {
-      "date": "2026-10-01",
-      "time_gmt": "11:16",
-      "country": "Russia",
-      "event": "GDP Monthly",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.6%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
-      "high_impact": true
     },
     {
       "date": "2026-10-01",
@@ -1174,7 +1185,7 @@
       "country": "Russia",
       "event": "Russian Real Wage Growth",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.4%",
       "previous": "3.4%",
       "description": "",
       "high_impact": false
@@ -1185,7 +1196,7 @@
       "country": "Russia",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.6%",
       "previous": "5.3%",
       "description": "The Retail Sales is a monthly measurement of all goods sold by retailers based on a sampling of retail stores of different types and sizes in Russia excluding auto. \r\nIt is an important indicator of consumer spending and also correlated to consumer confidence. <BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
@@ -1196,7 +1207,7 @@
       "country": "Russia",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.2%",
       "previous": "2.3%",
       "description": "The Unemployment Rate is a measure of the percentage of the total labor force that is unemployed but actively seeking employment and willing to work in Russia. \r\n<BR/>A high percentage indicates weakness in the labor market.\r\nA low percentage is a positive indicator for  the labor market in Russia and should be taken as positive for the RUB.",
       "high_impact": true
@@ -1274,7 +1285,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "49.3",
-      "previous": "52.0",
+      "previous": "49.3",
       "description": "The Australian Manufacturing Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
     },
@@ -1317,7 +1328,7 @@
       "country": "Japan",
       "event": "Tankan All Big Industry CAPEX",
       "actual": "",
-      "consensus": "",
+      "consensus": "12.3%",
       "previous": "11.5%",
       "description": "This is annual projection from each quarter's perspective. Japanese Fiscal Year covers from April to March in the following year. Every quarter the respondents give their forecast values for the Fiscal Year, starting from March survey whichis before the next fiscal year starts.",
       "high_impact": false
@@ -1339,7 +1350,7 @@
       "country": "Japan",
       "event": "Tankan Big Manufacturing Outlook Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "22",
       "previous": "17",
       "description": "Business Conditions, large enterprises, manufacturing, actual result. Responding enterprises are asked to choose one alternative among three as the best descriptor of prevailing conditions, excluding seasonal factors at the timeof the survey and three months hence. For Business Conditions, it's judgment of general business conditions of the responding enterprise, primarily in light of individual profits. The alternatives are, (1) Favorable (2) Not so favorable (3)Unfavorable. Diffusion Index is calculated by subtracting the percentage share of enterprisesresponding '(3) Unfavorable' from that of '(1) Favorable'.",
       "high_impact": false
@@ -1350,7 +1361,7 @@
       "country": "Japan",
       "event": "Tankan Large Manufacturers Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "25",
       "previous": "22",
       "description": "The Tankan Large Manufacturing Index rates the relative level of general business conditions in the manufacturing sector. On the index, a level above zero indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 1,200 large manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -1361,7 +1372,7 @@
       "country": "Japan",
       "event": "Tankan Large Non-Manufacturers Diffusion Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "30",
       "previous": "28",
       "description": "Tankan Business Conditions survey sent to enterprises whom are asked to choose one alternative among three as the best descriptor of prevailing conditions, The alternatives are, (1) Favorable (2) Not so favorable (3) Unfavorable. The survey is sent to thousands of companies and released sorted by the company's size and sector (Manufacturing and Services). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
@@ -1372,7 +1383,7 @@
       "country": "Japan",
       "event": "Tankan Large Non-Manufacturers Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "36",
       "previous": "37",
       "description": "The Tankan Non-Manufacturing Index rates the relative level of general business conditions among large businesses, excluding the manufacturing industry.\r\nOn the index, a level above zero indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 1,200 large businesses.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -1394,7 +1405,7 @@
       "country": "Japan",
       "event": "Tankan Small Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "11",
       "previous": "9",
       "description": "Tankan Business Conditions survey sent to enterprises whom are asked to choose one alternative among three as the best descriptor of prevailing conditions, The alternatives are, (1) Favorable (2) Not so favorable (3) Unfavorable. The survey is sent to thousands of companies and released sorted by the company's size and sector (Manufacturing and Services). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
@@ -1472,7 +1483,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "54.1",
-      "previous": "54.9",
+      "previous": "54.1",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector;  below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },
@@ -1526,7 +1537,7 @@
       "country": "Australia",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.100B",
       "previous": "1.923B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false

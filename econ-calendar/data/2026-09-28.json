@@ -1,7 +1,18 @@
 {
   "date": "2026-09-28",
-  "asOf": "Fri, Sep 25, 2026",
+  "asOf": "Sat, Sep 26, 2026",
   "events": [
+    {
+      "date": "2026-09-28",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Corporate Services Price Index (CSPI)",
+      "actual": "",
+      "consensus": "3.6%",
+      "previous": "3.6%",
+      "description": "The Corporate Services Price Index (CSPI) measures the change in the price of goods sold by corporations. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
     {
       "date": "2026-09-28",
       "time_gmt": "19:50",
