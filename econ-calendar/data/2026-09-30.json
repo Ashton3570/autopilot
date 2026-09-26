@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "asOf": "Thu, Sep 24, 2026",
+  "asOf": "Fri, Sep 25, 2026",
   "events": [
     {
       "date": "2026-09-30",
@@ -324,6 +324,28 @@
     {
       "date": "2026-09-30",
       "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Mauderer Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "06:00",
       "country": "France",
       "event": "France Jobseekers Total",
       "actual": "",
@@ -416,8 +438,8 @@
       "event": "House Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "2.3%",
-      "description": "The HPI is published by OFHEO using data provided by Fannie Mae and Freddie Mac. House price index is a statistic designed to reflect the average change of house prices across the country or a certain area. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "previous": "0.0%",
+      "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -427,8 +449,8 @@
       "event": "House Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.0%",
-      "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "2.3%",
+      "description": "The HPI is published by OFHEO using data provided by Fannie Mae and Freddie Mac. House price index is a statistic designed to reflect the average change of house prices across the country or a certain area. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -532,6 +554,28 @@
     },
     {
       "date": "2026-09-30",
+      "time_gmt": "13:00",
+      "country": "United States",
+      "event": "Fed Goolsbee Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "13:20",
+      "country": "Canada",
+      "event": "BoC Deputy Governor Gravelle Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
       "time_gmt": "13:30",
       "country": "Brazil",
       "event": "CAGED Net Payroll Jobs",
@@ -540,6 +584,17 @@
       "previous": "58.57K",
       "description": "Employment is the total number of persons above a specified age, who in a short reference period (e.g. a week or a day), were in paid employment or self-employment. Paid employment includes persons who worked in the reference period or who had a job but were temporarily absent from work. Self-employment \r\nincludes persons who either worked in the reference period or were temporarily absent from work.Series data show evolution of formal employment in Brazil. It is measured by the movements declared in CAGED - Cadastro Geral de Empregados e Desempregados (General Register of Employment and Unemployment) of the Ministry of Labour. There are separate series for thousands of admitted and dismissed employees per month (registered in CAGED), as well as for net, i.e. admitted less dismissed. Totals of admitted, dismissed and net are also broken down to eight main sectors of economic activity according to the IBGE.",
       "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "14:00",
+      "country": "United States",
+      "event": "FOMC Member Williams Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": true
     },
     {
       "date": "2026-09-30",
