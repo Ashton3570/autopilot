@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-05",
+  "asOf": "Mon, Sep 28, 2026",
+  "events": [
+    {
+      "date": "2026-10-05",
+      "time_gmt": "06:00",
+      "country": "United States",
+      "event": "OPEC Meeting",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "OPEC meetings are attended by representatives from 13 oil-rich nations. They discuss a range of topics regarding energy markets and agree on how much oil they will produce. OPEC is responsible for nearly 40% of the world's oil supply.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-05",
+      "time_gmt": "18:00",
+      "country": "Australia",
+      "event": "S&P Global Manufacturing & Services PMI",
+      "actual": "",
+      "consensus": "50.80",
+      "previous": "50.80",
+      "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-05",
+      "time_gmt": "18:00",
+      "country": "Australia",
+      "event": "S&P Global Services PMI",
+      "actual": "",
+      "consensus": "51.4",
+      "previous": "51.4",
+      "description": "The Australian Services Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the services sector. The report is based on surveys of over 300 business executives in private sector services companies. Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD , while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-05",
+      "time_gmt": "20:30",
+      "country": "Japan",
+      "event": "Manufacturing & Services PMI",
+      "actual": "",
+      "consensus": "",
+      "previous": "52.50",
+      "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-05",
+      "time_gmt": "20:30",
+      "country": "Japan",
+      "event": "S&P Global Services PMI",
+      "actual": "",
+      "consensus": "",
+      "previous": "51.6",
+      "description": "The survey covers transport & communication, financial intermediation, business services, personal services, computing & IT and hotels & restaurants. Each response received is weighted according to the size of the company to which the questionnaire refers & the contribution to total service sector output accounted for by the sub-sector to which that company belongs.This therefore ensures that replies from larger companies have a greater impact on the final index numbers than replies from small companies.The results are presented by question asked, showing the % of respondents reporting an improvement, deterioration or no-change since the previous month.From these %, an index is derived such that a level of\r\n50.0 signals no-change since the previous month.Above 50.0 signals an increase (or improvement),below 50.0 a decrease(or deterioration).The greater the divergence from 50.0, the greater the rate of change signaled.",
+      "high_impact": true
+    }
+  ]
+}

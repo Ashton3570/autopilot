@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "asOf": "Sun, Sep 27, 2026",
+  "asOf": "Mon, Sep 28, 2026",
   "events": [
     {
       "date": "2026-09-30",
@@ -130,7 +130,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "-1.00%",
+      "previous": "3.10%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -141,7 +141,7 @@
       "event": "Italian Industrial Sales",
       "actual": "",
       "consensus": "",
-      "previous": "3.10%",
+      "previous": "-1.00%",
       "description": "The Data showes the monthly change in the total turnover of the Italian industry.",
       "high_impact": false
     },
@@ -162,7 +162,7 @@
       "country": "United Kingdom",
       "event": "BoE Consumer Credit",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.900B",
       "previous": "2.006B",
       "description": "Consumer credit is defined as borrowing by the UK personal sector to finance current expenditure on goods and services. For consumer credit, the UK personal sector comprises individuals only, i.e. housing associations, incorporated businesses and other non-profit making bodies serving persons are excluded.</BR>A higher than expected reading should be taken as positive/bullish for the GBP , while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -229,7 +229,7 @@
       "event": "Italian PPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.4%",
+      "previous": "7.8%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -240,7 +240,7 @@
       "event": "Italian PPI",
       "actual": "",
       "consensus": "",
-      "previous": "7.8%",
+      "previous": "2.4%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -305,7 +305,7 @@
       "country": "Euro Zone",
       "event": "Services Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.5",
       "previous": "5.8",
       "description": "Balances: i.e. Differences between the percentages of respondents giving positive and negative replies.The indicator is an average of the responses (seasonally adjusted balances) to the questions on business climate and evolution of demand.",
       "high_impact": false
@@ -316,9 +316,31 @@
       "country": "Euro Zone",
       "event": "Industrial Sentiment",
       "actual": "",
-      "consensus": "-5.0",
+      "consensus": "-4.8",
       "previous": "-5.3",
       "description": "Industrial Sentiment is an indicator that measures the mood of consumers or businesses. based on a survey during which respondents rate their opinion on different issues concerning current and future conditions. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 10-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.10%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. \r\n<BR/><BR/>Italian BTP bonds have maturities of five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-09-30",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 5-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.44%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
     {
@@ -371,7 +393,7 @@
       "country": "Brazil",
       "event": "IGP-M Inflation Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.60%",
       "previous": "-0.22%",
       "description": "An index that measures and tracks the changes in price of goods in the stages before the retail level. Wholesale price indexes (WPIs) report monthly to show the average price changes of goods sold in bulk, and they are a group of the indicators that follow growth in the economy. \r\nAlthough some countries still use the WPIs as a measure of inflation, many countries, including the United States, use the producer price index (PPI) instead.",
       "high_impact": false
@@ -404,7 +426,7 @@
       "country": "Brazil",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.3%",
       "previous": "5.3%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": true
@@ -422,12 +444,12 @@
     },
     {
       "date": "2026-09-30",
-      "time_gmt": "08:30",
+      "time_gmt": "08:31",
       "country": "Canada",
       "event": "GDP",
       "actual": "",
       "consensus": "",
-      "previous": "0.3%",
+      "previous": "",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
@@ -492,9 +514,9 @@
       "country": "United States",
       "event": "S&P/CS HPI Composite - 20 n.s.a.",
       "actual": "",
-      "consensus": "2.2%",
-      "previous": "2.1%",
-      "description": "The S&P/Case-Shiller House Price Index measures the change in the selling price of single-family homes in 20 metropolitan areas.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "0.4%",
+      "description": "The Case-Shiller index prices are measured monthly and tracks repeat sales of houses using a modified version of the weighted-repeat sales methodology proposed by Karl Case and Robert Shiller and Allan Weiss. This means that, to a large extent, it is able to adjust for the quality of the homes sold, unlike simple averages. As a monthly tracking index, Case-Shiller Index has long lag time. Typically, it takes about 2 months for S&P to publish the results, as opposed to 1 month for most other monthly indices and indicators. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -503,9 +525,9 @@
       "country": "United States",
       "event": "S&P/CS HPI Composite - 20 n.s.a.",
       "actual": "",
-      "consensus": "",
-      "previous": "0.4%",
-      "description": "The Case-Shiller index prices are measured monthly and tracks repeat sales of houses using a modified version of the weighted-repeat sales methodology proposed by Karl Case and Robert Shiller and Allan Weiss. This means that, to a large extent, it is able to adjust for the quality of the homes sold, unlike simple averages. As a monthly tracking index, Case-Shiller Index has long lag time. Typically, it takes about 2 months for S&P to publish the results, as opposed to 1 month for most other monthly indices and indicators. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
+      "consensus": "2.2%",
+      "previous": "2.1%",
+      "description": "The S&P/Case-Shiller House Price Index measures the change in the selling price of single-family homes in 20 metropolitan areas.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -605,17 +627,6 @@
       "consensus": "",
       "previous": "",
       "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-09-30",
-      "time_gmt": "13:30",
-      "country": "Brazil",
-      "event": "CAGED Net Payroll Jobs",
-      "actual": "",
-      "consensus": "",
-      "previous": "58.57K",
-      "description": "Employment is the total number of persons above a specified age, who in a short reference period (e.g. a week or a day), were in paid employment or self-employment. Paid employment includes persons who worked in the reference period or who had a job but were temporarily absent from work. Self-employment \r\nincludes persons who either worked in the reference period or were temporarily absent from work.Series data show evolution of formal employment in Brazil. It is measured by the movements declared in CAGED - Cadastro Geral de Empregados e Desempregados (General Register of Employment and Unemployment) of the Ministry of Labour. There are separate series for thousands of admitted and dismissed employees per month (registered in CAGED), as well as for net, i.e. admitted less dismissed. Totals of admitted, dismissed and net are also broken down to eight main sectors of economic activity according to the IBGE.",
       "high_impact": false
     },
     {
