@@ -1,7 +1,18 @@
 {
   "date": "2026-10-02",
-  "asOf": "Tue, Sep 29, 2026",
+  "asOf": "Wed, Sep 30, 2026",
   "events": [
+    {
+      "date": "2026-10-02",
+      "time_gmt": "00:30",
+      "country": "Russia",
+      "event": "GDP Monthly",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.6%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
+      "high_impact": true
+    },
     {
       "date": "2026-10-02",
       "time_gmt": "01:00",
@@ -9,7 +20,7 @@
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
       "consensus": "55.7",
-      "previous": "55.7",
+      "previous": "52.8",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
     },
@@ -19,9 +30,9 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "0.2%",
-      "previous": "0.2%",
-      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "consensus": "1.3%",
+      "previous": "1.6%",
+      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -30,9 +41,9 @@
       "country": "United Kingdom",
       "event": "Nationwide HPI",
       "actual": "",
-      "consensus": "",
-      "previous": "1.6%",
-      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
+      "consensus": "0.0%",
+      "previous": "0.2%",
+      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
@@ -52,7 +63,7 @@
       "country": "Switzerland",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "2.2%",
+      "consensus": "2.1%",
       "previous": "2.3%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -74,7 +85,7 @@
       "country": "Switzerland",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "0.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -107,7 +118,7 @@
       "country": "Switzerland",
       "event": "procure.ch Manufacturing PMI",
       "actual": "",
-      "consensus": "56.0",
+      "consensus": "56.3",
       "previous": "57.1",
       "description": "procure.ch Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -118,7 +129,7 @@
       "country": "Italy",
       "event": "HCOB Italy Manufacturing PMI",
       "actual": "",
-      "consensus": "49.9",
+      "consensus": "50.1",
       "previous": "49.6",
       "description": "The Italian Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -130,7 +141,7 @@
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
       "consensus": "50.3",
-      "previous": "50.3",
+      "previous": "51.1",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -141,7 +152,7 @@
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
       "consensus": "53.8",
-      "previous": "53.8",
+      "previous": "54.3",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -162,7 +173,7 @@
       "country": "Italy",
       "event": "Italian Monthly Unemployment Rate",
       "actual": "",
-      "consensus": "5.7%",
+      "consensus": "5.8%",
       "previous": "5.8%",
       "description": "The Italian unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.This data tends to have a muted impact since there are several earlier indicators related to the euro zone labor market.",
       "high_impact": true
@@ -185,9 +196,20 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "52.0",
-      "previous": "52.0",
+      "previous": "51.7",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-02",
+      "time_gmt": "04:40",
+      "country": "Spain",
+      "event": "Spanish 10-Year Obligacion Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.960%",
+      "description": "The figures displayed in the calendar represent the average yield on the Obligaciones del Estado or ODE auctioned.<BR/><BR/> Spanish ODE bonds have maturities of above then five years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the ODE represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
     },
     {
       "date": "2026-10-02",
@@ -316,7 +338,7 @@
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "1,730K",
       "previous": "1,719K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -327,7 +349,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "199K",
+      "consensus": "201K",
       "previous": "197K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -427,7 +449,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "57.0",
-      "previous": "57.0",
+      "previous": "53.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -437,7 +459,7 @@
       "country": "United States",
       "event": "Construction Spending",
       "actual": "",
-      "consensus": "0.1%",
+      "consensus": "0.0%",
       "previous": "-0.5%",
       "description": "The Construction Spending index measures the change in the total amount spent on construction. The data is subject to large revisions and as such, this report rarely has any market impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -481,7 +503,7 @@
       "country": "United States",
       "event": "ISM Manufacturing PMI",
       "actual": "",
-      "consensus": "55.0",
+      "consensus": "54.8",
       "previous": "54.6",
       "description": "The Institute of Supply Management (ISM) Manufacturing Purchasing Managers Index (PMI) Report on Business is based on data compiled from monthly replies to questions asked of purchasing and supply executives in over 400 industrial companies. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers Inventories, Employment, and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction and the negative economic direction and the diffusion index. Responses are raw data and are never changed. <br/><br/>The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive). The resulting single index number is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. <BR/><BR/>The PMI is a composite index based on the seasonally adjusted diffusion indices for five of the indicators with varying weights: New Orders --30% Production --25% Employment --20% Supplier Deliveries --15% and Inventories -- 10%. <br/><br/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -492,7 +514,7 @@
       "country": "United States",
       "event": "ISM Manufacturing Prices",
       "actual": "",
-      "consensus": "72.0",
+      "consensus": "72.9",
       "previous": "71.1",
       "description": "The Institute of Supply Management (ISM) Manufacturing Purchasing Managers Index (PMI) Report on Business is based on data compiled from monthly replies to questions asked of purchasing and supply executives in over 400 industrial companies. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers Inventories, Employment, and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction and the negative economic direction and the diffusion index. Responses are raw data and are never changed. <br/><br/>The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive). The resulting single index number is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. <BR/><BR/>The PMI is a composite index based on the seasonally adjusted diffusion indices for five of the indicators with varying weights: New Orders --30% Production --25% Employment --20% Supplier Deliveries --15% and Inventories -- 10%. <br/><br/>The Prices Paid subcategory is a diffusion index calculated by adding the percent of responses indicating they paid more for inputs plus one-half of those responding that they paid the same for inputs. The resulting single index number is then seasonally adjusted.<BR/><BR/>The Prices Paid diffusion index is one of a number of indicators pointing to the degree of inflationary pressures in the economy. <br/><br/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -503,7 +525,7 @@
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
-      "consensus": "",
+      "consensus": "63B",
       "previous": "53B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -668,7 +690,7 @@
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.9%",
       "previous": "3.1%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
@@ -679,7 +701,7 @@
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
