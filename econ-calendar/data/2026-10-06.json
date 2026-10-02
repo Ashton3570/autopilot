@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "asOf": "Wed, Sep 30, 2026",
+  "asOf": "Thu, Oct 1, 2026",
   "events": [
     {
       "date": "2026-10-06",
@@ -361,7 +361,7 @@
       "event": "S&P Global Composite PMI",
       "actual": "",
       "consensus": "58.4",
-      "previous": "56.0",
+      "previous": "58.4",
       "description": "The S&P Global Composite PMI (Purchasing Managers' Index) is a monthly economic indicator that measures the performance of the private sector by combining data from both manufacturing and service industries. It is considered a \"leading indicator,\" meaning it provides an early snapshot of economic health (such as GDP trends) before official government data is released.",
       "high_impact": true
     },
@@ -372,7 +372,7 @@
       "event": "S&P Global Services PMI",
       "actual": "",
       "consensus": "58.7",
-      "previous": "56.5",
+      "previous": "58.7",
       "description": "The Service PMI release is published monthly by Markit Economics. The data are based on surveys of over 400 executives in private sector service companies. The surveys cover transport and communication, financial intermediaries, business and personal services, computing & IT, hotels and restaurants. <BR/>\r\nAn index level of 50 denotes no change since the previous month, while a level above 50 signals an improvement, and below 50 indicates a deterioration.\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": true
     },
