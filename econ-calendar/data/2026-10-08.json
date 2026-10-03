@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "asOf": "Thu, Oct 1, 2026",
+  "asOf": "Fri, Oct 2, 2026",
   "events": [
     {
       "date": "2026-10-08",
@@ -8,7 +8,7 @@
       "country": "India",
       "event": "Cash Reserve Ratio",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.00%",
       "previous": "3.00%",
       "description": "Monetary policy refers to the actions undertaken by a country's monetary authority, central bank or government to achieve certain national economic goals. It is based on the relationship between interest rates at which money canbe borrowed and total supply of money. Policy rates are the most important rateswithin a country's monetary policy. Changing them influences economic growth, inflation, exchange rates and unemployment.",
       "high_impact": false
@@ -19,7 +19,7 @@
       "country": "India",
       "event": "Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.50%",
       "previous": "5.25%",
       "description": "Monetary policy refers to the actions undertaken by a country's monetary authority, central bank or government to achieve certain national economic goals. It is based on the relationship between interest rates at which money can be borrowed and total supply of money. Policy rates are the most important rates within a country's monetary policy. Changing them influences economic growth,inflation, exchange rates and unemployment.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -561,6 +561,28 @@
       "consensus": "",
       "previous": "2.989T",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-08",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Bonds Buying",
+      "actual": "",
+      "consensus": "",
+      "previous": "-684.5B",
+      "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-08",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Investments in Japanese Stocks",
+      "actual": "",
+      "consensus": "",
+      "previous": "-362.0B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
       "high_impact": false
     },
     {

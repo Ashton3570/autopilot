@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "asOf": "Thu, Oct 1, 2026",
+  "asOf": "Fri, Oct 2, 2026",
   "events": [
     {
       "date": "2026-10-06",
@@ -92,6 +92,17 @@
     },
     {
       "date": "2026-10-06",
+      "time_gmt": "03:45",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-06",
       "time_gmt": "03:50",
       "country": "France",
       "event": "HCOB France Composite PMI",
@@ -174,7 +185,7 @@
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
       "consensus": "53.1",
-      "previous": "52.0",
+      "previous": "53.1",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
     },
@@ -185,7 +196,7 @@
       "event": "HCOB Eurozone Services PMI",
       "actual": "",
       "consensus": "53.0",
-      "previous": "51.6",
+      "previous": "53.0",
       "description": "The Euro-zone Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of about 600 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -426,7 +437,7 @@
       "country": "United States",
       "event": "ISM Non-Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "55.7",
       "previous": "55.4",
       "description": "The Institute of Supply Management (ISM) Non-Manufacturing Purchasing Managers' Index (PMI) (also known as the ISM Services PMI) report on Business, a composite index is calculated as an indicator of the overall economic condition for the non-manufacturing sector. The NMI is a composite index based on the diffusion indexes for four of the indicators with equal weights: Business Activity (seasonally adjusted), New Orders (seasonally adjusted), Employment (seasonally adjusted) and Supplier Deliveries. <br/><br/>A reading above 50 percent indicates the non-manufacturing sector economy is generally expanding; below 50 percent indicates the non-manufacturing sector is generally contracting. The Non-Manufacturing ISM Report on Business is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories. Membership of the Business Survey Committee is diversified by SIC category and is based on each industry contribution to Gross Domestic Product (GDP). <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true

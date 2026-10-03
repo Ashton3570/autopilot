@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "asOf": "Thu, Oct 1, 2026",
+  "asOf": "Fri, Oct 2, 2026",
   "events": [
     {
       "date": "2026-10-05",
@@ -53,7 +53,7 @@
       "event": "Manufacturing & Services PMI",
       "actual": "",
       "consensus": "52.50",
-      "previous": "53.50",
+      "previous": "52.50",
       "description": "",
       "high_impact": true
     },
@@ -64,7 +64,7 @@
       "event": "S&P Global Services PMI",
       "actual": "",
       "consensus": "51.6",
-      "previous": "52.5",
+      "previous": "51.6",
       "description": "The survey covers transport & communication, financial intermediation, business services, personal services, computing & IT and hotels & restaurants. Each response received is weighted according to the size of the company to which the questionnaire refers & the contribution to total service sector output accounted for by the sub-sector to which that company belongs.This therefore ensures that replies from larger companies have a greater impact on the final index numbers than replies from small companies.The results are presented by question asked, showing the % of respondents reporting an improvement, deterioration or no-change since the previous month.From these %, an index is derived such that a level of\r\n50.0 signals no-change since the previous month.Above 50.0 signals an increase (or improvement),below 50.0 a decrease(or deterioration).The greater the divergence from 50.0, the greater the rate of change signaled.",
       "high_impact": true
     }
