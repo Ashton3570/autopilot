@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "asOf": "Fri, Oct 2, 2026",
+  "asOf": "Sat, Oct 3, 2026",
   "events": [
     {
       "date": "2026-10-08",
@@ -63,7 +63,7 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "118.1",
       "previous": "117.7",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "Lloyds House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.2%",
       "previous": "-0.2%",
       "description": "The Lloyds House Price Index, Formerly the Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -96,7 +96,7 @@
       "country": "Germany",
       "event": "German Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.4%",
       "previous": "-1.1%",
       "description": "German Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -184,7 +184,7 @@
       "country": "France",
       "event": "French Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-6.5B",
       "previous": "-6.7B",
       "description": "The Trade Balance index measures the difference in worth between exported and imported goods over the reported month.\r\nExport demand is directly linked to currency demand, while export demand also has an impact on production levels.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -196,7 +196,7 @@
       "event": "Foreign Reserves (USD)",
       "actual": "",
       "consensus": "",
-      "previous": "770.1B",
+      "previous": "770,073.0B",
       "description": "Official reserve assets comprises foreign currency reserves, IMF reserve position, SDRs and gold. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -514,7 +514,7 @@
       "country": "United States",
       "event": "Consumer Credit",
       "actual": "",
-      "consensus": "",
+      "consensus": "15.40B",
       "previous": "18.06B",
       "description": "Consumer Credit measures the change in the total value of outstanding consumer credit that requires installment payments.\r\nIt is closely correlated with consumer spending and confidence. The figure can be volatile as it often subject to sizable revisions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -536,7 +536,7 @@
       "country": "United Kingdom",
       "event": "RICS House Price Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-30%",
       "previous": "-28%",
       "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -547,8 +547,8 @@
       "country": "Japan",
       "event": "Adjusted Current Account",
       "actual": "",
-      "consensus": "",
-      "previous": "2.52T",
+      "consensus": "2.10T",
+      "previous": "252.31T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },

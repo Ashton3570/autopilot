@@ -63,31 +63,33 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-05	20:00	Australia	MI Inflation Gauge			0.5%	
 2026-10-05	20:30	Japan	Manufacturing & Services PMI		52.50	52.50	Y
 2026-10-05	20:30	Japan	S&P Global Services PMI		51.6	51.6	Y
-2026-10-06	01:00	Japan	Household Confidence			35.5	
+2026-10-06	01:00	Japan	Household Confidence		35.3	35.5	
 2026-10-06	01:00	Singapore	Retail Sales			1.5%	Y
 2026-10-06	01:00	Singapore	Retail Sales			0.9%	Y
 2026-10-06	02:00	Russia	S&P Global Services PMI			51.3	Y
-2026-10-06	03:15	Spain	HCOB Spain Services PMI			57.8	Y
+2026-10-06	03:15	Spain	HCOB Spain Services PMI		57.1	57.8	Y
 2026-10-06	03:15	South Africa	S&P Global Manufacturing PMI			50.5	Y
 2026-10-06	03:45	Italy	HCOB Italy Composite PMI			53.6	Y
-2026-10-06	03:45	Italy	HCOB Italy Services PMI			55.2	Y
+2026-10-06	03:45	Italy	HCOB Italy Services PMI		54.6	55.2	Y
 2026-10-06	03:45	Germany	German Buba President Nagel Speaks				
-2026-10-06	03:50	France	HCOB France Composite PMI		51.2	48.5	Y
-2026-10-06	03:50	France	HCOB France Services PMI		51.4	48.0	Y
-2026-10-06	03:55	Germany	HCOB Germany Composite PMI		53.8	51.8	Y
-2026-10-06	03:55	Germany	HCOB Germany Services PMI		52.9	49.7	Y
+2026-10-06	03:50	France	HCOB France Composite PMI		51.2	51.2	Y
+2026-10-06	03:50	France	HCOB France Services PMI		51.4	51.4	Y
+2026-10-06	03:55	Germany	HCOB Germany Composite PMI		53.8	53.8	Y
+2026-10-06	03:55	Germany	HCOB Germany Services PMI		52.9	52.9	Y
 2026-10-06	04:00	United Kingdom	Car Registration			13.7%	
 2026-10-06	04:00	United Kingdom	United Kingdom New Passenger Cars Registration			94,236.0	
 2026-10-06	04:00	Italy	Italian Public Deficit			7.8%	
+2026-10-06	04:00	Euro Zone	ECB's Lane Speaks				
 2026-10-06	04:00	Euro Zone	HCOB Eurozone Composite PMI		53.1	53.1	Y
 2026-10-06	04:00	Euro Zone	HCOB Eurozone Services PMI		53.0	53.0	Y
-2026-10-06	04:30	United Kingdom	S&P Global Composite PMI		51.7	52.5	Y
-2026-10-06	04:30	United Kingdom	S&P Global Services PMI		51.7	52.5	Y
-2026-10-06	04:30	Euro Zone	Sentix Investor Confidence			5.1	
+2026-10-06	04:30	United Kingdom	S&P Global Composite PMI		51.7	51.7	Y
+2026-10-06	04:30	United Kingdom	S&P Global Services PMI		51.7	51.7	Y
+2026-10-06	04:30	Euro Zone	Sentix Investor Confidence		4.5	5.1	
 2026-10-06	05:00	Italy	Italian GDP			0.2%	Y
 2026-10-06	05:00	Italy	Italian GDP			1.0%	Y
 2026-10-06	05:00	Russia	Russian Forex Intervention			55.6B	
-2026-10-06	05:00	Euro Zone	PPI			1.6%	Y
+2026-10-06	05:00	Euro Zone	ECB's Schnabel Speaks				
+2026-10-06	05:00	Euro Zone	PPI		1.9%	1.6%	Y
 2026-10-06	05:00	Euro Zone	PPI			5.8%	Y
 2026-10-06	07:25	Brazil	BCB Focus Market Readout				
 2026-10-06	09:00	France	French 12-Month BTF Auction			3.240%	
@@ -118,41 +120,42 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-06	All Day	South Korea	South Korea - National Foundation Day of Korea				
 2026-10-06	All Day	South Korea	South Korea - National Foundation Day of Korea				
 2026-10-07	01:00	India	HSBC India Services PMI		55.8	55.8	Y
-2026-10-07	01:00	India	HSBC Manufacturing & Services PMI		56.50	54.30	Y
-2026-10-07	02:00	Germany	German Factory Orders			2.5%	
+2026-10-07	01:00	India	HSBC Manufacturing & Services PMI		56.50	56.50	Y
+2026-10-07	02:00	Germany	German Factory Orders		-1.0%	2.5%	
 2026-10-07	02:35	Japan	BOJ Gov Ueda Speaks				
 2026-10-07	02:45	France	French Government Budget Balance			-145.9B	
-2026-10-07	02:45	France	French Industrial Production			-0.4%	
+2026-10-07	02:45	France	French Industrial Production		0.2%	-0.4%	
 2026-10-07	03:00	Switzerland	Unemployment Rate n.s.a.			3.0%	Y
-2026-10-07	03:00	Switzerland	Unemployment Rate s.a.			3.1%	Y
+2026-10-07	03:00	Switzerland	Unemployment Rate s.a.		3.1%	3.1%	Y
 2026-10-07	03:00	Spain	Spanish Industrial Production			2.3%	
 2026-10-07	03:30	Italy	HCOB Italy Construction PMI			41.7	Y
 2026-10-07	03:30	Germany	HCOB Germany Construction PMI			48.7	Y
 2026-10-07	03:30	France	HCOB France Construction PMI			37.3	Y
 2026-10-07	03:30	Euro Zone	HCOB Eurozone Construction PMI			43.0	Y
 2026-10-07	04:30	United Kingdom	BoE MPC Member Mann Speaks				
-2026-10-07	04:30	United Kingdom	S&P Global Construction PMI			44.3	Y
+2026-10-07	04:30	United Kingdom	S&P Global Construction PMI		45.0	44.3	Y
 2026-10-07	04:40	Spain	Spanish 12-Month Letras Auction			2.832%	
 2026-10-07	04:40	Spain	Spanish 6-Month Letras Auction			2.623%	
-2026-10-07	05:00	Euro Zone	Retail Sales			-0.6%	Y
+2026-10-07	05:00	Euro Zone	Retail Sales		0.3%	-0.6%	Y
 2026-10-07	05:00	Euro Zone	Retail Sales			0.6%	Y
 2026-10-07	05:30	Germany	German 2-Year Schatz Auction			3.270%	
+2026-10-07	07:40	Germany	German Buba Vice President Buch Speaks				
 2026-10-07	08:00	New Zealand	GlobalDairyTrade Price Index			-1.1%	
 2026-10-07	08:00	New Zealand	Milk Auctions			3,868.0	
 2026-10-07	08:15	United States	ADP Employment Change Weekly			20.00K	Y
 2026-10-07	08:30	United States	Exports			310.70B	
 2026-10-07	08:30	United States	Imports			399.30B	
-2026-10-07	08:30	United States	Trade Balance			-88.60B	
+2026-10-07	08:30	United States	Trade Balance		-95.20B	-88.60B	
 2026-10-07	08:30	Canada	Exports			76.14B	
 2026-10-07	08:30	Canada	Imports			75.37B	
-2026-10-07	08:30	Canada	Trade Balance			0.77B	
+2026-10-07	08:30	Canada	Trade Balance		1.30B	0.77B	
 2026-10-07	08:55	United States	Redbook			8.2%	
-2026-10-07	10:00	United States	IBD/TIPP Economic Optimism			45.6	
+2026-10-07	09:00	Euro Zone	ECB's Elderson Speaks				
+2026-10-07	10:00	United States	IBD/TIPP Economic Optimism		44.5	45.6	
 2026-10-07	10:00	Canada	Ivey PMI n.s.a			62.7	Y
-2026-10-07	10:00	Canada	Ivey PMI			64.3	Y
+2026-10-07	10:00	Canada	Ivey PMI		65.2	64.3	Y
 2026-10-07	10:45	United States	FOMC Member Bowman Speaks				Y
-2026-10-07	10:45	United States	FOMC Member Bowman Speaks				Y
-2026-10-07	11:30	United States	Atlanta Fed GDPNow				
+2026-10-07	11:30	United States	Atlanta Fed GDPNow		3.7%	3.7%	
 2026-10-07	12:00	United States	EIA Short-Term Energy Outlook				
 2026-10-07	12:00	South Africa	SARB Monetary Policy Review				
 2026-10-07	13:00	United States	3-Year Note Auction			4.474%	
@@ -163,8 +166,8 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-07	19:00	United States	Fed Logan Speaks				
 2026-10-07	19:00	Japan	Reuters Tankan Index			21	
 2026-10-07	19:30	Japan	Average Cash Earnings			3.3%	
-2026-10-07	19:30	Japan	Overall wage income of employees			4.7%	
-2026-10-07	19:30	Japan	Overtime Pay			3.10%	
+2026-10-07	19:30	Japan	Overall wage income of employees			4.3%	
+2026-10-07	19:30	Japan	Overtime Pay			4.50%	
 2026-10-07	19:50	Japan	Foreign Reserves (USD)			1,207.5B	
 2026-10-07	20:30	Australia	Building Approvals		10.30%	9.00%	
 2026-10-07	20:30	Australia	Building Approvals		-6.1%	-3.6%	
@@ -177,10 +180,10 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-08	00:30	India	Reverse REPO Rate			3.35%	
 2026-10-08	01:00	Japan	Coincident Indicator			1.7%	
 2026-10-08	01:00	Japan	Leading Index			1.5%	
-2026-10-08	01:00	Japan	Leading Index			117.7	
-2026-10-08	02:00	United Kingdom	Lloyds House Price Index			-0.2%	
+2026-10-08	01:00	Japan	Leading Index		118.1	117.7	
+2026-10-08	02:00	United Kingdom	Lloyds House Price Index		0.2%	-0.2%	
 2026-10-08	02:00	United Kingdom	Lloyds House Price Index			-0.4%	
-2026-10-08	02:00	Germany	German Industrial Production			-1.1%	
+2026-10-08	02:00	Germany	German Industrial Production		1.4%	-1.1%	
 2026-10-08	02:00	Germany	German Industrial Production			-1.63%	
 2026-10-08	02:00	South Africa	Foreign Reserves (USD)			75.95B	
 2026-10-08	02:00	South Africa	Net FX Reserves  (USD)			73.686B	
@@ -188,8 +191,8 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-08	02:45	France	French Exports			54.7B	
 2026-10-08	02:45	France	French Imports			61.3B	
 2026-10-08	02:45	France	French Reserve Assets Total			380,694.0M	
-2026-10-08	02:45	France	French Trade Balance			-6.7B	
-2026-10-08	03:00	Switzerland	Foreign Reserves (USD)			770.1B	
+2026-10-08	02:45	France	French Trade Balance		-6.5B	-6.7B	
+2026-10-08	03:00	Switzerland	Foreign Reserves (USD)			770,073.0B	
 2026-10-08	04:00	China	FX Reserves (USD)			3.438T	
 2026-10-08	04:30	Hong Kong	Foreign Reserves (USD)			442.90B	
 2026-10-08	05:00	United Kingdom	Mortgage Rate (GBP)			6.58%	
@@ -218,10 +221,10 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-08	13:00	United States	10-Year Note Auction			4.834%	
 2026-10-08	13:30	Brazil	Foreign Exchange Flows			3.054B	
 2026-10-08	14:00	United States	FOMC Meeting Minutes				Y
-2026-10-08	15:00	United States	Consumer Credit			18.06B	
+2026-10-08	15:00	United States	Consumer Credit		15.40B	18.06B	
 2026-10-08	19:00	South Korea	Current Account			42.08B	
-2026-10-08	19:01	United Kingdom	RICS House Price Balance			-28%	
-2026-10-08	19:50	Japan	Adjusted Current Account			2.52T	
+2026-10-08	19:01	United Kingdom	RICS House Price Balance		-30%	-28%	
+2026-10-08	19:50	Japan	Adjusted Current Account		2.10T	252.31T	
 2026-10-08	19:50	Japan	Current Account n.s.a.			2.989T	
 2026-10-08	19:50	Japan	Foreign Bonds Buying			-684.5B	
 2026-10-08	19:50	Japan	Foreign Investments in Japanese Stocks			-362.0B	
@@ -229,13 +232,15 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-08	23:35	Japan	30-Year JGB Auction			4.100%	
 2026-10-08	All Day	China	China - National Day				
 2026-10-08	All Day	China	China - National Day				
-2026-10-09	01:00	Japan	Economy Watchers Current Index			46.4	
+2026-10-09	01:00	Japan	Economy Watchers Current Index		46.6	46.4	
 2026-10-09	02:00	Germany	German Exports			-0.8%	
 2026-10-09	02:00	Germany	German Imports			-5.7%	
-2026-10-09	02:00	Germany	German Trade Balance			21.3B	
+2026-10-09	02:00	Germany	German Trade Balance		18.9B	21.3B	
 2026-10-09	04:30	United Kingdom	BOE Credit Conditions Survey				
+2026-10-09	04:30	United States	Fed Waller Speaks				
 2026-10-09	04:30	Hong Kong	Foreign Reserves (USD)			442.90B	
 2026-10-09	06:00	Germany	German Car Registration			2.6%	
+2026-10-09	06:00	Euro Zone	ECB's Lane Speaks				
 2026-10-09	06:00	Euro Zone	Eurogroup Meetings				
 2026-10-09	06:30	United Kingdom	BoE MPC Member Pill Speaks				
 2026-10-09	07:00	South Africa	Manufacturing Production			2.2%	
@@ -243,7 +248,7 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-09	07:30	Euro Zone	ECB Publishes Account of Monetary Policy Meeting				
 2026-10-09	08:15	United Kingdom	BoE Gov Bailey Speaks				
 2026-10-09	08:30	United States	Continuing Jobless Claims			1,701K	Y
-2026-10-09	08:30	United States	Initial Jobless Claims			197K	Y
+2026-10-09	08:30	United States	Initial Jobless Claims		200K	197K	Y
 2026-10-09	08:30	United States	Jobless Claims 4-Week Avg.			200.00K	Y
 2026-10-09	09:00	Russia	Central Bank reserves (USD)			742.7B	
 2026-10-09	10:00	United States	Wholesale Inventories		0.7%	0.7%	
@@ -253,5 +258,7 @@ date	time_gmt	country	event	actual	consensus	previous	high_impact
 2026-10-09	11:30	United States	8-Week Bill Auction			3.990%	
 2026-10-09	11:30	United States	Atlanta Fed GDPNow				
 2026-10-09	13:00	United States	30-Year Bond Auction			5.308%	
-2026-10-09	19:30	Japan	Household Spending			-3.6%	
+2026-10-09	16:30	United States	Fed's Balance Sheet			6,743B	
+2026-10-09	16:30	United States	Reserve Balances with Federal Reserve Banks			2.881T	
+2026-10-09	19:30	Japan	Household Spending		-3.5%	-3.6%	
 2026-10-09	19:30	Japan	Household Spending			0.5%	

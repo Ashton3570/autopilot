@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "asOf": "Fri, Oct 2, 2026",
+  "asOf": "Sat, Oct 3, 2026",
   "events": [
     {
       "date": "2026-10-09",
@@ -8,7 +8,7 @@
       "country": "Japan",
       "event": "Economy Watchers Current Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "46.6",
       "previous": "46.4",
       "description": "The Economy Watchers Current Index measures the current mood of businesses that directly service consumers, such as barbers, taxi drivers, and waiters. The data is compiled from a survey of about 2,000 workers. A reading above 50.0 indicates optimism; below indicates pessimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "Germany",
       "event": "German Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "18.9B",
       "previous": "21.3B",
       "description": "The Trade Balance measures the difference in worth between exported and imported goods over the month. A positive number indicates that more goods were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -55,6 +55,17 @@
       "consensus": "",
       "previous": "",
       "description": "Quarterly survey of banks and building societies is aimed at improving BOE's understanding of trends and developments in credit conditions.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-09",
+      "time_gmt": "04:30",
+      "country": "United States",
+      "event": "Fed Waller Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -77,6 +88,17 @@
       "consensus": "",
       "previous": "2.6%",
       "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-09",
+      "time_gmt": "06:00",
+      "country": "Euro Zone",
+      "event": "ECB's Lane Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Philip R. Lane, member of the Executive Board of the European Central Bank, is set to speak. His speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -162,7 +184,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "200K",
       "previous": "197K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -268,11 +290,33 @@
     },
     {
       "date": "2026-10-09",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Fed's Balance Sheet",
+      "actual": "",
+      "consensus": "",
+      "previous": "6,743B",
+      "description": "The Fed balance sheet is a statement listing the assets and liabilities of the Federal Reserve System. Details of the Fed's balance sheet are disclosed by the Fed in a weekly report called \"Factors Affecting Reserve Balances.\"",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-09",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Reserve Balances with Federal Reserve Banks",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.881T",
+      "description": "Reserve Balances with Federal Reserve Banks is the amount of money that depository institutions maintain in their accounts at their regional Federal Reserve Banks.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-09",
       "time_gmt": "19:30",
       "country": "Japan",
       "event": "Household Spending",
       "actual": "",
-      "consensus": "",
+      "consensus": "-3.5%",
       "previous": "-3.6%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
