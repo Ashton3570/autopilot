@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "asOf": "Sun, Oct 4, 2026",
+  "asOf": "Mon, Oct 5, 2026",
   "events": [
     {
       "date": "2026-10-07",
@@ -206,7 +206,7 @@
       "country": "Euro Zone",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "0.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -448,7 +448,7 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.19B",
       "previous": "7.39B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
@@ -525,7 +525,7 @@
       "country": "Japan",
       "event": "Overall wage income of employees",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.7%",
       "previous": "4.3%",
       "description": "One of the statistical figures used by the Cabinet Office in monthly economic reports. It is announced by the Cabinet Office, and represents the total amount of wages received by all Japanese workers.\r\nA higher than expected result would be positive news for the yen, whilst a lower than expected result would be negative news for the yen.",
       "high_impact": false

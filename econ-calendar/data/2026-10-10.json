@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "asOf": "Sun, Oct 4, 2026",
+  "asOf": "Mon, Oct 5, 2026",
   "events": [
     {
       "date": "2026-10-10",
@@ -30,9 +30,9 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
-      "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
+      "consensus": "0.0%",
+      "previous": "0.7%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
     },
     {
@@ -41,9 +41,9 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "0.0%",
-      "previous": "0.7%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "0.0%",
+      "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -66,6 +66,39 @@
       "consensus": "",
       "previous": "",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-10",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "Bank Loan Growth",
+      "actual": "",
+      "consensus": "",
+      "previous": "18.1%",
+      "description": "Bank Loan Growth measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-10",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "Deposit Growth",
+      "actual": "",
+      "consensus": "",
+      "previous": "17.3%",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-10",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "747.56B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
     {
