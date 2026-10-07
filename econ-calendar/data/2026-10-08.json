@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "asOf": "Mon, Oct 5, 2026",
+  "asOf": "Tue, Oct 6, 2026",
   "events": [
     {
       "date": "2026-10-08",
@@ -63,7 +63,7 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "118.1",
+      "consensus": "118.3",
       "previous": "117.7",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -96,7 +96,7 @@
       "country": "Germany",
       "event": "German Industrial Production",
       "actual": "",
-      "consensus": "1.4%",
+      "consensus": "0.5%",
       "previous": "-1.1%",
       "description": "German Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -514,7 +514,7 @@
       "country": "United States",
       "event": "Consumer Credit",
       "actual": "",
-      "consensus": "15.40B",
+      "consensus": "14.40B",
       "previous": "18.06B",
       "description": "Consumer Credit measures the change in the total value of outstanding consumer credit that requires installment payments.\r\nIt is closely correlated with consumer spending and confidence. The figure can be volatile as it often subject to sizable revisions.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -532,23 +532,12 @@
     },
     {
       "date": "2026-10-08",
-      "time_gmt": "19:01",
-      "country": "United Kingdom",
-      "event": "RICS House Price Balance",
-      "actual": "",
-      "consensus": "-30%",
-      "previous": "-28%",
-      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-10-08",
       "time_gmt": "19:50",
       "country": "Japan",
       "event": "Adjusted Current Account",
       "actual": "",
-      "consensus": "2.10T",
-      "previous": "252.31T",
+      "consensus": "2.13T",
+      "previous": "2.52T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -558,7 +547,7 @@
       "country": "Japan",
       "event": "Current Account n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.194T",
       "previous": "2.989T",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY",
       "high_impact": false
