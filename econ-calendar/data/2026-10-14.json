@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-14",
+  "asOf": "Wed, Oct 7, 2026",
+  "events": [
+    {
+      "date": "2026-10-14",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German CPI",
+      "actual": "",
+      "consensus": "3.3%",
+      "previous": "2.9%",
+      "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German CPI",
+      "actual": "",
+      "consensus": "0.6%",
+      "previous": "0.2%",
+      "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German HICP",
+      "actual": "",
+      "consensus": "0.6%",
+      "previous": "0.2%",
+      "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German HICP",
+      "actual": "",
+      "consensus": "3.3%",
+      "previous": "2.9%",
+      "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "04:40",
+      "country": "Spain",
+      "event": "Spanish 3-Month Letras Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.456%",
+      "description": "The figures displayed in the calendar represent the average yield on the Letras del Tesoro auctioned. <BR/><BR/>Spanish Bills have maturities of less then two years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the Letras del Tesoro represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:30",
+      "country": "Germany",
+      "event": "German 5-Year Bobl Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.280%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bobls note auctioned.<BR/><BR/> German Bobls notes have maturities of five years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the Bobls represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:30",
+      "country": "South Africa",
+      "event": "Gold Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "-7.4%",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:30",
+      "country": "South Africa",
+      "event": "Mining Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "-7.5%",
+      "description": "Statistics South Africa (Stats SA) publishes monthly mining production indices and mineral sales based on the information furnished by the Department of Mineral Resources and Energy (DMRE).\nThe results of this survey are used to calculate the volume of mining production indices in order to estimate the gross domestic product (GDP) and its components, which in turn are used to develop and monitor government policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "06:00",
+      "country": "United States",
+      "event": "NFIB Small Business Optimism",
+      "actual": "",
+      "consensus": "",
+      "previous": "98.7",
+      "description": "The National Federation of Independent Business (NFIB) Small Business Optimism Index is a composite of ten seasonally adjusted components. It provides a indication of the health of small businesses in the U.S., which account of roughly 50% of the nation's private workforce.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "06:00",
+      "country": "United States",
+      "event": "OPEC Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The OPEC Monthly Oil Market Report covers major issues affecting the world oil market and provides an outlook for crude oil market developments for the coming year. The report provides a detailed analysis of key developments impacting oil market trends in world oil demand, supply as well as the oil market balance.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "08:00",
+      "country": "Germany",
+      "event": "German Current Account Balance n.s.a",
+      "actual": "",
+      "consensus": "",
+      "previous": "21.2B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: \r\n- current account \r\n- capital account \r\n- financial account \r\nEither a surplus or a deficit can be shown in any of these components. \r\nCurrent account records the values of the following: - trade balance exports and imports of goods and services - income payments and expenditure interest, dividends, salaries - unilateral transfers aid, taxes, one-way gifts It shows how a country deals with the global economy on a non-investment basis. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports. Positive current account balance is when inflows from its components into the country exceed outflows of the capital leaving the country. Current account surplus may strengthen the demand for local currency. Persistent deficit may lead to a depreciation of a currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "08:55",
+      "country": "United States",
+      "event": "Redbook",
+      "actual": "",
+      "consensus": "",
+      "previous": "8.6%",
+      "description": "The Redbook Index is a sales-weighted of year-over-year same-store sales growth in a sample of large US general merchandise retailers representing about 9,000 stores. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "Existing Home Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "-2.0%",
+      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "Existing Home Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.98M",
+      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "3-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.050%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "6-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.165%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "14:00",
+      "country": "United States",
+      "event": "Federal Budget Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-167.0B",
+      "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "External Migration & Visitors",
+      "actual": "",
+      "consensus": "",
+      "previous": "8.50%",
+      "description": "Tourism is a service based industry that applies to people o!G s traveling and staying in a place that is not their usual environment and for the purpose of leisure, not business. It includes such elements as accommodation, food and beverages, souvenirs, tours, transport but also relaxation, adventure, culture. \r\nTourism can substantially impact economic development of both host countries and home countries of tourists. However, consequences can be both positive and negative. Benefits from tourism industry concern: income from tourists expenditures as well as imports and exports of goods and services, contributions to government revenues from taxes put on tourism businesses, stimulation of infrastructure investment and new employment opportunities. However, a country or region should not be dependent only on this one industry. The seasonal character of tourism causes problems such as insecurity of seasonal workers that concern.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Permanent/Long-Term Migration",
+      "actual": "",
+      "consensus": "",
+      "previous": "3,010",
+      "description": "Permanent and long-term arrivals include overseas migrants who arrive in New Zealand intending to stay for a period of 12 months or more (or permanently), plus New Zealand residents returning after an absence of 12 months or more.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "M3 Money Supply",
+      "actual": "",
+      "consensus": "",
+      "previous": "2,337.3B",
+      "description": "M3 Money Supply measures the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "20:00",
+      "country": "Australia",
+      "event": "MI Leading Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.0%",
+      "description": "The Westpac/Melbourne Institute (MI) Leading Index is a composite index based on nine economic indicators, which is designed to predict the direction of the economy.The data is compiled from economic indicators related to consumer confidence, housing, stock market prices, money supply, and interest rate spreads. The report tends to have a muted impact because most of the indicators used in the calculation are released previously. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "20:00",
+      "country": "Singapore",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.9%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "20:00",
+      "country": "Singapore",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.4%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.\r\nA higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.8%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.4%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "PPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.8%",
+      "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "23:35",
+      "country": "Japan",
+      "event": "5-Year JGB Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.239%",
+      "description": "The figures displayed in the calendar represent the yield on the JGB auctioned.<BR/><BR/> JGB's have maturities of up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a JGB represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    }
+  ]
+}
