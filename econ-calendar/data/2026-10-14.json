@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "asOf": "Wed, Oct 7, 2026",
+  "asOf": "Fri, Oct 9, 2026",
   "events": [
     {
       "date": "2026-10-14",
@@ -9,7 +9,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "3.3%",
-      "previous": "2.9%",
+      "previous": "3.3%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -20,7 +20,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.2%",
+      "previous": "0.6%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -30,8 +30,8 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "0.6%",
-      "previous": "0.2%",
+      "consensus": "3.3%",
+      "previous": "3.3%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -41,9 +41,20 @@
       "country": "Germany",
       "event": "German HICP",
       "actual": "",
-      "consensus": "3.3%",
-      "previous": "2.9%",
+      "consensus": "0.6%",
+      "previous": "0.6%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "03:45",
+      "country": "United States",
+      "event": "Fed Waller Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -94,6 +105,17 @@
       "date": "2026-10-14",
       "time_gmt": "06:00",
       "country": "United States",
+      "event": "IMF Meetings",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Annual Meetings of the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) and the bring together central bankers, ministers of finance and development, parliamentarians, private sector executives, representatives from civil society organizations and academics to discuss issues of global concern, including the world economic outlook, poverty eradication, economic development, and aid effectiveness. Also featured are seminars, regional briefings, press conferences, and many other events focused on the global economy, international development, and the world's financial system.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "06:00",
+      "country": "United States",
       "event": "NFIB Small Business Optimism",
       "actual": "",
       "consensus": "",
@@ -125,6 +147,17 @@
     },
     {
       "date": "2026-10-14",
+      "time_gmt": "08:15",
+      "country": "United States",
+      "event": "ADP Employment Change Weekly",
+      "actual": "",
+      "consensus": "",
+      "previous": "23.80K",
+      "description": "The ADP weekly report provides the change in private sector employment, offering the most current view of the labor market based on ADP's fine-grained, high-frequency data. Traders often consider employment figures from ADP, America's largest payrolls provider, as the harbringer of the Bureau of Labor Statistics release of Nonfarm Payrolls.\r\nThis data is released by Automatic Data Processing Inc, provides a four-week moving average of the latest total private-employment change in the US. Generally, a rise in the indicator has positive implications for consumer spending and is simulative of economic growth. Therefore, a high reading is traditionally seen as bullish for the US Dollar (USD), while a low reading is seen as bearish.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
       "time_gmt": "08:55",
       "country": "United States",
       "event": "Redbook",
@@ -141,8 +174,8 @@
       "event": "Existing Home Sales",
       "actual": "",
       "consensus": "",
-      "previous": "-2.0%",
-      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "previous": "3.98M",
+      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -152,8 +185,8 @@
       "event": "Existing Home Sales",
       "actual": "",
       "consensus": "",
-      "previous": "3.98M",
-      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "-2.0%",
+      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -180,6 +213,28 @@
     },
     {
       "date": "2026-10-14",
+      "time_gmt": "12:00",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Dhingra Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "13:00",
+      "country": "United States",
+      "event": "FOMC Member Barkin Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Richmond Fed President Thomas Barkin. His public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
       "time_gmt": "14:00",
       "country": "United States",
       "event": "Federal Budget Balance",
@@ -187,6 +242,17 @@
       "consensus": "",
       "previous": "-167.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "16:00",
+      "country": "United States",
+      "event": "Fed Collins Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -209,6 +275,28 @@
       "consensus": "",
       "previous": "3,010",
       "description": "Permanent and long-term arrivals include overseas migrants who arrive in New Zealand intending to stay for a period of 12 months or more (or permanently), plus New Zealand residents returning after an absence of 12 months or more.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Visitor Arrivals",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.5%",
+      "description": "Visitor Arrivals measures the change in the number of short-term overseas visitors to New Zealand. Tourism plays an important role in the economy with approximately 10% of the population employed by the tourism industry.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "M2 Money Stock",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.0%",
+      "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -287,6 +375,17 @@
       "previous": "3.8%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "23:30",
+      "country": "United Kingdom",
+      "event": "BoE Breeden Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-10-14",

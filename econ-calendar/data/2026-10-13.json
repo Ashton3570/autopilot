@@ -1,7 +1,18 @@
 {
   "date": "2026-10-13",
-  "asOf": "Wed, Oct 7, 2026",
+  "asOf": "Fri, Oct 9, 2026",
   "events": [
+    {
+      "date": "2026-10-13",
+      "time_gmt": "05:30",
+      "country": "United Kingdom",
+      "event": "BoE Breeden Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
     {
       "date": "2026-10-13",
       "time_gmt": "05:30",
@@ -26,6 +37,17 @@
     },
     {
       "date": "2026-10-13",
+      "time_gmt": "06:00",
+      "country": "United States",
+      "event": "IMF Meetings",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Annual Meetings of the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) and the bring together central bankers, ministers of finance and development, parliamentarians, private sector executives, representatives from civil society organizations and academics to discuss issues of global concern, including the world economic outlook, poverty eradication, economic development, and aid effectiveness. Also featured are seminars, regional briefings, press conferences, and many other events focused on the global economy, international development, and the world's financial system.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-13",
       "time_gmt": "06:30",
       "country": "India",
       "event": "CPI",
@@ -44,6 +66,17 @@
       "consensus": "",
       "previous": "",
       "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-13",
+      "time_gmt": "08:50",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Mann Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Dr Catherine L Mann serves as a member of the Monetary Policy Committee (MPC) of the Bank of England. Her public engagements are often used to drop subtle clues regarding future monetary policy.",
       "high_impact": false
     },
     {
