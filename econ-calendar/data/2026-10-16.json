@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "asOf": "Fri, Oct 9, 2026",
+  "asOf": "Sat, Oct 10, 2026",
   "events": [
     {
       "date": "2026-10-16",
@@ -31,7 +31,7 @@
       "event": "Industrial Production",
       "actual": "",
       "consensus": "-1.7%",
-      "previous": "-0.2%",
+      "previous": "-1.7%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Construction Output",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.1%",
       "description": "",
       "high_impact": false
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.4%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -85,7 +85,7 @@
       "country": "United Kingdom",
       "event": "Index of Services",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.7%",
       "previous": "0.6%",
       "description": "The Index of Services measures the change in the total Gross Added Value (GAV) of the private and government services sector. GVA is the difference between the value of a service provided and the value of the goods and services used to provide the service.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -96,7 +96,7 @@
       "country": "United Kingdom",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -118,7 +118,7 @@
       "country": "United Kingdom",
       "event": "Manufacturing Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.9%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers.\r\nManufacturing accounts for approximately 80% of overall Industrial Production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -151,7 +151,7 @@
       "country": "United Kingdom",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-21.80B",
       "previous": "-20.97B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "Switzerland",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.7%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -240,7 +240,7 @@
       "event": "French HICP",
       "actual": "",
       "consensus": "-0.4%",
-      "previous": "0.7%",
+      "previous": "0.4%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -251,7 +251,7 @@
       "event": "French HICP",
       "actual": "",
       "consensus": "3.4%",
-      "previous": "2.6%",
+      "previous": "3.4%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -264,6 +264,17 @@
       "consensus": "",
       "previous": "2.30%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. </BR>A higher than expected reading should be taken as positive/bullish for the IDR , while a lower than expected reading should be taken as negative/bearish for the IDR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-16",
+      "time_gmt": "03:30",
+      "country": "United Kingdom",
+      "event": "BoE Gov Bailey Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of England (BOE) Governor Andrew Bailey (Mar 2020 - Mar 2028) is to speak. As head of the BOE's Monetary Policy Committee (MPC) which controls short term interest rates, Bailey has more influence over sterling's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\n\nHis comments may spark a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -327,7 +338,7 @@
       "country": "China",
       "event": "M2 Money Stock",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.4%",
       "previous": "7.5%",
       "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. Depending on the degree of liquidity chosen to define an asset as money, various monetary aggregates are distinguished: M0, M1, M2, M3, M4, etc. Not all of them are used by every country. Note that methodology of calculating money supply varies between countries. M2 is a monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits and small certificates of deposit. Excess money supply growth potentially can cause inflation and generate fears that the government may tighten money growth by allowing the interest rates to rise which in turn, lowers future prices. M2 = Currency in circulation + demand deposits (private sector) + time and savings deposits (private sector).<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -338,7 +349,7 @@
       "country": "China",
       "event": "New Loans",
       "actual": "",
-      "consensus": "",
+      "consensus": "975.0B",
       "previous": "60.0B",
       "description": "This release measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -349,7 +360,7 @@
       "country": "China",
       "event": "Outstanding Loan Growth",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.8%",
       "previous": "4.9%",
       "description": "Outstanding Loan Growth measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.\r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -360,7 +371,7 @@
       "country": "China",
       "event": "Chinese Total Social Financing",
       "actual": "",
-      "consensus": "",
+      "consensus": "3,270.0B",
       "previous": "1,660.0B",
       "description": "",
       "high_impact": false
@@ -371,7 +382,7 @@
       "country": "Euro Zone",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "-0.1%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -525,7 +536,7 @@
       "country": "United States",
       "event": "Core PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.2%",
       "description": "The Core Producer Price Index (PPI) measures the change in the selling price of goods and services sold by producers, excluding food and energy. The PPI measures price change from the perspective of the seller. When producers pay more for goods and services, they are more likely to pass the higher costs to the consumer, so PPI is thought to be a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -547,7 +558,7 @@
       "country": "United States",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "1.4%",
       "description": "Core Retail Sales measures the change in the total value of sales at the retail level in the U.S., excluding automobiles. It is an important indicator of consumer spending and is also considered as a pace indicator for the U.S. economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -558,7 +569,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "195K",
       "previous": "197K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -580,7 +591,7 @@
       "country": "United States",
       "event": "NY Empire State Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.20",
       "previous": "7.60",
       "description": "The Empire State Manufacturing Index rates the relative level of general business conditions New York state. A level above 0.0 indicates improving conditions, below indicates worsening conditions. The reading is compiled from a survey of about 200 manufacturers in New York state.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -591,7 +602,7 @@
       "country": "United States",
       "event": "Philadelphia Fed Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "26.5",
       "previous": "37.8",
       "description": "The Philadelphia Federal Reserve Manufacturing Index rates the relative level of general business conditions in Philadelphia. A level above zero on the index indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 250 manufacturers in the Philadelphia Federal Reserve district.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -657,7 +668,7 @@
       "country": "United States",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.4%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -712,7 +723,7 @@
       "country": "United States",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "1.2%",
       "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -724,7 +735,7 @@
       "event": "Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "6.01%",
+      "previous": "10.53%",
       "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -778,7 +789,7 @@
       "country": "Canada",
       "event": "Wholesale Sales",
       "actual": "",
-      "consensus": "-1.5%",
+      "consensus": "-1.4%",
       "previous": "0.3%",
       "description": "Wholesale Sales measures the change in the total value of sales at the wholesale level. It is a leading indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as  positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -800,7 +811,7 @@
       "country": "United States",
       "event": "Business Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.8%",
       "description": "Business Inventories measures the change in the worth of unsold goods held by manufacturers, wholesalers, and retailers. A high reading can indicate a lack of consumer demand.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -812,7 +823,7 @@
       "event": "Retail Inventories Ex Auto",
       "actual": "",
       "consensus": "0.1%",
-      "previous": "0.8%",
+      "previous": "0.1%",
       "description": "",
       "high_impact": false
     },
@@ -1046,6 +1057,28 @@
       "previous": "2.7%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the KRW, while a lower than expected reading should be taken as positive/bullish for the KRW.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-16",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Bonds Buying",
+      "actual": "",
+      "consensus": "",
+      "previous": "-347.6B",
+      "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-16",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Investments in Japanese Stocks",
+      "actual": "",
+      "consensus": "",
+      "previous": "2,191.9B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
+      "high_impact": false
     },
     {
       "date": "2026-10-16",

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "asOf": "Fri, Oct 9, 2026",
+  "asOf": "Sat, Oct 10, 2026",
   "events": [
     {
       "date": "2026-10-13",
@@ -129,7 +129,7 @@
       "country": "United Kingdom",
       "event": "BRC Retail Sales Monitor",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "0.5%",
       "description": "The British Retail Consortium (BRC) Retail Sales Monitor measures the change in the value of same-store sales in BRC-member retail outlets in the U.K.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "Japan",
       "event": "Bank Lending",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.5%",
       "previous": "5.4%",
       "description": "Bank Lending measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -151,7 +151,7 @@
       "country": "Japan",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.6%",
       "previous": "7.6%",
       "description": "The Corporate Goods Price Index (CGPI) measures the change in the selling prices of goods purchased by Japanese corporations. The CGPI measures the change in the rate of inflation in Japan from the perspective of the manufacturer and is correlated with consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
