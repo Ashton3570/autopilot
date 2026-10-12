@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "asOf": "Sat, Oct 10, 2026",
+  "asOf": "Sun, Oct 11, 2026",
   "events": [
     {
       "date": "2026-10-17",
@@ -96,9 +96,9 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "0.6%",
-      "previous": "0.4%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "consensus": "3.8%",
+      "previous": "3.8%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -107,9 +107,9 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "3.8%",
-      "previous": "3.8%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "0.6%",
+      "previous": "0.4%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -235,6 +235,17 @@
     },
     {
       "date": "2026-10-17",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "734.61B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-17",
       "time_gmt": "08:00",
       "country": "Brazil",
       "event": "IBC-Br Economic Activity",
@@ -262,7 +273,7 @@
       "event": "Export Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
+      "previous": "8.6%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -273,19 +284,8 @@
       "event": "Export Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "8.6%",
+      "previous": "0.6%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-10-17",
-      "time_gmt": "08:30",
-      "country": "United States",
-      "event": "Import Price Index",
-      "actual": "",
-      "consensus": "0.6%",
-      "previous": "0.7%",
-      "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -297,6 +297,17 @@
       "consensus": "",
       "previous": "7.0%",
       "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically. A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-17",
+      "time_gmt": "08:30",
+      "country": "United States",
+      "event": "Import Price Index",
+      "actual": "",
+      "consensus": "0.6%",
+      "previous": "0.7%",
+      "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -338,9 +349,9 @@
       "country": "United States",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
-      "previous": "1.42%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities. A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "0.4%",
+      "previous": "0.0%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -349,9 +360,9 @@
       "country": "United States",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "0.4%",
-      "previous": "0.0%",
-      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "1.42%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities. A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
