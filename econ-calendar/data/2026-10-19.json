@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-19",
+  "asOf": "Mon, Oct 12, 2026",
+  "events": [
+    {
+      "date": "2026-10-19",
+      "time_gmt": "11:07",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "-1.0%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "17:30",
+      "country": "New Zealand",
+      "event": "Performance of Services Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "51.2",
+      "description": "BNZ-BusinessNZ PSI is a monthly survey of the services sector providing \r\nan early indicator of activity levels. A PSI reading above 50 points indicates \r\nservices activity is expanding; below 50 indicates it is contracting. \r\nThe main PMI and sub-index results are seasonally adjusted. \r\n<br/>A higher than expected reading should be taken as positive/bullish for the NZD , while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Exports",
+      "actual": "",
+      "consensus": "",
+      "previous": "6.66B",
+      "description": "The exports number provides the total NZ dollar amount of merchandise exports. <BR/> \r\nA higher than expected number should be taken as positive to the NZD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Imports",
+      "actual": "",
+      "consensus": "",
+      "previous": "8.00B",
+      "description": "The Imports number measures any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. <BR/>\r\nA lower than expected number should be taken as positive to the NZD, while a higher than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Trade Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-1,349M",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "17:45",
+      "country": "New Zealand",
+      "event": "Trade Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-5,440M",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.7%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "21:30",
+      "country": "China",
+      "event": "House Prices",
+      "actual": "",
+      "consensus": "",
+      "previous": "-3.0%",
+      "description": "The HPI is based on transactions involving conventional and conforming mortgages - only on single-family properties.It is a weighted, repeat-sales index, which means that it measures average price changes in repeat sales or refinancings on the same properties.Percent change from a year earlier, 70 medium and large cities. It is a weighted average calculated by Thomson Reuters.</BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Fixed Asset Investment",
+      "actual": "",
+      "consensus": "",
+      "previous": "-7.2%",
+      "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.3%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.9%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A stronger than expected number should be taken as positive for the CNY and a lower than expected number as negative to the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Chinese GDP YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.7%",
+      "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.2%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Chinese Industrial Production YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.3%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.4%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Chinese Retail Sales YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.13%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "22:00",
+      "country": "China",
+      "event": "Chinese Unemployment Rate",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.3%",
+      "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
+      "high_impact": true
+    }
+  ]
+}

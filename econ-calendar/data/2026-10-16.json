@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "asOf": "Sun, Oct 11, 2026",
+  "asOf": "Mon, Oct 12, 2026",
   "events": [
     {
       "date": "2026-10-16",
@@ -735,7 +735,7 @@
       "event": "Retail Sales",
       "actual": "",
       "consensus": "",
-      "previous": "10.53%",
+      "previous": "5.36%",
       "description": "Retail Sales measure the change in the total value of sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -979,6 +979,28 @@
       "consensus": "",
       "previous": "0.382M",
       "description": "Gasoline Inventories measures the change in the number of barrels of commercial gasoline held in inventory by commercial firms during the reported week. The data influences the price of gasoline products which affects inflation.<BR/><BR/>The data has no consistent effect, there are both inflationary and growth implications.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-16",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Fed's Balance Sheet",
+      "actual": "",
+      "consensus": "",
+      "previous": "6,748B",
+      "description": "The Fed balance sheet is a statement listing the assets and liabilities of the Federal Reserve System. Details of the Fed's balance sheet are disclosed by the Fed in a weekly report called \"Factors Affecting Reserve Balances.\"",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-16",
+      "time_gmt": "16:30",
+      "country": "United States",
+      "event": "Reserve Balances with Federal Reserve Banks",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.022T",
+      "description": "Reserve Balances with Federal Reserve Banks is the amount of money that depository institutions maintain in their accounts at their regional Federal Reserve Banks.",
       "high_impact": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "asOf": "Sun, Oct 11, 2026",
+  "asOf": "Mon, Oct 12, 2026",
   "events": [
     {
       "date": "2026-10-14",
@@ -9,7 +9,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "3.3%",
-      "previous": "3.3%",
+      "previous": "2.9%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -20,7 +20,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.6%",
+      "previous": "0.2%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -31,7 +31,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "3.3%",
-      "previous": "3.3%",
+      "previous": "2.9%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -42,7 +42,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.6%",
+      "previous": "0.2%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -77,6 +77,39 @@
       "consensus": "",
       "previous": "2.456%",
       "description": "The figures displayed in the calendar represent the average yield on the Letras del Tesoro auctioned. <BR/><BR/>Spanish Bills have maturities of less then two years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the Letras del Tesoro represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 15-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.95%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 3-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.43%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "05:10",
+      "country": "Italy",
+      "event": "Italian 7-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.98%",
+      "description": "",
       "high_impact": false
     },
     {
@@ -129,7 +162,7 @@
       "country": "United States",
       "event": "NFIB Small Business Optimism",
       "actual": "",
-      "consensus": "",
+      "consensus": "98.0",
       "previous": "98.7",
       "description": "The National Federation of Independent Business (NFIB) Small Business Optimism Index is a composite of ten seasonally adjusted components. It provides a indication of the health of small businesses in the U.S., which account of roughly 50% of the nation's private workforce.",
       "high_impact": false
@@ -143,6 +176,17 @@
       "consensus": "",
       "previous": "",
       "description": "The OPEC Monthly Oil Market Report covers major issues affecting the world oil market and provides an outlook for crude oil market developments for the coming year. The report provides a detailed analysis of key developments impacting oil market trends in world oil demand, supply as well as the oil market balance.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-14",
+      "time_gmt": "07:25",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
       "high_impact": false
     },
     {
@@ -184,9 +228,9 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "3.97M",
-      "previous": "3.98M",
-      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "-2.0%",
+      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -195,9 +239,9 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "-2.0%",
-      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "consensus": "3.96M",
+      "previous": "3.98M",
+      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -261,7 +305,7 @@
       "country": "United States",
       "event": "Federal Budget Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-28.0B",
       "previous": "-167.0B",
       "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
