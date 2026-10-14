@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-20",
+  "asOf": "Tue, Oct 13, 2026",
+  "events": [
+    {
+      "date": "2026-10-20",
+      "time_gmt": "00:30",
+      "country": "Japan",
+      "event": "Tertiary Industry Activity Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.90",
+      "description": "The Tertiary Industry Index measures the change in the total value of services purchased by businesses. It is a leading indicator of economic health.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "05:00",
+      "country": "China",
+      "event": "FDI",
+      "actual": "",
+      "consensus": "",
+      "previous": "-5.30%",
+      "description": "Foreign capital actually utilized refers to the amount which has been actually used according to the agreements and contracts, including cash, materials and invisible capital such as labour service and technology which both parties agree to take as an investment.<BR/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "07:00",
+      "country": "Brazil",
+      "event": "IGP-10 Inflation Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.5%",
+      "description": "The IGP-10 Inflation Rate measures the change in the price of goods and services from last month's 11th day to the current month's 10th. A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "07:25",
+      "country": "Brazil",
+      "event": "BCB Focus Market Readout",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 12-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.255%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 3-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.761%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "09:00",
+      "country": "France",
+      "event": "French 6-Month BTF Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.964%",
+      "description": "The figures displayed in the calendar represent the average yield on the Bons du Trésor à taux fixe or BTF auctioned. <BR/><BR/>French BTF bills have maturities of up to 1 year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTF represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "NAHB Housing Market Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "32",
+      "description": "The National Association of Home Builders (NAHB) Housing Market Index (HMI) rates the relative level of current and future single-family home sales. The data is compiled from a survey of around 900 home builders. A reading above 50 indicates a favorable outlook on home sales; below indicates a negative outlook.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "10:30",
+      "country": "Canada",
+      "event": "BoC Business Outlook Survey",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Business Outlook Survey released by the Bank of Canada measures the business outlook in Canada as derived from a survey of about 100 selected businesses which asks respondents to rate the relative level of general business conditions.<br/><br/> It's a leading indicator of economic health.<br/><br/> An optimistic view of those executives should be taken as positive/bullish for the CAD, while a pessimistic view should be taken as negative/bearish for the CAD.<br/><br/>",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "China Loan Prime Rate 5Y",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.50%",
+      "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "21:15",
+      "country": "China",
+      "event": "PBoC Loan Prime Rate",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.00%",
+      "description": "The People’s Bank of China announced that beginning August 20, 2019, the loan prime rate (LPR) will be calculated under a new formation mechanism.\r\nBased on the citations made by quoting banks--by adding a few basis points to the interest rate of open market operations (mainly referring to the rate of the medium-term lending facility, or MLF)--the LPR is now calculated by the National Interbank Funding Center (NIFC), serving as the pricing reference for bank lending.\r\n \r\nCurrently, the LPR consists of rates with two maturities, i.e. one year and over five years. At present, the LPR quoting facilities are comprised of 18 banks. The quoting banks will submit their quotes before 9:00 a.m. on the 20th day of every month (postponed in case of holidays), with 0.05 percentage points as the step length, to the NIFC.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "All Day",
+      "country": "Hong Kong",
+      "event": "Hong Kong - Chung Yeung Day",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    }
+  ]
+}
