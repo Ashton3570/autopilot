@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "asOf": "Wed, Oct 14, 2026",
+  "asOf": "Thu, Oct 15, 2026",
   "events": [
     {
       "date": "2026-10-17",
@@ -20,7 +20,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "0.7%",
-      "previous": "0.7%",
+      "previous": "0.5%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -31,7 +31,7 @@
       "event": "Italian CPI",
       "actual": "",
       "consensus": "4.2%",
-      "previous": "4.2%",
+      "previous": "3.3%",
       "description": "The Italian Consumer Price Index (CPI) measures the change in the price of goods\nand services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -53,7 +53,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "2.0%",
-      "previous": "2.0%",
+      "previous": "0.1%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -64,7 +64,7 @@
       "event": "Italian HICP",
       "actual": "",
       "consensus": "4.1%",
-      "previous": "4.1%",
+      "previous": "3.2%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
     },
@@ -75,7 +75,7 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "2.5%",
-      "previous": "2.5%",
+      "previous": "2.4%",
       "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -97,7 +97,7 @@
       "event": "CPI",
       "actual": "",
       "consensus": "3.8%",
-      "previous": "3.8%",
+      "previous": "3.2%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -152,7 +152,7 @@
       "event": "HICP ex Energy & Food",
       "actual": "",
       "consensus": "2.2%",
-      "previous": "2.2%",
+      "previous": "2.1%",
       "description": "The harmonised indices of consumer prices (HICPs) are calculated according to harmonised definitions and therefore provide the best statistical basis for international comparisons of consumer price inflation from the European Union perspective.The HICP for the euro area is the key indicator of price stability recognised by the European Central Bank and the European System of Central Banks.",
       "high_impact": false
     },
@@ -261,7 +261,7 @@
       "country": "Brazil",
       "event": "IBC-Br Economic Activity",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.30%",
       "previous": "-0.20%",
       "description": "The IBC-Br is widely considered to reflect gross domestic product data. It is the Index of Economic Activity of the Central Bank in Brazil</BR>A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "Canada",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "230.0K",
+      "consensus": "234.0K",
       "previous": "229.0K",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "Export Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "0.6%",
       "description": "Export price tracks price changes of U.S. export goods. The figure is used to determine whether a change in the headline Export figure is representative of an increase of goods sold to foreign nations or just an increase in the price of export goods. United States exports account for approximately a tenth of the nation’s GDP. The headline figure is the percentage change in the index from either the previous month or year. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
@@ -316,7 +316,7 @@
       "country": "United States",
       "event": "Import Price Index",
       "actual": "",
-      "consensus": "0.6%",
+      "consensus": "0.9%",
       "previous": "0.7%",
       "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -327,7 +327,7 @@
       "country": "Canada",
       "event": "Foreign Securities Purchases",
       "actual": "",
-      "consensus": "",
+      "consensus": "23.59B",
       "previous": "20.65B",
       "description": "Foreign Securities Purchases measures the overall value of domestic stocks, bonds, and money-market assets purchased by foreign investors.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -382,7 +382,7 @@
       "country": "United States",
       "event": "Manufacturing Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "-0.3%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers. \r\n<BR/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -407,6 +407,17 @@
       "consensus": "",
       "previous": "603",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-17",
+      "time_gmt": "14:00",
+      "country": "United States",
+      "event": "Federal Budget Balance",
+      "actual": "",
+      "consensus": "-34.7B",
+      "previous": "-167.0B",
+      "description": "The Federal Budget Balance measures the difference in value between the federal government's income and expenditure  during the reported month. A positive number indicates a budget surplus, a negative number indicates a deficit.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -646,7 +657,7 @@
       "country": "United States",
       "event": "TIC Net Long-Term Transactions",
       "actual": "",
-      "consensus": "125.7B",
+      "consensus": "75.2B",
       "previous": "-27.9B",
       "description": "Treasury International Capital (TIC) Net Long-Term Transactions measures the difference in value between foreign long-term securities purchased by U.S. citizens and U.S. long-term securities purchased by foreign investors. Demand for domestic securities and currency demand are directly linked because foreigners must buy the domestic currency to purchase the nation's securities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
