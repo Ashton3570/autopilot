@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "asOf": "Tue, Oct 13, 2026",
+  "asOf": "Wed, Oct 14, 2026",
   "events": [
     {
       "date": "2026-10-20",
@@ -99,6 +99,28 @@
       "consensus": "",
       "previous": "",
       "description": "The Business Outlook Survey released by the Bank of Canada measures the business outlook in Canada as derived from a survey of about 100 selected businesses which asks respondents to rate the relative level of general business conditions.<br/><br/> It's a leading indicator of economic health.<br/><br/> An optimistic view of those executives should be taken as positive/bullish for the CAD, while a pessimistic view should be taken as negative/bearish for the CAD.<br/><br/>",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "3-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.085%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "6-Month Bill Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.200%",
+      "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
     {

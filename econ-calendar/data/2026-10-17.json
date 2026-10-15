@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "asOf": "Tue, Oct 13, 2026",
+  "asOf": "Wed, Oct 14, 2026",
   "events": [
     {
       "date": "2026-10-17",
@@ -209,6 +209,17 @@
       "consensus": "",
       "previous": "1.25B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods sand services, from and to Eu countries, over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-17",
+      "time_gmt": "07:00",
+      "country": "South Africa",
+      "event": "Business Confidence",
+      "actual": "",
+      "consensus": "",
+      "previous": "125.4",
+      "description": "Confidence indicator is a measure of the mood of consumers or businesses. It is usually based on a survey during which respondents rate their opinion on different isues concerning current and future conditons. Consumers opinion are typically expressed with answers like: better, same, worse or positive, negative and unchanged. Results of such surveys are calculated by subtracting the negative replies from the positive ones. \r\nBusiness confidence indicator is closely linked to corporate spending and correlated with employment, consumption and investment. Therefore it is carefully watched as an indication of possible changes in the overall economic growth.",
       "high_impact": false
     },
     {
