@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "asOf": "Thu, Oct 15, 2026",
+  "asOf": "Fri, Oct 16, 2026",
   "events": [
     {
       "date": "2026-10-19",
@@ -96,7 +96,7 @@
       "country": "China",
       "event": "Fixed Asset Investment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-7.3%",
       "previous": "-7.2%",
       "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -107,7 +107,7 @@
       "country": "China",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.4%",
       "previous": "4.3%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "China",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.1%",
       "previous": "0.9%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A stronger than expected number should be taken as positive for the CNY and a lower than expected number as negative to the CNY.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "China",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.4%",
       "previous": "5.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "China",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.4%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
@@ -184,7 +184,7 @@
       "country": "China",
       "event": "Chinese Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.3%",
       "previous": "5.3%",
       "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
       "high_impact": true

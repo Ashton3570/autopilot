@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "asOf": "Thu, Oct 15, 2026",
+  "asOf": "Fri, Oct 16, 2026",
   "events": [
     {
       "date": "2026-10-21",
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings Index +Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.8%",
       "previous": "3.9%",
       "description": "The Average Earnings Index measures change in the price businesses and the government pay for labor, including bonuses. The Average Earnings figure gives us a good indication of personal income growth during the given month.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -52,7 +52,7 @@
       "country": "United Kingdom",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.0%",
       "previous": "4.9%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous three months.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the GBP, while a lower than expected reading should be taken as positive/bullish for the GBP.",
       "high_impact": true
@@ -74,7 +74,7 @@
       "country": "Germany",
       "event": "German PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.8%",
       "previous": "1.1%",
       "description": "The German Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "Euro Zone",
       "event": "Current Account",
       "actual": "",
-      "consensus": "",
+      "consensus": "25.2B",
       "previous": "27.6B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the exports the data can have a sizable affect on the EUR.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -129,7 +129,7 @@
       "country": "Germany",
       "event": "German ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "31.6",
       "previous": "34.7",
       "description": "The German Zentrum für Europäische Wirtschaftsforschung (ZEW) Economic Sentiment Index gauges the six-month economic outlook. A level above zero indicates optimism; below indicates pessimism. The reading is compiled from a survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "Euro Zone",
       "event": "ZEW Economic Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "24.2",
       "previous": "25.8",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Sentiment Index rates the relative six-month economic outlook for the euro zone. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health. The reading is compiled from survey of about 350 German institutional investors and analysts.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -177,6 +177,17 @@
       "previous": "5.383%",
       "description": "The figures displayed in the calendar represent the yield on the Treasury Gilt auctioned.<BR/><BR/>U.K. Treasury Gilts have maturities up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Gilt represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-21",
+      "time_gmt": "06:00",
+      "country": "Germany",
+      "event": "German Buba Monthly Report",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Bundesbank Monthly Report handles economic issues, including in particular monetary policy, and financial and economic policy issues.",
+      "high_impact": false
     },
     {
       "date": "2026-10-21",
@@ -217,7 +228,7 @@
       "country": "United States",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.400M",
       "previous": "1.403M",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -239,7 +250,7 @@
       "country": "United States",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.300M",
       "previous": "1.275M",
       "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -283,7 +294,7 @@
       "country": "United States",
       "event": "Pending Home Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.3%",
       "description": "The National Association of Realtors (NAR) Pending Home Sales Report measures the change in the number of homes under contract to be sold but still awaiting the closing transaction, excluding new construction.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -314,6 +325,17 @@
       "date": "2026-10-21",
       "time_gmt": "17:00",
       "country": "South Korea",
+      "event": "Manufacturing BSI Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "72",
+      "description": "BSI is conducted to investigate overall business trend by surveying how the companies feel on current business and future tendency. A reading below 100 means the number of companies that see business conditions deteriorating in the month in question outnumber those that see an improvement.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-21",
+      "time_gmt": "17:00",
+      "country": "South Korea",
       "event": "PPI",
       "actual": "",
       "consensus": "",
@@ -331,6 +353,17 @@
       "previous": "7.9%",
       "description": "The Producer Price Index (PPI) is designed to monitor changes in prices of items at the first important commercial transactions. The PPI shows the same general pattern of inflation as does Consumer price index, but is more volatile. This is because it is weighted more heavily towards goods that are traded in highly competitive markets and somewhat less sensitive to changes in the cost of labour. In principle, the PPI should include service industries. But in practice it is limited to the domestic agricultural and industrial sector. The prices should be farm-gate prices for the agricultural sector and ex-factory prices for the industrial sector. The PPI is worth watching as a leading indicator of inflation at the consumer level. Price changes at the wholesale level take time to work their way through to the retail store.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-21",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Adjusted Trade Balance",
+      "actual": "",
+      "consensus": "-0.25T",
+      "previous": "-0.84T",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
     },
     {
       "date": "2026-10-21",
@@ -360,7 +393,7 @@
       "country": "Japan",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-250.0B",
       "previous": "-1,105.6B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
       "high_impact": false
