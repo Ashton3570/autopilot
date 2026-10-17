@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "asOf": "Fri, Oct 16, 2026",
+  "asOf": "Sat, Oct 17, 2026",
   "events": [
     {
       "date": "2026-10-17",
@@ -781,6 +781,17 @@
       "consensus": "",
       "previous": "-27.90B",
       "description": "TIC Net Long-Term Transactions number is the sum of gross purchases by foreigners from US residents minus gross sales by foreigners to US residents. The components used to calculate long term flows are US Treasury bonds and notes, US government agency bonds, US corporate bonds, US corporate stocks, foreign bonds and foreign stocks. (TIC signifies: Treasury International Capital Flows). A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-17",
+      "time_gmt": "18:00",
+      "country": "United States",
+      "event": "Fed Goolsbee Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     }
   ]

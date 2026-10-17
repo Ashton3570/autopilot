@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "asOf": "Fri, Oct 16, 2026",
+  "asOf": "Sat, Oct 17, 2026",
   "events": [
     {
       "date": "2026-10-20",
@@ -11,6 +11,17 @@
       "consensus": "",
       "previous": "0.90",
       "description": "The Tertiary Industry Index measures the change in the total value of services purchased by businesses. It is a leading indicator of economic health.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-20",
+      "time_gmt": "02:00",
+      "country": "Euro Zone",
+      "event": "ECB's Elderson Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Frank Elderson, member of the Executive Board and Vice-Chair of the Supervisory Board of the European Central Bank, is set to speak. His speeches often contain indications related to the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -86,8 +97,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.1%",
-      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "previous": "2.4%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer excluding foos and energy, wom prices tend to be very volatile. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
     },
     {
@@ -97,8 +108,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.4%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer excluding foos and energy, wom prices tend to be very volatile. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
+      "previous": "0.1%",
+      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {

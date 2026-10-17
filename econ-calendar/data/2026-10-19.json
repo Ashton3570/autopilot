@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
-  "asOf": "Fri, Oct 16, 2026",
+  "asOf": "Sat, Oct 17, 2026",
   "events": [
     {
       "date": "2026-10-19",
-      "time_gmt": "11:07",
+      "time_gmt": "16:09",
       "country": "United Kingdom",
       "event": "Rightmove House Price Index",
       "actual": "",
@@ -52,7 +52,7 @@
       "country": "New Zealand",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-775M",
       "previous": "-1,349M",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
@@ -77,6 +77,17 @@
       "consensus": "",
       "previous": "0.7%",
       "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "19:05",
+      "country": "Australia",
+      "event": "RBA Assist Gov Kent Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Reserve Bank of Australia (RBA) Assistant Governor Christopher Kent (since February 2012) is to speak. As a key adviser to RBA board members, who decide short term interest rates, Kent has considerable influence over the value of the Australian dollar. Traders scrutinize his public engagements for clues regarding future monetary policy.<BR/><BR/>His comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {
