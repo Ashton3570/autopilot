@@ -1,26 +1,15 @@
 {
   "date": "2026-10-19",
-  "asOf": "Sat, Oct 17, 2026",
+  "asOf": "Sun, Oct 18, 2026",
   "events": [
-    {
-      "date": "2026-10-19",
-      "time_gmt": "16:09",
-      "country": "United Kingdom",
-      "event": "Rightmove House Price Index",
-      "actual": "",
-      "consensus": "",
-      "previous": "-1.0%",
-      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
     {
       "date": "2026-10-19",
       "time_gmt": "17:30",
       "country": "New Zealand",
       "event": "Performance of Services Index",
-      "actual": "",
+      "actual": "50.9",
       "consensus": "",
-      "previous": "51.2",
+      "previous": "51.0",
       "description": "BNZ-BusinessNZ PSI is a monthly survey of the services sector providing \r\nan early indicator of activity levels. A PSI reading above 50 points indicates \r\nservices activity is expanding; below 50 indicates it is contracting. \r\nThe main PMI and sub-index results are seasonally adjusted. \r\n<br/>A higher than expected reading should be taken as positive/bullish for the NZD , while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
@@ -29,9 +18,9 @@
       "time_gmt": "17:45",
       "country": "New Zealand",
       "event": "Exports",
-      "actual": "",
+      "actual": "6.47B",
       "consensus": "",
-      "previous": "6.66B",
+      "previous": "6.48B",
       "description": "The exports number provides the total NZ dollar amount of merchandise exports. <BR/> \r\nA higher than expected number should be taken as positive to the NZD, while a lower than expected number as negative.",
       "high_impact": false
     },
@@ -40,9 +29,9 @@
       "time_gmt": "17:45",
       "country": "New Zealand",
       "event": "Imports",
-      "actual": "",
+      "actual": "8.44B",
       "consensus": "",
-      "previous": "8.00B",
+      "previous": "8.02B",
       "description": "The Imports number measures any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. <BR/>\r\nA lower than expected number should be taken as positive to the NZD, while a higher than expected number as negative.",
       "high_impact": false
     },
@@ -51,9 +40,9 @@
       "time_gmt": "17:45",
       "country": "New Zealand",
       "event": "Trade Balance",
-      "actual": "",
+      "actual": "-1,971M",
       "consensus": "-775M",
-      "previous": "-1,349M",
+      "previous": "-1,536M",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
@@ -62,10 +51,21 @@
       "time_gmt": "17:45",
       "country": "New Zealand",
       "event": "Trade Balance",
-      "actual": "",
+      "actual": "-6,180M",
       "consensus": "",
-      "previous": "-5,440M",
+      "previous": "-5,610M",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-19",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "Rightmove House Price Index",
+      "actual": "1.0%",
+      "consensus": "",
+      "previous": "0.7%",
+      "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
@@ -75,7 +75,7 @@
       "event": "Rightmove House Price Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.7%",
+      "previous": "-1.0%",
       "description": "The Rightmove House Price Index (HPI) measures the change in the asking price of homes for sale. This is the U.K.'s earliest report on house price inflation, but tends to have a mild impact because asking prices do not always reflect selling prices.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
