@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "asOf": "Sun, Oct 18, 2026",
+  "asOf": "Mon, Oct 19, 2026",
   "events": [
     {
       "date": "2026-10-24",
@@ -254,6 +254,17 @@
       "previous": "14.00%",
       "description": "The Bank Rossii decision on short term interest rate.\r\nThe decision on where to set interest rates depends mostly on growth outlook and inflation. \r\nThe primary objective of the central bank is to achieve price stability.\r\nHigh interest rates attract foreigners looking for the best \"risk-free\" return on their money, which can dramatically increases demand for the nation's currency. \r\n<BR/>A higher than expected rate is positive/bullish for the RUB,\r\nwhile a lower than expected rate is negative/bearish for the RUB.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-24",
+      "time_gmt": "07:30",
+      "country": "India",
+      "event": "FX Reserves, USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "726.03B",
+      "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
+      "high_impact": false
     },
     {
       "date": "2026-10-24",

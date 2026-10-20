@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "asOf": "Sun, Oct 18, 2026",
+  "asOf": "Mon, Oct 19, 2026",
   "events": [
     {
       "date": "2026-10-21",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Average Earnings ex Bonus",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.6%",
       "previous": "3.5%",
       "description": "The Average Earnings Index is an indicator of inflationary pressures emanating from the labour market. The effect of a higher or lower figure than expected can be both bullish or bearish.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Employment Change 3M/3M",
       "actual": "",
-      "consensus": "",
+      "consensus": "20K",
       "previous": "67K",
       "description": "Change in the number of employed people. Data represents the 3-month moving average compared to the same period a year earlier.",
       "high_impact": false
@@ -60,13 +60,13 @@
     {
       "date": "2026-10-21",
       "time_gmt": "02:00",
-      "country": "Germany",
-      "event": "German PPI",
+      "country": "Switzerland",
+      "event": "Trade Balance",
       "actual": "",
       "consensus": "",
-      "previous": "4.6%",
-      "description": "The German Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
+      "previous": "3.786B",
+      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
+      "high_impact": false
     },
     {
       "date": "2026-10-21",
@@ -81,14 +81,14 @@
     },
     {
       "date": "2026-10-21",
-      "time_gmt": "03:00",
-      "country": "Switzerland",
-      "event": "Trade Balance",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German PPI",
       "actual": "",
       "consensus": "",
-      "previous": "3.786B",
-      "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
-      "high_impact": false
+      "previous": "4.6%",
+      "description": "The German Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
     },
     {
       "date": "2026-10-21",
@@ -118,7 +118,7 @@
       "country": "Germany",
       "event": "German ZEW Current Conditions",
       "actual": "",
-      "consensus": "",
+      "consensus": "-45.0",
       "previous": "-47.1",
       "description": "This survey summarizes the net percentage of positive and negative responses regarding the expectations for economic growth in the next 6 months, as given by financial analysts from banks, insurance companies and large industrial enterprises. For example, if 50% believe that the economic situation will improve and 20% believe it will get worse, the result will be +30.   <BR/>\r\nThe survey deals with the markets of Germany, the USA, Japan, Great Britain, France, Italy and other EU countries. <BR/>\r\nA reading that is stronger than forecast is generally supportive (bullish) for the Euro, while a weaker than forecast reading is generally negative (bearish) for the Euro.",
       "high_impact": false
@@ -191,24 +191,13 @@
     },
     {
       "date": "2026-10-21",
-      "time_gmt": "08:00",
-      "country": "New Zealand",
-      "event": "GlobalDairyTrade Price Index",
+      "time_gmt": "07:00",
+      "country": "China",
+      "event": "FDI",
       "actual": "",
       "consensus": "",
-      "previous": "1.2%",
-      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-10-21",
-      "time_gmt": "08:00",
-      "country": "New Zealand",
-      "event": "Milk Auctions",
-      "actual": "",
-      "consensus": "",
-      "previous": "3,928.0",
-      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
+      "previous": "-5.30%",
+      "description": "Foreign capital actually utilized refers to the amount which has been actually used according to the agreements and contracts, including cash, materials and invisible capital such as labour service and technology which both parties agree to take as an investment.<BR/>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": false
     },
     {
@@ -250,9 +239,9 @@
       "country": "United States",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "1.300M",
-      "previous": "1.275M",
-      "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "-2.6%",
+      "description": "Housing Starts measures the change in the number of new constructions underway. The construction industry is one of the first to go into a recession when the economy declines but also to recover as conditions improve. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -261,9 +250,9 @@
       "country": "United States",
       "event": "Housing Starts",
       "actual": "",
-      "consensus": "",
-      "previous": "-2.6%",
-      "description": "Housing Starts measures the change in the number of new constructions underway. The construction industry is one of the first to go into a recession when the economy declines but also to recover as conditions improve. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "consensus": "1.300M",
+      "previous": "1.275M",
+      "description": "Housing starts measures the change in the annualized number of new residential buildings that began construction during the reported month. It is a leading indicator of strength in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -283,8 +272,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "3.6%",
+      "previous": "3.6%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },
@@ -308,6 +297,28 @@
       "consensus": "",
       "previous": "71.2",
       "description": "The National Association of Realtors (NAR) Pending Home Sales Report measures the change in the number of homes under contract to be sold but still awaiting the closing transaction, excluding new construction. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-21",
+      "time_gmt": "11:00",
+      "country": "New Zealand",
+      "event": "GlobalDairyTrade Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.2%",
+      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-21",
+      "time_gmt": "11:00",
+      "country": "New Zealand",
+      "event": "Milk Auctions",
+      "actual": "",
+      "consensus": "",
+      "previous": "3,928.0",
+      "description": "Measures the weighted-average price of 9 dairy products sold at auction every 2 weeks. It is viewed as a leading indicator of New Zealand's trade balance because rising commodity prices boost export income. The dairy industry is New Zealand's biggest export earner, accounting for more than 29% by value of the country's exports.",
       "high_impact": false
     },
     {
@@ -371,7 +382,7 @@
       "country": "Japan",
       "event": "Exports",
       "actual": "",
-      "consensus": "",
+      "consensus": "20.1%",
       "previous": "19.3%",
       "description": "This Exports number provides the total US dollar amount of merchandise exports on an f.o.b. (free on board) basis.. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
       "high_impact": false
@@ -382,7 +393,7 @@
       "country": "Japan",
       "event": "Imports",
       "actual": "",
-      "consensus": "",
+      "consensus": "19.6%",
       "previous": "28.0%",
       "description": "An import is any good or service brought into one country from another country in a legitimate fashion, typically for use in trade. Import goods or services are provided to domestic consumers by foreign producers. A lower than expected number should be taken as positive to the JPY while a higher than expected number as negative",
       "high_impact": false
@@ -393,7 +404,7 @@
       "country": "Japan",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "-250.0B",
+      "consensus": "-181.0B",
       "previous": "-1,111.9B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.</BR>A higher than expected reading should be taken as positive/bullish for the JPY , while a lower than expected reading should be taken as negative/bearish for the JPY Anyways.",
       "high_impact": false
