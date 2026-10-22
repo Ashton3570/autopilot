@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "asOf": "Tue, Oct 20, 2026",
+  "asOf": "Wed, Oct 21, 2026",
   "events": [
     {
       "date": "2026-10-27",
@@ -8,8 +8,8 @@
       "country": "Japan",
       "event": "Coincident Indicator",
       "actual": "",
-      "consensus": "",
-      "previous": "-1.9%",
+      "consensus": "-1.9%",
+      "previous": "1.7%",
       "description": "Japan's Composite index of coincident indicators measures current economic \r\nconditions. For the main purpose of measuring the amplitude of the fluctuations \r\nof economic activities, the composite indexes are constructed by aggregating the\r\npercentage changes of the selected series. They are represented with the average\r\nof their 1995 values as 100. \r\n \r\nThe coincident index consists of the following components: \r\n- Index of industrial production (mining and manufacturing); \r\n- Index of consumption of raw materials (manufacturing); \r\n- Large industrial power consumption; \r\n- Index of capacity utilization ratio (manufacturing); \r\n- Index of non-scheduled worked hours; \r\n- Index of producer's shipment (investment goods); \r\n- Sales at department stores (percent change from the previous year); \r\n- Index of sales in wholesale trade (percent change from the previous year); \r\n- Operating profits (all industries); \r\n- Index of sales in small and medium sized enterprises (manufacturing); \r\n- Effective job offer rate (excluding new school graduates).",
       "high_impact": false
     },
@@ -19,8 +19,8 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "",
-      "previous": "0.4%",
+      "consensus": "0.4%",
+      "previous": "1.5%",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -30,8 +30,8 @@
       "country": "Japan",
       "event": "Leading Index",
       "actual": "",
-      "consensus": "",
-      "previous": "118.0",
+      "consensus": "118.0",
+      "previous": "117.7",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
