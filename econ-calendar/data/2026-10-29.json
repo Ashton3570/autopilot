@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "asOf": "Thu, Oct 22, 2026",
+  "asOf": "Fri, Oct 23, 2026",
   "events": [
     {
       "date": "2026-10-29",
@@ -8,7 +8,7 @@
       "country": "Germany",
       "event": "GfK German Consumer Climate",
       "actual": "",
-      "consensus": "",
+      "consensus": "-29.1",
       "previous": "-30.6",
       "description": "The Gfk German Consumer Climate Index measures the level of consumer confidence in economic activity. The data is compiled from a survey of about 2,000 consumers which asks respondents to rate the relative level of past and future economic conditions.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -77,17 +77,6 @@
       "consensus": "",
       "previous": "2.6",
       "description": "The Zentrum fur Europaische Wirtschaftsforschung (ZEW) Economic Expectations Index rates the relative six-month economic outlook for Switzerland. On the index, a level above zero indicates optimism, below indicates pessimism. It is a leading indicator of economic health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-10-29",
-      "time_gmt": "06:00",
-      "country": "United Kingdom",
-      "event": "Autumn Forecast Statement",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "The Autumn Statement of the British Government, also known as the \"mini-budget\", is one of the two statements HM Treasury makes each year to Parliament upon publication of economic forecasts. It usually involves speeches in the House of Commons by the Chancellor of the Exchequer.",
       "high_impact": false
     },
     {
@@ -247,10 +236,21 @@
     {
       "date": "2026-10-29",
       "time_gmt": "08:30",
+      "country": "United Kingdom",
+      "event": "Autumn Forecast Statement",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Autumn Statement of the British Government, also known as the \"mini-budget\", is one of the two statements HM Treasury makes each year to Parliament upon publication of economic forecasts. It usually involves speeches in the House of Commons by the Chancellor of the Exchequer.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-29",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Goods Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-125.40B",
       "previous": "-132.07B",
       "description": "The goods trade balance is the difference in value between imported and exported goods during the reported month.",
       "high_impact": false
@@ -305,7 +305,7 @@
       "country": "Canada",
       "event": "BoC Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.50%",
       "previous": "2.25%",
       "description": "Bank of Canada (BOC) governing council members come to a consensus on where to set the rate.Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.\r\n<BR/><BR/>A higher than expected rate is positive/bullish for the CAD, while a lower than expected rate is negative/bearish for the CAD.",
       "high_impact": true
@@ -459,7 +459,7 @@
       "country": "Russia",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "-0.6%",
       "description": "The Russian Industrial Production measures the change in the total outputs of the Russian factories, mines, and utilities.\r\nIt gives us a good indicator of strength in the manufacturing sector. It can be a leading indicator of manufacturing employment, average earnings, and personal income.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": false
@@ -470,7 +470,7 @@
       "country": "Russia",
       "event": "Russian Real Wage Growth",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.0%",
       "previous": "3.3%",
       "description": "",
       "high_impact": false
@@ -481,7 +481,7 @@
       "country": "Russia",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.5%",
       "previous": "3.3%",
       "description": "The Retail Sales is a monthly measurement of all goods sold by retailers based on a sampling of retail stores of different types and sizes in Russia excluding auto. \r\nIt is an important indicator of consumer spending and also correlated to consumer confidence. <BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
@@ -492,7 +492,7 @@
       "country": "Russia",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.2%",
       "previous": "2.2%",
       "description": "The Unemployment Rate is a measure of the percentage of the total labor force that is unemployed but actively seeking employment and willing to work in Russia. \r\n<BR/>A high percentage indicates weakness in the labor market.\r\nA low percentage is a positive indicator for  the labor market in Russia and should be taken as positive for the RUB.",
       "high_impact": true
@@ -525,7 +525,7 @@
       "country": "United States",
       "event": "Fed Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.00%",
       "previous": "4.00%",
       "description": "Federal Open Market Committee (FOMC) members vote on where to set the rate. \r\nTraders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the USD, while a lower than expected rate is negative/bearish for the USD.",
       "high_impact": true
@@ -561,6 +561,28 @@
       "consensus": "",
       "previous": "79",
       "description": "BSI is conducted to investigate overall business trend by surveying how the companies feel on current business and future tendency. A reading below 100 means the number of companies that see business conditions deteriorating in the month in question outnumber those that see an improvement.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-29",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Bonds Buying",
+      "actual": "",
+      "consensus": "",
+      "previous": "-161.6B",
+      "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-29",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Investments in Japanese Stocks",
+      "actual": "",
+      "consensus": "",
+      "previous": "-66.5B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
       "high_impact": false
     },
     {

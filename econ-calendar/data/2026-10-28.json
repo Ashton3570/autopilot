@@ -1,7 +1,18 @@
 {
   "date": "2026-10-28",
-  "asOf": "Thu, Oct 22, 2026",
+  "asOf": "Fri, Oct 23, 2026",
   "events": [
+    {
+      "date": "2026-10-28",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "BoJ Core CPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.3%",
+      "description": "Measures the change in the price of goods and services purchased by consumers, excluding food and energy. The BoJ usually pays more attention to the core inflation data.",
+      "high_impact": true
+    },
     {
       "date": "2026-10-28",
       "time_gmt": "03:00",
@@ -41,7 +52,7 @@
       "country": "Euro Zone",
       "event": "M3 Money Supply",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.5%",
       "previous": "3.5%",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
@@ -147,11 +158,22 @@
     },
     {
       "date": "2026-10-28",
+      "time_gmt": "08:15",
+      "country": "United States",
+      "event": "ADP Employment Change Weekly",
+      "actual": "",
+      "consensus": "",
+      "previous": "18.50K",
+      "description": "The ADP weekly report provides the change in private sector employment, offering the most current view of the labor market based on ADP's fine-grained, high-frequency data. Traders often consider employment figures from ADP, America's largest payrolls provider, as the harbringer of the Bureau of Labor Statistics release of Nonfarm Payrolls.\r\nThis data is released by Automatic Data Processing Inc, provides a four-week moving average of the latest total private-employment change in the US. Generally, a rise in the indicator has positive implications for consumer spending and is simulative of economic growth. Therefore, a high reading is traditionally seen as bullish for the US Dollar (USD), while a low reading is seen as bearish.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-28",
       "time_gmt": "08:30",
       "country": "United States",
       "event": "Core Durable Goods Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.6%",
       "previous": "0.2%",
       "description": "Core Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, excluding transportation items. Because aircraft orders are very volatile, the core number gives a better gauge of ordering trends. A higher reading indicates increased manufacturing activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -162,7 +184,7 @@
       "country": "United States",
       "event": "Durable Goods Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.6%",
       "previous": "-0.1%",
       "description": "Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, including transportation items.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -283,7 +305,7 @@
       "country": "United States",
       "event": "CB Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "80.5",
       "previous": "81.9",
       "description": "Conference Board (CB) Consumer Confidence measures the level of consumer confidence in economic activity.\r\nIt is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -294,7 +316,7 @@
       "country": "United States",
       "event": "New Home Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "652K",
       "previous": "684K",
       "description": "New Home Sales measures the annualized number of new single-family homes that were sold during the previous month. This report tends to have more impact when it's released ahead of Existing Home Sales because the reports are tightly correlated.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -503,7 +525,7 @@
       "country": "New Zealand",
       "event": "RBNZ Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.00%",
       "previous": "2.75%",
       "description": "The Reserve Bank of New Zealand (RBNZ) governor decides where to set the rate after consulting senior bank staff and external advisers. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the NZD,\r\nwhile a lower than expected rate is negative/bearish for the NZD.",
       "high_impact": true

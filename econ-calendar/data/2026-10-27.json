@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "asOf": "Thu, Oct 22, 2026",
+  "asOf": "Fri, Oct 23, 2026",
   "events": [
     {
       "date": "2026-10-27",
@@ -96,7 +96,7 @@
       "country": "Germany",
       "event": "German Ifo Business Climate Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "90.0",
       "previous": "89.9",
       "description": "The German Ifo Business Climate Index rates the current German business climate and measures expectations for the next six months. It is a composite index based on a survey of manufacturers, builders, wholesalers and retailers. The index is compiled by the Ifo Institute for Economic Research.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -276,6 +276,28 @@
       "previous": "3.7%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-27",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Corporate Services Price Index (CSPI)",
+      "actual": "",
+      "consensus": "3.7%",
+      "previous": "3.7%",
+      "description": "The Corporate Services Price Index (CSPI) measures the change in the price of goods sold by corporations. It is a leading indicator of consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-27",
+      "time_gmt": "20:01",
+      "country": "United Kingdom",
+      "event": "BRC Shop Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.4%",
+      "description": "The British Retail Consortium (BRC) Shop Price Index measures price changes in BRC-member retail outlets in the U.K.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
+      "high_impact": false
     },
     {
       "date": "2026-10-27",
