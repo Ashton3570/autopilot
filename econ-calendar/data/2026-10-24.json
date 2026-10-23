@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "asOf": "Wed, Oct 21, 2026",
+  "asOf": "Thu, Oct 22, 2026",
   "events": [
     {
       "date": "2026-10-24",
@@ -41,7 +41,7 @@
       "country": "Singapore",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.30%",
       "previous": "2.20%",
       "description": "",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Singapore",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.3%",
       "previous": "2.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -74,7 +74,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.1%",
       "previous": "0.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile. <br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -85,7 +85,7 @@
       "country": "United Kingdom",
       "event": "Core Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.5%",
       "previous": "2.7%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity. The Core number excludes Auto sales and Fuel, which tend to be very volatile.<br/>A higher than expected reading should be taken as positive/bullish for the GBP while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -107,7 +107,7 @@
       "country": "United Kingdom",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "2.4%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -118,7 +118,7 @@
       "country": "France",
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
-      "consensus": "50.6",
+      "consensus": "50.5",
       "previous": "50.6",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -129,7 +129,7 @@
       "country": "France",
       "event": "HCOB France Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "50.5",
       "previous": "51.1",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies.Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies.Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -140,7 +140,7 @@
       "country": "France",
       "event": "HCOB France Services PMI",
       "actual": "",
-      "consensus": "50.8",
+      "consensus": "50.7",
       "previous": "51.2",
       "description": "The French Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -151,7 +151,7 @@
       "country": "Germany",
       "event": "HCOB Germany Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "53.5",
       "previous": "53.8",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease.",
       "high_impact": true
@@ -173,7 +173,7 @@
       "country": "Germany",
       "event": "HCOB Germany Services PMI",
       "actual": "",
-      "consensus": "52.6",
+      "consensus": "52.5",
       "previous": "52.9",
       "description": "The German Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -195,7 +195,7 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "52.7",
       "previous": "53.1",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
@@ -217,7 +217,7 @@
       "country": "United Kingdom",
       "event": "S&P Global Composite PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.8",
       "previous": "52.0",
       "description": "The Composite PMI Index measures the activity level of purchasing managers in the both sectors. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -250,7 +250,7 @@
       "country": "Russia",
       "event": "Interest Rate Decision",
       "actual": "",
-      "consensus": "",
+      "consensus": "14.00%",
       "previous": "14.00%",
       "description": "The Bank Rossii decision on short term interest rate.\r\nThe decision on where to set interest rates depends mostly on growth outlook and inflation. \r\nThe primary objective of the central bank is to achieve price stability.\r\nHigh interest rates attract foreigners looking for the best \"risk-free\" return on their money, which can dramatically increases demand for the nation's currency. \r\n<BR/>A higher than expected rate is positive/bullish for the RUB,\r\nwhile a lower than expected rate is negative/bearish for the RUB.",
       "high_impact": true
@@ -272,7 +272,7 @@
       "country": "Brazil",
       "event": "Mid-Month CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.43%",
       "previous": "0.70%",
       "description": "The consumer price index (CPI) is a measure of change in the general level of prices of goods and services bought by households over a specified period of time. It compares a household's cost for a specific basket of finished goods and services with the cost of the same basket during an earlier benchmark period.\nThe consumer price index is used as a measurement of <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> and is a key economic figure. Likely impact:\n1) Interest Rates: Larger-than-expected quarterly increase in price inflation or increasing trend is considered inflationary; this will cause bond prices to drop and yields and interest rates to rise.\n2) Stock Prices: Higher than expected price inflation is bearish on the stock market as higher inflation will lead to higher interest rates.\n3) Exchange Rates: High inflation has an uncertain effect. It would lead to depreciation as higher prices mean lower competitiveness. Conversely, higher inflation causes higher interest rates and a tighter monetary policy that leads to an appreciation.",
       "high_impact": true
@@ -283,7 +283,7 @@
       "country": "Brazil",
       "event": "Mid-Month CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.73%",
       "previous": "4.47%",
       "description": "The consumer price index (CPI) is a measure of change in the general level of prices of goods and services bought by households over a specified period of time. It compares a household's cost for a specific basket of finished goods and services with the cost of the same basket during an earlier benchmark period.\nThe consumer price index is used as a measurement of <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> and is a key economic figure. Likely impact:\n1) Interest Rates: Larger-than-expected quarterly increase in price inflation or increasing trend is considered inflationary; this will cause bond prices to drop and yields and interest rates to rise.\n2) Stock Prices: Higher than expected price inflation is bearish on the stock market as higher inflation will lead to higher interest rates.\n3) Exchange Rates: High inflation has an uncertain effect. It would lead to depreciation as higher prices mean lower competitiveness. Conversely, higher inflation causes higher interest rates and a tighter monetary policy that leads to an appreciation.",
       "high_impact": true
@@ -349,7 +349,7 @@
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "55.5",
+      "consensus": "55.4",
       "previous": "55.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -371,7 +371,7 @@
       "country": "United States",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "58.0",
+      "consensus": "57.9",
       "previous": "58.8",
       "description": "The Service PMI release is published monthly by Markit Economics. The data are based on surveys of over 400 executives in private sector service companies. The surveys cover transport and communication, financial intermediaries, business and personal services, computing & IT, hotels and restaurants. <BR/>\r\nAn index level of 50 denotes no change since the previous month, while a level above 50 signals an improvement, and below 50 indicates a deterioration.\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": true
@@ -383,7 +383,7 @@
       "event": "Michigan 1-Year Inflation Expectations",
       "actual": "",
       "consensus": "4.7%",
-      "previous": "4.7%",
+      "previous": "4.6%",
       "description": "University of Michigan (UoM) Inflation Expectations measures the percentage that consumers expect the price of goods and services to change during the next 12 months. There are two versions of this data released two weeks apart,Preliminary and Revised. The preliminary release is the earliest so tends to have more impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
@@ -394,7 +394,7 @@
       "event": "Michigan 5-Year Inflation Expectations",
       "actual": "",
       "consensus": "3.5%",
-      "previous": "3.5%",
+      "previous": "3.4%",
       "description": "The University of Michigan Inflation Expectations survey of consumers presents the median expected price changes for the next 5 years. <BR/>\r\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": false
     },
@@ -405,7 +405,7 @@
       "event": "Michigan Consumer Expectations",
       "actual": "",
       "consensus": "47.3",
-      "previous": "47.3",
+      "previous": "46.3",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. This number is the expectations part of the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number.",
       "high_impact": false
     },
@@ -416,7 +416,7 @@
       "event": "Michigan Consumer Sentiment",
       "actual": "",
       "consensus": "46.3",
-      "previous": "46.3",
+      "previous": "48.1",
       "description": "The University of Michigan Consumer Sentiment Index rates the relative level of current and future economic conditions. There are two versions of this data released two weeks apart, preliminary and revised. The preliminary data tends to have a greater impact. The reading is compiled from a survey of around 500 consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -427,7 +427,7 @@
       "event": "Michigan Current Conditions",
       "actual": "",
       "consensus": "44.7",
-      "previous": "44.7",
+      "previous": "50.9",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. All five questions have equal weight in determining the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number. This is the preliminary number.",
       "high_impact": false
     },
