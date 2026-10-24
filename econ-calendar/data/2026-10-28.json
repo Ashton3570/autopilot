@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "asOf": "Fri, Oct 23, 2026",
+  "asOf": "Sat, Oct 24, 2026",
   "events": [
     {
       "date": "2026-10-28",
@@ -52,7 +52,7 @@
       "country": "Euro Zone",
       "event": "M3 Money Supply",
       "actual": "",
-      "consensus": "3.5%",
+      "consensus": "3.6%",
       "previous": "3.5%",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
@@ -85,7 +85,7 @@
       "country": "Euro Zone",
       "event": "Private Sector Loans",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.1%",
       "previous": "3.1%",
       "description": "Private Loans measures the change in the total value of new loans issued to consumers and businesses in the private sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -184,7 +184,7 @@
       "country": "United States",
       "event": "Durable Goods Orders",
       "actual": "",
-      "consensus": "1.6%",
+      "consensus": "0.6%",
       "previous": "-0.1%",
       "description": "Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, including transportation items.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "United States",
       "event": "House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.3%",
       "description": "The House Price Index (HPI) is a broad measure of the movement of single-family house prices, with mortgages backed by Fannie Mae or Freddie Mac. This report helps to analyze the strength of the US housing market, which helps to analysis the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "S&P/CS HPI Composite - 20 n.s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.7%",
       "previous": "2.5%",
       "description": "The S&P/Case-Shiller House Price Index measures the change in the selling price of single-family homes in 20 metropolitan areas.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -316,7 +316,7 @@
       "country": "United States",
       "event": "New Home Sales",
       "actual": "",
-      "consensus": "652K",
+      "consensus": "649K",
       "previous": "684K",
       "description": "New Home Sales measures the annualized number of new single-family homes that were sold during the previous month. This report tends to have more impact when it's released ahead of Existing Home Sales because the reports are tightly correlated.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -338,7 +338,7 @@
       "country": "United States",
       "event": "Richmond Manufacturing Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1",
       "previous": "-2",
       "description": "The Richmond Manufacturing Index rates the relative level of business conditions including shipments, new orders, and employment. A level above zero on the index indicates improving conditions; below indicates worsening conditions. The data is compiled from a survey of about 100 manufacturers in the Richmond area.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -422,6 +422,17 @@
     },
     {
       "date": "2026-10-28",
+      "time_gmt": "13:00",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-28",
       "time_gmt": "16:30",
       "country": "United States",
       "event": "API Weekly Crude Oil Stock",
@@ -433,11 +444,22 @@
     },
     {
       "date": "2026-10-28",
+      "time_gmt": "20:15",
+      "country": "Australia",
+      "event": "RBA Assist Gov Bullock Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Michele Bullock serves as an Assistant Governor of the Reserve Bank of Australia (RBA). Her public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-28",
       "time_gmt": "20:30",
       "country": "Australia",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.3%",
       "previous": "0.6%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
@@ -448,7 +470,7 @@
       "country": "Australia",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.9%",
       "previous": "4.0%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -492,7 +514,7 @@
       "country": "Australia",
       "event": "Monthly CPI Indicator",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.20%",
       "previous": "4.00%",
       "description": "Monthly CPI Indicator measures monthly changes in the price of a of goods and services which account for a high proportion of expenditure by the CPI population group (i.e. metropolitan households).",
       "high_impact": true

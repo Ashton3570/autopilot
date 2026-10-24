@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "asOf": "Fri, Oct 23, 2026",
+  "asOf": "Sat, Oct 24, 2026",
   "events": [
     {
       "date": "2026-10-29",
@@ -8,7 +8,7 @@
       "country": "Germany",
       "event": "GfK German Consumer Climate",
       "actual": "",
-      "consensus": "-29.1",
+      "consensus": "-30.0",
       "previous": "-30.6",
       "description": "The Gfk German Consumer Climate Index measures the level of consumer confidence in economic activity. The data is compiled from a survey of about 2,000 consumers which asks respondents to rate the relative level of past and future economic conditions.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -229,7 +229,7 @@
       "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "16.9%",
+      "previous": "16.0%",
       "description": "Monetary aggregates, known also as \"money supply\", is the quantity of currency available within the economy to purchase goods and services. M3 is a broad monetary aggregate that includes all physical currency circulating in the economy (banknotes and coins), operational deposits in central bank, money in current accounts, saving accounts, money market deposits, certificates of deposit, all other deposits and repurchase agreements. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
@@ -250,7 +250,7 @@
       "country": "United States",
       "event": "Goods Trade Balance",
       "actual": "",
-      "consensus": "-125.40B",
+      "consensus": "-130.80B",
       "previous": "-132.07B",
       "description": "The goods trade balance is the difference in value between imported and exported goods during the reported month.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.5%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -327,7 +327,7 @@
       "country": "United States",
       "event": "Crude Oil Inventories",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.300M",
       "previous": "-3.060M",
       "description": "The Energy Information Administration's (EIA) Crude Oil Inventories measures the weekly change in the number of barrels of commercial crude oil held by US firms. The level of inventories influences the price of petroleum products, which can have an impact on inflation.\r\n<BR/><BR/>\r\nIf the increase in crude inventories is more than expected, it implies weaker demand and is bearish for crude prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in crude is less than expected, it implies greater demand and is bullish for crude prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
@@ -624,7 +624,7 @@
       "country": "Australia",
       "event": "Import Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.8%",
       "previous": "5.7%",
       "description": "The Import Price Index measures the change in the price of imported goods and services purchased domestically.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
