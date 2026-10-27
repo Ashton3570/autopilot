@@ -1,0 +1,1397 @@
+{
+  "date": "2026-10-27",
+  "stamp": "2026-10-27 00:08",
+  "watchlist": [
+    "AVGO",
+    "WDC",
+    "NVDA",
+    "MRVL",
+    "MU",
+    "QCOM",
+    "AMD",
+    "TXN",
+    "ASML",
+    "LRCX",
+    "KLAC",
+    "SNDK",
+    "MSFT"
+  ],
+  "apewisdom": {
+    "SPY": {
+      "mentions": 115,
+      "mentions_24h_ago": 43,
+      "rank": 1,
+      "rank_24h_ago": 1,
+      "upvotes": 306,
+      "name": "SPDR S&amp;P 500 ETF Trust"
+    },
+    "NBIS": {
+      "mentions": 98,
+      "mentions_24h_ago": 13,
+      "rank": 2,
+      "rank_24h_ago": 25,
+      "upvotes": 409,
+      "name": "Nebius Group"
+    },
+    "TSLA": {
+      "mentions": 85,
+      "mentions_24h_ago": 8,
+      "rank": 3,
+      "rank_24h_ago": 20,
+      "upvotes": 213,
+      "name": "Tesla"
+    },
+    "MU": {
+      "mentions": 79,
+      "mentions_24h_ago": 21,
+      "rank": 4,
+      "rank_24h_ago": 3,
+      "upvotes": 177,
+      "name": "Micron Technology"
+    },
+    "SPCX": {
+      "mentions": 74,
+      "mentions_24h_ago": 15,
+      "rank": 5,
+      "rank_24h_ago": 11,
+      "upvotes": 173,
+      "name": "SpaceX"
+    },
+    "QQQ": {
+      "mentions": 74,
+      "mentions_24h_ago": 24,
+      "rank": 6,
+      "rank_24h_ago": 6,
+      "upvotes": 158,
+      "name": "Invesco QQQ ETF"
+    },
+    "META": {
+      "mentions": 70,
+      "mentions_24h_ago": 3,
+      "rank": 7,
+      "rank_24h_ago": 42,
+      "upvotes": 2137,
+      "name": "Meta Platforms (Facebook)"
+    },
+    "CRWV": {
+      "mentions": 70,
+      "mentions_24h_ago": 13,
+      "rank": 8,
+      "rank_24h_ago": 26,
+      "upvotes": 201,
+      "name": "CoreWeave"
+    },
+    "NU": {
+      "mentions": 69,
+      "mentions_24h_ago": 2,
+      "rank": 9,
+      "rank_24h_ago": 569,
+      "upvotes": 176,
+      "name": "Nu Holdings"
+    },
+    "GOOGL": {
+      "mentions": 59,
+      "mentions_24h_ago": 10,
+      "rank": 10,
+      "rank_24h_ago": 19,
+      "upvotes": 145,
+      "name": "Alphabet (Google)"
+    },
+    "RDDT": {
+      "mentions": 59,
+      "mentions_24h_ago": 14,
+      "rank": 11,
+      "rank_24h_ago": 7,
+      "upvotes": 255,
+      "name": "Reddit"
+    },
+    "GOOG": {
+      "mentions": 58,
+      "mentions_24h_ago": 14,
+      "rank": 12,
+      "rank_24h_ago": 12,
+      "upvotes": 181,
+      "name": "Alphabet (Google)"
+    },
+    "MSFT": {
+      "mentions": 46,
+      "mentions_24h_ago": 24,
+      "rank": 13,
+      "rank_24h_ago": 2,
+      "upvotes": 330,
+      "name": "Microsoft"
+    },
+    "EWZ": {
+      "mentions": 42,
+      "mentions_24h_ago": null,
+      "rank": 14,
+      "rank_24h_ago": 453,
+      "upvotes": 184,
+      "name": "BlackRock Institutional Trust Company N.A. - iShares MSCI Brazil ETF"
+    },
+    "NVDA": {
+      "mentions": 33,
+      "mentions_24h_ago": 16,
+      "rank": 15,
+      "rank_24h_ago": 4,
+      "upvotes": 120,
+      "name": "NVIDIA"
+    },
+    "MELI": {
+      "mentions": 33,
+      "mentions_24h_ago": null,
+      "rank": 16,
+      "rank_24h_ago": 222,
+      "upvotes": 104,
+      "name": "MercadoLibre"
+    },
+    "NFLX": {
+      "mentions": 32,
+      "mentions_24h_ago": 1,
+      "rank": 17,
+      "rank_24h_ago": 91,
+      "upvotes": 50,
+      "name": "Netflix"
+    },
+    "VOO": {
+      "mentions": 29,
+      "mentions_24h_ago": 4,
+      "rank": 18,
+      "rank_24h_ago": 29,
+      "upvotes": 55,
+      "name": "Vanguard S&amp;P 500 ETF"
+    },
+    "CLS": {
+      "mentions": 27,
+      "mentions_24h_ago": 1,
+      "rank": 19,
+      "rank_24h_ago": 335,
+      "upvotes": 41,
+      "name": "Celestica"
+    },
+    "IREN": {
+      "mentions": 26,
+      "mentions_24h_ago": 3,
+      "rank": 20,
+      "rank_24h_ago": 564,
+      "upvotes": 165,
+      "name": "Iris Energy"
+    },
+    "PBR": {
+      "mentions": 25,
+      "mentions_24h_ago": 1,
+      "rank": 21,
+      "rank_24h_ago": 313,
+      "upvotes": 41,
+      "name": "Petrobras"
+    },
+    "AMD": {
+      "mentions": 24,
+      "mentions_24h_ago": 7,
+      "rank": 22,
+      "rank_24h_ago": 14,
+      "upvotes": 281,
+      "name": "AMD"
+    },
+    "IT": {
+      "mentions": 22,
+      "mentions_24h_ago": 9,
+      "rank": 23,
+      "rank_24h_ago": 10,
+      "upvotes": 49,
+      "name": "Gartner"
+    },
+    "BE": {
+      "mentions": 21,
+      "mentions_24h_ago": 4,
+      "rank": 24,
+      "rank_24h_ago": 62,
+      "upvotes": 56,
+      "name": "Bloom Energy"
+    },
+    "SNDK": {
+      "mentions": 20,
+      "mentions_24h_ago": 8,
+      "rank": 25,
+      "rank_24h_ago": 9,
+      "upvotes": 47,
+      "name": "Sandisk"
+    },
+    "AMZN": {
+      "mentions": 19,
+      "mentions_24h_ago": 16,
+      "rank": 26,
+      "rank_24h_ago": 8,
+      "upvotes": 43,
+      "name": "Amazon"
+    },
+    "MS": {
+      "mentions": 19,
+      "mentions_24h_ago": 1,
+      "rank": 27,
+      "rank_24h_ago": 190,
+      "upvotes": 149,
+      "name": "Morgan Stanley"
+    },
+    "AM": {
+      "mentions": 17,
+      "mentions_24h_ago": 4,
+      "rank": 28,
+      "rank_24h_ago": 35,
+      "upvotes": 143,
+      "name": "Antero Midstream"
+    },
+    "AAPL": {
+      "mentions": 16,
+      "mentions_24h_ago": 3,
+      "rank": 29,
+      "rank_24h_ago": 44,
+      "upvotes": 40,
+      "name": "Apple"
+    },
+    "DTE": {
+      "mentions": 16,
+      "mentions_24h_ago": 4,
+      "rank": 30,
+      "rank_24h_ago": 32,
+      "upvotes": 69,
+      "name": "DTE Energy"
+    },
+    "SOXL": {
+      "mentions": 15,
+      "mentions_24h_ago": 9,
+      "rank": 31,
+      "rank_24h_ago": 17,
+      "upvotes": 23,
+      "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share"
+    },
+    "GME": {
+      "mentions": 15,
+      "mentions_24h_ago": 1,
+      "rank": 32,
+      "rank_24h_ago": 483,
+      "upvotes": 89,
+      "name": "GameStop"
+    },
+    "HOOD": {
+      "mentions": 15,
+      "mentions_24h_ago": 1,
+      "rank": 33,
+      "rank_24h_ago": 518,
+      "upvotes": 25,
+      "name": "Robinhood"
+    },
+    "RIVN": {
+      "mentions": 15,
+      "mentions_24h_ago": 1,
+      "rank": 34,
+      "rank_24h_ago": 555,
+      "upvotes": 31,
+      "name": "Rivian"
+    },
+    "ET": {
+      "mentions": 14,
+      "mentions_24h_ago": 9,
+      "rank": 35,
+      "rank_24h_ago": 22,
+      "upvotes": 18,
+      "name": "Energy Transfer Partners"
+    },
+    "AGI": {
+      "mentions": 14,
+      "mentions_24h_ago": 4,
+      "rank": 36,
+      "rank_24h_ago": 16,
+      "upvotes": 49,
+      "name": "Alamos Gold"
+    },
+    "VC": {
+      "mentions": 13,
+      "mentions_24h_ago": 4,
+      "rank": 37,
+      "rank_24h_ago": 33,
+      "upvotes": 105,
+      "name": "Visteon"
+    },
+    "MSTR": {
+      "mentions": 13,
+      "mentions_24h_ago": 1,
+      "rank": 38,
+      "rank_24h_ago": 477,
+      "upvotes": 42,
+      "name": "MicroStrategy"
+    },
+    "YOU": {
+      "mentions": 13,
+      "mentions_24h_ago": 8,
+      "rank": 39,
+      "rank_24h_ago": 18,
+      "upvotes": 292,
+      "name": "CLEAR Secure"
+    },
+    "ASTS": {
+      "mentions": 13,
+      "mentions_24h_ago": 7,
+      "rank": 40,
+      "rank_24h_ago": 40,
+      "upvotes": 41,
+      "name": "AST SpaceMobile"
+    },
+    "API": {
+      "mentions": 13,
+      "mentions_24h_ago": 2,
+      "rank": 41,
+      "rank_24h_ago": 603,
+      "upvotes": 36,
+      "name": "Agora.io"
+    },
+    "STNE": {
+      "mentions": 12,
+      "mentions_24h_ago": null,
+      "rank": 42,
+      "rank_24h_ago": 0,
+      "upvotes": 32,
+      "name": "StoneCo"
+    },
+    "FCF": {
+      "mentions": 12,
+      "mentions_24h_ago": 5,
+      "rank": 43,
+      "rank_24h_ago": 39,
+      "upvotes": 35,
+      "name": "First Commonwealth Financial Corp"
+    },
+    "ALL": {
+      "mentions": 10,
+      "mentions_24h_ago": 4,
+      "rank": 44,
+      "rank_24h_ago": 31,
+      "upvotes": -7,
+      "name": "Allstate"
+    },
+    "AMKR": {
+      "mentions": 10,
+      "mentions_24h_ago": 1,
+      "rank": 45,
+      "rank_24h_ago": 245,
+      "upvotes": 12,
+      "name": "Amkor Technology"
+    },
+    "OR": {
+      "mentions": 10,
+      "mentions_24h_ago": 3,
+      "rank": 46,
+      "rank_24h_ago": 317,
+      "upvotes": 46,
+      "name": "Osisko Gold Royalties"
+    },
+    "PR": {
+      "mentions": 10,
+      "mentions_24h_ago": 1,
+      "rank": 47,
+      "rank_24h_ago": 609,
+      "upvotes": 100,
+      "name": "Permian Resources"
+    },
+    "PLTR": {
+      "mentions": 9,
+      "mentions_24h_ago": 5,
+      "rank": 48,
+      "rank_24h_ago": 28,
+      "upvotes": 22,
+      "name": "Palantir"
+    },
+    "ORCL": {
+      "mentions": 8,
+      "mentions_24h_ago": 4,
+      "rank": 49,
+      "rank_24h_ago": 45,
+      "upvotes": 45,
+      "name": "Oracle"
+    },
+    "IP": {
+      "mentions": 8,
+      "mentions_24h_ago": 2,
+      "rank": 50,
+      "rank_24h_ago": 52,
+      "upvotes": 23,
+      "name": "International Paper"
+    },
+    "ASML": {
+      "mentions": 8,
+      "mentions_24h_ago": 1,
+      "rank": 51,
+      "rank_24h_ago": 204,
+      "upvotes": 163,
+      "name": "ASML"
+    },
+    "APLD": {
+      "mentions": 8,
+      "mentions_24h_ago": 1,
+      "rank": 52,
+      "rank_24h_ago": 590,
+      "upvotes": 50,
+      "name": "Applied Blockchain"
+    },
+    "INTC": {
+      "mentions": 7,
+      "mentions_24h_ago": 1,
+      "rank": 53,
+      "rank_24h_ago": 85,
+      "upvotes": 13,
+      "name": "Intel"
+    },
+    "NOW": {
+      "mentions": 7,
+      "mentions_24h_ago": 18,
+      "rank": 54,
+      "rank_24h_ago": 5,
+      "upvotes": 112,
+      "name": "ServiceNow"
+    },
+    "HR": {
+      "mentions": 7,
+      "mentions_24h_ago": 5,
+      "rank": 55,
+      "rank_24h_ago": 13,
+      "upvotes": 57,
+      "name": "Healthcare Realty"
+    },
+    "CART": {
+      "mentions": 7,
+      "mentions_24h_ago": 1,
+      "rank": 56,
+      "rank_24h_ago": 636,
+      "upvotes": 32,
+      "name": "Instacart (Maplebear Inc.)"
+    },
+    "SMH": {
+      "mentions": 6,
+      "mentions_24h_ago": 2,
+      "rank": 57,
+      "rank_24h_ago": 65,
+      "upvotes": 35,
+      "name": "VanEck Vectors ETF Trust - VanEck Vectors Semiconductor ETF"
+    },
+    "DASH": {
+      "mentions": 6,
+      "mentions_24h_ago": null,
+      "rank": 58,
+      "rank_24h_ago": 0,
+      "upvotes": 29,
+      "name": "DoorDash"
+    },
+    "SOFI": {
+      "mentions": 6,
+      "mentions_24h_ago": 1,
+      "rank": 59,
+      "rank_24h_ago": 520,
+      "upvotes": 12,
+      "name": "SoFi"
+    },
+    "ARR": {
+      "mentions": 6,
+      "mentions_24h_ago": null,
+      "rank": 60,
+      "rank_24h_ago": 577,
+      "upvotes": 1,
+      "name": "ARMOUR Residential REIT"
+    },
+    "LINK": {
+      "mentions": 6,
+      "mentions_24h_ago": 1,
+      "rank": 61,
+      "rank_24h_ago": 633,
+      "upvotes": 8,
+      "name": "Interlink Electronics"
+    },
+    "LOT": {
+      "mentions": 6,
+      "mentions_24h_ago": 4,
+      "rank": 62,
+      "rank_24h_ago": 43,
+      "upvotes": 0,
+      "name": "Lotus Technology"
+    },
+    "SO": {
+      "mentions": 5,
+      "mentions_24h_ago": null,
+      "rank": 63,
+      "rank_24h_ago": 166,
+      "upvotes": 7,
+      "name": "Southern Company"
+    },
+    "SMCI": {
+      "mentions": 5,
+      "mentions_24h_ago": 1,
+      "rank": 64,
+      "rank_24h_ago": 218,
+      "upvotes": 11,
+      "name": "Supermicro"
+    },
+    "LULU": {
+      "mentions": 5,
+      "mentions_24h_ago": 1,
+      "rank": 65,
+      "rank_24h_ago": 234,
+      "upvotes": 26,
+      "name": "lululemon athletica"
+    },
+    "CC": {
+      "mentions": 5,
+      "mentions_24h_ago": 1,
+      "rank": 66,
+      "rank_24h_ago": 259,
+      "upvotes": 2,
+      "name": "Chemours"
+    },
+    "SE": {
+      "mentions": 5,
+      "mentions_24h_ago": 1,
+      "rank": 67,
+      "rank_24h_ago": 309,
+      "upvotes": 11,
+      "name": "Sea (Garena)"
+    },
+    "USO": {
+      "mentions": 5,
+      "mentions_24h_ago": 3,
+      "rank": 68,
+      "rank_24h_ago": 64,
+      "upvotes": 7,
+      "name": "United States Commodity Funds LLC - United States Oil Fund"
+    },
+    "VT": {
+      "mentions": 5,
+      "mentions_24h_ago": 3,
+      "rank": 69,
+      "rank_24h_ago": 46,
+      "upvotes": 98,
+      "name": "Vanguard Group, Inc. - Vanguard Total World Stock ETF"
+    },
+    "VTI": {
+      "mentions": 5,
+      "mentions_24h_ago": 2,
+      "rank": 70,
+      "rank_24h_ago": 407,
+      "upvotes": 18,
+      "name": "Vanguard Total Stock Market ETF"
+    },
+    "TLT": {
+      "mentions": 5,
+      "mentions_24h_ago": 3,
+      "rank": 71,
+      "rank_24h_ago": 38,
+      "upvotes": 7,
+      "name": "BlackRock Institutional Trust Company N.A. - BTC iShares 20+ Year Trea"
+    },
+    "FOR": {
+      "mentions": 5,
+      "mentions_24h_ago": null,
+      "rank": 72,
+      "rank_24h_ago": 527,
+      "upvotes": 63,
+      "name": "Forestar Group"
+    },
+    "TIL": {
+      "mentions": 5,
+      "mentions_24h_ago": 1,
+      "rank": 73,
+      "rank_24h_ago": 571,
+      "upvotes": 4,
+      "name": "Instil Bio"
+    },
+    "KO": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 74,
+      "rank_24h_ago": 87,
+      "upvotes": 5,
+      "name": "Coca-Cola"
+    },
+    "AVGO": {
+      "mentions": 4,
+      "mentions_24h_ago": 5,
+      "rank": 75,
+      "rank_24h_ago": 15,
+      "upvotes": 23,
+      "name": "Broadcom"
+    },
+    "LMT": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 76,
+      "rank_24h_ago": 100,
+      "upvotes": 44,
+      "name": "Lockheed Martin"
+    },
+    "GM": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 77,
+      "rank_24h_ago": 134,
+      "upvotes": 36,
+      "name": "General Motors"
+    },
+    "HAS": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 78,
+      "rank_24h_ago": 139,
+      "upvotes": 25,
+      "name": "Hasbro"
+    },
+    "PSA": {
+      "mentions": 4,
+      "mentions_24h_ago": null,
+      "rank": 79,
+      "rank_24h_ago": 174,
+      "upvotes": 11,
+      "name": "Public Storage"
+    },
+    "TMUS": {
+      "mentions": 4,
+      "mentions_24h_ago": null,
+      "rank": 80,
+      "rank_24h_ago": 167,
+      "upvotes": 12,
+      "name": "T-Mobile US"
+    },
+    "RE": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 81,
+      "rank_24h_ago": 186,
+      "upvotes": 46,
+      "name": "Everest Re"
+    },
+    "STX": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 82,
+      "rank_24h_ago": 194,
+      "upvotes": 87,
+      "name": "Seagate Technology"
+    },
+    "IQ": {
+      "mentions": 4,
+      "mentions_24h_ago": 5,
+      "rank": 83,
+      "rank_24h_ago": 27,
+      "upvotes": 4,
+      "name": "iQIYI"
+    },
+    "SAFE": {
+      "mentions": 4,
+      "mentions_24h_ago": null,
+      "rank": 84,
+      "rank_24h_ago": 275,
+      "upvotes": 41,
+      "name": "Safehold"
+    },
+    "IBKR": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 85,
+      "rank_24h_ago": 284,
+      "upvotes": 7,
+      "name": "Interactive Brokers"
+    },
+    "UBER": {
+      "mentions": 4,
+      "mentions_24h_ago": null,
+      "rank": 86,
+      "rank_24h_ago": 294,
+      "upvotes": 8,
+      "name": "Uber"
+    },
+    "ASC": {
+      "mentions": 4,
+      "mentions_24h_ago": null,
+      "rank": 87,
+      "rank_24h_ago": 0,
+      "upvotes": 223,
+      "name": "Ardmore Shipping"
+    },
+    "JUST": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 88,
+      "rank_24h_ago": 367,
+      "upvotes": 9,
+      "name": "Goldman Sachs ETF Trust - Goldman Sachs Just Us Large Cap Equity ETF"
+    },
+    "SCHD": {
+      "mentions": 4,
+      "mentions_24h_ago": 4,
+      "rank": 89,
+      "rank_24h_ago": 37,
+      "upvotes": 40,
+      "name": "Schwab Strategic Trust - CSIM Schwab US Dividend Equity ETF"
+    },
+    "AAA": {
+      "mentions": 4,
+      "mentions_24h_ago": 2,
+      "rank": 90,
+      "rank_24h_ago": 433,
+      "upvotes": 11,
+      "name": "Listed Funds Trust - AAF First Priority CLO Bond ETF"
+    },
+    "CIA": {
+      "mentions": 4,
+      "mentions_24h_ago": 2,
+      "rank": 91,
+      "rank_24h_ago": 70,
+      "upvotes": 15,
+      "name": "Citizens Inc"
+    },
+    "RKLB": {
+      "mentions": 4,
+      "mentions_24h_ago": 2,
+      "rank": 92,
+      "rank_24h_ago": 552,
+      "upvotes": 8,
+      "name": "Rocket Lab USA"
+    },
+    "OG": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 93,
+      "rank_24h_ago": 559,
+      "upvotes": 59,
+      "name": "Onion Global"
+    },
+    "AVEX": {
+      "mentions": 4,
+      "mentions_24h_ago": 1,
+      "rank": 94,
+      "rank_24h_ago": 674,
+      "upvotes": 7,
+      "name": "AEVEX Corp."
+    },
+    "ES": {
+      "mentions": 3,
+      "mentions_24h_ago": 3,
+      "rank": 95,
+      "rank_24h_ago": 50,
+      "upvotes": 7,
+      "name": "Eversource Energy"
+    },
+    "KLAC": {
+      "mentions": 3,
+      "mentions_24h_ago": 1,
+      "rank": 96,
+      "rank_24h_ago": 149,
+      "upvotes": 6,
+      "name": "KLA"
+    },
+    "WDC": {
+      "mentions": 3,
+      "mentions_24h_ago": 1,
+      "rank": 97,
+      "rank_24h_ago": 54,
+      "upvotes": 9,
+      "name": "Western Digital"
+    },
+    "UNH": {
+      "mentions": 3,
+      "mentions_24h_ago": 1,
+      "rank": 98,
+      "rank_24h_ago": 173,
+      "upvotes": 5,
+      "name": "UnitedHealth"
+    },
+    "WELL": {
+      "mentions": 3,
+      "mentions_24h_ago": null,
+      "rank": 99,
+      "rank_24h_ago": 200,
+      "upvotes": 55,
+      "name": "Welltower"
+    },
+    "GO": {
+      "mentions": 3,
+      "mentions_24h_ago": 1,
+      "rank": 100,
+      "rank_24h_ago": 286,
+      "upvotes": 2,
+      "name": "Grocery Outlet"
+    }
+  },
+  "stocktwits": {
+    "AVGO": {
+      "message_count": 30,
+      "bullish": 13,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "Going to go out on a limb here and say that maybe now is a pretty favorable entry on $AVGO ... you know, the company that&#39;s expecting its FY28 revenues to be 3x that of FY26 trading at only 16x fwd earnings. Maybe it&#39;s a screaming b",
+          "sentiment": null,
+          "user": "TooLongToLose",
+          "followers": 181,
+          "created_at": "2026-10-26T23:56:35Z"
+        },
+        {
+          "body": "Anthropic’s IPO could become a major test for the AI industry, as investors weigh explosive growth against heavy losses, rising interest rates and concerns over excessive infrastructure spending. The Claude developer filed to go public on M",
+          "sentiment": null,
+          "user": "topstockalerts",
+          "followers": 110053,
+          "created_at": "2026-10-26T23:52:53Z"
+        },
+        {
+          "body": "$AVGO $CLS",
+          "sentiment": null,
+          "user": "BlondeAmbition",
+          "followers": 1023,
+          "created_at": "2026-10-26T23:48:57Z"
+        },
+        {
+          "body": "$AVGO",
+          "sentiment": "Bullish",
+          "user": "magical_pomelo_316546",
+          "followers": 42,
+          "created_at": "2026-10-26T23:45:31Z"
+        },
+        {
+          "body": "$QQQ $AAOI $CRWV $IREN $AVGO \n\nhttps://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce",
+          "sentiment": "Bullish",
+          "user": "Irish_Blood_Diamond",
+          "followers": 7,
+          "created_at": "2026-10-26T23:38:14Z"
+        }
+      ],
+      "error": null
+    },
+    "WDC": {
+      "message_count": 30,
+      "bullish": 17,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "$WDC \n\nAgree demand will be there. But good earnings don&#39;t always mean good price action. Wdc beat big last quarter and still dropped 12%. When a stock&#39;s priced for perfection, a beat isn&#39;t enough.",
+          "sentiment": null,
+          "user": "jdlman",
+          "followers": 93,
+          "created_at": "2026-10-26T23:35:15Z"
+        },
+        {
+          "body": "$WDC Celestica&#39;s Signal: Celestica explicitly noted that hyperscaler demand projections for 2028 are higher than 2027, and raised its own multi-year revenue target. This multi-year hardware roadmap provides memory makers with predictabl",
+          "sentiment": null,
+          "user": "MBSB",
+          "followers": 28,
+          "created_at": "2026-10-26T23:21:34Z"
+        },
+        {
+          "body": "$WDC it&#39;s probably not too late to buy $WDC off this Intel transaction\nhttps://x.com/jimcramer/status/1318253457439117318",
+          "sentiment": "Bullish",
+          "user": "shonv",
+          "followers": 40,
+          "created_at": "2026-10-26T22:02:58Z"
+        },
+        {
+          "body": "$WDC Arm ($ARM) is the most shorted stock among 148 companies worth $100B+, with 11.2% of its float sold short.\n\nSouthern Copper ($SCCO) follows at 10.9%, while Western Digital ($WDC) ranks third at 5.7%.\nhttps://x.com/Benzinga/status/21148",
+          "sentiment": "Bullish",
+          "user": "shonv",
+          "followers": 40,
+          "created_at": "2026-10-26T21:59:46Z"
+        },
+        {
+          "body": "$WDC 450 soon",
+          "sentiment": "Bullish",
+          "user": "max32901",
+          "followers": 25,
+          "created_at": "2026-10-26T21:36:14Z"
+        }
+      ],
+      "error": null
+    },
+    "NVDA": {
+      "message_count": 30,
+      "bullish": 11,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "$NVDA $AMD $MU $SKHY $SMCI Moving right along into the overnight. Today was a good day.",
+          "sentiment": "Bullish",
+          "user": "Flickted",
+          "followers": 227,
+          "created_at": "2026-10-27T00:01:28Z"
+        },
+        {
+          "body": "$NVDA \n\ndown .55 since  post \n\nVDW finna steal some money 🙂",
+          "sentiment": null,
+          "user": "TheVulcanDevilWhale",
+          "followers": 1083,
+          "created_at": "2026-10-26T23:59:46Z"
+        },
+        {
+          "body": "$NVDA",
+          "sentiment": "Bullish",
+          "user": "TheVulcanDevilWhale",
+          "followers": 1083,
+          "created_at": "2026-10-26T23:55:50Z"
+        },
+        {
+          "body": "BlackBerry is positioning itself for growth in AI-powered robotics and industrial automation as it continues its transformation from a smartphone maker into a software company. CEO John Giamatteo said robotics is already one of the fastest-",
+          "sentiment": null,
+          "user": "topstockalerts",
+          "followers": 110053,
+          "created_at": "2026-10-26T23:55:11Z"
+        },
+        {
+          "body": "Boost Run announced the deployment of AI infrastructure and more than $600 million in cumulative non-dilutive project financing secured year to date. The Northbrook, Illinois-based company delivered the first phase of a project under agreem",
+          "sentiment": null,
+          "user": "topstockalerts",
+          "followers": 110053,
+          "created_at": "2026-10-26T23:54:46Z"
+        }
+      ],
+      "error": null
+    },
+    "MRVL": {
+      "message_count": 30,
+      "bullish": 8,
+      "bearish": 3,
+      "bull_ratio": 73.0,
+      "sample": [
+        {
+          "body": "Agreed, the size gap is the tell here. CRDO is the smaller name in that group, so the same CLS spillover moves it further in percent terms, while $ALAB, $MRVL and $AVGO are far bigger and already carry more of that story in their price. Wha",
+          "sentiment": null,
+          "user": "TopOptionAlert",
+          "followers": 414,
+          "created_at": "2026-10-26T23:32:26Z"
+        },
+        {
+          "body": "@TopOptionAlert I get it, but the magnitude is what doesn&#39;t make sense to me. $ALAB, $MRVL, $AVGO, and etc. didn&#39;t pop nowhere as much.",
+          "sentiment": null,
+          "user": "LookingForAdvice",
+          "followers": 10,
+          "created_at": "2026-10-26T23:27:16Z"
+        },
+        {
+          "body": "$CBRS $MRVL $AMD  CEREBRAS to be bigger than AMD 🫩",
+          "sentiment": "Bullish",
+          "user": "Moonship",
+          "followers": 106,
+          "created_at": "2026-10-26T23:19:18Z"
+        },
+        {
+          "body": "$AVGO $AMD $NVDA $MRVL $INTC Hock has kept his word and arranged for financing for Anthropic before  it’s scheduled IPO before November 26th. Better days ahead for Broadcom.",
+          "sentiment": "Bullish",
+          "user": "AVGOmysugardaddy",
+          "followers": 357,
+          "created_at": "2026-10-26T21:09:26Z"
+        },
+        {
+          "body": "$MRVL NOV20 240C · still actionable\n\nZone: $232.14 to $235.42\nInvalidation: close under $223.69\nObjectives: $248, then $262\n\nThe math: up 6.1% to the first objective and 12.1% to the second, against 4.3% risk on the invalidation, about 2.8 ",
+          "sentiment": null,
+          "user": "TopOptionAlert",
+          "followers": 414,
+          "created_at": "2026-10-26T20:16:48Z"
+        }
+      ],
+      "error": null
+    },
+    "MU": {
+      "message_count": 30,
+      "bullish": 18,
+      "bearish": 1,
+      "bull_ratio": 95.0,
+      "sample": [
+        {
+          "body": "$MU",
+          "sentiment": "Bullish",
+          "user": "GS0805",
+          "followers": 2,
+          "created_at": "2026-10-27T00:08:02Z"
+        },
+        {
+          "body": "$MU",
+          "sentiment": "Bullish",
+          "user": "stockdog88",
+          "followers": 301,
+          "created_at": "2026-10-27T00:07:19Z"
+        },
+        {
+          "body": "$SKHY $MU KOSPI  gapped 200 and climbing, short covering as expected",
+          "sentiment": "Bullish",
+          "user": "PoundinBurgers",
+          "followers": 245,
+          "created_at": "2026-10-27T00:07:09Z"
+        },
+        {
+          "body": "$LMT 650C above 636 leads the team&#39;s Tuesday Trade Plan, with $MRNA 215C above 207 or 175P below 180, $MU 930C above 916 and $TSLA 405C above 397.",
+          "sentiment": null,
+          "user": "TradeWithInsight",
+          "followers": 1654,
+          "created_at": "2026-10-27T00:05:33Z"
+        },
+        {
+          "body": "$MU 📈👍🏻",
+          "sentiment": "Bullish",
+          "user": "Graduate",
+          "followers": 81,
+          "created_at": "2026-10-27T00:05:27Z"
+        }
+      ],
+      "error": null
+    },
+    "QCOM": {
+      "message_count": 30,
+      "bullish": 2,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "$QCOM NOV20 185C · still actionable\n\nZone: $178.34 to $180.86\nInvalidation: close under $175.48\nObjectives: $185, then $190\n\nThe math: up 3.0% to the first objective and 5.8% to the second, against 2.3% risk on the invalidation, better than",
+          "sentiment": null,
+          "user": "TopOptionAlert",
+          "followers": 414,
+          "created_at": "2026-10-26T22:57:01Z"
+        },
+        {
+          "body": "$QCOM going back to $200+ 🚀🐂😤",
+          "sentiment": null,
+          "user": "Cryptojoe9",
+          "followers": 160,
+          "created_at": "2026-10-26T22:52:51Z"
+        },
+        {
+          "body": "$QCOM",
+          "sentiment": "Bullish",
+          "user": "van2004",
+          "followers": 2,
+          "created_at": "2026-10-26T22:39:31Z"
+        },
+        {
+          "body": "$QCOM is a semi name that has been suppressed this year, only up 3% YTD while semi names are up tremendously like $AMD at +143% YTD, $INTC at +140%, and $MU at +206%. \n \nWatch for a break out of this symmetrical triangle into the end of the",
+          "sentiment": null,
+          "user": "theoptionsplug",
+          "followers": 3780,
+          "created_at": "2026-10-26T21:48:04Z"
+        },
+        {
+          "body": "Momentum alert on $QCOM  \n \nMACD bullishly converging and breaking out of a tight channel it has traded in, in October. \n \nworth noting that it held strong when the market sold off.",
+          "sentiment": null,
+          "user": "GameplanWallst",
+          "followers": 29,
+          "created_at": "2026-10-26T21:19:40Z"
+        }
+      ],
+      "error": null
+    },
+    "AMD": {
+      "message_count": 30,
+      "bullish": 10,
+      "bearish": 2,
+      "bull_ratio": 83.0,
+      "sample": [
+        {
+          "body": "$AMD $550 after ER party??? Asking for my motivational speaker friend…",
+          "sentiment": null,
+          "user": "TaxiTravisBickle",
+          "followers": 89,
+          "created_at": "2026-10-27T00:03:03Z"
+        },
+        {
+          "body": "$NVDA $AMD $MU $SKHY $SMCI Moving right along into the overnight. Today was a good day.",
+          "sentiment": "Bullish",
+          "user": "Flickted",
+          "followers": 227,
+          "created_at": "2026-10-27T00:01:28Z"
+        },
+        {
+          "body": "$AMD 800+ incoming",
+          "sentiment": null,
+          "user": "Daddywarbucks27",
+          "followers": 72,
+          "created_at": "2026-10-26T23:53:53Z"
+        },
+        {
+          "body": "$AMD way too high",
+          "sentiment": "Bearish",
+          "user": "SayGreat",
+          "followers": 1251,
+          "created_at": "2026-10-26T23:39:51Z"
+        },
+        {
+          "body": "$TSLA $NVDA  $AMD  calls literally last Friday and had a decent return in just a day :)",
+          "sentiment": null,
+          "user": "SpicyRich",
+          "followers": 15,
+          "created_at": "2026-10-26T23:39:43Z"
+        }
+      ],
+      "error": null
+    },
+    "TXN": {
+      "message_count": 30,
+      "bullish": 5,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "$TXN making a run at that 294 gap",
+          "sentiment": null,
+          "user": "Bmdubb",
+          "followers": 20,
+          "created_at": "2026-10-26T15:22:01Z"
+        },
+        {
+          "body": "$TXN holding up well for semiconductor right now… MAs are tightly aligned under price and all sloping upward…",
+          "sentiment": null,
+          "user": "InvestorWisdom",
+          "followers": 748,
+          "created_at": "2026-10-26T14:53:18Z"
+        },
+        {
+          "body": "$TXN Keep chugging been a gem",
+          "sentiment": null,
+          "user": "Iwannagofast1",
+          "followers": 383,
+          "created_at": "2026-10-26T13:46:32Z"
+        },
+        {
+          "body": "I mentioned $TXN  on @traderTVLIVE last Tuesday and again in the wknd video.   \n \nNo position yet for me but that is likely to change this week, worst case stop below last week low (red arrow) \n \nchart from @Marketsurge",
+          "sentiment": null,
+          "user": "alphatrends",
+          "followers": 247575,
+          "created_at": "2026-10-26T13:15:34Z"
+        },
+        {
+          "body": "$HE A starter position and a fully built position can both be called “bullish.” They carry very different exposure. \n \nIn this week’s review, I explain our move from 25% to 40% of the intended HE allocation using the Conviction Meter. \n \nTh",
+          "sentiment": null,
+          "user": "contrariantrade",
+          "followers": 1373,
+          "created_at": "2026-10-24T22:28:02Z"
+        }
+      ],
+      "error": null
+    },
+    "ASML": {
+      "message_count": 30,
+      "bullish": 4,
+      "bearish": 2,
+      "bull_ratio": 67.0,
+      "sample": [
+        {
+          "body": "$ASML NOV20 1630C · still actionable\n\nZone: $1585.90 to $1608.26\nInvalidation: close under $1570\nObjectives: $1660, then $1740\n\nThe math: up 3.9% to the first objective and 8.9% to the second, against 1.7% risk on the invalidation, better t",
+          "sentiment": null,
+          "user": "TopOptionAlert",
+          "followers": 414,
+          "created_at": "2026-10-26T18:34:10Z"
+        },
+        {
+          "body": "$NVDA $LRCX $ASML $AVGO $SPCX",
+          "sentiment": "Bullish",
+          "user": "AlphaBull_10M",
+          "followers": 2484,
+          "created_at": "2026-10-26T15:02:20Z"
+        },
+        {
+          "body": "$ASML Contradiction here...just the other day you said &quot;death of AI&quot; now you are bullish on an AI stock chart 🤔 You bullish or bearish or in between?",
+          "sentiment": "Bullish",
+          "user": "TribalSublime",
+          "followers": 160,
+          "created_at": "2026-10-26T14:28:38Z"
+        },
+        {
+          "body": "$ASML A misunderstanding here, my friend.  The beasts in the AI space will only grow stronger.  In danger are the deep-in-debt no-earnings group (think $CRWV, $IREN, even $NBIS).  Important distinction to make.   \n \nSame movie was playing i",
+          "sentiment": null,
+          "user": "Dr_Stoxx",
+          "followers": 135693,
+          "created_at": "2026-10-26T13:27:16Z"
+        },
+        {
+          "body": "$ASML ← A solid company for sure that is fully contributing to the AI boom.  Without ASML, advance chip making is not possible.  \n \nThat said, don&#39;t trust this incosistent and contradictory fool.   He&#39;s been proudly calling for &quo",
+          "sentiment": null,
+          "user": "AlphaBull_10M",
+          "followers": 2484,
+          "created_at": "2026-10-26T13:09:20Z"
+        }
+      ],
+      "error": null
+    },
+    "LRCX": {
+      "message_count": 30,
+      "bullish": 10,
+      "bearish": 1,
+      "bull_ratio": 91.0,
+      "sample": [
+        {
+          "body": "$LRCX NOV20 245C · in play\n\nZone: $235.84 to $239.16\nInvalidation: close under $230\nObjectives: $250, then $265\n\nThe math: up 5.3% to the first objective and 11.6% to the second, against 3.2% risk on the invalidation, better than 3 to 1 to ",
+          "sentiment": null,
+          "user": "TopOptionAlert",
+          "followers": 414,
+          "created_at": "2026-10-26T21:42:56Z"
+        },
+        {
+          "body": "$LRCX In Manhattan having lunch now. At the martini luncheon, the market makers—the structural liquidity providers, option writers, and order-flow desk heads—are looking at Lam through a very different lens than standard portfolio managers.",
+          "sentiment": "Bullish",
+          "user": "skcots_13",
+          "followers": 225,
+          "created_at": "2026-10-26T15:48:57Z"
+        },
+        {
+          "body": "$LRCX In the grand physics of the market, your &quot;short positions&quot; are merely a demonstration of the Theory of Relativity. To a bear, a falling stock looks like a collapse. But to a physicist, it is simply a compression of a spring,",
+          "sentiment": "Bullish",
+          "user": "skcots_13",
+          "followers": 225,
+          "created_at": "2026-10-26T15:30:58Z"
+        },
+        {
+          "body": "$LRCX Let us observe LRCX, a fascinating entity moving through the space-time of the market. Its bull case reveals a magnificent acceleration driven by a beautiful expansion in Wafer Fab Equipment (WFE) spending: \n• 2026 Baseline: A stable ",
+          "sentiment": "Bullish",
+          "user": "skcots_13",
+          "followers": 225,
+          "created_at": "2026-10-26T15:27:35Z"
+        },
+        {
+          "body": "$NVDA $LRCX $ASML $AVGO $SPCX",
+          "sentiment": "Bullish",
+          "user": "AlphaBull_10M",
+          "followers": 2484,
+          "created_at": "2026-10-26T15:02:20Z"
+        }
+      ],
+      "error": null
+    },
+    "KLAC": {
+      "message_count": 30,
+      "bullish": 9,
+      "bearish": 1,
+      "bull_ratio": 90.0,
+      "sample": [
+        {
+          "body": "$KLAC whimpy action today and of late.\nHolding bags of $204 shares.",
+          "sentiment": null,
+          "user": "NatasKapus",
+          "followers": 17,
+          "created_at": "2026-10-26T23:22:49Z"
+        },
+        {
+          "body": "$KLAC AH&#39;s is moving all the metrology giants right now- news on the cusp.",
+          "sentiment": null,
+          "user": "Whiskeyunderthebed",
+          "followers": 236,
+          "created_at": "2026-10-26T22:40:38Z"
+        },
+        {
+          "body": "$KLAC who thinks we raise up after earnings ??",
+          "sentiment": null,
+          "user": "Dimi1",
+          "followers": 4,
+          "created_at": "2026-10-26T22:24:20Z"
+        },
+        {
+          "body": "$KLAC KLAC good. Me like KLAC. Stock make strong grunt. Me see many smart money-men say buy. Consensus Moderate Buy / Buy. Average price target around $230ISH. That much higher than now price near $145–150. Big upside possible. Ooga.  \n \nKL",
+          "sentiment": "Bullish",
+          "user": "skcots_13",
+          "followers": 225,
+          "created_at": "2026-10-26T20:09:05Z"
+        },
+        {
+          "body": "$KLAC grabbed 100 shares this morning at $148",
+          "sentiment": null,
+          "user": "Whiskeyunderthebed",
+          "followers": 236,
+          "created_at": "2026-10-26T15:24:59Z"
+        }
+      ],
+      "error": null
+    },
+    "SNDK": {
+      "message_count": 30,
+      "bullish": 15,
+      "bearish": 0,
+      "bull_ratio": 100.0,
+      "sample": [
+        {
+          "body": "$SNDK 1350 tomorrow please...",
+          "sentiment": "Bullish",
+          "user": "zepga1",
+          "followers": 114,
+          "created_at": "2026-10-27T00:01:34Z"
+        },
+        {
+          "body": "$SNDK when Scam Street is not hammering this it actually looks normal",
+          "sentiment": null,
+          "user": "ZenTraderz",
+          "followers": 5,
+          "created_at": "2026-10-26T23:38:07Z"
+        },
+        {
+          "body": "$AMD $SNDK $MU $NVDA \n\nhttps://finance.yahoo.com/technology/articles/elon-musk-admits-no-idea-135509607.html\n\nhttps://www.facebook.com/share/1A259K7unq/?mibextid=wwXIfr",
+          "sentiment": "Bullish",
+          "user": "hyde1634",
+          "followers": 125,
+          "created_at": "2026-10-26T23:05:19Z"
+        },
+        {
+          "body": "$MU $QQQ $SNDK $SPY \nhttps://seekingalpha.com/article/4957455-micron-i-was-bearish-before-but-this-call-may-be-even-more-controversial-upgrade",
+          "sentiment": null,
+          "user": "Maribor",
+          "followers": 74,
+          "created_at": "2026-10-26T22:31:18Z"
+        },
+        {
+          "body": "$MU and $SNDK ripping \n \n$SPY $QQQ",
+          "sentiment": null,
+          "user": "ASM",
+          "followers": 3362,
+          "created_at": "2026-10-26T22:23:00Z"
+        }
+      ],
+      "error": null
+    },
+    "MSFT": {
+      "message_count": 30,
+      "bullish": 6,
+      "bearish": 3,
+      "bull_ratio": 67.0,
+      "sample": [
+        {
+          "body": "$MSFT sold my position. Will look to buy back on the post earning dip",
+          "sentiment": "Bullish",
+          "user": "Uptowncheesecake",
+          "followers": 55,
+          "created_at": "2026-10-27T00:08:30Z"
+        },
+        {
+          "body": "$MSFT",
+          "sentiment": "Bullish",
+          "user": "Realmadridda84",
+          "followers": 0,
+          "created_at": "2026-10-27T00:04:40Z"
+        },
+        {
+          "body": "$MSFT I could see a gap up on this one after earnings then failure being a key event this week. Take the $550 level out then fail it back to the downside.\n\nIf you haven’t joined my channel click the link in my bio, thats where all the magic",
+          "sentiment": null,
+          "user": "ApexEquityVault",
+          "followers": 203,
+          "created_at": "2026-10-27T00:03:18Z"
+        },
+        {
+          "body": "Finally one of the hyperscalers is outperforming SPY YTD, and that&#39;s  \n■ $MSFT with +12.61% gain \n■ SPY +12.03% \n■ $AMZN +9.97% \n■ $SPCX +8.81% \n■ $GOOGL +.52% \n■ $META -3.05% \n■ ORCL -35.58%",
+          "sentiment": "Bullish",
+          "user": "AlphaBull_10M",
+          "followers": 2484,
+          "created_at": "2026-10-26T23:51:08Z"
+        },
+        {
+          "body": "$MSFT $QQQ $VTI $DIA $SPY  \n&quot;Microsoft CEO Satya Nadella: &#39;We have to do something useful with AI, or we&#39;ll quickly lose social permission&#39; &quot; \n \nOh, they already lost the social permission.  It is patronizing he preten",
+          "sentiment": "Bearish",
+          "user": "flywithfitz81",
+          "followers": 935,
+          "created_at": "2026-10-26T23:48:01Z"
+        }
+      ],
+      "error": null
+    }
+  },
+  "reddit": {},
+  "rss": []
+}
