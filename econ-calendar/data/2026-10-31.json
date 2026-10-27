@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "asOf": "Sun, Oct 25, 2026",
+  "asOf": "Mon, Oct 26, 2026",
   "events": [
     {
       "date": "2026-10-31",
@@ -647,7 +647,7 @@
       "event": "FX Reserves, USD",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "721.02B",
       "description": "International reserves are used to settle balance of payments deficits between countries. International reserves are made up of foreign currency assets, gold, holdings of SDRs and reserve position in the IMF.Usually includes foreign currencies themselves, other assets denominated in foreign currencies, and particular amount of special drawing rights (SDRs). A foreign exchange reserve is a useful precaution for countries exposed to financial crises. It can be used for the purpose of intervening in the exchange market to influence or peg the exchange rate.</BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false
     },
@@ -672,6 +672,28 @@
       "previous": "69.3%",
       "description": "Debt-to-GDP ratio is one of the indicators of the health of an economy. It is the amount of national debt of a country as a percentage of its Gross Domestic Product (GDP). A low debt-to-GDP ratio indicates an economy that produces a large number of goods and services and probably profits that are high enough to pay back debts. </BR></BR>A higher than expected reading should be taken as negative/bearish for the BRL , while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-31",
+      "time_gmt": "07:30",
+      "country": "Brazil",
+      "event": "Budget Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-116.000B",
+      "description": "Brazil's consolidated public sector comprises the Central Government, regional governments and public enterprises. The nominal (fiscal) budget balance includesdebt servicing costs. For calculation of the nominal result, nominal interest ofthe federal government is included on an accrual basis. Fiscal statistics presented according to the \"above the line\" criterion applied by the National Treasury Secretariat to consolidate, compile and produce the data.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-10-31",
+      "time_gmt": "07:30",
+      "country": "Brazil",
+      "event": "Budget Surplus",
+      "actual": "",
+      "consensus": "",
+      "previous": "-10.000B",
+      "description": "Brazil's consolidated public sector comprises the Central Government, regional governments and public enterprises. The primary budget balance excludes debt servicing costs (payments of interest and amortizations of the public debt, as well as state and municipal loans). Moreover, the following items are excluded from the calculation of the primary result: interest, earnings on deposits, privatization revenues, cash and credit operations. Fiscal statistics presented according to the \"above the line\" criterion applied by the National Treasury Secretariat to consolidate, compile and produce the data.",
+      "high_impact": false
     },
     {
       "date": "2026-10-31",
@@ -757,7 +779,7 @@
       "event": "GDP",
       "actual": "",
       "consensus": "0.0%",
-      "previous": "0.2%",
+      "previous": "0.0%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
