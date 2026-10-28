@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "asOf": "Mon, Oct 26, 2026",
+  "asOf": "Tue, Oct 27, 2026",
   "events": [
     {
       "date": "2026-10-29",
@@ -8,7 +8,7 @@
       "country": "Germany",
       "event": "GfK German Consumer Climate",
       "actual": "",
-      "consensus": "-30.0",
+      "consensus": "-30.1",
       "previous": "-30.6",
       "description": "The Gfk German Consumer Climate Index measures the level of consumer confidence in economic activity. The data is compiled from a survey of about 2,000 consumers which asks respondents to rate the relative level of past and future economic conditions.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -250,7 +250,7 @@
       "country": "United States",
       "event": "Goods Trade Balance",
       "actual": "",
-      "consensus": "-130.80B",
+      "consensus": "-130.40B",
       "previous": "-132.07B",
       "description": "The goods trade balance is the difference in value between imported and exported goods during the reported month.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "0.4%",
+      "consensus": "0.5%",
       "previous": "0.5%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "asOf": "Mon, Oct 26, 2026",
+  "asOf": "Tue, Oct 27, 2026",
   "events": [
     {
       "date": "2026-11-02",
@@ -15,6 +15,17 @@
     },
     {
       "date": "2026-11-02",
+      "time_gmt": "20:00",
+      "country": "Australia",
+      "event": "MI Inflation Gauge",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.3%",
+      "description": "The Melbourne Institute (MI) Inflation Gauge measures the change in the price of goods and services purchased by consumers. The data is designed to mimic the quarterly government-released CPI data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-02",
       "time_gmt": "20:30",
       "country": "South Korea",
       "event": "S&P Global South Korea Manufacturing PMI",
@@ -23,6 +34,28 @@
       "previous": "53.9",
       "description": "The PMI index measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-02",
+      "time_gmt": "20:30",
+      "country": "South Korea",
+      "event": "S&P Global South Korea Manufacturing PMI",
+      "actual": "",
+      "consensus": "",
+      "previous": "53.9",
+      "description": "The PMI index measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.</BR>A higher than expected reading should be taken as positive/bullish for the KRW , while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-02",
+      "time_gmt": "20:30",
+      "country": "Australia",
+      "event": "ANZ Job Advertisements",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.2%",
+      "description": "The Australia and New Zealand Banking Group (ANZ) Job Advertisements report measures the change in the number of jobs advertised in the major daily newspapers and websites covering the capital cities. This report tends to have a greater impact when it is released ahead of government employment data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
     },
     {
       "date": "2026-11-02",
@@ -64,7 +97,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "",
-      "previous": "54.1",
+      "previous": "53.3",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector;  below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
     },

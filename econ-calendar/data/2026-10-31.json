@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "asOf": "Mon, Oct 26, 2026",
+  "asOf": "Tue, Oct 27, 2026",
   "events": [
     {
       "date": "2026-10-31",
@@ -100,28 +100,6 @@
       "previous": "6.8%",
       "description": "Exports free on board (f.o.b.) and Imports cost insurance freight (c.i.f.) are, in general, customs statistics reported under the general trade statistics according to the recommendations of the UN International Trade Statistics. For some countries Imports are reported as f.o.b. instead of c.i.f. which is generally accepted. When reporting Imports as f.o.b. you will have the effect ofreducing the value of Imports by the amount of the cost of insurance and freight.",
       "high_impact": false
-    },
-    {
-      "date": "2026-10-31",
-      "time_gmt": "03:00",
-      "country": "Spain",
-      "event": "Spanish GDP",
-      "actual": "",
-      "consensus": "0.6%",
-      "previous": "0.7%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-10-31",
-      "time_gmt": "03:00",
-      "country": "Spain",
-      "event": "Spanish GDP",
-      "actual": "",
-      "consensus": "",
-      "previous": "2.6%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR. This is the final reading",
-      "high_impact": true
     },
     {
       "date": "2026-10-31",
@@ -270,12 +248,23 @@
       "date": "2026-10-31",
       "time_gmt": "04:00",
       "country": "Spain",
-      "event": "Spanish Current account",
+      "event": "Spanish GDP",
+      "actual": "",
+      "consensus": "0.6%",
+      "previous": "0.7%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-10-31",
+      "time_gmt": "04:00",
+      "country": "Spain",
+      "event": "Spanish GDP",
       "actual": "",
       "consensus": "",
-      "previous": "5.91B",
-      "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": false
+      "previous": "2.6%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the EUR and a lower than expected number as negative to the EUR. This is the final reading",
+      "high_impact": true
     },
     {
       "date": "2026-10-31",
@@ -529,6 +518,17 @@
       "previous": "0.6%",
       "description": "",
       "high_impact": true
+    },
+    {
+      "date": "2026-10-31",
+      "time_gmt": "05:00",
+      "country": "Spain",
+      "event": "Spanish Current account",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.91B",
+      "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
     },
     {
       "date": "2026-10-31",
