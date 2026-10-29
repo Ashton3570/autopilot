@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "asOf": "Tue, Oct 27, 2026",
+  "asOf": "Wed, Oct 28, 2026",
   "events": [
     {
       "date": "2026-11-03",
@@ -8,8 +8,8 @@
       "country": "India",
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "54.9",
+      "consensus": "54.9",
+      "previous": "55.1",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
     },
@@ -118,8 +118,8 @@
       "country": "France",
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "49.3",
+      "consensus": "49.3",
+      "previous": "50.6",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -129,8 +129,8 @@
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "54.2",
+      "consensus": "54.2",
+      "previous": "53.9",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -140,8 +140,8 @@
       "country": "Euro Zone",
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "52.4",
+      "consensus": "52.4",
+      "previous": "52.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -162,8 +162,8 @@
       "country": "United Kingdom",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "52.8",
+      "consensus": "52.8",
+      "previous": "51.9",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -350,7 +350,7 @@
       "event": "3-Month Bill Auction",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "4.050%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
