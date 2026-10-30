@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "asOf": "Wed, Oct 28, 2026",
+  "asOf": "Thu, Oct 29, 2026",
   "events": [
     {
       "date": "2026-11-03",
@@ -130,7 +130,7 @@
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
       "consensus": "54.2",
-      "previous": "53.9",
+      "previous": "54.2",
       "description": "The German Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -207,7 +207,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "61.65K",
+      "previous": "12.70%",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -218,7 +218,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "12.70%",
+      "previous": "61.65K",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -367,6 +367,17 @@
     },
     {
       "date": "2026-11-03",
+      "time_gmt": "11:30",
+      "country": "United States",
+      "event": "Atlanta Fed GDPNow",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-03",
       "time_gmt": "12:15",
       "country": "United States",
       "event": "Fed Goolsbee Speaks",
@@ -374,6 +385,17 @@
       "consensus": "",
       "previous": "",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-03",
+      "time_gmt": "15:00",
+      "country": "United States",
+      "event": "Loan Officer Survey",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Survey of up to eighty large domestic banks and twenty-four U.S. branches and agencies of foreign banks. The Federal Reserve occasionally conducts one or two additional surveys during the year. Questions cover changes in the standards and terms of the banks' lending and the state of business and household demand for loans. The survey often includes questions on one or two other topics of current interest.",
       "high_impact": false
     },
     {
