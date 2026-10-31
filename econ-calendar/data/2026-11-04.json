@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "asOf": "Thu, Oct 29, 2026",
+  "asOf": "Fri, Oct 30, 2026",
   "events": [
     {
       "date": "2026-11-04",
@@ -246,6 +246,17 @@
     },
     {
       "date": "2026-11-04",
+      "time_gmt": "12:00",
+      "country": "Canada",
+      "event": "BoC Gov Macklem Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of Canada (BOC) Governor Tiff Macklem (June 2020 - June 2027) will speak. As head of the BOC's Governing Council, which controls key short-term interest rates, Macklem has more influence over the Canadian dollar's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\nHis comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-04",
       "time_gmt": "13:00",
       "country": "Germany",
       "event": "German Buba President Nagel Speaks",
@@ -361,7 +372,7 @@
       "event": "AIG Construction Index",
       "actual": "",
       "consensus": "",
-      "previous": "-34.5",
+      "previous": "-6.9",
       "description": "The Australian Industry Group (AIG) Construction Index rates the relative level of business conditions among construction companies. On the index, a reading above 50 indicates industry expansion, below indicates contraction.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
     },
@@ -383,7 +394,7 @@
       "event": "S&P Global Manufacturing & Services PMI",
       "actual": "",
       "consensus": "47.70",
-      "previous": "51.30",
+      "previous": "47.70",
       "description": "",
       "high_impact": true
     },
@@ -407,6 +418,17 @@
       "consensus": "",
       "previous": "-15.2%",
       "description": "Monetary Base measures the change in the total amount of domestic currency in circulation and current account deposits held at the Bank of Japan. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-04",
+      "time_gmt": "20:00",
+      "country": "New Zealand",
+      "event": "ANZ Commodity Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.6%",
+      "description": "The ANZ Commodity Price Index measures the change in the selling price of exported commodities. Commodities exports comprise a major part of New Zealand's economy. The data also has an effect on the country's trade balance. The report is released monthly by ANZ, one of New Zealand's leading banking and financial services firms.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
     },
     {

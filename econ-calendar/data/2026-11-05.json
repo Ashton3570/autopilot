@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "asOf": "Thu, Oct 29, 2026",
+  "asOf": "Fri, Oct 30, 2026",
   "events": [
     {
       "date": "2026-11-05",
@@ -9,7 +9,7 @@
       "event": "HSBC India Services PMI",
       "actual": "",
       "consensus": "56.2",
-      "previous": "55.2",
+      "previous": "56.2",
       "description": "The Indian HSBC Services PMI is compiled by questionnaires sent to purchasing executives in around 350 private service sector companies. The panel has been carefully selected to accurately replicate the true structure of the services economy. Index and the Services Business Activity Index, and is based on original survey data collected from a representative panel of over 800 companies based in the Indian manufacturing and service sectors. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
     },
@@ -21,17 +21,6 @@
       "actual": "",
       "consensus": "56.70",
       "previous": "55.90",
-      "description": "",
-      "high_impact": true
-    },
-    {
-      "date": "2026-11-05",
-      "time_gmt": "03:15",
-      "country": "South Africa",
-      "event": "S&P Global Manufacturing PMI",
-      "actual": "",
-      "consensus": "",
-      "previous": "49.0",
       "description": "",
       "high_impact": true
     },
@@ -97,7 +86,7 @@
       "event": "HCOB France Services PMI",
       "actual": "",
       "consensus": "48.4",
-      "previous": "51.2",
+      "previous": "48.4",
       "description": "The French Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -130,7 +119,7 @@
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
       "consensus": "51.9",
-      "previous": "53.1",
+      "previous": "51.9",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies. Data is usually released on the third working day of each month. Each response is weighted \r\naccording to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month. From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).",
       "high_impact": true
     },
@@ -141,7 +130,7 @@
       "event": "HCOB Eurozone Services PMI",
       "actual": "",
       "consensus": "51.7",
-      "previous": "53.0",
+      "previous": "51.7",
       "description": "The Euro-zone Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of about 600 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -152,7 +141,7 @@
       "event": "S&P Global Composite PMI",
       "actual": "",
       "consensus": "53.1",
-      "previous": "52.0",
+      "previous": "53.1",
       "description": "The Composite PMI Index measures the activity level of purchasing managers in the both sectors. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -185,8 +174,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.2%",
-      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "previous": "2.5%",
+      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -196,8 +185,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.5%",
-      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "previous": "0.2%",
+      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -217,7 +206,7 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.9%",
       "previous": "3.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -633,17 +622,6 @@
       "date": "2026-11-05",
       "time_gmt": "13:30",
       "country": "Brazil",
-      "event": "CAGED Net Payroll Jobs",
-      "actual": "",
-      "consensus": "",
-      "previous": "165.83K",
-      "description": "Employment is the total number of persons above a specified age, who in a short reference period (e.g. a week or a day), were in paid employment or self-employment. Paid employment includes persons who worked in the reference period or who had a job but were temporarily absent from work. Self-employment \r\nincludes persons who either worked in the reference period or were temporarily absent from work.Series data show evolution of formal employment in Brazil. It is measured by the movements declared in CAGED - Cadastro Geral de Empregados e Desempregados (General Register of Employment and Unemployment) of the Ministry of Labour. There are separate series for thousands of admitted and dismissed employees per month (registered in CAGED), as well as for net, i.e. admitted less dismissed. Totals of admitted, dismissed and net are also broken down to eight main sectors of economic activity according to the IBGE.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-05",
-      "time_gmt": "13:30",
-      "country": "Brazil",
       "event": "Foreign Exchange Flows",
       "actual": "",
       "consensus": "",
@@ -721,11 +699,33 @@
       "date": "2026-11-05",
       "time_gmt": "20:30",
       "country": "Japan",
+      "event": "Manufacturing & Services PMI",
+      "actual": "",
+      "consensus": "",
+      "previous": "52.30",
+      "description": "",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-05",
+      "time_gmt": "20:30",
+      "country": "Japan",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "53.3",
       "previous": "54.1",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector;  below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-05",
+      "time_gmt": "20:30",
+      "country": "Japan",
+      "event": "S&P Global Services PMI",
+      "actual": "",
+      "consensus": "",
+      "previous": "51.3",
+      "description": "The survey covers transport & communication, financial intermediation, business services, personal services, computing & IT and hotels & restaurants. Each response received is weighted according to the size of the company to which the questionnaire refers & the contribution to total service sector output accounted for by the sub-sector to which that company belongs.This therefore ensures that replies from larger companies have a greater impact on the final index numbers than replies from small companies.The results are presented by question asked, showing the % of respondents reporting an improvement, deterioration or no-change since the previous month.From these %, an index is derived such that a level of\r\n50.0 signals no-change since the previous month.Above 50.0 signals an increase (or improvement),below 50.0 a decrease(or deterioration).The greater the divergence from 50.0, the greater the rate of change signaled.",
       "high_impact": true
     },
     {
