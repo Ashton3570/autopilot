@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "asOf": "Fri, Oct 30, 2026",
+  "asOf": "Sat, Oct 31, 2026",
   "events": [
     {
       "date": "2026-11-06",
@@ -41,7 +41,7 @@
       "country": "Germany",
       "event": "German Factory Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.9%",
       "previous": "-10.6%",
       "description": "German Factory Orders measures the change in the total value of new purchase orders placed with manufacturers for both durable and non-durable goods. It is a leading indicator of production.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -63,9 +63,31 @@
       "country": "France",
       "event": "French Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "-0.3%",
       "description": "French Industrial Production measures the change in the total inflation-adjusted value of output produced by French manufacturers, mines, and utilities.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "04:05",
+      "country": "Euro Zone",
+      "event": "ECB's Schnabel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Isabel Schnabel, member of the Executive Board of the European Central Bank, is set to speak. Her speeches often contain indications on the future possible direction of monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "04:25",
+      "country": "Euro Zone",
+      "event": "ECB Supervisory Board Member Tuominen Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -96,7 +118,7 @@
       "country": "Switzerland",
       "event": "Unemployment Rate s.a.",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.1%",
       "previous": "3.1%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous month.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the CHF, while a lower than expected reading should be taken as positive/bullish for the CHF.",
       "high_impact": true
@@ -173,7 +195,7 @@
       "country": "Italy",
       "event": "Italian Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.1%",
       "previous": "0.3%",
       "description": "Italian Retail Sales measures the change in the total value of sales at the retail level.\r\nIt is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR,\r\nwhile a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -195,10 +217,21 @@
       "country": "United Kingdom",
       "event": "S&P Global Construction PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "46.5",
       "previous": "46.1",
       "description": "The Chartered Institute of Purchasing and Supply (CIPS) Construction Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the construction industry. A reading above 50 indicates expansion in the construction industry; a reading below indicates contraction. It gives an indication about the health of the construction section in the UK.\r\nTraders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "05:30",
+      "country": "United States",
+      "event": "Challenger Job Cuts",
+      "actual": "",
+      "consensus": "",
+      "previous": "43.281K",
+      "description": "Challenger Job Cuts, released by Challenger, Grey & Christmas monthly, provides information on the number of announced corporate layoffs by industry and region. The report is an indicator used by investors to determine the strength of the labor market. A lower than expected number should be taken as positive to the USD, while a higher than expected number as negative",
+      "high_impact": false
     },
     {
       "date": "2026-11-06",
@@ -261,7 +294,7 @@
       "country": "Euro Zone",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.6%",
       "previous": "1.9%",
       "description": "The Producer Price Index (PPI) measures the change in the price of goods sold by manufacturers. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -286,17 +319,6 @@
       "consensus": "",
       "previous": "-19.9%",
       "description": "Challenger Job Cuts measures the change in the number of job cuts announced by employers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-06",
-      "time_gmt": "06:30",
-      "country": "United States",
-      "event": "Challenger Job Cuts",
-      "actual": "",
-      "consensus": "",
-      "previous": "43.281K",
-      "description": "Challenger Job Cuts, released by Challenger, Grey & Christmas monthly, provides information on the number of announced corporate layoffs by industry and region. The report is an indicator used by investors to determine the strength of the labor market. A lower than expected number should be taken as positive to the USD, while a higher than expected number as negative",
       "high_impact": false
     },
     {
@@ -372,7 +394,7 @@
       "event": "Industrial Production",
       "actual": "",
       "consensus": "",
-      "previous": "-0.6%",
+      "previous": "-1.2%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
     },
@@ -383,7 +405,7 @@
       "event": "Industrial Production",
       "actual": "",
       "consensus": "",
-      "previous": "-1.2%",
+      "previous": "-0.6%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
     },
@@ -459,7 +481,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "197K",
       "previous": "194K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -481,7 +503,7 @@
       "country": "United States",
       "event": "Nonfarm Productivity",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.8%",
       "previous": "1.4%",
       "description": "Nonfarm Productivity measures the annualized change in labor efficiency when producing goods and services, excluding the farming industry. Productivity and labor-related inflation are directly linked-a drop in a worker's productivity is equivalent to a rise in their wage.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -492,7 +514,7 @@
       "country": "United States",
       "event": "Unit Labor Costs",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "1.2%",
       "description": "Unit Labor Costs measure the annualized change in the price businesses pay for labor, excluding the farming industry. It is a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -517,6 +539,28 @@
       "consensus": "",
       "previous": "80B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "11:30",
+      "country": "Canada",
+      "event": "BoC Gov Macklem Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of Canada (BOC) Governor Tiff Macklem (June 2020 - June 2027) will speak. As head of the BOC's Governing Council, which controls key short-term interest rates, Macklem has more influence over the Canadian dollar's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\nHis comments may determine a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "11:40",
+      "country": "Euro Zone",
+      "event": "ECB's Lane Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Philip R. Lane, member of the Executive Board of the European Central Bank, is set to speak. His speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -591,7 +635,7 @@
       "country": "Japan",
       "event": "Average Cash Earnings",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.8%",
       "previous": "3.8%",
       "description": "Average Cash Earnings measures the change in employment income, including bonuses and overtime pay. Higher income is positive for consumption.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
@@ -616,6 +660,28 @@
       "consensus": "",
       "previous": "4.90%",
       "description": "Wages and salaries are defined as \"the total remuneration, in cash or in kind, payable to all persons counted on the payroll (including homeworkers), in returnfor work done during the accounting period\" regardless of whether it is paid on the basis of working time, output or piecework and whether it is paid regularly or not.Non-scheduled cash earnings are the wages paid for work performed outsidescheduled working hours, and on days off or night work, that is allowances for working outside work hours, night work, early morning work, and overnight duty.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Bonds Buying",
+      "actual": "",
+      "consensus": "",
+      "previous": "-92.6B",
+      "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-06",
+      "time_gmt": "19:50",
+      "country": "Japan",
+      "event": "Foreign Investments in Japanese Stocks",
+      "actual": "",
+      "consensus": "",
+      "previous": "1,180.9B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
       "high_impact": false
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "asOf": "Fri, Oct 30, 2026",
+  "asOf": "Sat, Oct 31, 2026",
   "events": [
     {
       "date": "2026-11-05",
@@ -20,7 +20,7 @@
       "event": "HSBC Manufacturing & Services PMI",
       "actual": "",
       "consensus": "56.70",
-      "previous": "55.90",
+      "previous": "56.70",
       "description": "",
       "high_impact": true
     },
@@ -30,7 +30,7 @@
       "country": "Spain",
       "event": "Spanish Unemployment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "25.3K",
       "previous": "23.6K",
       "description": "Spanish Unemployment Change measures the change in the number of unemployed people during the previous month.\r\n\r\nA higher than expected reading should be taken as negative/bearish for the EUR, while lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "Spain",
       "event": "HCOB Spain Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "57.5",
       "previous": "58.3",
       "description": "The Spanish Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of over 300 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -63,7 +63,7 @@
       "country": "Italy",
       "event": "HCOB Italy Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.0",
       "previous": "51.7",
       "description": "The Italian Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector.<br/><br/>The report is based on surveys of about 450 business executives in private sector services companies.<br/><br/>Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs.<BR/><BR/>Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). <BR/><BR/>Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -75,7 +75,7 @@
       "event": "HCOB France Composite PMI",
       "actual": "",
       "consensus": "48.4",
-      "previous": "51.1",
+      "previous": "48.4",
       "description": "The PMI monthly Composite Reports on Manufacturing and Services are based on surveys of over 300 business executives in private sector manufacturing companies and also 300 private sector services companies.Data is usually released on the third working day of each month.Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies.Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction).</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -152,7 +152,7 @@
       "event": "S&P Global Services PMI",
       "actual": "",
       "consensus": "53.1",
-      "previous": "52.1",
+      "previous": "53.1",
       "description": "The Services Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the services sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
     },
@@ -174,8 +174,8 @@
       "event": "Core CPI",
       "actual": "",
       "consensus": "",
-      "previous": "2.5%",
-      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "previous": "0.2%",
+      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -184,9 +184,9 @@
       "country": "Euro Zone",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "0.2%",
-      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "2.5%",
+      "previous": "2.5%",
+      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -206,7 +206,7 @@
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
-      "consensus": "3.9%",
+      "consensus": "4.0%",
       "previous": "3.8%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -305,7 +305,7 @@
       "country": "United States",
       "event": "ADP Nonfarm Employment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "68K",
       "previous": "90K",
       "description": "The ADP National Employment Report is a measure of the monthly change in non-farm, private employment, based on the payroll data of approximately 400,000 U.S. business clients. The release, two days ahead of government data, is a good predictor of the government's non-farm payroll report. The change in this indicator can be very volatile.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -330,6 +330,17 @@
       "consensus": "",
       "previous": "9.8%",
       "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-05",
+      "time_gmt": "09:20",
+      "country": "Euro Zone",
+      "event": "ECB's Lane Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Philip R. Lane, member of the Executive Board of the European Central Bank, is set to speak. His speeches often contain indications on the future possible direction of monetary policy.",
       "high_impact": false
     },
     {
@@ -360,7 +371,7 @@
       "country": "United States",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-107.90B",
       "previous": "-105.60B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -393,7 +404,7 @@
       "country": "Canada",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.80B",
       "previous": "4.20B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -470,7 +481,7 @@
       "country": "United States",
       "event": "ISM Non-Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.8",
       "previous": "54.9",
       "description": "The Institute of Supply Management (ISM) Non-Manufacturing Purchasing Managers' Index (PMI) (also known as the ISM Services PMI) report on Business, a composite index is calculated as an indicator of the overall economic condition for the non-manufacturing sector. The NMI is a composite index based on the diffusion indexes for four of the indicators with equal weights: Business Activity (seasonally adjusted), New Orders (seasonally adjusted), Employment (seasonally adjusted) and Supplier Deliveries. <br/><br/>A reading above 50 percent indicates the non-manufacturing sector economy is generally expanding; below 50 percent indicates the non-manufacturing sector is generally contracting. The Non-Manufacturing ISM Report on Business is based on data compiled from monthly replies to questions asked of more than 370 purchasing and supply executives in over 62 different industries representing nine divisions from the Standard Industrial Classification (SIC) categories. Membership of the Business Survey Committee is diversified by SIC category and is based on each industry contribution to Gross Domestic Product (GDP). <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -690,7 +701,7 @@
       "country": "Australia",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.960B",
       "previous": "0.495B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
@@ -701,7 +712,7 @@
       "country": "Japan",
       "event": "Manufacturing & Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "52.30",
       "previous": "52.30",
       "description": "",
       "high_impact": true
@@ -723,8 +734,8 @@
       "country": "Japan",
       "event": "S&P Global Services PMI",
       "actual": "",
-      "consensus": "",
-      "previous": "51.3",
+      "consensus": "52.0",
+      "previous": "52.0",
       "description": "The survey covers transport & communication, financial intermediation, business services, personal services, computing & IT and hotels & restaurants. Each response received is weighted according to the size of the company to which the questionnaire refers & the contribution to total service sector output accounted for by the sub-sector to which that company belongs.This therefore ensures that replies from larger companies have a greater impact on the final index numbers than replies from small companies.The results are presented by question asked, showing the % of respondents reporting an improvement, deterioration or no-change since the previous month.From these %, an index is derived such that a level of\r\n50.0 signals no-change since the previous month.Above 50.0 signals an increase (or improvement),below 50.0 a decrease(or deterioration).The greater the divergence from 50.0, the greater the rate of change signaled.",
       "high_impact": true
     },

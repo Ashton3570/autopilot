@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "asOf": "Fri, Oct 30, 2026",
+  "asOf": "Sat, Oct 31, 2026",
   "events": [
     {
       "date": "2026-11-04",
@@ -30,7 +30,7 @@
       "country": "Switzerland",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.0%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -41,7 +41,7 @@
       "country": "Switzerland",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.3%",
       "previous": "1.0%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -206,7 +206,7 @@
       "country": "United States",
       "event": "Factory Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.2%",
       "previous": "0.1%",
       "description": "Factory Orders measures the change in the total value of new purchase orders placed with manufacturers. The report also includes a revision of the Durable Goods Orders data released about a week earlier as well as data new data on non-durable goods orders.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -228,7 +228,7 @@
       "country": "United States",
       "event": "IBD/TIPP Economic Optimism",
       "actual": "",
-      "consensus": "",
+      "consensus": "46.2",
       "previous": "46.8",
       "description": "The Investor's Business Daily (IBD), TechnoMetrica Institute of Policy and Politics (TIPP) Economic Optimism Index rates the relative level of economic conditions, including six-month economic outlook, personal financial outlook and confidence in federal economic policies. A level above 50.0 indicates optimism; below indicates pessimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -239,7 +239,7 @@
       "country": "United States",
       "event": "JOLTS Job Openings",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.110M",
       "previous": "7.079M",
       "description": "A survey done by the US Bureau of Labor Statistics to help measure job vacancies. It collects data from employers about their businesses' employment, job openings, recruitment, hires and separations. <BR/>\nJOLTS defines Job Openings as all positions that are open (not filled) on the last business day of the month. A job is \"open\" only if it meets all three of the following conditions: <BR/>\n1. A specific position exists and there is work available for that position. <BR/>\n2. The job could start within 30 days, whether or not the establishment finds a suitable candidate during that time. <BR/>\n3. There is active recruiting for workers from outside the establishment location that has the opening. <BR/>\nA reading that is stronger than forecast is generally supportive (bullish) for the USD,  while a weaker than forecast reading is generally negative (bearish) for the USD.",
       "high_impact": false
@@ -316,7 +316,7 @@
       "country": "New Zealand",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "0.5%",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
@@ -327,7 +327,7 @@
       "country": "New Zealand",
       "event": "Labor Cost Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.5%",
       "previous": "0.7%",
       "description": "The Labor Cost Index measures the change in the price businesses pay for labor, excluding overtime. It is a leading indicator of consumer inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
@@ -360,7 +360,7 @@
       "country": "New Zealand",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.5%",
       "previous": "5.6%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous quarter.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the NZD, while a lower than expected reading should be taken as positive/bullish for the NZD.",
       "high_impact": true
@@ -405,7 +405,7 @@
       "event": "S&P Global Services PMI",
       "actual": "",
       "consensus": "47.8",
-      "previous": "51.9",
+      "previous": "47.8",
       "description": "The Australian Services Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the services sector. The report is based on surveys of over 300 business executives in private sector services companies. Each response is weighted according to the size of the company and its contribution to total manufacturing or services output accounted for by the sub-sector to which that company belongs. Replies from larger companies have a greater impact on the final index numbers than those from small companies. Results are presented by question asked, showing the percentage of respondents reporting an improvement, deterioration or no change since the previous month.From these percentages, an index is derived: a level of 50.0 signals no change since the previous month, above 50.0 signals an increase (or improvement), below 50.0 a decrease (or contraction). Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD , while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
     },
@@ -415,7 +415,7 @@
       "country": "Japan",
       "event": "Monetary Base",
       "actual": "",
-      "consensus": "",
+      "consensus": "-14.0%",
       "previous": "-15.2%",
       "description": "Monetary Base measures the change in the total amount of domestic currency in circulation and current account deposits held at the Bank of Japan. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
@@ -459,7 +459,7 @@
       "country": "China",
       "event": "RatingDog Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "51.5",
       "previous": "51.6",
       "description": "The Chinese RatingDog Services PMI is compiled by questionnaires sent to purchasing executives in over 400 private service sector companies. The panel has been carefully selected to accurately replicate the true structure of the services economy. The RatingDog Services PMI Index is developed for providing the most up-to-date possible indication of what is really happening in the private sector economy by tracking variables such as sales, employment, inventories and prices.</BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true

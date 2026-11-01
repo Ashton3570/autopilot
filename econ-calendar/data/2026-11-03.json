@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "asOf": "Fri, Oct 30, 2026",
+  "asOf": "Sat, Oct 31, 2026",
   "events": [
     {
       "date": "2026-11-03",
@@ -8,7 +8,7 @@
       "country": "India",
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
-      "consensus": "54.9",
+      "consensus": "54.7",
       "previous": "54.9",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -52,7 +52,7 @@
       "country": "Germany",
       "event": "German Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.4%",
       "previous": "1.3%",
       "description": "German Retail Sales measures the change in the total value of inflation-adjusted sales at the retail level, excluding automobiles and gas stations. It is the primary indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -85,7 +85,7 @@
       "country": "Switzerland",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.0%",
       "previous": "3.2%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "Spain",
       "event": "HCOB Spain Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "50.4",
       "previous": "51.0",
       "description": "The Spanish Manufacturing PMI is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy.When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 program. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI.</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -107,7 +107,7 @@
       "country": "Italy",
       "event": "HCOB Italy Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.9",
       "previous": "50.4",
       "description": "The Italian Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -218,7 +218,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "61.65K",
+      "previous": "12.70%",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -229,7 +229,7 @@
       "event": "Total Vehicle Sales",
       "actual": "",
       "consensus": "",
-      "previous": "12.70%",
+      "previous": "61.65K",
       "description": "Retail sales data represents total consumer purchase from retail stores. It provides valuable information about consumer spending which makes up the consumption part of GDP. The most volatile components like autos, gas prices and food prices are often removed from the report to show more underlying demand patterns as changes in sales in these categories are frequently a result of price changes. It is not adjusted for inflation. Spending on services is not included.Rising retail sales indicate stronger economic growth. However, if the increase is larger than forecast, it may be inflationary.",
       "high_impact": false
     },
@@ -295,7 +295,7 @@
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
       "consensus": "56.0",
-      "previous": "55.9",
+      "previous": "56.0",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.\r\n\r\nA higher than expected reading should be taken as positive/bullish for the USD while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
@@ -305,7 +305,7 @@
       "country": "United States",
       "event": "Construction Spending",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.9%",
       "description": "The Construction Spending index measures the change in the total amount spent on construction. The data is subject to large revisions and as such, this report rarely has any market impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -338,7 +338,7 @@
       "country": "United States",
       "event": "ISM Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.7",
       "previous": "54.5",
       "description": "The Institute of Supply Management (ISM) Manufacturing Purchasing Managers Index (PMI) Report on Business is based on data compiled from monthly replies to questions asked of purchasing and supply executives in over 400 industrial companies. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers Inventories, Employment, and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction and the negative economic direction and the diffusion index. Responses are raw data and are never changed. <br/><br/>The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive). The resulting single index number is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. <BR/><BR/>The PMI is a composite index based on the seasonally adjusted diffusion indices for five of the indicators with varying weights: New Orders --30% Production --25% Employment --20% Supplier Deliveries --15% and Inventories -- 10%. <br/><br/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -349,7 +349,7 @@
       "country": "United States",
       "event": "ISM Manufacturing Prices",
       "actual": "",
-      "consensus": "",
+      "consensus": "77.2",
       "previous": "77.9",
       "description": "The Institute of Supply Management (ISM) Manufacturing Purchasing Managers Index (PMI) Report on Business is based on data compiled from monthly replies to questions asked of purchasing and supply executives in over 400 industrial companies. For each of the indicators measured (New Orders, Backlog of Orders, New Export Orders, Imports, Production, Supplier Deliveries, Inventories, Customers Inventories, Employment, and Prices), this report shows the percentage reporting each response, the net difference between the number of responses in the positive economic direction and the negative economic direction and the diffusion index. Responses are raw data and are never changed. <br/><br/>The diffusion index includes the percent of positive responses plus one-half of those responding the same (considered positive). The resulting single index number is then seasonally adjusted to allow for the effects of repetitive intra-year variations resulting primarily from normal differences in weather conditions, various institutional arrangements, and differences attributable to non-moveable holidays. All seasonal adjustment factors are supplied by the U.S. Department of Commerce and are subject annually to relatively minor changes when conditions warrant them. <BR/><BR/>The PMI is a composite index based on the seasonally adjusted diffusion indices for five of the indicators with varying weights: New Orders --30% Production --25% Employment --20% Supplier Deliveries --15% and Inventories -- 10%. <br/><br/>The Prices Paid subcategory is a diffusion index calculated by adding the percent of responses indicating they paid more for inputs plus one-half of those responding that they paid the same for inputs. The resulting single index number is then seasonally adjusted.<BR/><BR/>The Prices Paid diffusion index is one of a number of indicators pointing to the degree of inflationary pressures in the economy. <br/><br/>\r\nA higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -419,6 +419,17 @@
       "previous": "5.6%",
       "description": "Building Consents (also known as Building Permits) measures the change in the number of new building consents issued by the government. Building consents are a key indicator of demand in the housing market.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": false
+    },
+    {
+      "date": "2026-11-03",
+      "time_gmt": "18:30",
+      "country": "United States",
+      "event": "Dallas Fed PCE",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.90%",
+      "description": "In any given month, the rate of inflation in a price index like the Consumer Price Index or Personal Consumption Expenditures (PCE) can be thought of as a weighted average, or mean, of the rates of change in the prices of all the goods and services that make up the index. Calculating the trimmed-mean PCE inflation rate for a given month involves looking at the price changes for each of the individual components of personal consumption expenditures. The individual price changes are sorted in ascending order from fell the most to rose the most, and a certain fraction of the most extreme observations at both ends of the spectrum are like a skaters best and worst marks thrown out, or trimmed. The inflation rate is then calculated as a weighted average of the remaining components. For the series presented here, 19.4 percent of the weight from the lower tail and 25.4 percent of the weight in the upper tail are trimmed. Those proportions have been chosen, based on historical data, to give the best fit between the trimmed-mean inflation rate and proxies for the true core PCE inflation rate. The resulting inflation measure has been shown to outperform the more conventional excluding food and energy measure as a gauge of core inflation.",
+      "high_impact": true
     },
     {
       "date": "2026-11-03",
