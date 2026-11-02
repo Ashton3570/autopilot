@@ -1,10 +1,10 @@
 {
   "date": "2026-11-06",
-  "asOf": "Sat, Oct 31, 2026",
+  "asOf": "Sun, Nov 1, 2026",
   "events": [
     {
       "date": "2026-11-06",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "Singapore",
       "event": "Retail Sales",
       "actual": "",
@@ -15,7 +15,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "Singapore",
       "event": "Retail Sales",
       "actual": "",
@@ -26,7 +26,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "02:00",
+      "time_gmt": "01:00",
       "country": "Russia",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "03:00",
+      "time_gmt": "02:00",
       "country": "Germany",
       "event": "German Factory Orders",
       "actual": "",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "03:15",
+      "time_gmt": "02:15",
       "country": "South Africa",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -59,7 +59,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "03:45",
+      "time_gmt": "02:45",
       "country": "France",
       "event": "French Industrial Production",
       "actual": "",
@@ -70,7 +70,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:05",
+      "time_gmt": "03:05",
       "country": "Euro Zone",
       "event": "ECB's Schnabel Speaks",
       "actual": "",
@@ -81,7 +81,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:25",
+      "time_gmt": "03:25",
       "country": "Euro Zone",
       "event": "ECB Supervisory Board Member Tuominen Speaks",
       "actual": "",
@@ -92,7 +92,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Italy",
       "event": "HCOB Italy Construction PMI",
       "actual": "",
@@ -103,7 +103,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Switzerland",
       "event": "Unemployment Rate n.s.a.",
       "actual": "",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Switzerland",
       "event": "Unemployment Rate s.a.",
       "actual": "",
@@ -125,7 +125,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Germany",
       "event": "HCOB Germany Construction PMI",
       "actual": "",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "France",
       "event": "HCOB France Construction PMI",
       "actual": "",
@@ -147,7 +147,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Euro Zone",
       "event": "HCOB Eurozone Construction PMI",
       "actual": "",
@@ -158,7 +158,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "United Kingdom",
       "event": "Car Registration",
       "actual": "",
@@ -169,7 +169,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "United Kingdom",
       "event": "United Kingdom New Passenger Cars Registration",
       "actual": "",
@@ -180,7 +180,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Retail Sales",
       "actual": "",
@@ -191,7 +191,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Retail Sales",
       "actual": "",
@@ -202,7 +202,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Russia",
       "event": "Russian Forex Intervention",
       "actual": "",
@@ -213,7 +213,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United Kingdom",
       "event": "S&P Global Construction PMI",
       "actual": "",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United States",
       "event": "Challenger Job Cuts",
       "actual": "",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United States",
       "event": "Challenger Job Cuts",
       "actual": "",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:40",
+      "time_gmt": "04:40",
       "country": "Spain",
       "event": "Spanish 10-Year Obligacion Auction",
       "actual": "",
@@ -257,7 +257,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:40",
+      "time_gmt": "04:40",
       "country": "Spain",
       "event": "Spanish 3-Year Bonos Auction",
       "actual": "",
@@ -268,7 +268,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "05:40",
+      "time_gmt": "04:40",
       "country": "Spain",
       "event": "Spanish 5-Year Bonos Auction",
       "actual": "",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "France",
       "event": "French 10-Year OAT Auction",
       "actual": "",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "PPI",
       "actual": "",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "PPI",
       "actual": "",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "06:30",
+      "time_gmt": "05:30",
       "country": "United States",
       "event": "Challenger Job Cuts",
       "actual": "",
@@ -323,7 +323,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "07:00",
+      "time_gmt": "06:00",
       "country": "Germany",
       "event": "German Car Registration",
       "actual": "",
@@ -334,7 +334,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United Kingdom",
       "event": "BoE MPC vote cut",
       "actual": "",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United Kingdom",
       "event": "BoE MPC vote hike",
       "actual": "",
@@ -356,7 +356,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United Kingdom",
       "event": "BoE MPC vote unchanged",
       "actual": "",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United Kingdom",
       "event": "BoE Interest Rate Decision",
       "actual": "",
@@ -378,7 +378,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United Kingdom",
       "event": "BoE MPC Meeting Minutes",
       "actual": "",
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "Brazil",
       "event": "Industrial Production",
       "actual": "",
@@ -400,7 +400,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "Brazil",
       "event": "Industrial Production",
       "actual": "",
@@ -411,7 +411,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:30",
+      "time_gmt": "07:30",
       "country": "United Kingdom",
       "event": "BoE Gov Bailey Speaks",
       "actual": "",
@@ -422,7 +422,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "08:40",
+      "time_gmt": "07:40",
       "country": "Switzerland",
       "event": "SNB Chairman Schlegel Speaks",
       "actual": "",
@@ -433,7 +433,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:00",
+      "time_gmt": "08:00",
       "country": "Brazil",
       "event": "S&P Global Composite PMI",
       "actual": "",
@@ -444,7 +444,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:00",
+      "time_gmt": "08:00",
       "country": "Brazil",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -455,7 +455,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:00",
+      "time_gmt": "08:00",
       "country": "Russia",
       "event": "Central Bank reserves (USD)",
       "actual": "",
@@ -466,7 +466,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Continuing Jobless Claims",
       "actual": "",
@@ -477,7 +477,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
@@ -488,7 +488,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Jobless Claims 4-Week Avg.",
       "actual": "",
@@ -499,7 +499,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Nonfarm Productivity",
       "actual": "",
@@ -510,7 +510,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Unit Labor Costs",
       "actual": "",
@@ -521,7 +521,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "10:10",
+      "time_gmt": "09:10",
       "country": "United States",
       "event": "FOMC Member Barkin Speaks",
       "actual": "",
@@ -532,7 +532,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Natural Gas Storage",
       "actual": "",
@@ -543,7 +543,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "Canada",
       "event": "BoC Gov Macklem Speaks",
       "actual": "",
@@ -554,7 +554,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "11:40",
+      "time_gmt": "10:40",
       "country": "Euro Zone",
       "event": "ECB's Lane Speaks",
       "actual": "",
@@ -565,7 +565,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "12:30",
+      "time_gmt": "11:30",
       "country": "United States",
       "event": "4-Week Bill Auction",
       "actual": "",
@@ -576,7 +576,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "12:30",
+      "time_gmt": "11:30",
       "country": "United States",
       "event": "8-Week Bill Auction",
       "actual": "",
@@ -587,7 +587,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "13:45",
+      "time_gmt": "12:45",
       "country": "Germany",
       "event": "German Buba President Nagel Speaks",
       "actual": "",
@@ -598,7 +598,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "14:00",
+      "time_gmt": "13:00",
       "country": "Euro Zone",
       "event": "ECB President Lagarde Speaks",
       "actual": "",
@@ -609,7 +609,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "17:30",
+      "time_gmt": "16:30",
       "country": "United States",
       "event": "Fed's Balance Sheet",
       "actual": "",
@@ -620,7 +620,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "17:30",
+      "time_gmt": "16:30",
       "country": "United States",
       "event": "Reserve Balances with Federal Reserve Banks",
       "actual": "",
@@ -631,7 +631,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "19:30",
+      "time_gmt": "18:30",
       "country": "Japan",
       "event": "Average Cash Earnings",
       "actual": "",
@@ -642,7 +642,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "19:30",
+      "time_gmt": "18:30",
       "country": "Japan",
       "event": "Overall wage income of employees",
       "actual": "",
@@ -653,7 +653,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "19:30",
+      "time_gmt": "18:30",
       "country": "Japan",
       "event": "Overtime Pay",
       "actual": "",
@@ -664,7 +664,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "19:50",
+      "time_gmt": "18:50",
       "country": "Japan",
       "event": "Foreign Bonds Buying",
       "actual": "",
@@ -675,7 +675,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "19:50",
+      "time_gmt": "18:50",
       "country": "Japan",
       "event": "Foreign Investments in Japanese Stocks",
       "actual": "",
@@ -686,7 +686,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "20:00",
+      "time_gmt": "19:00",
       "country": "United States",
       "event": "Fed Logan Speaks",
       "actual": "",
@@ -697,7 +697,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Japan",
       "event": "Manufacturing & Services PMI",
       "actual": "",
@@ -708,7 +708,7 @@
     },
     {
       "date": "2026-11-06",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Japan",
       "event": "S&P Global Services PMI",
       "actual": "",

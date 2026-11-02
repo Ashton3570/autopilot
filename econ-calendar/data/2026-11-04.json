@@ -1,43 +1,10 @@
 {
   "date": "2026-11-04",
-  "asOf": "Sat, Oct 31, 2026",
+  "asOf": "Sun, Nov 1, 2026",
   "events": [
     {
       "date": "2026-11-04",
-      "time_gmt": "00:30",
-      "country": "Australia",
-      "event": "RBA Monetary Policy Statement",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "The Reserve Bank of Australia's (RBA) quarterly monetary policy statement provides valuable insight into the bank's perspective on economic conditions and inflation.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-04",
-      "time_gmt": "00:30",
-      "country": "Australia",
-      "event": "RBA Rate Statement",
-      "actual": "",
-      "consensus": "",
-      "previous": "",
-      "description": "The Reserve Bank of Australia's (RBA) monthly rate statement contains the outcome of bank's interest rate decision and discusses the economic conditions that influenced the decision. It can also give investors clues to the outcome of future decisions.<BR/><BR/>A more dovish than expected statement could be taken as negative/bearish for the AUD, while a more hawkish than expected statement could be taken as positive/bullish for the AUD.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-04",
-      "time_gmt": "03:30",
-      "country": "Switzerland",
-      "event": "CPI",
-      "actual": "",
-      "consensus": "0.0%",
-      "previous": "0.0%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-11-04",
-      "time_gmt": "03:30",
+      "time_gmt": "02:30",
       "country": "Switzerland",
       "event": "CPI",
       "actual": "",
@@ -48,7 +15,18 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "03:45",
+      "time_gmt": "02:30",
+      "country": "Switzerland",
+      "event": "CPI",
+      "actual": "",
+      "consensus": "0.0%",
+      "previous": "0.0%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-04",
+      "time_gmt": "02:45",
       "country": "France",
       "event": "French Government Budget Balance",
       "actual": "",
@@ -59,7 +37,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Hong Kong",
       "event": "GDP",
       "actual": "",
@@ -70,7 +48,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Hong Kong",
       "event": "GDP",
       "actual": "",
@@ -81,7 +59,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "04:30",
+      "time_gmt": "03:30",
       "country": "Hong Kong",
       "event": "Retail Sales",
       "actual": "",
@@ -92,7 +70,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "05:40",
+      "time_gmt": "04:40",
       "country": "Spain",
       "event": "Spanish 12-Month Letras Auction",
       "actual": "",
@@ -103,7 +81,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "05:40",
+      "time_gmt": "04:40",
       "country": "Spain",
       "event": "Spanish 6-Month Letras Auction",
       "actual": "",
@@ -114,7 +92,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "06:30",
+      "time_gmt": "05:30",
       "country": "Germany",
       "event": "German 5-Year Bobl Auction",
       "actual": "",
@@ -125,7 +103,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "New Zealand",
       "event": "GlobalDairyTrade Price Index",
       "actual": "",
@@ -136,7 +114,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "New Zealand",
       "event": "Milk Auctions",
       "actual": "",
@@ -147,7 +125,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "09:00",
+      "time_gmt": "08:00",
       "country": "Brazil",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -158,7 +136,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "09:55",
+      "time_gmt": "08:55",
       "country": "United States",
       "event": "Redbook",
       "actual": "",
@@ -169,7 +147,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "10:45",
+      "time_gmt": "09:45",
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -180,7 +158,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "Durables Excluding Defense",
       "actual": "",
@@ -191,7 +169,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "Durables Excluding Transport",
       "actual": "",
@@ -202,7 +180,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "Factory Orders",
       "actual": "",
@@ -213,7 +191,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "Factory orders ex transportation",
       "actual": "",
@@ -224,7 +202,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "IBD/TIPP Economic Optimism",
       "actual": "",
@@ -235,7 +213,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "JOLTS Job Openings",
       "actual": "",
@@ -246,7 +224,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "12:00",
+      "time_gmt": "11:00",
       "country": "Canada",
       "event": "BoC Gov Macklem Speaks",
       "actual": "",
@@ -257,7 +235,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "13:00",
+      "time_gmt": "12:00",
       "country": "Germany",
       "event": "German Buba President Nagel Speaks",
       "actual": "",
@@ -268,7 +246,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "13:00",
+      "time_gmt": "12:00",
       "country": "France",
       "event": "French Car Registration",
       "actual": "",
@@ -279,7 +257,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "15:00",
+      "time_gmt": "14:00",
       "country": "United States",
       "event": "Total Vehicle Sales",
       "actual": "",
@@ -290,7 +268,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "16:30",
+      "time_gmt": "15:30",
       "country": "United States",
       "event": "API Weekly Crude Oil Stock",
       "actual": "",
@@ -301,7 +279,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:00",
+      "time_gmt": "16:00",
       "country": "South Korea",
       "event": "FX Reserves - USD",
       "actual": "",
@@ -312,7 +290,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Employment Change",
       "actual": "",
@@ -323,7 +301,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Labor Cost Index",
       "actual": "",
@@ -334,7 +312,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Labor Cost Index",
       "actual": "",
@@ -345,7 +323,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Participation Rate",
       "actual": "",
@@ -356,7 +334,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Unemployment Rate",
       "actual": "",
@@ -367,7 +345,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "18:00",
+      "time_gmt": "17:00",
       "country": "Australia",
       "event": "AIG Construction Index",
       "actual": "",
@@ -378,7 +356,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "18:00",
+      "time_gmt": "17:00",
       "country": "Australia",
       "event": "AIG Manufacturing Index",
       "actual": "",
@@ -389,7 +367,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "18:00",
+      "time_gmt": "17:00",
       "country": "Australia",
       "event": "S&P Global Manufacturing & Services PMI",
       "actual": "",
@@ -400,7 +378,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "18:00",
+      "time_gmt": "17:00",
       "country": "Australia",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -411,7 +389,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "19:50",
+      "time_gmt": "18:50",
       "country": "Japan",
       "event": "Monetary Base",
       "actual": "",
@@ -422,7 +400,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "20:00",
+      "time_gmt": "19:00",
       "country": "New Zealand",
       "event": "ANZ Commodity Price Index",
       "actual": "",
@@ -433,7 +411,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Hong Kong",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -444,7 +422,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "21:30",
+      "time_gmt": "20:30",
       "country": "Australia",
       "event": "RBA Chart Pack Release",
       "actual": "",
@@ -455,7 +433,7 @@
     },
     {
       "date": "2026-11-04",
-      "time_gmt": "21:45",
+      "time_gmt": "20:45",
       "country": "China",
       "event": "RatingDog Services PMI",
       "actual": "",

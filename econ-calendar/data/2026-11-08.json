@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-08",
+  "asOf": "Sun, Nov 1, 2026",
+  "events": [
+    {
+      "date": "2026-11-08",
+      "time_gmt": "03:00",
+      "country": "China",
+      "event": "FX Reserves (USD)",
+      "actual": "",
+      "consensus": "",
+      "previous": "3.400T",
+      "description": "Chinese FX Reserves measures the foreign assets held or controlled by the country's central bank. The reserves are made of gold or a specific currency. They can also be special drawing rights and marketable securities denominated in foreign currencies like treasury bills, government bonds, corporate bonds and equities and foreign currency loans. A higher than expected number should be taken as positive to the CNY while a lower than expected number as negative",
+      "high_impact": false
+    }
+  ]
+}

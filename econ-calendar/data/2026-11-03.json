@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
-  "asOf": "Sat, Oct 31, 2026",
+  "asOf": "Sun, Nov 1, 2026",
   "events": [
     {
       "date": "2026-11-03",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "India",
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
@@ -15,7 +15,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "Singapore",
       "event": "Business Expectations",
       "actual": "",
@@ -26,7 +26,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "01:30",
+      "time_gmt": "00:30",
       "country": "Australia",
       "event": "Commodity Prices",
       "actual": "",
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "02:00",
+      "time_gmt": "01:00",
       "country": "Russia",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "03:00",
+      "time_gmt": "02:00",
       "country": "Germany",
       "event": "German Retail Sales",
       "actual": "",
@@ -59,7 +59,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "03:00",
+      "time_gmt": "02:00",
       "country": "Germany",
       "event": "German Retail Sales",
       "actual": "",
@@ -70,7 +70,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "03:30",
+      "time_gmt": "02:30",
       "country": "Switzerland",
       "event": "procure.ch Manufacturing PMI",
       "actual": "",
@@ -81,7 +81,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "03:30",
+      "time_gmt": "02:30",
       "country": "Switzerland",
       "event": "Retail Sales",
       "actual": "",
@@ -92,7 +92,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "04:15",
+      "time_gmt": "03:15",
       "country": "Spain",
       "event": "HCOB Spain Manufacturing PMI",
       "actual": "",
@@ -103,7 +103,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "04:45",
+      "time_gmt": "03:45",
       "country": "Italy",
       "event": "HCOB Italy Manufacturing PMI",
       "actual": "",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "04:50",
+      "time_gmt": "03:50",
       "country": "France",
       "event": "HCOB France Manufacturing PMI",
       "actual": "",
@@ -125,7 +125,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "04:55",
+      "time_gmt": "03:55",
       "country": "Germany",
       "event": "HCOB Germany Manufacturing PMI",
       "actual": "",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Euro Zone",
       "event": "HCOB Eurozone Manufacturing PMI",
       "actual": "",
@@ -147,7 +147,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "South Africa",
       "event": "Manufacturing PMI",
       "actual": "",
@@ -158,7 +158,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United Kingdom",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -169,7 +169,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "07:00",
+      "time_gmt": "06:00",
       "country": "Spain",
       "event": "Car Registration",
       "actual": "",
@@ -180,7 +180,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "07:00",
+      "time_gmt": "06:00",
       "country": "Spain",
       "event": "Car Registration",
       "actual": "",
@@ -191,7 +191,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "07:25",
+      "time_gmt": "06:25",
       "country": "Brazil",
       "event": "BCB Focus Market Readout",
       "actual": "",
@@ -202,7 +202,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "Germany",
       "event": "German Buba President Nagel Speaks",
       "actual": "",
@@ -213,7 +213,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "08:15",
+      "time_gmt": "07:15",
       "country": "South Africa",
       "event": "Total Vehicle Sales",
       "actual": "",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "08:15",
+      "time_gmt": "07:15",
       "country": "South Africa",
       "event": "Total Vehicle Sales",
       "actual": "",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "09:00",
+      "time_gmt": "08:00",
       "country": "Singapore",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "10:00",
+      "time_gmt": "09:00",
       "country": "France",
       "event": "French 12-Month BTF Auction",
       "actual": "",
@@ -257,7 +257,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "10:00",
+      "time_gmt": "09:00",
       "country": "France",
       "event": "French 3-Month BTF Auction",
       "actual": "",
@@ -268,7 +268,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "10:00",
+      "time_gmt": "09:00",
       "country": "France",
       "event": "French 6-Month BTF Auction",
       "actual": "",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "10:30",
+      "time_gmt": "09:30",
       "country": "Canada",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "10:45",
+      "time_gmt": "09:45",
       "country": "United States",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "Construction Spending",
       "actual": "",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Manufacturing Employment",
       "actual": "",
@@ -323,7 +323,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Manufacturing New Orders Index",
       "actual": "",
@@ -334,7 +334,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Manufacturing PMI",
       "actual": "",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Manufacturing Prices",
       "actual": "",
@@ -356,7 +356,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "3-Month Bill Auction",
       "actual": "",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "6-Month Bill Auction",
       "actual": "",
@@ -378,18 +378,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "11:30",
-      "country": "United States",
-      "event": "Atlanta Fed GDPNow",
-      "actual": "",
-      "consensus": "3.2%",
-      "previous": "3.2%",
-      "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-03",
-      "time_gmt": "12:15",
+      "time_gmt": "11:15",
       "country": "United States",
       "event": "Fed Goolsbee Speaks",
       "actual": "",
@@ -400,7 +389,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "15:00",
+      "time_gmt": "14:00",
       "country": "United States",
       "event": "Loan Officer Survey",
       "actual": "",
@@ -411,7 +400,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "17:45",
+      "time_gmt": "16:45",
       "country": "New Zealand",
       "event": "Building Consents",
       "actual": "",
@@ -422,7 +411,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "18:30",
+      "time_gmt": "17:30",
       "country": "United States",
       "event": "Dallas Fed PCE",
       "actual": "",
@@ -433,7 +422,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "19:00",
+      "time_gmt": "18:00",
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
@@ -444,7 +433,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "19:00",
+      "time_gmt": "18:00",
       "country": "South Korea",
       "event": "CPI",
       "actual": "",
@@ -455,7 +444,7 @@
     },
     {
       "date": "2026-11-03",
-      "time_gmt": "23:30",
+      "time_gmt": "22:30",
       "country": "Australia",
       "event": "RBA Interest Rate Decision",
       "actual": "",
@@ -463,6 +452,28 @@
       "previous": "4.60%",
       "description": "Reserve Bank of Australia (RBA)  board members come to a consensus on where to set the rate. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the AUD, while a lower than expected rate is negative/bearish for the AUD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-03",
+      "time_gmt": "23:30",
+      "country": "Australia",
+      "event": "RBA Monetary Policy Statement",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Reserve Bank of Australia's (RBA) quarterly monetary policy statement provides valuable insight into the bank's perspective on economic conditions and inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-03",
+      "time_gmt": "23:30",
+      "country": "Australia",
+      "event": "RBA Rate Statement",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "The Reserve Bank of Australia's (RBA) monthly rate statement contains the outcome of bank's interest rate decision and discusses the economic conditions that influenced the decision. It can also give investors clues to the outcome of future decisions.<BR/><BR/>A more dovish than expected statement could be taken as negative/bearish for the AUD, while a more hawkish than expected statement could be taken as positive/bullish for the AUD.",
+      "high_impact": false
     },
     {
       "date": "2026-11-03",

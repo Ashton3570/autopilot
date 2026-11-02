@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
-  "asOf": "Sat, Oct 31, 2026",
+  "asOf": "Sun, Nov 1, 2026",
   "events": [
     {
       "date": "2026-11-05",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "India",
       "event": "HSBC India Services PMI",
       "actual": "",
@@ -15,7 +15,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "01:00",
+      "time_gmt": "24H",
       "country": "India",
       "event": "HSBC Manufacturing & Services PMI",
       "actual": "",
@@ -26,7 +26,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:00",
+      "time_gmt": "03:00",
       "country": "Spain",
       "event": "Spanish Unemployment Change",
       "actual": "",
@@ -37,7 +37,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:15",
+      "time_gmt": "03:15",
       "country": "Spain",
       "event": "HCOB Spain Services PMI",
       "actual": "",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:45",
+      "time_gmt": "03:45",
       "country": "Italy",
       "event": "HCOB Italy Composite PMI",
       "actual": "",
@@ -59,7 +59,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:45",
+      "time_gmt": "03:45",
       "country": "Italy",
       "event": "HCOB Italy Services PMI",
       "actual": "",
@@ -70,7 +70,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:50",
+      "time_gmt": "03:50",
       "country": "France",
       "event": "HCOB France Composite PMI",
       "actual": "",
@@ -81,7 +81,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:50",
+      "time_gmt": "03:50",
       "country": "France",
       "event": "HCOB France Services PMI",
       "actual": "",
@@ -92,7 +92,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:55",
+      "time_gmt": "03:55",
       "country": "Germany",
       "event": "HCOB Germany Composite PMI",
       "actual": "",
@@ -103,7 +103,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "04:55",
+      "time_gmt": "03:55",
       "country": "Germany",
       "event": "HCOB Germany Services PMI",
       "actual": "",
@@ -114,7 +114,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Euro Zone",
       "event": "HCOB Eurozone Composite PMI",
       "actual": "",
@@ -125,7 +125,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "05:00",
+      "time_gmt": "04:00",
       "country": "Euro Zone",
       "event": "HCOB Eurozone Services PMI",
       "actual": "",
@@ -136,7 +136,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United Kingdom",
       "event": "S&P Global Composite PMI",
       "actual": "",
@@ -147,7 +147,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "05:30",
+      "time_gmt": "04:30",
       "country": "United Kingdom",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -158,7 +158,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Brazil",
       "event": "IPC-Fipe Inflation Index",
       "actual": "",
@@ -169,7 +169,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "Core CPI",
       "actual": "",
@@ -180,7 +180,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "Core CPI",
       "actual": "",
@@ -191,7 +191,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
@@ -202,7 +202,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "CPI",
       "actual": "",
@@ -213,7 +213,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "CPI, n.s.a",
       "actual": "",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "HICP ex Energy & Food",
       "actual": "",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "06:00",
+      "time_gmt": "05:00",
       "country": "Euro Zone",
       "event": "HICP ex Energy and Food",
       "actual": "",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United States",
       "event": "MBA 30-Year Mortgage Rate",
       "actual": "",
@@ -257,7 +257,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United States",
       "event": "MBA Mortgage Applications",
       "actual": "",
@@ -268,7 +268,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United States",
       "event": "MBA Purchase Index",
       "actual": "",
@@ -279,7 +279,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United States",
       "event": "Mortgage Market Index",
       "actual": "",
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "08:00",
+      "time_gmt": "07:00",
       "country": "United States",
       "event": "Mortgage Refinance Index",
       "actual": "",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:15",
+      "time_gmt": "08:15",
       "country": "United States",
       "event": "ADP Nonfarm Employment Change",
       "actual": "",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:15",
+      "time_gmt": "08:15",
       "country": "Canada",
       "event": "Reserve Assets Total",
       "actual": "",
@@ -323,7 +323,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:20",
+      "time_gmt": "08:20",
       "country": "Italy",
       "event": "Italian Car Registration",
       "actual": "",
@@ -334,7 +334,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:20",
+      "time_gmt": "08:20",
       "country": "Euro Zone",
       "event": "ECB's Lane Speaks",
       "actual": "",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Exports",
       "actual": "",
@@ -356,7 +356,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Imports",
       "actual": "",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "United States",
       "event": "Trade Balance",
       "actual": "",
@@ -378,7 +378,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "Canada",
       "event": "Exports",
       "actual": "",
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "Canada",
       "event": "Imports",
       "actual": "",
@@ -400,7 +400,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "09:30",
+      "time_gmt": "08:30",
       "country": "Canada",
       "event": "Trade Balance",
       "actual": "",
@@ -411,7 +411,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "10:30",
+      "time_gmt": "09:30",
       "country": "Canada",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -422,7 +422,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "10:45",
+      "time_gmt": "09:45",
       "country": "United States",
       "event": "S&P Global Composite PMI",
       "actual": "",
@@ -433,7 +433,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "10:45",
+      "time_gmt": "09:45",
       "country": "United States",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -444,7 +444,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Non-Manufacturing Business Activity",
       "actual": "",
@@ -455,7 +455,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Non-Manufacturing Employment",
       "actual": "",
@@ -466,7 +466,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Non-Manufacturing New Orders",
       "actual": "",
@@ -477,7 +477,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Non-Manufacturing PMI",
       "actual": "",
@@ -488,7 +488,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:00",
+      "time_gmt": "10:00",
       "country": "United States",
       "event": "ISM Non-Manufacturing Prices",
       "actual": "",
@@ -499,7 +499,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
@@ -510,7 +510,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Crude Oil Inventories",
       "actual": "",
@@ -521,7 +521,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "EIA Refinery Crude Runs",
       "actual": "",
@@ -532,7 +532,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Crude Oil Imports",
       "actual": "",
@@ -543,7 +543,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Cushing Crude Oil Inventories",
       "actual": "",
@@ -554,7 +554,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Distillate Fuel Production",
       "actual": "",
@@ -565,7 +565,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "EIA Weekly Distillates Stocks",
       "actual": "",
@@ -576,7 +576,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Gasoline Production",
       "actual": "",
@@ -587,7 +587,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Heating Oil Stockpiles",
       "actual": "",
@@ -598,7 +598,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "EIA Weekly Refinery Utilization Rates",
       "actual": "",
@@ -609,7 +609,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "11:30",
+      "time_gmt": "10:30",
       "country": "United States",
       "event": "Gasoline Inventories",
       "actual": "",
@@ -620,7 +620,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "13:30",
+      "time_gmt": "12:30",
       "country": "Brazil",
       "event": "CAGED Net Payroll Jobs",
       "actual": "",
@@ -631,7 +631,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "13:30",
+      "time_gmt": "12:30",
       "country": "Brazil",
       "event": "Foreign Exchange Flows",
       "actual": "",
@@ -642,7 +642,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "17:30",
+      "time_gmt": "16:30",
       "country": "Brazil",
       "event": "Interest Rate Decision",
       "actual": "",
@@ -653,7 +653,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "19:00",
+      "time_gmt": "18:00",
       "country": "South Korea",
       "event": "Current Account",
       "actual": "",
@@ -664,7 +664,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "19:50",
+      "time_gmt": "18:50",
       "country": "Japan",
       "event": "Monetary Policy Meeting Minutes",
       "actual": "",
@@ -675,7 +675,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Australia",
       "event": "Exports",
       "actual": "",
@@ -686,7 +686,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Australia",
       "event": "Imports",
       "actual": "",
@@ -697,7 +697,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Australia",
       "event": "Trade Balance",
       "actual": "",
@@ -708,7 +708,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Japan",
       "event": "Manufacturing & Services PMI",
       "actual": "",
@@ -719,7 +719,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Japan",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
@@ -730,7 +730,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "20:30",
+      "time_gmt": "19:30",
       "country": "Japan",
       "event": "S&P Global Services PMI",
       "actual": "",
@@ -741,7 +741,7 @@
     },
     {
       "date": "2026-11-05",
-      "time_gmt": "23:35",
+      "time_gmt": "22:35",
       "country": "Japan",
       "event": "10-Year JGB Auction",
       "actual": "",
