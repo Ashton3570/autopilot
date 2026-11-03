@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "asOf": "Sun, Nov 1, 2026",
+  "asOf": "Mon, Nov 2, 2026",
   "events": [
     {
       "date": "2026-11-05",
@@ -173,9 +173,9 @@
       "country": "Euro Zone",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "",
-      "previous": "0.2%",
-      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "2.5%",
+      "previous": "2.5%",
+      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -184,9 +184,9 @@
       "country": "Euro Zone",
       "event": "Core CPI",
       "actual": "",
-      "consensus": "2.5%",
-      "previous": "2.5%",
-      "description": "The Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers, excluding food, energy, alcohol, and tobacco. The data has a relatively mild impact because overall CPI is the European Central Bank's mandated <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> target.\n<BR/>\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "0.2%",
+      "description": "The Core Consumer Price Index (CPI) measures the changes in the price of goods and services, excluding food and energy. The CPI measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.\n\nA higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -319,17 +319,6 @@
       "consensus": "",
       "previous": "125.3B",
       "description": "The official reserve assets are assets denominated in foreign currency, readily available to and controlled by monetary authorities for meeting balance of payments financing needs, intervening in exchange markets to affect the currency exchange rate, and for other related purposes (such as maintaining confidence in the currency and the economy, and serving as a basis for foreign borrowing). They present a very comprehensive picture on a monthly basis of stocks at market price, transactions, foreign exchange and market revaluations and other changes in volume.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-05",
-      "time_gmt": "08:20",
-      "country": "Italy",
-      "event": "Italian Car Registration",
-      "actual": "",
-      "consensus": "",
-      "previous": "9.8%",
-      "description": "Vehicle registrations are used to calculate the number of newly registered passenger cars in a country or region. If the quantity increases, it indicates increased consumption. At the same time, carmakers will earn more revenue and profits. Usually it will boost the economy and vice versa. Actual Data>Forecast Data, Bullish for currency; Actual Data<Forecast Data, Bearish for currency.",
       "high_impact": false
     },
     {
@@ -503,8 +492,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "3.7%",
+      "previous": "3.7%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },
