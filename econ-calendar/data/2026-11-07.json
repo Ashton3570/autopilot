@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "asOf": "Mon, Nov 2, 2026",
+  "asOf": "Tue, Nov 3, 2026",
   "events": [
     {
       "date": "2026-11-07",
@@ -147,6 +147,17 @@
     },
     {
       "date": "2026-11-07",
+      "time_gmt": "04:00",
+      "country": "Singapore",
+      "event": "Foreign Reserves USD",
+      "actual": "",
+      "consensus": "",
+      "previous": "433.4B",
+      "description": "FX Reserves measures the foreign assets held or controlled by the country's central bank. The reserves are made of gold or a specific currency. They can also be special drawing rights and marketable securities denominated in foreign currencies like treasury bills, government bonds, corporate bonds and equities and foreign currency loans.\r\n<BR/>\r\nA higher than expected number should be taken as positive to the SGD, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-07",
       "time_gmt": "04:30",
       "country": "United States",
       "event": "FOMC Member Williams Speaks",
@@ -242,6 +253,17 @@
       "consensus": "",
       "previous": "",
       "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-07",
+      "time_gmt": "08:00",
+      "country": "Russia",
+      "event": "Central Bank reserves (USD)",
+      "actual": "",
+      "consensus": "",
+      "previous": "729.6B",
+      "description": "Foreign Exchange Reserves are the foreign assets held or controlled by the country central bank. The reserves are made of gold or a specific currency. They can also be special drawing rights and marketable securities denominated in foreign currencies like treasury bills, government bonds, corporate bonds and equities and foreign currency loans. A higher than expected number should be taken as positive to the RUB, while a lower than expected number as negative",
       "high_impact": false
     },
     {

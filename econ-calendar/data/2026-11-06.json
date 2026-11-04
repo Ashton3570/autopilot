@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "asOf": "Mon, Nov 2, 2026",
+  "asOf": "Tue, Nov 3, 2026",
   "events": [
     {
       "date": "2026-11-06",
@@ -452,17 +452,6 @@
       "previous": "49.2",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight:\r\nNew orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI.",
       "high_impact": true
-    },
-    {
-      "date": "2026-11-06",
-      "time_gmt": "08:00",
-      "country": "Russia",
-      "event": "Central Bank reserves (USD)",
-      "actual": "",
-      "consensus": "",
-      "previous": "729.6B",
-      "description": "Foreign Exchange Reserves are the foreign assets held or controlled by the country central bank. The reserves are made of gold or a specific currency. They can also be special drawing rights and marketable securities denominated in foreign currencies like treasury bills, government bonds, corporate bonds and equities and foreign currency loans. A higher than expected number should be taken as positive to the RUB, while a lower than expected number as negative",
-      "high_impact": false
     },
     {
       "date": "2026-11-06",
