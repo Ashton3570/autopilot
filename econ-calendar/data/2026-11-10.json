@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "asOf": "Tue, Nov 3, 2026",
+  "asOf": "Wed, Nov 4, 2026",
   "events": [
     {
       "date": "2026-11-10",
@@ -217,8 +217,8 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "",
-      "previous": "0.6%",
+      "consensus": "0.6%",
+      "previous": "0.5%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
     },
@@ -328,7 +328,7 @@
       "event": "Adjusted Current Account",
       "actual": "",
       "consensus": "",
-      "previous": "29.79T",
+      "previous": "2.98T",
       "description": "The Japanese Adjusted Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the JPY.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY,\r\nwhile a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },

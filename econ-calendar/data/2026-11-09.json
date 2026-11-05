@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "asOf": "Tue, Nov 3, 2026",
+  "asOf": "Wed, Nov 4, 2026",
   "events": [
     {
       "date": "2026-11-09",
@@ -19,8 +19,8 @@
       "country": "Australia",
       "event": "Building Approvals",
       "actual": "",
-      "consensus": "",
-      "previous": "-0.80%",
+      "consensus": "-0.80%",
+      "previous": "10.30%",
       "description": "Building Approvals (also known as Building Permits) measures the change in the number of new building approvals issued by the government. Building permits are key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
     },
@@ -30,8 +30,8 @@
       "country": "Australia",
       "event": "Building Approvals",
       "actual": "",
-      "consensus": "",
-      "previous": "5.1%",
+      "consensus": "5.1%",
+      "previous": "-6.1%",
       "description": "Building Approvals (also known as Building Permits) measures the change in the number of new building approvals issued by the government. Building permits are key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": false
     },
@@ -41,8 +41,8 @@
       "country": "Australia",
       "event": "Private House Approvals",
       "actual": "",
-      "consensus": "",
-      "previous": "-5.3%",
+      "consensus": "-5.3%",
+      "previous": "3.7%",
       "description": "Construction industry provides information on construction output and activity. Such information gives an insight into the supply on the housing and construction market. Rising number of new construction starts or value of construction completed reflects higher consumer and business optimism. Expanding\r\nconstruction indicates growth in the housing market and predicts an increase in the overall economy. However, an excessive supply of new buildings may result in a drop in housing prices. The construction industry is one of the first to go into a recession when the economy declines but also to recover as conditions improve.Statistics of building work approved are compiled from: permits issued by local government authorities; contracts let or day labour work authorised by Commonwealth, State, semi-government and local government authorities; major building activity in areas not subject to normal administrative approval e.g. building on remote mine sites.",
       "high_impact": false
     },
