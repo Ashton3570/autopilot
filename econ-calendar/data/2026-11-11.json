@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "asOf": "Wed, Nov 4, 2026",
+  "asOf": "Thu, Nov 5, 2026",
   "events": [
     {
       "date": "2026-11-11",
@@ -23,6 +23,17 @@
       "previous": "8.3%",
       "description": "The Unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the previous quarter.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-11",
+      "time_gmt": "04:00",
+      "country": "United States",
+      "event": "Fed Waller Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-11-11",
@@ -59,6 +70,17 @@
     },
     {
       "date": "2026-11-11",
+      "time_gmt": "05:00",
+      "country": "Euro Zone",
+      "event": "Eurogroup Meetings",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-11",
       "time_gmt": "06:00",
       "country": "United States",
       "event": "NFIB Small Business Optimism",
@@ -86,7 +108,7 @@
       "event": "Manufacturing Production",
       "actual": "",
       "consensus": "",
-      "previous": "-4.3%",
+      "previous": "-3.1%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers. \nA higher than expected reading should be taken as positive/bullish for the ZAR , while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": false
     },
@@ -97,7 +119,7 @@
       "event": "Manufacturing Production",
       "actual": "",
       "consensus": "",
-      "previous": "-3.1%",
+      "previous": "-4.3%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers. \nA higher than expected reading should be taken as positive/bullish for the ZAR , while a lower than expected reading should be taken as negative/bearish for the ZAR.",
       "high_impact": false
     },
@@ -152,8 +174,8 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "3.7%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a title=\"\" href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -163,8 +185,8 @@
       "event": "CPI",
       "actual": "",
       "consensus": "",
-      "previous": "3.7%",
-      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a title=\"\" href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "previous": "0.6%",
+      "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. <BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
     },
     {
@@ -264,6 +286,39 @@
       "consensus": "",
       "previous": "5.300%",
       "description": "The figures displayed in the calendar represent the yield on the Treasury Note auctioned.<BR/><BR/>U.S. Treasury Notes have maturities of two to ten years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Note represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-11",
+      "time_gmt": "13:30",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Pill Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-11",
+      "time_gmt": "13:30",
+      "country": "United States",
+      "event": "Fed Schmid Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Jeff Schmid is president and chief executive officer of the Federal Reserve Bank of Kansas City. Comments by the Federal Reserve policymakers can give clues on FOMC's economic assessment and policy outlook. Factors to watch include growth, inflation, unemployment, expected timing of changes in the fed funds rate, and expected levels of the fed funds rate in the near term.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-11",
+      "time_gmt": "13:30",
+      "country": "Canada",
+      "event": "BOC Summary of Deliberations",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {

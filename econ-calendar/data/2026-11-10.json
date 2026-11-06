@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "asOf": "Wed, Nov 4, 2026",
+  "asOf": "Thu, Nov 5, 2026",
   "events": [
     {
       "date": "2026-11-10",
@@ -20,7 +20,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "118.0",
+      "previous": "0.4%",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -31,7 +31,7 @@
       "event": "Leading Index",
       "actual": "",
       "consensus": "",
-      "previous": "0.4%",
+      "previous": "118.0",
       "description": "The Leading Indicators Index is a composite index based on 12 economic indicators, that is designed to predict the future direction of the economy.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -218,7 +218,7 @@
       "event": "Wholesale Inventories",
       "actual": "",
       "consensus": "0.6%",
-      "previous": "0.5%",
+      "previous": "0.6%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
     },
@@ -279,6 +279,28 @@
     },
     {
       "date": "2026-11-10",
+      "time_gmt": "12:15",
+      "country": "United States",
+      "event": "FOMC Member Barkin Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Richmond Fed President Thomas Barkin. His public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-10",
+      "time_gmt": "12:25",
+      "country": "United Kingdom",
+      "event": "BoE Gov Bailey Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Bank of England (BOE) Governor Andrew Bailey (Mar 2020 - Mar 2028) is to speak. As head of the BOE's Monetary Policy Committee (MPC) which controls short term interest rates, Bailey has more influence over sterling's value than any other person. Traders scrutinize his public engagements for clues regarding future monetary policy.\n\nHis comments may spark a short-term positive or negative trend.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-10",
       "time_gmt": "13:00",
       "country": "United States",
       "event": "3-Year Note Auction",
@@ -306,7 +328,7 @@
       "event": "Household Spending",
       "actual": "",
       "consensus": "",
-      "previous": "-3.1%",
+      "previous": "0.1%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
@@ -317,7 +339,7 @@
       "event": "Household Spending",
       "actual": "",
       "consensus": "",
-      "previous": "0.1%",
+      "previous": "-3.1%",
       "description": "Household Spending measures the change in the inflation-adjusted value of all expenditures by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "asOf": "Wed, Nov 4, 2026",
+  "asOf": "Thu, Nov 5, 2026",
   "events": [
     {
       "date": "2026-11-07",
@@ -19,7 +19,7 @@
       "country": "United Kingdom",
       "event": "Lloyds House Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.3%",
       "previous": "0.0%",
       "description": "The Lloyds House Price Index, Formerly the Halifax House Price Index measures the change in the price of homes and properties \r\nfinanced by Halifax Bank Of Scotland (HBOS), one of the U.K.'s largest mortgage lenders. It is a leading indicator of health in the housing sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -30,7 +30,7 @@
       "country": "Germany",
       "event": "German Industrial Production",
       "actual": "",
-      "consensus": "-0.2%",
+      "consensus": "0.0%",
       "previous": "2.0%",
       "description": "German Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -206,7 +206,7 @@
       "country": "Euro Zone",
       "event": "Retail Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.6%",
       "previous": "0.8%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\nA higher than expected reading should be taken as positive/bullish for the EUR while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
@@ -283,7 +283,7 @@
       "country": "United States",
       "event": "Average Hourly Earnings (YoY)",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.9%",
       "previous": "3.0%",
       "description": "",
       "high_impact": false
@@ -294,7 +294,7 @@
       "country": "United States",
       "event": "Average Weekly Hours",
       "actual": "",
-      "consensus": "",
+      "consensus": "34.4",
       "previous": "34.4",
       "description": "Average Weekly Hours (also known as Average Workweek) measures the average number of hours worked by employees on non-farm payrolls.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -327,7 +327,7 @@
       "country": "United States",
       "event": "Nonfarm Payrolls",
       "actual": "",
-      "consensus": "63K",
+      "consensus": "65K",
       "previous": "29K",
       "description": "Nonfarm Payrolls measures the change in the number of people employed during the previous month, excluding the farming industry. Job creation is the foremost indicator of consumer spending, which accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -349,7 +349,7 @@
       "country": "United States",
       "event": "Private Nonfarm Payrolls",
       "actual": "",
-      "consensus": "60K",
+      "consensus": "64K",
       "previous": "46K",
       "description": "Private Nonfarm Payrolls measures the change in the number of total number of paid U.S. workers of any business, excluding general government employees, private household employees, employees of nonprofit organizations that provide assistance to individuals and farm employees.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -393,7 +393,7 @@
       "country": "Canada",
       "event": "Employment Change",
       "actual": "",
-      "consensus": "14.5K",
+      "consensus": "14.6K",
       "previous": "-68.3K",
       "description": "Employment Change measures the change in the number of people employed. Job creation is an important indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -470,7 +470,7 @@
       "country": "United States",
       "event": "Michigan Consumer Expectations",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.5",
       "previous": "48.8",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. This number is the expectations part of the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number.",
       "high_impact": false
@@ -492,7 +492,7 @@
       "country": "United States",
       "event": "Michigan Current Conditions",
       "actual": "",
-      "consensus": "",
+      "consensus": "48.0",
       "previous": "46.7",
       "description": "The Michigan sentiment index includes two major components, a \"current conditions\" component and an \"expectations\" component. The current conditions component index is based on the answers to two standard questions and the expectations component index is based on three standard questions. All five questions have equal weight in determining the overall index. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative. This is the final number. This is the preliminary number.",
       "high_impact": false
@@ -569,7 +569,7 @@
       "country": "Brazil",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "9.00B",
       "previous": "7.74B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the BRL, while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
