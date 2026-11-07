@@ -1,17 +1,17 @@
 {
   "date": "2026-11-12",
-  "asOf": "Thu, Nov 5, 2026",
+  "asOf": "Fri, Nov 6, 2026",
   "events": [
     {
       "date": "2026-11-12",
-      "time_gmt": "02:00",
-      "country": "Germany",
-      "event": "German CPI",
+      "time_gmt": "01:00",
+      "country": "Japan",
+      "event": "Machine Tool Orders",
       "actual": "",
-      "consensus": "2.8%",
-      "previous": "2.8%",
-      "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
+      "consensus": "",
+      "previous": "60.4%",
+      "description": "Machine Tool Orders measures the change in the total value of new orders placed with machine tool manufacturers. Two versions of this report are released, preliminary and final. The preliminary report had the biggest impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
     },
     {
       "date": "2026-11-12",
@@ -21,6 +21,17 @@
       "actual": "",
       "consensus": "-0.2%",
       "previous": "-0.2%",
+      "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-12",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German CPI",
+      "actual": "",
+      "consensus": "2.8%",
+      "previous": "2.8%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -48,11 +59,22 @@
     },
     {
       "date": "2026-11-12",
+      "time_gmt": "03:20",
+      "country": "Germany",
+      "event": "German Buba President Nagel Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Deutsche Bundesbank President and voting member of the ECB Governing Council from Jan 2022. He's believed to be one of the most influential members of the council. ECB Governing Council members vote on where to set the Eurozone's key interest rates and their public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
       "time_gmt": "04:00",
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.0%",
       "previous": "-1.3%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -163,7 +185,7 @@
       "event": "Brazilian Service Sector Growth",
       "actual": "",
       "consensus": "",
-      "previous": "-0.1%",
+      "previous": "0.6%",
       "description": "",
       "high_impact": false
     },
@@ -174,7 +196,7 @@
       "event": "Brazilian Service Sector Growth",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
+      "previous": "-0.1%",
       "description": "",
       "high_impact": false
     },
@@ -279,11 +301,44 @@
     },
     {
       "date": "2026-11-12",
+      "time_gmt": "16:45",
+      "country": "New Zealand",
+      "event": "Visitor Arrivals",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.8%",
+      "description": "Visitor Arrivals measures the change in the number of short-term overseas visitors to New Zealand. Tourism plays an important role in the economy with approximately 10% of the population employed by the tourism industry.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "Foreign Bonds Buying",
+      "actual": "",
+      "consensus": "",
+      "previous": "1,312.0B",
+      "description": "Foreign Bonds Buying number measures the flow from the public sector excluding Bank of Japan. The Net data shows the difference of capital inflow and outflow. A positive difference indicates net sales of foreign securities by residents (capital inflow), and a negative difference indicates net purchases of foreign securities by residents (capital outflow). A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "Foreign Investments in Japanese Stocks",
+      "actual": "",
+      "consensus": "",
+      "previous": "1,129.3B",
+      "description": "Balance of payments is a set of accounts recording all economic transactions between the residents of the country and the rest of the world in a given period of time, usually one year. Payments into the country are called credits, payments out of the country are called debits. There are three main components of a balance of payments: - current account - capital account - financial \r\naccount Either a surplus or a deficit can be shown in any of these components. Balance of payments shows strenghts and weaknesses in a country's economy and therefore helps to achieve balanced economic growth. The release of a balance of payments can have a significant effect on the exchange rate of a national currency against other currencies. It is also important to investors of domestic companies that depend on exports.Securities investment, contract basis. Securities investment refers to flows from the public sector excluding Bank of Japan. Bonds include beneficiary certificates but exclude all bills. The Net data shows the difference of capital inflow and outflow.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
       "time_gmt": "18:50",
       "country": "Japan",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.5%",
       "previous": "6.8%",
       "description": "The Corporate Goods Price Index (CGPI) measures the change in the selling prices of goods purchased by Japanese corporations. The CGPI measures the change in the rate of inflation in Japan from the perspective of the manufacturer and is correlated with consumer price inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
@@ -308,6 +363,17 @@
       "consensus": "",
       "previous": "5.3%",
       "description": "Melbourne Institute (MI) Inflation Expectations measures the percentage that consumers expect the price of goods and services to change during the next 12 months.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
+      "time_gmt": "19:01",
+      "country": "United Kingdom",
+      "event": "RICS House Price Balance",
+      "actual": "",
+      "consensus": "",
+      "previous": "-32%",
+      "description": "The Royal Institution of Chartered Surveyors (RICS) House Price Balance measures the percentage of surveyors reporting a house price increase in their designated area. A level above 0.0% indicates more surveyors reported a rise in prices; below indicates more reported a fall.\r\nThe report is a leading indicator of house price inflation as surveyors have access to the latest price data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
     },
     {
