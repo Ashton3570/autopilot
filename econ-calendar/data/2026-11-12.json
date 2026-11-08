@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "asOf": "Fri, Nov 6, 2026",
+  "asOf": "Sat, Nov 7, 2026",
   "events": [
     {
       "date": "2026-11-12",
@@ -74,7 +74,7 @@
       "country": "Italy",
       "event": "Italian Industrial Production",
       "actual": "",
-      "consensus": "1.0%",
+      "consensus": "0.7%",
       "previous": "-1.3%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -88,6 +88,17 @@
       "consensus": "",
       "previous": "0.0%",
       "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-12",
+      "time_gmt": "04:45",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
       "high_impact": false
     },
     {
@@ -349,7 +360,7 @@
       "country": "Japan",
       "event": "PPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "-0.3%",
       "description": "The Corporate Goods Price Index measures the price movement of domestically-produced and domestically-used goods with sample prices, collected either from the producer or wholesaler of these goods. (was WPI before).",
       "high_impact": true

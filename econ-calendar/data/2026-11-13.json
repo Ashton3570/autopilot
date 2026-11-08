@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "asOf": "Fri, Nov 6, 2026",
+  "asOf": "Sat, Nov 7, 2026",
   "events": [
     {
       "date": "2026-11-13",
@@ -8,7 +8,7 @@
       "country": "United Kingdom",
       "event": "Business Investment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.3%",
       "previous": "1.8%",
       "description": "Business Investment measures the change in the total inflation-adjusted value of capital expenditure made by companies in the private sector.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP,\r\nwhile a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -41,7 +41,7 @@
       "country": "United Kingdom",
       "event": "Construction Output",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "-0.2%",
       "description": "",
       "high_impact": false
@@ -63,7 +63,7 @@
       "country": "United Kingdom",
       "event": "GDP",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "0.1%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": true
@@ -96,7 +96,7 @@
       "country": "United Kingdom",
       "event": "Index of Services",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.9%",
       "previous": "0.9%",
       "description": "The Index of Services measures the change in the total Gross Added Value (GAV) of the private and government services sector. GVA is the difference between the value of a service provided and the value of the goods and services used to provide the service.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -118,7 +118,7 @@
       "country": "United Kingdom",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.4%",
       "previous": "0.8%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -140,7 +140,7 @@
       "country": "United Kingdom",
       "event": "Manufacturing Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.5%",
       "previous": "1.2%",
       "description": "Manufacturing Production measures the change in the total inflation-adjusted value of output produced by manufacturers.\r\nManufacturing accounts for approximately 80% of overall Industrial Production.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -162,7 +162,7 @@
       "country": "United Kingdom",
       "event": "Trade Balance",
       "actual": "",
-      "consensus": "",
+      "consensus": "-19.20B",
       "previous": "-18.01B",
       "description": "The Trade Balance measures the difference in value between imported and exported goods and services over the reported period. A positive number indicates that more goods and services were exported than imported.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
       "high_impact": false
@@ -228,7 +228,7 @@
       "country": "India",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.93%",
       "previous": "5.54%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -360,9 +360,20 @@
       "country": "Canada",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "-3.9%",
       "previous": "8.8%",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-13",
+      "time_gmt": "08:00",
+      "country": "Russia",
+      "event": "Central Bank reserves (USD)",
+      "actual": "",
+      "consensus": "",
+      "previous": "721.6B",
+      "description": "Foreign Exchange Reserves are the foreign assets held or controlled by the country central bank. The reserves are made of gold or a specific currency. They can also be special drawing rights and marketable securities denominated in foreign currencies like treasury bills, government bonds, corporate bonds and equities and foreign currency loans. A higher than expected number should be taken as positive to the RUB, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -382,7 +393,7 @@
       "country": "United States",
       "event": "Initial Jobless Claims",
       "actual": "",
-      "consensus": "",
+      "consensus": "194K",
       "previous": "189K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
@@ -404,9 +415,9 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "3.88M",
-      "previous": "3.99M",
-      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
+      "consensus": "",
+      "previous": "1.5%",
+      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
       "high_impact": false
     },
     {
@@ -415,9 +426,9 @@
       "country": "United States",
       "event": "Existing Home Sales",
       "actual": "",
-      "consensus": "",
-      "previous": "1.5%",
-      "description": "Existing Home Sales measures the change in the number of existing (not new) residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<br/>A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "consensus": "3.86M",
+      "previous": "3.99M",
+      "description": "Existing Home Sales measures the change in the annualized number of existing residential buildings that were sold during the previous month. This report helps to gauge the strength of the U.S. housing market and is a key indicator of overall economic strength.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
     },
     {
@@ -598,6 +609,17 @@
     },
     {
       "date": "2026-11-13",
+      "time_gmt": "13:30",
+      "country": "United States",
+      "event": "Fed Schmid Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Jeff Schmid is president and chief executive officer of the Federal Reserve Bank of Kansas City. Comments by the Federal Reserve policymakers can give clues on FOMC's economic assessment and policy outlook. Factors to watch include growth, inflation, unemployment, expected timing of changes in the fed funds rate, and expected levels of the fed funds rate in the near term.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-13",
       "time_gmt": "14:00",
       "country": "United States",
       "event": "Federal Budget Balance",
@@ -661,6 +683,17 @@
       "previous": "56.5",
       "description": "The Business NZ Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion; a reading below 50 indicates contraction. It gives an indication about the health of the manufacturing section and production growth in New Zealand.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the NZD, while a lower than expected reading should be taken as negative/bearish for the NZD.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-13",
+      "time_gmt": "16:30",
+      "country": "Euro Zone",
+      "event": "ECB President Lagarde Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "European Central Bank (ECB) President Christine Lagarde (November 2019 - October 2027) is to speak. As head of the ECB, which sets short term interest rates, she has a major influence over the value of the euro. Traders watch her speeches closely as they are often used to drop subtle hints regarding future monetary policy and interest rate shifts.\r\nHer comments may determine a short-term positive or negative trend.",
+      "high_impact": false
     },
     {
       "date": "2026-11-13",
