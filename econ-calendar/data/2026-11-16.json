@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-16",
+  "asOf": "Mon, Nov 9, 2026",
+  "events": [
+    {
+      "date": "2026-11-16",
+      "time_gmt": "16:30",
+      "country": "New Zealand",
+      "event": "Performance of Services Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "50.9",
+      "description": "BNZ-BusinessNZ PSI is a monthly survey of the services sector providing \r\nan early indicator of activity levels. A PSI reading above 50 points indicates \r\nservices activity is expanding; below 50 indicates it is contracting. \r\nThe main PMI and sub-index results are seasonally adjusted. \r\n<br/>A higher than expected reading should be taken as positive/bullish for the NZD , while a lower than expected reading should be taken as negative/bearish for the NZD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "0.1%",
+      "previous": "0.4%",
+      "description": "Gross Domestic Product (GDP) measures the change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "0.3%",
+      "previous": "1.4%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP Capital Expenditure",
+      "actual": "",
+      "consensus": "1.5%",
+      "previous": "-0.9%",
+      "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP External Demand",
+      "actual": "",
+      "consensus": "-0.4%",
+      "previous": "0.5%",
+      "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP Price Index",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.6%",
+      "description": "The Gross Domestic Product (GDP) Price Index measures the change in the price of all goods and services included in GDP. It is the broadest measure of inflation and is the primary indicator the Bank of Japan uses to gauge inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "GDP Private Consumption",
+      "actual": "",
+      "consensus": "-0.2%",
+      "previous": "0.0%",
+      "description": "Gross National Product and Gross Domestic Product is the total value of the finished goods and services produced in the economy. It is not a precise measureof national economic well-being but expressed in volume (adjusted for inflation)it is the closest single number we have got to such a measure. It is the sum of final expenditures Export of goods and services, Imports of goods and services,Private Consumption, Government Consumption, Gross Fixed Capital Formation and Increases/Decreases(-) in stocks. The difference between Gross National Product and Gross Domestic Product is the Net Factor Income/Payments abroad.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "20:30",
+      "country": "China",
+      "event": "House Prices",
+      "actual": "",
+      "consensus": "",
+      "previous": "-2.8%",
+      "description": "The HPI is based on transactions involving conventional and conforming mortgages - only on single-family properties.It is a weighted, repeat-sales index, which means that it measures average price changes in repeat sales or refinancings on the same properties.Percent change from a year earlier, 70 medium and large cities. It is a weighted average calculated by Thomson Reuters.</BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Fixed Asset Investment",
+      "actual": "",
+      "consensus": "",
+      "previous": "-7.2%",
+      "description": "Chinese Fixed Asset Investment measures the change in the total spending on non-rural capital investments such as factories, roads, power grids, and property.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.5%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Chinese Industrial Production YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.3%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Retail Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.1%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Chinese Retail Sales YTD",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.13%",
+      "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CNY, while a lower than expected reading should be taken as negative/bearish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "21:00",
+      "country": "China",
+      "event": "Chinese Unemployment Rate",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.2%",
+      "description": "The Chinese unemployment rate measures the percentage of the total urban work force that is unemployed and actively seeking employment during the reported month. \r\nA higher than expected reading should be taken as negative/bearish for the CNY,\r\nwhile a lower than expected reading should be taken as positive/bullish for the CNY.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "23:30",
+      "country": "Japan",
+      "event": "Capacity Utilization",
+      "actual": "",
+      "consensus": "",
+      "previous": "-4.2%",
+      "description": "Capacity utilization is a concept in economics and managerial accounting which refers to the extent to which an enterprise or a nation actually uses its installed productive capacity. Thus, it refers to the relationship between actual output that 'is' actually produced with the installed equipment, and the potential output which 'could' be produced with it, if capacity was fully used. A rull of thumb is, when capacity utilization is stable above 80%, in most cases rates will start going up. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-16",
+      "time_gmt": "23:30",
+      "country": "Japan",
+      "event": "Industrial Production",
+      "actual": "",
+      "consensus": "",
+      "previous": "2.2%",
+      "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
+      "high_impact": false
+    }
+  ]
+}
