@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "asOf": "Wed, Nov 18, 2026",
+  "asOf": "Thu, Nov 19, 2026",
   "events": [
     {
       "date": "2026-11-24",
@@ -220,6 +220,17 @@
       "consensus": "",
       "previous": "",
       "description": "The Focus Market Report provides weekly mean market expectations for inflation over following month, 12 months, and following year as well as expectations for Selic target rate, real GDP growth, net public sector debt/GDP, industrial production growth, current account, and trade balance, collected from over 130 banks, brokers, and funds managers.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-24",
+      "time_gmt": "08:00",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Pill Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
