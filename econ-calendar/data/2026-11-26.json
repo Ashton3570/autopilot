@@ -1,16 +1,16 @@
 {
   "date": "2026-11-26",
-  "asOf": "Thu, Nov 19, 2026",
+  "asOf": "Fri, Nov 20, 2026",
   "events": [
     {
       "date": "2026-11-26",
-      "time_gmt": "02:00",
-      "country": "Germany",
-      "event": "German GDP",
+      "time_gmt": "24H",
+      "country": "Japan",
+      "event": "BoJ Core CPI",
       "actual": "",
-      "consensus": "1.2%",
-      "previous": "1.2%",
-      "description": "Gross Domestic Product (GDP)  is the broadest measure of economic activity and is a key indicator of economic health. \r\nThe quarterly percent changes in GDP show the growth rate of the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "consensus": "",
+      "previous": "2.5%",
+      "description": "Measures the change in the price of goods and services purchased by consumers, excluding food and energy. The BoJ usually pays more attention to the core inflation data.",
       "high_impact": true
     },
     {
@@ -21,6 +21,17 @@
       "actual": "",
       "consensus": "0.2%",
       "previous": "0.2%",
+      "description": "Gross Domestic Product (GDP)  is the broadest measure of economic activity and is a key indicator of economic health. \r\nThe quarterly percent changes in GDP show the growth rate of the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-26",
+      "time_gmt": "02:00",
+      "country": "Germany",
+      "event": "German GDP",
+      "actual": "",
+      "consensus": "1.2%",
+      "previous": "1.2%",
       "description": "Gross Domestic Product (GDP)  is the broadest measure of economic activity and is a key indicator of economic health. \r\nThe quarterly percent changes in GDP show the growth rate of the economy as a whole.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -140,7 +151,7 @@
       "country": "United States",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.295M",
       "previous": "1.398M",
       "description": "Building Permits measures the change in the number of new building permits issued by the government. Building permits are a key indicator of demand in the housing market.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -151,7 +162,7 @@
       "country": "United States",
       "event": "Building Permits",
       "actual": "",
-      "consensus": "",
+      "consensus": "-7.4%",
       "previous": "-0.4%",
       "description": "Building Permits is a report closely watched by economists and investors alike. Since all related factors associated with the construction of a building are important economic activities (for example, financing and employment), the building permit report can give a major hint as to the state of the economy in the near future. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative.",
       "high_impact": false
@@ -163,7 +174,7 @@
       "event": "Continuing Jobless Claims",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "1,763K",
       "description": "Continuing Jobless Claims measures the number of unemployed individuals who qualify for benefits under unemployment insurance.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
     },
@@ -184,7 +195,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.3%",
       "description": "The Core Personal Consumption Expenditure (PCE) Price Index measures the changes in the price of goods and services purchased by consumers for the purpose of consumption, excluding food and energy. Prices are weighted according to total expenditure per item. It measures price change from the perspective of the consumer. It is a key way to measure changes in purchasing trends and inflation. \r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -195,7 +206,7 @@
       "country": "United States",
       "event": "Core PCE Price Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "3.1%",
       "description": "The Core PCE price Index is the less volatile measure of the PCE price index which excludes the more volatile and seasonal food and energy prices. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -228,7 +239,7 @@
       "country": "United States",
       "event": "Durable Goods Orders",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.0%",
       "previous": "1.9%",
       "description": "Durable Goods Orders measures the change in the total value of new orders for long lasting manufactured goods, including transportation items.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true
@@ -295,7 +306,7 @@
       "event": "Initial Jobless Claims",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "203K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week. This is the earliest U.S. economic data, but the market impact varies from week to week.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
     },
@@ -306,7 +317,7 @@
       "event": "Jobless Claims 4-Week Avg.",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "197.75K",
       "description": "Initial Jobless Claims measures the number of individuals who filed for unemployment insurance for the first time during the past week.<br/><br/>As the week to week numbers might be very volatile, the four week moving average smooths the weekly data and used for the initial jobless claims metric<br/><br/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": true
     },
@@ -316,7 +327,7 @@
       "country": "United States",
       "event": "PCE price index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "0.5%",
       "description": "The PCE price index, also referred to as the PCE deflator, is a United States-wide indicator of the average increase in prices for all domestic personal consumption. The impact on the currency may go both ways, a rise in inflation may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in inflation may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -389,6 +400,17 @@
     },
     {
       "date": "2026-11-26",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "Wholesale Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.7%",
+      "description": "Wholesale Sales measures the change in the total value of sales at the wholesale level. It is a leading indicator of consumer spending.<BR/><BR/>A higher than expected reading should be taken as  positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-26",
       "time_gmt": "10:00",
       "country": "United States",
       "event": "Dallas Fed PCE",
@@ -404,7 +426,7 @@
       "country": "United States",
       "event": "New Home Sales",
       "actual": "",
-      "consensus": "",
+      "consensus": "670K",
       "previous": "676K",
       "description": "New Home Sales measures the annualized number of new single-family homes that were sold during the previous month. This report tends to have more impact when it's released ahead of Existing Home Sales because the reports are tightly correlated.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
@@ -418,6 +440,17 @@
       "consensus": "",
       "previous": "-0.6%",
       "description": "New Home Sales measures the change in percenatge of the new home sales, A new home sale is considered to be any deposit or contract signing either in the year the house was built or the year after it was built. A strong number would indicate a strong housing activity, and therefore a strong economy. A higher than expected number should be taken as positive to the USD, while a lower than expected number as negative",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-26",
+      "time_gmt": "10:00",
+      "country": "Germany",
+      "event": "German Buba Mauderer Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
       "high_impact": false
     },
     {
@@ -536,7 +569,7 @@
       "country": "Russia",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "1.2%",
       "previous": "0.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
@@ -547,7 +580,7 @@
       "country": "Russia",
       "event": "CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.1%",
       "previous": "6.3%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the RUB, while a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": true
@@ -558,7 +591,7 @@
       "country": "Russia",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.3%",
       "previous": "1.8%",
       "description": "The Russian Industrial Production measures the change in the total outputs of the Russian factories, mines, and utilities.\r\nIt gives us a good indicator of strength in the manufacturing sector. It can be a leading indicator of manufacturing employment, average earnings, and personal income.\r\n<BR/>A higher than expected reading should be taken as positive/bullish for the RUB,\r\nwhile a lower than expected reading should be taken as negative/bearish for the RUB.",
       "high_impact": false
@@ -592,7 +625,7 @@
       "event": "4-Week Bill Auction",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "4.050%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
@@ -603,7 +636,7 @@
       "event": "8-Week Bill Auction",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "4.110%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.U.S. Treasury Bills have maturities of a few days to one year. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid. Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
@@ -613,8 +646,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "3.2%",
+      "previous": "3.2%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },
@@ -625,7 +658,7 @@
       "event": "Natural Gas Storage",
       "actual": "",
       "consensus": "",
-      "previous": "",
+      "previous": "20B",
       "description": "The Energy Information Administration (EIA) Natural Gas Storage report measures the change in the number of cubic feet of natural gas held in underground storage during the past week.<BR/><BR/>While this is a U.S. indicator it tends to have a greater impact on the Canadian dollar, due to Canada's sizable energy sector.\r\n<BR/><BR/>\r\nIf the increase in natural gas inventories is more than expected, it implies weaker demand and is bearish for natural gas prices. The same can be said if a decline in inventories is less than expected. \r\n<BR/>\r\nIf the increase in natural gas is less than expected, it implies greater demand and is bullish for natural gas prices. The same can be said if a decline in inventories is more than expected.",
       "high_impact": false
     },
@@ -732,9 +765,20 @@
       "date": "2026-11-26",
       "time_gmt": "20:00",
       "country": "South Korea",
-      "event": "Interest Rate Decision",
+      "event": "Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates",
       "actual": "",
       "consensus": "",
+      "previous": "",
+      "description": "A monetary policy is generally the process through which a central bank with a sole right to issue its own currency (legal tender or monetary base) maintains the value of that currency, that is, price, and achieves sustainable economic growth by managing the amount of money (monetary base and money created in the banking system) in circulation, and price (interest rate) in the economy. Bank of Korea Act stipulates that the purpose of this Act is “to contribute to the sound development of the national economy by pursuing price stability through the formulation and implementation of efficient monetary policy”. Accordingly, the Bank of Korea takes price stability as the most important objective of its monetary policy. If prices become unstable, uncertainty concerning the future mounts, discouraging economic activities as a whole, and the distribution of income and resources grows distorted. As a result, the stabilityin economic conditions as a whole is damaged. In order for the national economy to achieve stable growth, it should be supported by not only price stability but also financial stability. Regarding this, Article 1, Clause 2 of the「Bank of Korea Act」 stipulates that “The Bank of Korea needs to pay attention to financial stability in the implementation of monetary policy”. Thus, the Bank of Korea is also making policy efforts to maintain financial stability while pursuing price stability through implementing its monetary policy.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-26",
+      "time_gmt": "20:00",
+      "country": "South Korea",
+      "event": "Interest Rate Decision",
+      "actual": "",
+      "consensus": "3.25%",
       "previous": "3.00%",
       "description": "The Bank of Korea (BOK) Monetary Policy Committee's decision on where to set the benchmark interest rate. Traders watch interest rate changes closely as short term interest rates are the primary factor in currency valuation.<BR/><BR/>A higher than expected rate is positive/bullish for the KRW, while a lower than expected rate is negative/bearish for the KRW.",
       "high_impact": true

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "asOf": "Thu, Nov 19, 2026",
+  "asOf": "Fri, Nov 20, 2026",
   "events": [
     {
       "date": "2026-11-25",
@@ -169,6 +169,17 @@
     },
     {
       "date": "2026-11-25",
+      "time_gmt": "08:15",
+      "country": "United States",
+      "event": "ADP Employment Change Weekly",
+      "actual": "",
+      "consensus": "",
+      "previous": "23.80K",
+      "description": "The ADP weekly report provides the change in private sector employment, offering the most current view of the labor market based on ADP's fine-grained, high-frequency data. Traders often consider employment figures from ADP, America's largest payrolls provider, as the harbringer of the Bureau of Labor Statistics release of Nonfarm Payrolls.\r\nThis data is released by Automatic Data Processing Inc, provides a four-week moving average of the latest total private-employment change in the US. Generally, a rise in the indicator has positive implications for consumer spending and is simulative of economic growth. Therefore, a high reading is traditionally seen as bullish for the US Dollar (USD), while a low reading is seen as bearish.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-25",
       "time_gmt": "08:55",
       "country": "United States",
       "event": "Redbook",
@@ -250,7 +261,7 @@
       "country": "United States",
       "event": "CB Consumer Confidence",
       "actual": "",
-      "consensus": "",
+      "consensus": "92.0",
       "previous": "91.7",
       "description": "Conference Board (CB) Consumer Confidence measures the level of consumer confidence in economic activity.\r\nIt is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. Higher readings point to higher consumer optimism.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": true

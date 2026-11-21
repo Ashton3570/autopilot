@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "asOf": "Thu, Nov 19, 2026",
+  "asOf": "Fri, Nov 20, 2026",
   "events": [
     {
       "date": "2026-11-24",
@@ -8,7 +8,7 @@
       "country": "India",
       "event": "HSBC India Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "54.5",
       "previous": "54.7",
       "description": "The Purchasing Managers Index (PMI) is a composite indicator designed to provide an overall view of activity in the manufacturing sector and acts as an leading indicator for the whole economy. The PMI is a composite index based on the diffusion indexes for the following five indicators and their weight: New orders - 0.3, Output - 0.25 , Employment - 0.2, Suppliers delivery times - 0.15 and Stock of items purchased - 0.1 with the Delivery times index inverted so that it moves in a comparable direction. When PMI is below 50.0 this indicates that the manufacturing economy is declining and a value above 50.0 indicates an expansion of the manufacturing economy. The individual survey indexes have been seasonally adjusted using the US Bureau of Census X-11 programme. The seasonally adjusted series are then used to calculate the seasonally adjusted PMI. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -19,7 +19,7 @@
       "country": "India",
       "event": "HSBC India Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "56.0",
       "previous": "55.8",
       "description": "The Indian HSBC Services PMI is compiled by questionnaires sent to purchasing executives in around 350 private service sector companies. The panel has been carefully selected to accurately replicate the true structure of the services economy. Index and the Services Business Activity Index, and is based on original survey data collected from a representative panel of over 800 companies based in the Indian manufacturing and service sectors. </BR>A higher than expected reading should be taken as positive/bullish for the INR , while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": true
@@ -30,7 +30,7 @@
       "country": "India",
       "event": "HSBC Manufacturing & Services PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "56.30",
       "previous": "56.20",
       "description": "",
       "high_impact": true
@@ -75,7 +75,7 @@
       "event": "M3 Money Supply",
       "actual": "",
       "consensus": "",
-      "previous": "1,238.9B",
+      "previous": "1,238,936.0B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
       "high_impact": false
     },
@@ -246,6 +246,28 @@
     },
     {
       "date": "2026-11-24",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "Corporate Profits",
+      "actual": "",
+      "consensus": "",
+      "previous": "9.7%",
+      "description": "Corporate Profits measures the change in the total value of profits earned by corporations. This data is released quarterly, around 55 days after the quarter ends.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-24",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "Manufacturing Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.0%",
+      "description": "Manufacturing Sales measures the change in the overall value of sales made at the manufacturing level.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-24",
       "time_gmt": "09:00",
       "country": "France",
       "event": "French 12-Month BTF Auction",
@@ -316,7 +338,7 @@
       "country": "United States",
       "event": "3-Month Bill Auction",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.199%",
       "previous": "4.155%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
@@ -345,212 +367,14 @@
     },
     {
       "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United Kingdom",
-      "event": "CFTC GBP speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-59.8K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
+      "time_gmt": "16:00",
       "country": "United States",
-      "event": "CFTC Aluminium speculative net positions",
+      "event": "FOMC Member Williams Speaks",
       "actual": "",
       "consensus": "",
-      "previous": "-1.4K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"\"non-commercial\"\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Copper speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "37.7K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Corn speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "137.6K",
+      "previous": "",
       "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Crude Oil speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "80.3K",
-      "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Gold speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "179.5K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Nasdaq 100 speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "42.9K",
-      "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Natural Gas speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-258.9K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"\"non-commercial\"\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC S&P 500 speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-129.4K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Silver speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "21.3K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Soybeans speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "163.6K",
-      "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "United States",
-      "event": "CFTC Wheat speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-62.5K",
-      "description": "",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Canada",
-      "event": "CFTC CAD speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-41.8K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Switzerland",
-      "event": "CFTC CHF speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-16.6K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Australia",
-      "event": "CFTC AUD speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-129.5K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Brazil",
-      "event": "CFTC BRL speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "46.0K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"\"non-commercial\"\" (speculative) traders in U.S. futures markets.</br> \r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br> \r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br> \r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Japan",
-      "event": "CFTC JPY speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "102.3K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "New Zealand",
-      "event": "CFTC NZD speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-60.0K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-11-24",
-      "time_gmt": "15:30",
-      "country": "Euro Zone",
-      "event": "CFTC EUR speculative net positions",
-      "actual": "",
-      "consensus": "",
-      "previous": "-157.8K",
-      "description": "The Commodity Futures Trading Commission's (CFTC) weekly Commitments of Traders (COT) report provides a breakdown of the net positions for \"non-commercial\" (speculative) traders in U.S. futures markets.</br>\r\nAll data corresponds to positions held by participants primarily based in Chicago and New York futures markets.</br>\r\nThe Commitments of Traders report is considered an indicator for analyzing market sentiment and many speculative traders use the data to help them decide whether or not to take a long or short position.</br>\r\nCommitments of Traders (COT) data is released each Friday at 3:30pm Eastern Time, pending a holiday in the U.S., to reflect the commitments of traders on the prior Tuesday.",
-      "high_impact": false
+      "high_impact": true
     },
     {
       "date": "2026-11-24",
@@ -561,6 +385,17 @@
       "consensus": "",
       "previous": "105.4",
       "description": "The Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict the consumer spending, which is a major part in the total economic activity. Higher readings point to higher consumer optimism. \r\nA higher than expected reading should be taken as positive/bullish for the KRW, while a lower than expected reading should be taken as negative/bearish for the KRW.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-24",
+      "time_gmt": "19:00",
+      "country": "Singapore",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "",
+      "previous": "6.2%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
     },
     {
