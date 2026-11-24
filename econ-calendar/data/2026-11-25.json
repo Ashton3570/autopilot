@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "asOf": "Sun, Nov 22, 2026",
+  "asOf": "Tue, Nov 24, 2026",
   "events": [
     {
       "date": "2026-11-25",
@@ -118,7 +118,7 @@
       "country": "Germany",
       "event": "German Business Expectations",
       "actual": "",
-      "consensus": "",
+      "consensus": "92.0",
       "previous": "91.6",
       "description": "German Business Expectations rates the expectations of businesses in Germany for the following six months. It is is a sub-index of the German Ifo Business Climate Index.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -373,6 +373,17 @@
       "actual": "",
       "consensus": "5.4%",
       "previous": "5.9%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-25",
+      "time_gmt": "19:00",
+      "country": "Singapore",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "5.4%",
+      "previous": "6.2%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": true
     },
