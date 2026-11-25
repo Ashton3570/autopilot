@@ -126,6 +126,17 @@
     {
       "date": "2026-11-30",
       "time_gmt": "19:00",
+      "country": "Australia",
+      "event": "MI Inflation Gauge",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.5%",
+      "description": "The Melbourne Institute (MI) Inflation Gauge measures the change in the price of goods and services purchased by consumers. The data is designed to mimic the quarterly government-released CPI data.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-30",
+      "time_gmt": "19:00",
       "country": "New Zealand",
       "event": "ANZ Business Confidence",
       "actual": "",
@@ -180,6 +191,28 @@
     },
     {
       "date": "2026-11-30",
+      "time_gmt": "19:30",
+      "country": "Australia",
+      "event": "Housing Credit",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.4%",
+      "description": "Housing credit includes housing loans outstanding to persons by banks, permanentbuilding societies, credit unions, money market corporations and finance companies. Lending and credit to the private non-finance sector (including public trading enterprises) or, where stated, the government sector, by those financial intermediaries whose liabilities are included in broad money.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-30",
+      "time_gmt": "19:30",
+      "country": "Australia",
+      "event": "Private Sector Credit",
+      "actual": "",
+      "consensus": "",
+      "previous": "0.6%",
+      "description": "Private Sector Credit measures the change in the total value of new credit issued to consumers and businesses.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-30",
       "time_gmt": "20:30",
       "country": "China",
       "event": "Chinese Composite PMI",
@@ -220,6 +253,17 @@
       "consensus": "",
       "previous": "459,840.0B",
       "description": "M3 Money Supply measures the change in the total quantity of domestic currency in circulation and deposited in banks. An increasing supply of money leads to additional spending, which in turn leads to inflation.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-30",
+      "time_gmt": "22:35",
+      "country": "Japan",
+      "event": "2-Year JGB Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "1.905%",
+      "description": "The figures displayed in the calendar represent the yield on the JGB auctioned.<BR/><BR/> JGB's have maturities of up to 50 years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a JGB represents the return an investor will receive by holding the note for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     }
   ]
