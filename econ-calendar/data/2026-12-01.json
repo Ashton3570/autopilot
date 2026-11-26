@@ -1,6 +1,6 @@
 {
   "date": "2026-12-01",
-  "asOf": "Tue, Nov 24, 2026",
+  "asOf": "Wed, Nov 25, 2026",
   "events": [
     {
       "date": "2026-12-01",
@@ -603,7 +603,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
+      "previous": "-0.2%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -614,7 +614,7 @@
       "event": "German CPI",
       "actual": "",
       "consensus": "",
-      "previous": "3.3%",
+      "previous": "2.8%",
       "description": "The German Consumer Price Index (CPI) measures the changes in the price of goods\r\nand services purchased by consumers.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -625,7 +625,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "",
-      "previous": "0.6%",
+      "previous": "-0.1%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -636,7 +636,7 @@
       "event": "German HICP",
       "actual": "",
       "consensus": "",
-      "previous": "3.3%",
+      "previous": "2.8%",
       "description": "Harmonised Index of Consumer Prices (HICP) in an index of consumer prices calculated and published by Eurostat, the Statistical Office of the European Union (EU), on the basis of a statistical methodology that has been harmonised across all EU Member States. HICP is a measure of prices used by the Governing Council of EU to define and assess price stability in the euro area as a whole in quantitative terms.The HICP are designed expressly for international comparisons of consumer price inflation across EU Member States. these harmonized inflation figures will be used to inform decisions on which Member \r\nStates meet price stability convergence criterion for EMU. However, they are not intended to replace existing national Consumer Price Indices (CPIs). The coverage of the indices is based on the EU classification COICOP (classification of individual consumption by purpose).",
       "high_impact": false
     },
@@ -649,6 +649,17 @@
       "consensus": "",
       "previous": "2.50%",
       "description": "Canada, Implicit Price Deflator, Total (GDP), SA, CAD",
+      "high_impact": true
+    },
+    {
+      "date": "2026-12-01",
+      "time_gmt": "08:30",
+      "country": "Canada",
+      "event": "GDP",
+      "actual": "",
+      "consensus": "-0.1%",
+      "previous": "0.0%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health. Canada releases fresh GDP data on a monthly basis.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD, while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": true
     },
     {
@@ -998,7 +1009,7 @@
       "country": "Australia",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "48.7",
       "previous": "48.7",
       "description": "The Australian Manufacturing Purchasing Managers Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; below indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance. A higher than expected reading should be taken as positive/bullish for the AUD, while a lower than expected reading should be taken as negative/bearish for the AUD.",
       "high_impact": true
@@ -1152,7 +1163,7 @@
       "country": "Japan",
       "event": "S&P Global Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "53.7",
       "previous": "53.7",
       "description": "The Manufacturing Purchasing Managers' Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector;  below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true

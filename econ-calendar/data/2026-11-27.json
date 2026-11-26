@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "asOf": "Tue, Nov 24, 2026",
+  "asOf": "Wed, Nov 25, 2026",
   "events": [
     {
       "date": "2026-11-27",
@@ -41,7 +41,7 @@
       "country": "Singapore",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "2.3%",
       "previous": "3.4%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the SGD, while a lower than expected reading should be taken as negative/bearish for the SGD.",
       "high_impact": false
@@ -261,7 +261,7 @@
       "country": "Brazil",
       "event": "Current Account (USD)",
       "actual": "",
-      "consensus": "",
+      "consensus": "-2.90B",
       "previous": "-5.10B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the BRL. A higher than expected reading should be taken as positive/bullish for the BRL , while a lower than expected reading should be taken as negative/bearish for the BRL.",
       "high_impact": false
@@ -272,7 +272,7 @@
       "country": "Brazil",
       "event": "Foreign direct investment (USD)",
       "actual": "",
-      "consensus": "",
+      "consensus": "7.90B",
       "previous": "11.29B",
       "description": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net outflows of investment from the reporting economy to the rest of the world and is divided by GDP. A higher than expected number should be taken as positive to the BRL, while a lower than expected number as negative.",
       "high_impact": false
@@ -283,7 +283,7 @@
       "country": "Brazil",
       "event": "Mid-Month CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.36%",
       "previous": "0.32%",
       "description": "The consumer price index (CPI) is a measure of change in the general level of prices of goods and services bought by households over a specified period of time. It compares a household's cost for a specific basket of finished goods and services with the cost of the same basket during an earlier benchmark period.\nThe consumer price index is used as a measurement of <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> and is a key economic figure. Likely impact:\n1) Interest Rates: Larger-than-expected quarterly increase in price inflation or increasing trend is considered inflationary; this will cause bond prices to drop and yields and interest rates to rise.\n2) Stock Prices: Higher than expected price inflation is bearish on the stock market as higher inflation will lead to higher interest rates.\n3) Exchange Rates: High inflation has an uncertain effect. It would lead to depreciation as higher prices mean lower competitiveness. Conversely, higher inflation causes higher interest rates and a tighter monetary policy that leads to an appreciation.",
       "high_impact": true
@@ -294,7 +294,7 @@
       "country": "Brazil",
       "event": "Mid-Month CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.80%",
       "previous": "4.62%",
       "description": "The consumer price index (CPI) is a measure of change in the general level of prices of goods and services bought by households over a specified period of time. It compares a household's cost for a specific basket of finished goods and services with the cost of the same basket during an earlier benchmark period.\nThe consumer price index is used as a measurement of <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a> and is a key economic figure. Likely impact:\n1) Interest Rates: Larger-than-expected quarterly increase in price inflation or increasing trend is considered inflationary; this will cause bond prices to drop and yields and interest rates to rise.\n2) Stock Prices: Higher than expected price inflation is bearish on the stock market as higher inflation will lead to higher interest rates.\n3) Exchange Rates: High inflation has an uncertain effect. It would lead to depreciation as higher prices mean lower competitiveness. Conversely, higher inflation causes higher interest rates and a tighter monetary policy that leads to an appreciation.",
       "high_impact": true
@@ -382,7 +382,7 @@
       "country": "Japan",
       "event": "Tokyo Core CPI",
       "actual": "",
-      "consensus": "2.9%",
+      "consensus": "3.0%",
       "previous": "2.6%",
       "description": "The Tokyo Core Consumer Price Index (CPI) measures the change in the price of goods and services purchased by consumers in Tokyo, excluding fresh food.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": true
