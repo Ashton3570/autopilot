@@ -1,6 +1,6 @@
 {
   "date": "2026-12-02",
-  "asOf": "Wed, Nov 25, 2026",
+  "asOf": "Thu, Nov 26, 2026",
   "events": [
     {
       "date": "2026-12-02",
@@ -45,6 +45,17 @@
       "previous": "1.6%",
       "description": "Retail Sales measure the change in the total value of inflation-adjusted sales at the retail level. It is the foremost indicator of consumer spending, which accounts for the majority of overall economic activity.\r\n<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CHF, while a lower than expected reading should be taken as negative/bearish for the CHF.",
       "high_impact": true
+    },
+    {
+      "date": "2026-12-02",
+      "time_gmt": "03:15",
+      "country": "Australia",
+      "event": "RBA Gov Bullock Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Ms Bullock commenced as Governor on 18 September 2023. She is Chair of the Reserve Bank Board, Payments System Board and Council of Financial Regulators. Prior to her current role, Ms Bullock was the Deputy Governor of the Reserve Bank of Australia.",
+      "high_impact": false
     },
     {
       "date": "2026-12-02",
@@ -100,6 +111,17 @@
       "previous": "47.9",
       "description": "The French Manufacturing Purchasing Manager's Index (PMI) measures the activity level of purchasing managers in the manufacturing sector. A reading above 50 indicates expansion in the sector; a reading below 50 indicates contraction. Traders watch these surveys closely as purchasing managers usually have early access to data about their company’s performance, which can be a leading indicator of overall economic performance.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
+    },
+    {
+      "date": "2026-12-02",
+      "time_gmt": "03:55",
+      "country": "United Kingdom",
+      "event": "BoE MPC Member Pill Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
     },
     {
       "date": "2026-12-02",
@@ -367,6 +389,17 @@
     },
     {
       "date": "2026-12-02",
+      "time_gmt": "07:50",
+      "country": "United Kingdom",
+      "event": "BoE Breeden Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-12-02",
       "time_gmt": "08:00",
       "country": "Brazil",
       "event": "S&P Global Manufacturing PMI",
@@ -419,6 +452,17 @@
       "previous": "-1.9%",
       "description": "The Construction Spending index measures the change in the total amount spent on construction. The data is subject to large revisions and as such, this report rarely has any market impact.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the USD, while a lower than expected reading should be taken as negative/bearish for the USD.",
       "high_impact": false
+    },
+    {
+      "date": "2026-12-02",
+      "time_gmt": "10:00",
+      "country": "United States",
+      "event": "FOMC Member Bowman Speaks",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "Michelle W. Bowman took office as a member of the Board of Governors of the Federal Reserve System on November 26, 2018, to fill an unexpired term ending January 31, 2020. Her public engagements are often used to drop subtle clues regarding future monetary policy.",
+      "high_impact": true
     },
     {
       "date": "2026-12-02",
@@ -514,8 +558,8 @@
       "country": "United States",
       "event": "Atlanta Fed GDPNow",
       "actual": "",
-      "consensus": "",
-      "previous": "",
+      "consensus": "2.9%",
+      "previous": "2.9%",
       "description": "GDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quarter. There are no subjective adjustments made to GDPNow‚Äîthe estimate is based solely on the mathematical results of the model. In particular, it does not capture the impact of COVID-19 and social mobility beyond their impact on GDP source data and relevant economic reports that have already been released. It does not anticipate their impact on forthcoming economic reports beyond the standard internal dynamics of the model.",
       "high_impact": false
     },

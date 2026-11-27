@@ -1,6 +1,6 @@
 {
   "date": "2026-12-01",
-  "asOf": "Wed, Nov 25, 2026",
+  "asOf": "Thu, Nov 26, 2026",
   "events": [
     {
       "date": "2026-12-01",
@@ -533,6 +533,17 @@
     {
       "date": "2026-12-01",
       "time_gmt": "06:30",
+      "country": "India",
+      "event": "RBI Monetary and Credit Information Review",
+      "actual": "",
+      "consensus": "",
+      "previous": "",
+      "description": "",
+      "high_impact": false
+    },
+    {
+      "date": "2026-12-01",
+      "time_gmt": "06:30",
       "country": "Brazil",
       "event": "Net Debt-to-GDP ratio",
       "actual": "",
@@ -767,7 +778,7 @@
       "country": "United States",
       "event": "3-Month Bill Auction",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.111%",
       "previous": "4.180%",
       "description": "The figures displayed in the calendar represent the rate on the Treasury Bill auctioned.<BR/><BR/>U.S. Treasury Bills have maturities of a few days to one year.  Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital. The rate on a Treasury Bill represents the return an investor will receive by holding the bill for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false

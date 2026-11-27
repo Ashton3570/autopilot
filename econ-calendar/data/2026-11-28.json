@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "asOf": "Wed, Nov 25, 2026",
+  "asOf": "Thu, Nov 26, 2026",
   "events": [
     {
       "date": "2026-11-28",
@@ -8,7 +8,7 @@
       "country": "France",
       "event": "French Consumer Spending",
       "actual": "",
-      "consensus": "0.2%",
+      "consensus": "0.1%",
       "previous": "-0.5%",
       "description": "French Consumer Spending measures the change in the inflation-adjusted value of all goods expenditures by consumers. Consumer spending accounts for the majority of economic activity.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -30,20 +30,9 @@
       "country": "France",
       "event": "French CPI",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.2%",
       "previous": "3.4%",
       "description": "The French Consumer Price Index (CPI) measures the changes in the price of goods and services purchased by consumers. A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": true
-    },
-    {
-      "date": "2026-11-28",
-      "time_gmt": "02:45",
-      "country": "France",
-      "event": "French GDP",
-      "actual": "",
-      "consensus": "-0.1%",
-      "previous": "-0.1%",
-      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
     {
@@ -61,9 +50,20 @@
       "date": "2026-11-28",
       "time_gmt": "02:45",
       "country": "France",
+      "event": "French GDP",
+      "actual": "",
+      "consensus": "-0.1%",
+      "previous": "0.0%",
+      "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy's health.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": true
+    },
+    {
+      "date": "2026-11-28",
+      "time_gmt": "02:45",
+      "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.4%",
       "previous": "0.4%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -74,7 +74,7 @@
       "country": "France",
       "event": "French HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "3.6%",
       "previous": "3.7%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -118,7 +118,7 @@
       "country": "Spain",
       "event": "Spanish CPI",
       "actual": "",
-      "consensus": "4.9%",
+      "consensus": "4.7%",
       "previous": "4.9%",
       "description": "The Consumer Price Index (CPI) measures the change in the price of goods and services from the perspective of the consumer. It is a key way to measure changes in purchasing trends and <a href=\"https://www.investing.com/academy/trading/inflation-definition/\">inflation</a>. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": true
@@ -129,7 +129,7 @@
       "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "-0.3%",
       "previous": "0.5%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -140,7 +140,7 @@
       "country": "Spain",
       "event": "Spanish HICP",
       "actual": "",
-      "consensus": "",
+      "consensus": "4.7%",
       "previous": "4.9%",
       "description": "Harmonised Index of Consumer Prices, is the same as CPI, but with a joint basket of products for all Eurozone member countries. The impact on the currency may go both ways, a rise in CPI may lead to a rise in interest rates and a rise in local currency, on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency.",
       "high_impact": false
@@ -173,7 +173,7 @@
       "country": "Germany",
       "event": "German Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "6.4%",
       "previous": "6.4%",
       "description": "The German unemployment rate measures the percentage of the total work force that is unemployed and actively seeking employment during the reported month. \r\n<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the EUR,\r\nwhile a lower than expected reading should be taken as positive/bullish for the EUR.",
       "high_impact": true
@@ -239,7 +239,7 @@
       "country": "Euro Zone",
       "event": "Business and Consumer Survey",
       "actual": "",
-      "consensus": "",
+      "consensus": "97.2",
       "previous": "96.9",
       "description": "The Business and Consumer Survey is a composite index which measures the level of confidence in the euro zone. The index is compiled from five different indicator surveys which are taken on a monthly basis, including: industrial, services, consumer, retail, and construction. The survey can indicate potential in both consumer and business spending in the euro zone.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": false
@@ -262,7 +262,7 @@
       "event": "Consumer Confidence",
       "actual": "",
       "consensus": "-16.9",
-      "previous": "-16.9",
+      "previous": "-17.9",
       "description": "Consumer Confidence measures the level of consumer confidence in economic activity. It is a leading indicator as it can predict consumer spending, which plays a major role in overall economic activity. The reading is compiled from a survey of about 2,300 consumers in the euro zone which asks respondents to evaluate future economic prospects. Higher readings point to higher consumer optimism.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the EUR, while a lower than expected reading should be taken as negative/bearish for the EUR.",
       "high_impact": true
     },
@@ -305,7 +305,7 @@
       "country": "Euro Zone",
       "event": "Services Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.0",
       "previous": "5.3",
       "description": "Balances: i.e. Differences between the percentages of respondents giving positive and negative replies.The indicator is an average of the responses (seasonally adjusted balances) to the questions on business climate and evolution of demand.",
       "high_impact": false
@@ -316,9 +316,31 @@
       "country": "Euro Zone",
       "event": "Industrial Sentiment",
       "actual": "",
-      "consensus": "",
+      "consensus": "-3.3",
       "previous": "-3.4",
       "description": "Industrial Sentiment is an indicator that measures the mood of consumers or businesses. based on a survey during which respondents rate their opinion on different issues concerning current and future conditions. A higher than expected number should be taken as positive to the EUR, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-28",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 10-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.49%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. \r\n<BR/><BR/>Italian BTP bonds have maturities of five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>\r\nThe yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>\r\nYield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-28",
+      "time_gmt": "05:30",
+      "country": "Italy",
+      "event": "Italian 5-Year BTP Auction",
+      "actual": "",
+      "consensus": "",
+      "previous": "4.02%",
+      "description": "The figures displayed in the calendar represent the average yield on the Buoni del Tesoro Poliannuali or BTP auctioned. <BR/><BR/>Italian BTP bonds have maturities of three,five, ten, fifteen and thirty years. Governments issue treasuries to borrow money to cover the gap between the amount they receive in taxes and the amount they spend to refinance existing debt and/or to raise capital.<BR/><BR/>The yield on the BTP represents the return an investor will receive by holding the treasury for its entire duration. All bidders receive the same rate at the highest accepted bid.<BR/><BR/>Yield fluctuations should be monitored closely as an indicator of the government debt situation. Investors compare the average rate at auction to the rate at previous auctions of the same security.",
       "high_impact": false
     },
     {
@@ -338,7 +360,7 @@
       "country": "Brazil",
       "event": "IGP-M Inflation Index",
       "actual": "",
-      "consensus": "",
+      "consensus": "0.90%",
       "previous": "1.47%",
       "description": "An index that measures and tracks the changes in price of goods in the stages before the retail level. Wholesale price indexes (WPIs) report monthly to show the average price changes of goods sold in bulk, and they are a group of the indicators that follow growth in the economy. \r\nAlthough some countries still use the WPIs as a measure of inflation, many countries, including the United States, use the producer price index (PPI) instead.",
       "high_impact": false
@@ -393,7 +415,7 @@
       "country": "Brazil",
       "event": "Unemployment Rate",
       "actual": "",
-      "consensus": "",
+      "consensus": "5.1%",
       "previous": "5.2%",
       "description": "The Unemployment Rate measures the percentage of the total work force that is unemployed and actively seeking employment.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the BRL, while a lower than expected reading should be taken as positive/bullish for the BRL.",
       "high_impact": true
@@ -415,7 +437,7 @@
       "country": "United States",
       "event": "Goods Trade Balance",
       "actual": "",
-      "consensus": "-134.40B",
+      "consensus": "-135.90B",
       "previous": "-135.08B",
       "description": "The goods trade balance is the difference in value between imported and exported goods during the reported month.",
       "high_impact": false
@@ -437,7 +459,7 @@
       "country": "United States",
       "event": "Wholesale Inventories",
       "actual": "",
-      "consensus": "0.7%",
+      "consensus": "0.5%",
       "previous": "0.7%",
       "description": "Wholesale Inventories measures the change in the total value of goods held in inventory by wholesalers.<BR/><BR/>A higher than expected reading should be taken as negative/bearish for the USD, while a lower than expected reading should be taken as positive/bullish for the USD.",
       "high_impact": false
@@ -448,7 +470,7 @@
       "country": "Canada",
       "event": "Current Account",
       "actual": "",
-      "consensus": "9.9B",
+      "consensus": "9.5B",
       "previous": "8.8B",
       "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure. Because foreigners must buy the domestic currency to pay for the nation's exports the data can have a sizable affect on the CAD.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the CAD,\r\nwhile a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
@@ -474,6 +496,17 @@
       "previous": "-5.36B",
       "description": "Government deficit or surplus is the net of operating surplus and public debt charges. The budget of a government is a summary or plan of the intended revenues and expenditures of that government.Surplus in general refers to an excess of income over expenditure.Deficit refers to the negative of the budget surplus, thus the excess of expenditure over income. <BR/>\r\nA higher than expected reading should be taken as positive/bullish for the CAD , while a lower than expected reading should be taken as negative/bearish for the CAD.",
       "high_impact": false
+    },
+    {
+      "date": "2026-11-28",
+      "time_gmt": "12:00",
+      "country": "Russia",
+      "event": "PPI",
+      "actual": "",
+      "consensus": "",
+      "previous": "8.6%",
+      "description": "The Producer Price Index (PPI) measures average changes in prices received by domestic producers for their output. It is a leading indicator of consumer price inflation, which accounts for the majority of overall inflation. Usually a rise in PPI will lead in a short time to a rise in CPI and therefore to a rising interest rates and rising currency. during recession, the producers are not able to roll over the rising cost of material to the consumer, so a rise in PPI will not be rolled over to the consumer but will lower the profitablility of the producer and will deepen the recession, that will lead to a fall in local currency.",
+      "high_impact": true
     },
     {
       "date": "2026-11-28",
