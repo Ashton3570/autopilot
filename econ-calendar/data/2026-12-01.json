@@ -1,6 +1,6 @@
 {
   "date": "2026-12-01",
-  "asOf": "Thu, Nov 26, 2026",
+  "asOf": "Fri, Nov 27, 2026",
   "events": [
     {
       "date": "2026-12-01",
@@ -44,28 +44,6 @@
       "consensus": "",
       "previous": "6.23%",
       "description": "Credit extended by a country's central bank to domestic borrowers, including the government and commercial banks. An increase in domestic credit tends to increase the stock of money and, ceteris paribus, leads to an outflow of international reserves thereby, in the long run, decreasing the money stock.Total of investments, bills discounted, instalment sale credit, leasing finance, mortagage advances and other loans and advances.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-12-01",
-      "time_gmt": "02:00",
-      "country": "United Kingdom",
-      "event": "Nationwide HPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.0%",
-      "description": "The Nationwide Housing Price Index (HPI) measures the change in the selling price of homes with mortgages backed by Nationwide. It is the U.K.'s second earliest report on housing inflation.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the GBP, while a lower than expected reading should be taken as negative/bearish for the GBP.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-12-01",
-      "time_gmt": "02:00",
-      "country": "United Kingdom",
-      "event": "Nationwide HPI",
-      "actual": "",
-      "consensus": "",
-      "previous": "0.5%",
-      "description": "The Nationwide House price index is a statistic designed to reflect the average change of house prices across the country . This survey is preformed by Nationwide Housing society, UK's second largest mortgage provider, Nationwide bases its index on its own mortgage approvals. Unlike Halifax, however, it covers only 10% of the mortgage market. Nationwide only takes into account owner occupied properties and houses sold at \"true market prices\", i.e. no council estate sales etc. Nationwide has been publishing quarterly property price reports since 1952, and monthly indices since 1993. Like the Halifax, this is a volume-weighted index of typically transacted house prices. A higher than expected number should be taken as positive to the GBP while a lower than expected number as negative.",
       "high_impact": false
     },
     {
@@ -155,6 +133,17 @@
       "previous": "2.8%",
       "description": "Gross Domestic Product (GDP) measures the annualized change in the inflation-adjusted value of all goods and services produced by the economy. It is the broadest measure of economic activity and the primary indicator of the economy''s health. A stronger than expected number should be taken as positive for the CHF and a lower than expected number as negative to the CHF.",
       "high_impact": true
+    },
+    {
+      "date": "2026-12-01",
+      "time_gmt": "03:00",
+      "country": "Spain",
+      "event": "Spanish Current account",
+      "actual": "",
+      "consensus": "",
+      "previous": "5.05B",
+      "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
+      "high_impact": false
     },
     {
       "date": "2026-12-01",
@@ -323,17 +312,6 @@
     },
     {
       "date": "2026-12-01",
-      "time_gmt": "04:00",
-      "country": "Spain",
-      "event": "Spanish Current account",
-      "actual": "",
-      "consensus": "",
-      "previous": "5.05B",
-      "description": "The Current Account index measures the difference in value between exported and imported goods, services and interest payments during the reported month. The goods portion is the same as the monthly Trade Balance figure</BR>A higher than expected reading should be taken as positive/bullish for the EUR , while a lower than expected reading should be taken as negative/bearish for the EUR.",
-      "high_impact": false
-    },
-    {
-      "date": "2026-12-01",
       "time_gmt": "04:30",
       "country": "United Kingdom",
       "event": "BoE Consumer Credit",
@@ -481,7 +459,7 @@
       "country": "India",
       "event": "Industrial Production",
       "actual": "",
-      "consensus": "",
+      "consensus": "8.5%",
       "previous": "6.7%",
       "description": "Industrial Production measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the INR, while a lower than expected reading should be taken as negative/bearish for the INR.",
       "high_impact": false

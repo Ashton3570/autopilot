@@ -1,6 +1,6 @@
 {
   "date": "2026-11-30",
-  "asOf": "Thu, Nov 26, 2026",
+  "asOf": "Fri, Nov 27, 2026",
   "events": [
     {
       "date": "2026-11-30",
@@ -99,6 +99,17 @@
       "consensus": "",
       "previous": "0.8%",
       "description": "Industrial Production Index is an economic indicator that measures changes in output for the manufacturing, mining, and utilities. Although these sectors contribute only a small portion of GDP, they are highly sensitive to interest rates and consumer demand. This makes Industrial Production an important tool for forecasting future GDP and economic performance. A higher than expected number should be taken as positive to the JPY, while a lower than expected number as negative.",
+      "high_impact": false
+    },
+    {
+      "date": "2026-11-30",
+      "time_gmt": "18:50",
+      "country": "Japan",
+      "event": "Large Retailers' Sales",
+      "actual": "",
+      "consensus": "",
+      "previous": "-0.7%",
+      "description": "Large Retailers' Sales measures the total value of goods sold in large department stores, chain convenience stores and supermarkets. It is a leading indicator of consumer confidence.<BR/><BR/>A higher than expected reading should be taken as positive/bullish for the JPY, while a lower than expected reading should be taken as negative/bearish for the JPY.",
       "high_impact": false
     },
     {
@@ -239,7 +250,7 @@
       "country": "China",
       "event": "Manufacturing PMI",
       "actual": "",
-      "consensus": "",
+      "consensus": "49.5",
       "previous": "49.3",
       "description": "China Manufacturing Purchasing Managers Index (PMI) provides an early indication each month of economic activities in the Chinese manufacturing sector.It is compiled by China Federation of Logistics & Purchasing (CFLP) and China Logistics Information Centre (CLIC), based on data collected by the National Bureau of Statistics (NBS).Li & Fung Research Centre is responsible for drafting and disseminating the English PMI report. Every month questionnaires are sent to over 700 manufacturing enterprises all over China. The data presented here is compiled from the enterprises  responses about their purchasing activities and supply situations.  The PMI should be compared to other economic data sources when used in decision-making. </BR>A higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
@@ -254,6 +265,17 @@
       "previous": "49.7",
       "description": "China Non-Manufacturing Purchasing Managers Index (PMI) provides an early indication each month of economic activities in the Chinese Non-manufacturing sector.It is compiled by China Federation of Logistics & Purchasing (CFLP) and China Logistics Information Centre (CLIC), based on data collected by the National Bureau of Statistics (NBS).Li & Fung Research Centre is responsible for drafting and disseminating the English PMI report. Every month questionnaires are sent to over 700 Non-manufacturing enterprises all over China. The data presented here is compiled from the enterprises responses about their purchasing activities and supply situations. The PMI should be compared to other economic data sources when used in decision-making. \r\nA higher than expected reading should be taken as positive/bullish for the CNY , while a lower than expected reading should be taken as negative/bearish for the CNY.",
       "high_impact": true
+    },
+    {
+      "date": "2026-11-30",
+      "time_gmt": "21:00",
+      "country": "Singapore",
+      "event": "Bank Lending",
+      "actual": "",
+      "consensus": "",
+      "previous": "978.8B",
+      "description": "Bank Lending measures the change in the total value of outstanding bank loans issued to consumers and businesses. Borrowing and spending are closely correlated with consumer confidence.</BR>A higher than expected reading should be taken as positive/bullish for the SGD , while a lower than expected reading should be taken as negative/bearish for the SGD.",
+      "high_impact": false
     },
     {
       "date": "2026-11-30",
